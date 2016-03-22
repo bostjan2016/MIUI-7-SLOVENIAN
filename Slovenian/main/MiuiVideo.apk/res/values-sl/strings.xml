@@ -55,7 +55,7 @@
      <string name="cancel">Prekini</string>
      <string name="cancel_favorite_success">Neoznačeni</string>
      <string name="check_app_version">Preverjanje najnovejše verzije…</string>
-  <string name="check_network">"Ne morem se povezati z omrežjem"</string>
+     <string name="check_network">"Ne morem se povezati z omrežjem"</string>
      <string name="clarity_high">Visoko</string>
      <string name="clarity_standard">Standard</string>
      <string name="clarity_supper">Super</string>
@@ -92,10 +92,7 @@
      <string name="debug_mode_desc">Če je označeno, zaženi v debug načinu in pokaži id videozapisa v levem zgornjem kotu.</string>
      <string name="declaration">Pogoji uporabe</string>
      <string name="declaration_allow">Strinjam se</string>
-  <string name="declaration_content">"1. Z uporabo te storitve se strinjate z Pogoji uporabe Soho Video, iQiyi in drugih ponudnikov. 
-  2. Pomagajte nam izboljšati ta izdelek, s samodejnim pošiljanjem diagnostičnih in uporabo podatkov za Xiaomi. 
-  3. Naš HD Video vtičnik bo nameščen samodejno. 
-  4. Ta storitev potrebuje povezavo do interneta za normalno delovanje."</string>
+     <string name="declaration_content">"1. Z uporabo te storitve se strinjate z Pogoji uporabe Soho Video, iQiyi in drugih ponudnikov.   2. Pomagajte nam izboljšati ta izdelek, s samodejnim pošiljanjem diagnostičnih in uporabo podatkov za Xiaomi.   3. Naš HD Video vtičnik bo nameščen samodejno.   4. Ta storitev potrebuje povezavo do interneta za normalno delovanje."</string>
      <string name="declaration_content_td_custom">Ta funkcija rabi povezavo z internetom za normalno delovanje.</string>
      <string name="defaults">Privzeto</string>
      <string name="delete">Izbriši</string>
@@ -103,6 +100,7 @@
      <string name="delete_addon">Izbriši</string>
      <string name="delete_addon_content">Izbrišem ta predmet?</string>
      <string name="delete_with">Izbriši (%d)</string>
+     <string name="detail">Podrobnost</string>
      <string name="detail_comment_empty">Prazno</string>
      <string name="develop_version">Razvijanje aplikacije</string>
      <string name="development_setting">Nastavitve Razvijanja</string>
@@ -118,8 +116,7 @@
      <string name="download_add_success">Dodano v čakalno vrsto</string>
      <string name="download_error">Napaka brez povezave</string>
      <string name="download_fail">Prenos ni uspel</string>
-  <string name="download_file_fail">Lokalni dostop do datoteke ni uspel.
-    Morda ni prostora na SD kartici</string>
+     <string name="download_file_fail">Lokalni dostop do datoteke ni uspel.    Morda ni prostora na SD kartici</string>
      <string name="download_geturl_fail">Ni bilo mogoče pridobiti URL naslova</string>
      <string name="download_is_in_tasklist">Prenosna čakalna vrsta</string>
      <string name="download_paused">Pavzirano</string>
@@ -142,7 +139,7 @@
      <string name="episode_suffix">Ep. %d</string>
      <string name="error_empty_filter_title">Ni rezultatov</string>
      <string name="error_empty_title">Nekaj ni v redu</string>
-  <string name="favorite">Priljubljeno</string>
+     <string name="favorite">Priljubljeno</string>
      <string name="fenghuang">iFeng</string>
      <string name="file_error">Napaka datoteke</string>
      <string name="file_not_exist">Datoteka ne obstaja</string>
@@ -201,7 +198,7 @@
      <string name="month">Mesec</string>
      <string name="my_favorite">Priljubljeni</string>
      <string name="my_local_favorite">Moj favorit</string>
-  <string name="my_offline">Izvenmrežno</string>
+     <string name="my_offline">Izvenmrežno</string>
      <string name="mycamera">Moji video posnetki</string>
      <string name="myfavorite">Priljubljeni</string>
      <string name="myfavorite_onlylocal">Priljubljeni</string>
@@ -246,7 +243,7 @@
      <string name="online_video">Na spletu</string>
      <string name="online_video_oneweek">Prejšnji teden</string>
      <string name="online_video_oneweek_ago">Pred tednom dni</string>
-  <string name="open_in_browser">Odpri v brskalniku</string>
+     <string name="open_in_browser">Odpri v brskalniku</string>
      <string name="operator_test">Nastavitve operaterja</string>
      <string name="operator_test_summary">Če je označeno, vstopi v način operaterja</string>
      <string name="other_setting">Drugo</string>
@@ -274,6 +271,8 @@
      <string name="qiyi">iQiyi</string>
      <string name="rank_title_movie">Film</string>
      <string name="receive_develop_summary">Sprejem posodobitev aplikacije kadar je nova verzija dostopna</string>
+     <string name="receive_follow">Obvestila-nove epizode</string>
+     <string name="receive_follow_summary">Bodite obveščeni, ko so nove epizode na voljo</string>
      <string name="receive_mipush">Potisna obvestila</string>
      <string name="receive_mipush_summary">Ko bo na spletu nova vsebina za ogled prejmite obvestilo</string>
      <string name="recent_play">Nedavno predvajano: Ep.%d</string>
@@ -312,15 +311,16 @@
      <string name="similar">Podoben film</string>
      <string name="sina">Sina</string>
      <string name="souhu">Souhu</string>
-  <string name="source_error">Ne najdem vira</string>
-  <string name="star1">*</string>
-  <string name="star2">**</string>
-  <string name="star3">***</string>
-  <string name="star4">****</string>
-  <string name="star5">*****</string>
+     <string name="source_error">Ne najdem vira</string>
+     <string name="star1">*</string>
+     <string name="star2">**</string>
+     <string name="star3">***</string>
+     <string name="star4">****</string>
+     <string name="star5">*****</string>
      <string name="start_addon">začni dodatke</string>
      <string name="storage_remain">"Dostopno: "</string>
      <string name="storage_total">"Skupaj: "</string>
+     <string name="subscribe">Naroči se</string>
      <string name="suffix_countdown">sekunde</string>
      <string name="system_setting">Video aplik.</string>
      <string name="tab_loading">&lt;CDATA&gt;…&lt;/CDATA&gt;</string>
@@ -335,7 +335,7 @@
      <string name="top_status_local_media">Lokalno</string>
      <string name="top_status_offline_media">Izvenmrežno</string>
      <string name="top_status_online_media">Na spletu</string>
-  <string name="total_episode">%1$s Epizod</string>
+     <string name="total_episode">%1$s Epizod</string>
      <string name="tudou">Tudou</string>
      <string name="tv_channel_empty_hint">Ni kanalov</string>
      <string name="tv_cp_info_format">Powered by %1$s</string>
@@ -378,13 +378,14 @@
      <string name="vp_VideoView_error_text_invalid_progressive_playback">Ta tip datoteke ni podprt</string>
      <string name="vp_VideoView_error_text_unknown">Pijavila se je neznana napaka</string>
      <string name="vp_VideoView_error_title">Nekaj je šlo narobe...</string>
-  <string name="vp_adapt_height">Prilagodi višino</string>
-  <string name="vp_adapt_width">Prilagodi širino</string>
+     <string name="vp_ad_skip">Preskoči</string>
+     <string name="vp_adapt_height">Prilagodi višino</string>
+     <string name="vp_adapt_width">Prilagodi širino</string>
      <string name="vp_app_name">Video Player</string>
      <string name="vp_audio">Glasnost</string>
      <string name="vp_auto_select">Samodejno izberi</string>
      <string name="vp_back">Nazaj</string>
-  <string name="vp_brightness">Svetloba</string>
+     <string name="vp_brightness">Svetloba</string>
      <string name="vp_cancel">Prekini</string>
      <string name="vp_client_message">Namesti %1$s klient?</string>
      <string name="vp_closedialog">Namesti</string>
@@ -397,21 +398,20 @@
      <string name="vp_datastream_alert_title">Opozorilo uporabe podatakov</string>
      <string name="vp_device_list">Naprave</string>
      <string name="vp_download_connect_fail">URL ni bil najden. Preverite vašo podatkovno povezavo.</string>
-  <string name="vp_download_file_fail">Prenos ni uspel. Zagotovite, da je dovolj prostora
-      na vaši napravi.</string>
+     <string name="vp_download_file_fail">Prenos ni uspel. Zagotovite, da je dovolj prostora      na vaši napravi.</string>
      <string name="vp_downloading_apk_title">Prenos %1$s</string>
      <string name="vp_exit">Izhod</string>
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_full_screen">Predvajanje čez cel zaslon</string>
      <string name="vp_function">Nastavitve</string>
-  <string name="vp_get_url_error">Ne morem najti URL za ta video.</string>
+     <string name="vp_get_url_error">Ne morem najti URL za ta video.</string>
      <string name="vp_hide_media_info">Skrij informacije o videu</string>
      <string name="vp_high_definition">HD</string>
      <string name="vp_hint">Namig</string>
      <string name="vp_install">Naloži HD komponente aplikacij?</string>
      <string name="vp_install_title">Naloži HD</string>
-  <string name="vp_loading">Prenos</string>
-  <string name="vp_loading_download">Prenos…</string>
+     <string name="vp_loading">Prenos</string>
+     <string name="vp_loading_download">Prenos…</string>
      <string name="vp_loading_video">Nalagam...</string>
      <string name="vp_low_definition">Nizko</string>
      <string name="vp_maintitlearea">Prenesi in uživaj v HD videu</string>
@@ -431,7 +431,7 @@
      <string name="vp_newest_ep">Zadnje</string>
      <string name="vp_next_ci">Naprej</string>
      <string name="vp_notify_apk_installed">Aplikacija %1$s uspešno nameščena</string>
-  <string name="vp_offline">Izvenmrežno</string>
+     <string name="vp_offline">Izvenmrežno</string>
      <string name="vp_offline_status_done">Končano</string>
      <string name="vp_offline_status_dowloading">Prenos</string>
      <string name="vp_offline_status_fail">Ni uspelo</string>

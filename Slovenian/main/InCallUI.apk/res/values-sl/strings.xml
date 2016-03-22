@@ -35,6 +35,7 @@
      <string name="antispam_notification_title">Neznana številka</string>
      <string name="antispam_provider">Identificiran od %s</string>
      <string name="apn_settings">Imena dostopne točke</string>
+     <string name="areacode_set_default">nastavi kot privzeto</string>
      <string name="atr_disable">Območna prometna poročila onemogočena</string>
      <string name="atr_enable">Območna prometna poročila omogočena</string>
      <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -74,14 +75,14 @@
      <string name="callFailed_unobtainable_number">Nepravilna številka</string>
      <string name="callFailed_userBusy">Linija zasedena</string>
      <string name="callUnanswered_forwarded">Klic neodgovorjen in posredovan</string>
-  <string name="call_contacts_deny_permission_msg">"Zavrnili ste dovoljenje za branje kontaktov. Ne morem prikazati informacij o kontaktih."</string>
+     <string name="call_contacts_deny_permission_msg">"Zavrnili ste dovoljenje za branje kontaktov. Ne morem prikazati informacij o kontaktih."</string>
      <string name="call_description_recording">Snemanje…</string>
      <string name="call_extension_conference_mode">Konferenca</string>
      <string name="call_forwarding_settings">Nastavitve posredovanja klicev</string>
      <string name="call_lost">Klic je bil izgubljen</string>
      <string name="call_record_button_label">Snemanje %s</string>
      <string name="call_record_wait_label">Čakam</string>
-  <string name="call_recording_deny_permission_msg">"Zavrnili ste dovoljenje  za snemanje, ne morem snemati."</string>
+     <string name="call_recording_deny_permission_msg">"Zavrnili ste dovoljenje  za snemanje, ne morem snemati."</string>
      <string name="call_recording_error_low_storage">Ni dovolj prostora: vaša SD kartica je polna</string>
      <string name="call_recording_error_privacy">Snemanje ni mogoče medtem ko ste v načinu Gosta</string>
      <string name="call_recording_error_sd_access">Dostop do SD kartice ni mogoč</string>
@@ -99,13 +100,12 @@
      <string name="call_title_redialing_with_times_miui">%d krat ponovno klicano</string>
      <string name="caller_manage_header">Konferenčni klic %s</string>
      <string name="calling_via_template">Klicanje preko %s</string>
+     <string name="can_not_call_oneself">"Ne morem zaključiti klica na to številko"</string>
      <string name="cancel">Prekini</string>
      <string name="cancel_call">Končaj</string>
      <string name="card_title_call_ended">Klic končan</string>
-  <string name="card_title_callback_number">"Vaša številka za povratni klic
-      %1$s"</string>
-  <string name="card_title_callback_number_emergency">"Vaša številka za povratni klic v sili
-      %1$s"</string>
+     <string name="card_title_callback_number">"Vaša številka za povratni klic      %1$s"</string>
+     <string name="card_title_callback_number_emergency">"Vaša številka za povratni klic v sili      %1$s"</string>
      <string name="card_title_conf_call">Konferenčni klic</string>
      <string name="card_title_dialing">Kličem</string>
      <string name="card_title_hanging_up">Prekini klic</string>
@@ -159,9 +159,10 @@
      <string name="custom_message_send">Pošlji</string>
      <string name="data_enable_summary">Omogoči dostop do podatkov prek mobilnega omrežja</string>
      <string name="data_enabled">Podatki omogočeni</string>
+     <string name="default_area_code_setting">Privzeta pozivna številka</string>
      <string name="default_notification_description">Privzeti zvok (%1$s)</string>
      <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;Ni nastavljen&gt;</string>
+     <string name="default_preference_summary">&lt;Ni nastavljen&gt;</string>
      <string name="default_transport">UDP</string>
      <string name="delete_fdn_contact">Izbriši fiksno klicno številko</string>
      <string name="deleting_fdn_contact">Izbriši fiksno klicno številko...</string>
@@ -209,6 +210,9 @@
      <string name="dial_pad_autocomplete">Samodejna Številčnica</string>
      <string name="dial_with_gsm_phone">Redni klic</string>
      <string name="dialerKeyboardHintText">Uporabi tipkovnico za klicanje</string>
+     <string name="dialog_activate_livetalk">Preverite številko</string>
+     <string name="dialog_call_ordinary_telephone">Navaden klic</string>
+     <string name="dialog_purchase">Doplačaj</string>
      <string name="disable">Onemogoči</string>
      <string name="disable_cfb_forbidden">Vaš operater ne podpira izklopa posredovanja klicev, ko je telefon zaseden.</string>
      <string name="disable_cfnrc_forbidden">Vaš operater ne podpira izklopa posredovanja klicev, ko je telefon nedosegljiv.</string>
@@ -218,8 +222,9 @@
      <string name="disable_pin_ok">PIN številka onemogočena.</string>
      <string name="disable_sim_pin">Onemogoči PIN številko</string>
      <string name="display_name">Prikazano ime</string>
-  <string name="display_name_summary">&lt;Isto kot uporabniško ime&gt;</string>
+     <string name="display_name_summary">&lt;Isto kot uporabniško ime&gt;</string>
      <string name="display_name_title">Prikaži ime</string>
+     <string name="do_not_ask">Ne prikazuj ponovno</string>
      <string name="domain_address_title">Strežnik</string>
      <string name="doneButton">Končano</string>
      <string name="dtmf_tone_enable_title">Zvok številčnice</string>
@@ -285,10 +290,8 @@
      <string name="fraud_call_answer">Odgovori</string>
      <string name="fraud_call_decline">Zavrni</string>
      <string name="fraud_call_waring">Bodite previdni: Vedno morate preveriti identiteto stika po telefonu ali videu, preden se odzovete na vsa sporočila, ki vključujejo vaše osebne podatke.</string>
-  <string name="fw_change_failed">Posredovane številke ni mogoče spremeniti.
-      Zamenjam na novega ponudnika?</string>
-  <string name="fw_get_in_vm_failed">Ni mogoče pridobiti in shraniti trenutnih nastavitev za posredovane številke.
-      Zamenjam na novega ponudnika?</string>
+     <string name="fw_change_failed">Posredovane številke ni mogoče spremeniti.      Zamenjam na novega ponudnika?</string>
+     <string name="fw_get_in_vm_failed">Ni mogoče pridobiti in shraniti trenutnih nastavitev za posredovane številke.      Zamenjam na novega ponudnika?</string>
      <string name="general_news_settings">Splošne novice</string>
      <string name="get_pin2">Tip PIN2</string>
      <string name="goPrivate">pojdi zasebno</string>
@@ -338,6 +341,7 @@
      <string name="jeejen_end_call_text">Končaj klic</string>
      <string name="jeejen_reject_call_text">Zavrni klic</string>
      <string name="jeejen_toggle_dialpad_text">Številčnica</string>
+     <string name="keep_wait_call_back">Čakaj</string>
      <string name="labelCDMAMore">CDMA klicne nastavitve</string>
      <string name="labelCF">Klic posredovan</string>
      <string name="labelCFB">Posreduj, če je zasedeno</string>
@@ -357,6 +361,7 @@
      <string name="list_language_summary">Izberi jezik novic</string>
      <string name="list_language_title">Jezik</string>
      <string name="livetalk_dial">Koriščenje dopolnilnega paketa plačila</string>
+     <string name="livetalk_hangup">Prekini klic</string>
      <string name="livetalk_left_minute">%s min. še ostalo</string>
      <string name="load_networks_progress">Iščem...</string>
      <string name="local_disable">Lokalne novice onemogočene</string>
@@ -382,8 +387,7 @@
      <string name="mismatchPin">PIN številki, ki ste jih vpisali nista enaki. Poskusite ponovno.</string>
      <string name="mismatchPin2">PIN2 številki, ki ste jih vpisali nista enaki. Poskusite ponovno.</string>
      <string name="mobile_networks">Nastavitve mobilnega omrežja</string>
-  <string name="modify_call_failure_str">Posodobitev Klicev ni uspela
-"</string>
+     <string name="modify_call_failure_str">Posodobitev Klicev ni uspela"</string>
      <string name="modify_call_option_title">Katera vrsta klica?</string>
      <string name="modify_call_option_voice">Le glasovno</string>
      <string name="modify_call_option_vt">VT</string>
@@ -406,6 +410,8 @@
      <string name="newPinLabel">Nova PIN številka</string>
      <string name="no_balance_message">Za to nimate dovolj sredstev na računu. Namesto tega uporabite redni klic.</string>
      <string name="no_balance_title">Premalo sredstev</string>
+     <string name="no_call_back_message">Povezovanje traja predolgo. Sprememba na navaden klic, ki je lahko plačljiv.</string>
+     <string name="no_call_back_title">Pozor</string>
      <string name="no_change">Ni bilo sprememb.</string>
      <string name="no_internet_available">Preden kličete preko interneta, preverite vašo povezavo.</string>
      <string name="no_internet_available_title">Ni internetne povezave</string>
@@ -419,6 +425,9 @@
      <string name="non_ivr_menu_collapse_menu">Pomanjšaj meni</string>
      <string name="non_ivr_menu_view_menu">Prikaži meni</string>
      <string name="not_a_valid_port">Številka vrat mora biti med 1000 in 65534.</string>
+     <string name="not_activate_sim_card_content">potrdite svojo tel. številko da začnete uporabljati doplačilni paket. Še vedno lahko uporabite navaden klic, ki bo dodatno obračunan.</string>
+     <string name="not_activate_sim_card_content_title">telefonska številka ni potrjena</string>
+     <string name="not_activate_sim_card_content_with_operator">Potrdite SIM %1$s (%2$s) za uporabo doplačilnega paketa. Še vedno lahko uporabite navaden klic, ki bo dodatno obračunan.</string>
      <string name="not_allowed">Vaša SIM kartica ne dovoljuje povezave s tem omrežjem.</string>
      <string name="not_support_message">"Takšne številke pri vaše stanju trenutno niso podprte. Uporabite redni klic."</string>
      <string name="not_support_title">"Številka ni podprta"</string>
@@ -498,7 +507,7 @@
      <string name="onscreen_switch_camera">Zamenjaj kamero</string>
      <string name="onscreen_tools_off">Orodja</string>
      <string name="onscreen_tools_on">Orodja</string>
-  <string name="optional_summary">&lt;Neobvezno&gt;</string>
+     <string name="optional_summary">&lt;Neobvezno&gt;</string>
      <string name="ota_activate">Aktiviraj</string>
      <string name="ota_call_end">Nazaj</string>
      <string name="ota_failure">Programiranje neuspešno</string>
@@ -514,12 +523,9 @@
      <string name="ota_title_activate">Aktiviraj telefon</string>
      <string name="ota_title_activate_success">Telefon je aktiviran</string>
      <string name="ota_title_problem_with_activation">Problem z aktivacijo</string>
-  <string name="ota_touch_activate">Poseben klic je potreben, da aktivirate telefon.
-      Po pritisku na Aktiviraj, poslušajte navodila za aktivacijo telefona.</string>
-  <string name="ota_try_again">Poskusite ponovno</string>
-  <string name="ota_unsuccessful">Vaš telefon se ni aktiviral.
-      Morda boste morali najti območje z boljšo pokritostjo (blizu okna ali zunaj).
-       Poskusite ponovno ali pokličite službo za več možnosti.</string>
+     <string name="ota_touch_activate">Poseben klic je potreben, da aktivirate telefon.      Po pritisku na Aktiviraj, poslušajte navodila za aktivacijo telefona.</string>
+     <string name="ota_try_again">Poskusite ponovno</string>
+     <string name="ota_unsuccessful">Vaš telefon se ni aktiviral.      Morda boste morali najti območje z boljšo pokritostjo (blizu okna ali zunaj).       Poskusite ponovno ali pokličite službo za več možnosti.</string>
      <string name="other_settings">Ostale klicne nastavitve</string>
      <string name="overflowAddMenuItemText">Dodaj klic</string>
      <string name="overflowHoldMenuItemText">Na čakanju</string>
@@ -714,6 +720,7 @@
      <string name="throttle_status_subtext">%1$s (%2$d٪) od %3$s maksimum Naslednja perioda se začne v %4$d dneh (%5$s)</string>
      <string name="throttle_time_frame">Obdobje uporabe podatkov</string>
      <string name="throttle_time_frame_subtext">%1$d٪ ciklov pretečenih Naslednja perioda se začne v %2$d dneh (%3$s)</string>
+     <string name="time_left_livetalk">(%dS)</string>
      <string name="transport">Protokol</string>
      <string name="transport_title">Tip transporta</string>
      <string name="tty_mode_option_summary">Nastavi TTY način</string>
@@ -740,14 +747,12 @@
      <string name="voicemail_notification_ringtone_title">Zvok</string>
      <string name="voicemail_notification_vibarte_when_dialog_title">Vibriraj</string>
      <string name="voicemail_notification_vibrate_when_title">Vibriraj</string>
-  <string name="voicemail_number_not_set">&lt;Ni nastavljeno&gt;</string>
+     <string name="voicemail_number_not_set">&lt;Ni nastavljeno&gt;</string>
      <string name="voicemail_provider">Storitev</string>
      <string name="voicemail_settings">Nastavitev</string>
      <string name="voicemail_settings_number_label">Številka glasovne pošte</string>
-  <string name="vt_init_fail_str">VT inicializacija spodletela. Degradiran klic VoLTE
-     </string>
-  <string name="wait_prompt_str">Pošljem naslednje tone?
-     </string>
+     <string name="vt_init_fail_str">VT inicializacija spodletela. Degradiran klic VoLTE     </string>
+     <string name="wait_prompt_str">Pošljem naslednje tone?     </string>
      <string name="waiting_close_airplane_mode">Samo trenutek…</string>
      <string name="wild_prompt_str">Zamenjaj znak z</string>
 </resources>

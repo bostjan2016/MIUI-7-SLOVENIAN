@@ -2,16 +2,15 @@
 <resources>
      <string name="app_name">Iskanje</string>
      <string name="apps_search_activity" />
-  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
-  <string name="baidu_suggest_base"/>
-  <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+     <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
+     <string name="baidu_suggest_base" />
      <string name="clear_history">Izbriši zgodovino</string>
      <string name="clear_shortcuts">Počisti bližnjice</string>
      <string name="clear_shortcuts_agree">Počisti bližnjice</string>
      <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
      <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika, uporabite nastavitve brskalnika.</string>
      <string name="clear_shortcuts_summary">Počisti bližnjice do nedavno izbranih predlogov iskanja</string>
-  <string name="connect_and_retry">Povežite se na internet in poskusite ponovno</string>
+     <string name="connect_and_retry">Povežite se na splet in poskusite ponovno</string>
      <string name="corpus_description_apps">Nameščene aplikacije</string>
      <string name="corpus_description_web">Zaznamki</string>
      <string name="corpus_hint_apps">Išči aplikacije</string>
@@ -36,11 +35,10 @@
      <string name="google_settings_category_title">Google iskanje</string>
      <string name="google_suggest_base">http://www.google.com/complete/search?hl=%1$s&amp;client=android&amp;q=</string>
      <string name="hot_search">Popularno</string>
-  <string name="installed_apps_component">com.android.providers.applications/.ApplicationLauncher</string>
      <string name="loading">Samo trenutek…</string>
      <string name="menu_help">Pomoč</string>
      <string name="menu_settings">Nastavitve iskanja</string>
-  <string name="network_unavailable">Niste povezani na internet</string>
+     <string name="network_unavailable">Niste povezani na splet</string>
      <string name="recently_shortcut_label">Nedavne bližnjice</string>
      <string name="remove_from_history">Ali želite odstraniti to postavko iz zgodovine iskanja?</string>
      <string name="remove_from_history_failed">Ne morem odstraniti postavke iz zgodovine.</string>
@@ -57,7 +55,7 @@
      <string name="voice_search_hint_quotation_end">\"</string>
      <string name="voice_search_hint_quotation_start">\"</string>
      <string name="voice_search_hint_title">Poskusite povedati:</string>
-  <string name="web_search_results">Rezultati iskanja</string>
+     <string name="web_search_results">Rezultati iskanja</string>
      <string name="xiaomi_hint" />
      <string name="xiaomi_hot_query" />
      <string name="xiaomi_search_label">Rezultati</string>

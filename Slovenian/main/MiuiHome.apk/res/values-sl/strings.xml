@@ -56,9 +56,11 @@
      <string name="current_preview">Pregled</string>
      <string name="current_wallpaper">Trenutni</string>
      <string name="custom_wallpaper_picker">Brskaj</string>
+     <string name="default_folder_title_claro">Claro</string>
      <string name="default_folder_title_game">Igre</string>
      <string name="default_folder_title_recommend">Več aplikacij</string>
      <string name="default_folder_title_security">Sistem</string>
+     <string name="default_folder_title_telcel">Telcel</string>
      <string name="default_folder_title_tools">Orodja</string>
      <string name="default_theme_name">Privzeto</string>
      <string name="delete">Izbriši</string>
@@ -128,7 +130,7 @@
      <string name="gadget_weather_loading">Ni podatkov</string>
      <string name="gadget_weather_low_temp">Nizka temperatura</string>
      <string name="gadget_weather_theme_type">Tip propomočka</string>
-  <string name="gadget_weather_time_format">dd.MM.yyyy</string>
+     <string name="gadget_weather_time_format">dd.MM.yyyy</string>
      <string name="gadget_weather_title">Vreme</string>
      <string name="gadget_weather_title_14">Vreme</string>
      <string name="gadget_weather_title_24">Vreme</string>
@@ -206,7 +208,7 @@
      <string name="recommend_apps_tips">"Ta funkcija potrebuje povezavo z internetom za normalno delovanje. Za izključitev te funkcije se dotaknite imena te mape."</string>
      <string name="reset_scene_prompt">Zaslon bo ponovno nastavljen na privzeto postavitev</string>
      <string name="screen_number">Zaslon %d</string>
-  <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
+     <string name="scroll_tip_format_when_announce_accessibility">na strani %1$d, %2$d aplikacij</string>
      <string name="select_all">Izberi vse</string>
      <string name="select_frame">Okvir</string>
      <string name="select_photo">Fotografija</string>

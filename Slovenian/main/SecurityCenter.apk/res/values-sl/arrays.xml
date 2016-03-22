@@ -1,32 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="auto_memory_clean">
-         <item>Po 1 min.</item>
-         <item>Po 5 min.</item>
-         <item>Po 10 min.</item>
-         <item>Po 30 min.</item>
-         <item>Nikoli</item>
-     </string-array>
      <string-array name="alarm_repeat_type">
         <item>Enkrat</item>
         <item>Vsakodnevno</item>
-        <item>Ob delavnikih</item>
-        <item>Za vikend</item>
-        <item>Po meri</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Ob delovnih dnevih</item>
+        <item>Med vikendom</item>
+        <item>Prilagojeno</item>
+     </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
         <item>Enkrat</item>
         <item>Vsakodnevno</item>
-        <item>Za vikend</item>
-        <item>Po meri</item>
-    </string-array>
-    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Med vikendom</item>
+        <item>Prilagojeno</item>
+     </string-array>
+     <string-array name="auto_clean_size">
+        <item>100MB</item>
+        <item>300MB</item>
+        <item>500MB</item>
+        <item>1GB</item>
+     </string-array>
+     <string-array name="auto_clean_time">
+        <item>Vsak dan</item>
+        <item>Vsake 3 dni</item>
+        <item>Vsakih 7 dni</item>
+     </string-array>
+     <string-array name="auto_memory_clean">
+        <item>V 1 minuti</item>
+        <item>V 5 minutah</item>
+        <item>V 10 minutah</item>
+        <item>Nikoli</item>
+     </string-array>
+     <string-array name="auto_process_mode">
+        <item>Ukaz z obvestilom</item>
+        <item>Počisti v ozadju</item>
+        <item>Pokaži obvestila po končanem čiščenju</item>
+     </string-array>
+     <string-array name="cache_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
+     </string-array>
+     <string-array name="date_of_app">
+        <item>Včeraj (podatki)</item>
+        <item>Danes (podatki)</item>
+        <item>Ta mesec (podatki)</item>
+     </string-array>
+     <string-array name="date_of_app_all">
+        <item>Včeraj (podatki)</item>
+        <item>Danes (podatki)</item>
+        <item>Ta mesec (podatki)</item>
+        <item>Včeraj Wi Fi</item>
+        <item>Danes Wi Fi</item>
+        <item>Ta mesec Wi Fi</item>
+     </string-array>
+     <string-array name="date_of_traffic">
+        <item>"Včeraj "</item>
+        <item>"Danes "</item>
+        <item>"Ta mesec "</item>
+     </string-array>
+     <string-array name="date_of_traffic_cmcc">
+        <item>"Ta teden "</item>
+        <item>"Danes "</item>
+        <item>"Ta mesec "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix">
+        <item>"Včeraj: "</item>
+        <item>"Danes: "</item>
+        <item>"Ta mesec: "</item>
+     </string-array>
+     <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Ta teden: "</item>
+        <item>"Danes: "</item>
+        <item>"Ta mesec: "</item>
+     </string-array>
+     <string-array name="installed_app_sort_type">
+        <item>Pogosto uporabljeno</item>
+        <item>Velikost</item>
+     </string-array>
+     <string-array name="large_file_sort_type">
+        <item>Velikost</item>
+        <item>Ime</item>
+     </string-array>
+     <string-array name="mi_service_traffic_type">
+        <item>"Mobilni podatki "</item>
+        <item>"Wi Fi uporaba "</item>
+     </string-array>
+     <string-array name="network_speed_update_internals">
+        <item>3 sek.</item>
+        <item>4 sek.</item>
+        <item>5 sek.</item>
+        <item>6 sek.</item>
+        <item>7 sek.</item>
+        <item>8 sek.</item>
+        <item>9 sek.</item>
+     </string-array>
+     <string-array name="over_limit_traffic_waring_style">
+        <item>Pokaži opozorilo</item>
+        <item>Opozori in izključi mobilne podatke</item>
+     </string-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Po 1 minuti</item>
         <item>Po 5 minutah</item>
         <item>Po 10 minutah</item>
         <item>Nikoli</item>
-    </string-array>
-    <string-array name="power_dialog_sleep_items">
+     </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Visoka zmogljivost</item>
+        <item>Uravnotežen</item>
+     </string-array>
+     <string-array name="power_dialog_sleep_items">
         <item>15 sekund</item>
         <item>30 sekund</item>
         <item>1 minuta</item>
@@ -34,19 +115,39 @@
         <item>5 minut</item>
         <item>10 minut</item>
         <item>Nikoli</item>
-    </string-array>
-    <string-array name="power_dialog_cpu_state_items">
-        <item>Velike zmogljivosti</item>
-        <item>Uravnoteženo</item>
-    </string-array>
-    <string-array name="power_dialog_vibration_items">
+     </string-array>
+     <string-array name="power_dialog_vibration_items">
         <item>Nikoli ne vibriraj</item>
-        <item>Vibriraj ko je Tiho</item>
+        <item>Vibriraj, ko je zvonjenje na tiho</item>
         <item>Vedno vibriraj</item>
-    </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Izključi</item>
-        <item>Vključi</item>
+     </string-array>
+     <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Izklopi</item>
+        <item>Vklopi</item>
         <item>Privzeto</item>
-    </string-array>
+     </string-array>
+     <string-array name="roaming_apps_sorted_type">
+        <item>Največ uporabljeno</item>
+        <item>Ime</item>
+     </string-array>
+     <string-array name="traffic_saving_compress_level_string_array">
+        <item>Nič</item>
+        <item>Malo</item>
+        <item>Srednje</item>
+        <item>Visoko</item>
+     </string-array>
+     <string-array name="traffic_setting_sms_template">
+        <item>Nastavite samodejno</item>
+        <item>Nastavite ročno</item>
+     </string-array>
+     <string-array name="traffic_sort_type">
+        <item>"Mobilni podatki "</item>
+        <item>"Wi Fi uporaba "</item>
+        <item>"Prihranjeno podatkov "</item>
+     </string-array>
+     <string-array name="traffic_type">
+        <item>"Mobilni podatki "</item>
+        <item>"Wi Fi uporaba "</item>
+        <item>"Prihranjeno podatkov "</item>
+     </string-array>
 </resources>

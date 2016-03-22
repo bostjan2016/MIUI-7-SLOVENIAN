@@ -45,7 +45,7 @@
      <string name="accessibility_wimax_signal_full">WiMAX: signal poln.</string>
      <string name="accessibility_wimax_three_bars">WiMAX: tri črtice.</string>
      <string name="accessibility_wimax_two_bars">WiMAX: dve črtici.</string>
-  <string name="account_info">Niste prijavljeni</string>
+     <string name="account_info">Niste prijavljeni</string>
      <string name="activate_usb_message">Da aktivirate to funcijo vstavite vašo SIM kartico</string>
      <string name="activate_usb_title">Aktiviraj USB</string>
      <string name="always_use_accessory">Uporabi kot prevzeto za ta USB dodatek</string>
@@ -75,8 +75,7 @@
      <string name="camera_key_action_shortcut_wake">Zakleni/Zbudi napravo</string>
      <string name="camera_key_action_toggle_title">Sprožilec</string>
      <string name="chooseUsbActivity">Izberi aplikacijo za USB napravo</string>
-  <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov.
-      Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna.</string>
+     <string name="data_usage_disabled_dialog">Dosegli ste omejitev uporabe podatkov.      Če boste ponovno omogočili podatke jih lahko vaš operater zaračuna.</string>
      <string name="data_usage_disabled_dialog_3g_title">2G-3G podatki izključeni</string>
      <string name="data_usage_disabled_dialog_4g_title">4G podatki izključeni</string>
      <string name="data_usage_disabled_dialog_enable">Ponovno omogoči podatke</string>
@@ -115,8 +114,7 @@
      <string name="headset_custom">Konfiguriranje</string>
      <string name="headset_info">Tapni za konfiguracijo nastavitev</string>
      <string name="headset_settings">Slušalke povezane</string>
-  <string name="invalid_charger">USB polnjenje ni podprto.
-      Uporabljajte samo originalen polnilec.</string>
+     <string name="invalid_charger">USB polnjenje ni podprto.      Uporabljajte samo originalen polnilec.</string>
      <string name="kilobyte_per_second">KB/s</string>
      <string name="label_view">Pogled</string>
      <string name="lockscreen_carrier_default">Ni signala</string>
@@ -135,7 +133,8 @@
      <string name="mount_storage">Da</string>
      <string name="network_speed_suffix">%1$s%2$s</string>
      <string name="no_notification_tips">Ni obvestil</string>
-  <string name="notification_header_title">Obvestila</string>
+     <string name="notification_header_title">Obvestila</string>
+     <string name="notification_hidden_text">Vsebina je skrita</string>
      <string name="notification_otg_gamestick_in">Igralni plošček povezan</string>
      <string name="notification_otg_gamestick_out">Igralni plošček izklopljen</string>
      <string name="notification_otg_keyboard_in">Tipkovnica povezana</string>
@@ -178,12 +177,10 @@
      <string name="settings_toggle_position_divider_page">%1$d bližnjice nad to vrstico so aktivne</string>
      <string name="settings_toggle_position_reset">Ponastavitev bližnjic</string>
      <string name="share">Deli</string>
-  <string name="status_bar_date_format">"EEEE
- d. MMMM"</string>
-  <string name="status_bar_date_format_12">"EEEE
- d. MMMM"</string>
-  <string name="status_bar_date_formatter">%2$s</string>
-  <string name="status_bar_network_flow_content">"Danes: %1$s   Preostalo še: %2$s"</string>
+     <string name="status_bar_date_format">"EEEE d. MMMM"</string>
+     <string name="status_bar_date_format_12">"EEEE d. MMMM"</string>
+     <string name="status_bar_date_formatter">%2$s</string>
+     <string name="status_bar_network_flow_content">"Danes: %1$s   Preostalo še: %2$s"</string>
      <string name="status_bar_network_flow_exceed_content">Danes: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;Plan presežen:&lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
      <string name="status_bar_network_flow_limit">"   Mesečna omejitev: %1$s"</string>
      <string name="status_bar_network_flow_purchase">"   Kupljeno &gt;"</string>
@@ -191,12 +188,11 @@
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Ni zadnjih aplikacij</string>
      <string name="status_bar_notification_inspect_item_title">Informacije o aplikacijah</string>
-  <string name="status_bar_recent_guide_all">Podrsaj gor, da se zapre.
-      Podrsaj dol za zaklenitev.</string>
+     <string name="status_bar_recent_guide_all">Podrsaj gor, da se zapre.      Podrsaj dol za zaklenitev.</string>
      <string name="status_bar_recent_guide_bottom">Podrsaj dol za zaklenitev</string>
      <string name="status_bar_recent_guide_top">Podrsaj gor, da se zapre.</string>
-  <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostopno</string>
-  <string name="status_bar_recent_memory_info2"/>
+     <string name="status_bar_recent_memory_info1">%1$sB | %2$sB dostopno</string>
+     <string name="status_bar_recent_memory_info2" />
      <string name="status_bar_recording_back">Vrni se na snemalnik</string>
      <string name="status_bar_recording_pause">Snemalnik ustavljen</string>
      <string name="status_bar_settings_airplane">Letalski način</string>
@@ -213,8 +209,7 @@
      <string name="usb_accessory_permission_prompt">Dovolim aplikaciji %1$s, da dostopa do USB opreme?</string>
      <string name="usb_accessory_uri_prompt">Nobena naložena aplikacija ne deluje s to USB opremo. Preberite več o tej opremi na %1$s.</string>
      <string name="usb_debugging_always">Vedno dovoli iz tega rečunalnika</string>
-  <string name="usb_debugging_message">Računalnikov RSA odtis ključa je:
-      %1$s</string>
+     <string name="usb_debugging_message">Računalnikov RSA odtis ključa je:      %1$s</string>
      <string name="usb_debugging_title">Dovoli USB odpravljanje napak?</string>
      <string name="usb_device_confirm_prompt">Odpri %1$s, ko bo ta USB naprava povezana?</string>
      <string name="usb_device_permission_prompt">Dovoli aplikaciji %1$s dostop do USB naprave?</string>
