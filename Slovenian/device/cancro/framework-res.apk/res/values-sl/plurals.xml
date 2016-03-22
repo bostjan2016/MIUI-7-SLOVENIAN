@@ -25,7 +25,7 @@
         <item quantity="many">%d minut</item>
     </plurals>
     <plurals name="duration_hours">
-        <item quantity="other">%d ur/item>
+        <item quantity="other">%d ur</item>
         <item quantity="one">%d ura</item>
         <item quantity="few">%d ur</item>
         <item quantity="many">%d ur</item>

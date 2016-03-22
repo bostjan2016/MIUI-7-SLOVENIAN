@@ -108,7 +108,7 @@
      <string name="activate_status_desc_prepare_sending_sms">Priprava aktivacijskega SMS-a strežniku</string>
      <string name="activate_status_desc_query_activation_info">Poizvedba o detajlih o aktivaciji s strežnikom</string>
      <string name="activate_status_desc_query_activation_info_downlink_sms_error">Strežnik ni uspel poslati aktivacijski SMS na vašo napravo</string>
-     <string name="activate_status_desc_query_activation_info_no_info">Ni podatkov o aktivaciji na strežniku/string>
+     <string name="activate_status_desc_query_activation_info_no_info">Ni podatkov o aktivaciji na strežniku</string>
      <string name="activate_status_desc_query_activation_info_server_error">Napaka strežnika med izdajanjem podatakov o aktivaciji</string>
      <string name="activate_status_desc_registering_sim_account">Registracija SIM kartice na strežniku</string>
      <string name="activate_status_desc_registering_sim_account_server_error">Došlo je do pogreške na strežniku prilikom registracije SIM kartice</string>
@@ -130,7 +130,7 @@
      <string name="activate_status_title_activating_msim">Aktivacija vaše SIM kartice %s…</string>
      <string name="activating">Aktivacija…</string>
      <string name="add_account">Dodaj račun</string>
-  <string name="agree_add_continue">Strinjam se</string>
+     <string name="agree_add_continue">Strinjam se</string>
      <string name="alert_title_remove_account">Odstrani račun?</string>
      <string name="app_name">Mi račun</string>
      <string name="authorize_title">Avtorizacija</string>
@@ -191,7 +191,7 @@
      <string name="error_unknown">Ne morem se vpisati</string>
      <string name="error_user_name">Neveljavno uporabniško ime</string>
      <string name="exceed_binded_phone_times_notice">Ta številka telefona je že povezana z drugim Mi Računom.</string>
-  <string name="exit">Izhod</string>
+     <string name="exit">Izhod</string>
      <string name="facebook">Facebook</string>
      <string name="failed_dup_secure_phone_number">Ta številka telefona je že povezana z drugim Mi Računom</string>
      <string name="failed_get_mibi_info">Ne morem pridobiti stanje</string>

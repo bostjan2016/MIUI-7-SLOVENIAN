@@ -256,7 +256,6 @@ s številko %s"</string>
   <string name="ext_media_safe_unmount_notification_message">USB shrambo lahko varno odstranite.</string>
   <string name="ext_media_safe_unmount_notification_title">Varno odstranjevanje shrambe USB</string>
   <string name="ext_media_unmountable_notification_title">Naprava za shranjevanje %s je poškodovana</string>
-  <string name="ext_media_unmountable_notification_title">Oštećena USB memorija</string>
   <string name="extmedia_format_button_format">Formatiraj</string>
   <string name="extmedia_format_message">Vse shranjene datoteke bodo izbrisane. Tega se ne da obnoviti!</string>
   <string name="extmedia_format_title">Format. USB shrambo?</string>
