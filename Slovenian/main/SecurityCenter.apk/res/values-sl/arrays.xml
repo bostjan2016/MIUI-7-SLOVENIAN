@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="auto_memory_clean">
+         <item>Po 1 min.</item>
+         <item>Po 5 min.</item>
+         <item>Po 10 min.</item>
+         <item>Po 30 min.</item>
+         <item>Nikoli</item>
+     </string-array>
+     <string-array name="alarm_repeat_type">
+        <item>Enkrat</item>
+        <item>Vsakodnevno</item>
+        <item>Ob delavnikih</item>
+        <item>Za vikend</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Enkrat</item>
+        <item>Vsakodnevno</item>
+        <item>Za vikend</item>
+        <item>Po meri</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Po 1 minuti</item>
+        <item>Po 5 minutah</item>
+        <item>Po 10 minutah</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>1 minuta</item>
+        <item>2 minuti</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Velike zmogljivosti</item>
+        <item>Uravnoteženo</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nikoli ne vibriraj</item>
+        <item>Vibriraj ko je Tiho</item>
+        <item>Vedno vibriraj</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Izključi</item>
+        <item>Vključi</item>
+        <item>Privzeto</item>
+    </string-array>
+</resources>

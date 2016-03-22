@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="slideshow_time_entries">
+        <item>5 minut</item>
+        <item>15 minut</item>
+        <item>30 minut</item>
+        <item>1 ura</item>
+        <item>Neomejeno</item>
+     </string-array>
+     <string-array name="baby_sexy">
+        <item>Deček</item>
+        <item>Deklica</item>
+     </string-array>
+     <string-array name="owner_relation">
+        <item>Oče</item>
+        <item>Mama</item>
+        <item>Ded po očetovi strani</item>
+        <item>Babica po očetovi strani</item>
+        <item>Ded po mamini strani</item>
+        <item>Babica po mamini strani</item>
+     </string-array>
+</resources>

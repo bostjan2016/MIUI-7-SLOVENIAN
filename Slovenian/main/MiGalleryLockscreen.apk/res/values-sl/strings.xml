@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Galerija</string>
+  <string name="at_least_one">Izberite vsaj eno kategorijo</string>
+  <string name="cancel">Izhod</string>
+  <string name="cancel_international">Prekliči</string>
+  <string name="change_time">Zamenjaj interval</string>
+  <string name="day">1 dan</string>
+  <string name="declaration">Uživajte v brezplačnih predplačilih iz samega vrha globalnih medijev. Bodite v toku z najnovejšimi vestmi, najavami filmov in celebrity trači.</string>
+  <string name="declaration_lockscreen_title">Omogoči Dnevna ozadja zakl. zaslona</string>
+  <string name="declaration_title">Pogoji in predpisi</string>
+  <string name="hour_1">1 ura</string>
+  <string name="hour_3">3 ure</string>
+  <string name="lockscreen_magazine_summary">Pridobite slike ozadja naravnost na vaš zakl. zaslon vsak dan.</string>
+  <string name="lockscreen_magazine_system_subscribe">%1$s slik ozadja</string>
+  <string name="lockscreen_magazine_system_title">Privzeto</string>
+  <string name="lockscreen_magazine_title">Dnevna ozadja zakl. zaslona</string>
+  <string name="no_long_show">"Ne prikaži več"</string>
+  <string name="ok">Strinjam se</string>
+  <string name="ok_lockscreen">V redu</string>
+  <string name="ok_network">Strinjam se in omogoči</string>
+  <string name="resource_apply">Nastavi</string>
+  <string name="resource_no_network_text">"Ne morem se povezati na omrežje."</string>
+  <string name="setting_head">Nastavitve</string>
+  <string name="summary">"Sprejmite naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Uporabniški Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o zasebnosti&lt;/a&gt; za začetek. Potrebna je internetna povezava.​"</string>
+  <string name="summary_international">"Z uporabo pristajate na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Uporabniški Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Zasebnosti&lt;/a&gt;. Potrebna internetna povezava.​"</string>
+  <string name="theme_apply_failured">"Ne morem nastaviti slike ozadja zakl. zaslona"</string>
+  <string name="theme_apply_success">Ozadje zakl. zaslona nastavljeno</string>
+  <string name="theme_applying">Nastavljanje…</string>
+  <string name="wlan_download">Samo WiFi</string>
+</resources>
