@@ -4,7 +4,7 @@ MA-XML-7.0-SLOVENIAN-master
 SLOVENIAN Translation For Xiaomi MIUI V7 Android Based OS
 
 
- MIUI Translation: **BOSTJAN**
+ MIUI Translation: **BOSTJAN, MARKO**
 
  Based on a work at http://miui.com
 
