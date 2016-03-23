@@ -876,7 +876,6 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_reboot">Dovoljuje, da program vsili vnovični zagon telefona.</string>
   <string name="permdesc_receiveBootCompleted">Programu omogoča, da se zažene takoj, ko sistem dokonča zagon. Zato lahko zagon telefona traja nekoliko dlje, program pa lahko upočasni splošno delovanje telefona, ker se vedno izvaja.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Programu omogoča prejemanje in obdelavo sporočil za oddajanje v sili. To dovoljenje je na voljo samo sistemskim programom.</string>
-  <string name="permdesc_receiveEmergencyBroadcast">Omogoča programu sprejem in obdelavo nujnih sporočil pošiljateljev. To dovoljenje je dostopno samo aplikacijam sistema.</string>
   <string name="permdesc_receiveMms">Programu omogoča prejemanje in obdelavo MMS-ov. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
   <string name="permdesc_receiveSms">Programu omogoča prejemanje in obdelavo SMS-ov. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
   <string name="permdesc_receiveWapPush">Programu omogoča prejemanje in obdelavo sporočil WAP. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
