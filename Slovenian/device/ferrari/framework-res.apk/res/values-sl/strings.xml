@@ -305,11 +305,11 @@ s številko %s"</string>
   <string name="heavy_weight_notification_detail">Dotaknite se, da preklopite na aplikacijo</string>
   <string name="heavy_weight_switcher_text">Preden zaženete novo aplikacijo, ustavite izvajano.</string>
   <string name="heavy_weight_switcher_title">Želite preklopiti aplikacije?</string>
-  <string name="hour">ura</string>
+  <string name="hour">h</string>
   <string name="hour_ampm" formatted="false">%-l %P</string>
   <string name="hour_cap_ampm" formatted="false">%-l %p</string>
   <string name="hour_picker_description">Okrogli drsnik za ure</string>
-  <string name="hours">ur</string>
+  <string name="hours">h</string>
   <string name="httpError">Napaka v omrežju.</string>
   <string name="httpErrorAuth">Pristnosti ni bilo mogoče preveriti.</string>
   <string name="httpErrorBadUrl">Strani ni mogoče odpreti, ker URL ni veljaven.</string>
@@ -363,7 +363,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Na strani »%s« piše:</string>
+  <string name="js_dialog_title">Stran na naslovu \"%s\" vsebuje naslednje:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke, če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
@@ -406,11 +406,11 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
   <string name="kg_enter_confirm_pin_hint">Potrdite želeno kodo PIN</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d-krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d-krat napačno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
-  <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d-krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat napačno odkleniti. Če poskusite še %d krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
+  <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
   <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
   <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
   <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
@@ -436,13 +436,13 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d-krat vnesli napačno. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d-krat. 
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
 Poskusite znova čez %d s."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d-krat vnesli napačno. 
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
   <string name="kg_wrong_password">Napačno geslo</string>
@@ -473,20 +473,20 @@ Za odpenjanje pritisnite in držite istočasno tipko Home in Power."</string>
   <string name="lock_to_app_unlock_password">Pred odpenjanjem vprašaj za geslo</string>
   <string name="lock_to_app_unlock_pattern">Pred odpenjanjem vprašaj za vzorec za odklepanje</string>
   <string name="lock_to_app_unlock_pin">Zahtevaj PIN pred odpenjanjem</string>
-  <string name="lockscreen_access_pattern_area">Območje vzorca.</string>
-  <string name="lockscreen_access_pattern_cell_added">Celica je dodana</string>
-  <string name="lockscreen_access_pattern_cell_added_verbose">Dodana %1$s. celica</string>
+  <string name="lockscreen_access_pattern_cell_added">Dodan je mobitel</string>
   <string name="lockscreen_access_pattern_cleared">Vzorec je izbrisan</string>
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
-  <string name="lockscreen_access_pattern_start">Vzorec se je začel</string>
+  <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
+  <string name="lockscreen_airplane_mode_on">Način Na avionu</string>
+  <string name="lockscreen_battery_short">%d%%</string>
   <string name="lockscreen_carrier_default">Ni storitve.</string>
   <string name="lockscreen_charged">Napolnjeno</string>
   <string name="lockscreen_emergency_call">Klic v sili</string>
-  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d-krat nepravilno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
-  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %d-krat. Po %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
+  <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat nepravilno odkleniti. Če poskusite še %d krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %d krat. Po še toliko neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
-  <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d-krat nepravilno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
+  <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d krat nepravilno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
   <string name="lockscreen_forgot_pattern_button_text">Ali ste pozabili vzorec?</string>
   <string name="lockscreen_glogin_account_recovery_hint">"Ali ste pozabili uporabniško ime ali geslo?
 Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
@@ -513,7 +513,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Kartica SIM je trajno onemogočena.
  Če želite dobiti drugo kartico SIM, se obrnite na ponudnika telefonskih storitev."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Neuporabna kartica SIM.</string>
-  <string name="lockscreen_plugged_in">Polnjenje (%d%%)</string>
+  <string name="lockscreen_plugged_in">Polnjenje, %d%%</string>
   <string name="lockscreen_return_to_call">Nazaj na klic</string>
   <string name="lockscreen_screen_locked">Zaslon je zaklenjen.</string>
   <string name="lockscreen_sim_error_message_short">Kartica SIM ni veljavna.</string>
@@ -524,13 +524,13 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d-krat. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
 Poskusite znova čez %d s."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d-krat vnesli napačno. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d-krat vnesli napačno. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
   <string name="lockscreen_transport_ffw_description">Previj naprej</string>
@@ -660,7 +660,7 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena na dovoljene telefonske številke, za katere ne velja zapora odhodnega klica.</string>
-  <string name="month_day_year" formatted="false">%d. %B %Y</string>
+  <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
   <string name="more_item_label">Več</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti, vnesite kodo PUK.</string>
   <string name="needPuk2">Če želite odstraniti blokiranje kartice SIM, vnesite PUK2.</string>
@@ -837,7 +837,8 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_mediaStorageWrite">Programu omogoča spreminjanje vsebine notranje shrambe nosilca podatkov.</string>
   <string name="permdesc_modifyAudioRouting">Omogoča programu direktno upravljanje s preusmerjanjem zvočnega zapisa in izogibanje pravilom o zvočnih zapisih.</string>
   <string name="permdesc_modifyAudioSettings">Programu omogoča spreminjanje splošnih zvočnih nastavitev, na primer glasnost in kateri zvočnik se uporablja.</string>
-  <string name="permdesc_modifyNetworkAccounting">Programu omogoča, da spremeni uporabo omrežja na podlagi programov. Ni za uporabo z navadnimi programi.</string>
+  <string name="permdesc_modifyNetworkAccounting">Programu omogoča da spremeni uporabo omrežja na podlagi programov. Ni za uporabo z navadnimi programi.</string>
+  <string name="permdesc_modifyParentalControls">Programu omogoča da spremeni podatke o starševskem nadzoru sistema. Ne bi smelo biti potrebno za normalne programe.</string>
   <string name="permdesc_modifyPhoneState">Omogoča programu upravljanje telefonskih funkcij naprave. Program s tem dovoljenjem lahko spremeni mreže, vključi in izključi radionapravo telefona in podobno, a vas o tem sploh ne bo obvestil.</string>
   <string name="permdesc_mount_format_filesystems">Programu omogoča formatiranje shrambe za izmenljive medije.</string>
   <string name="permdesc_mount_unmount_filesystems">Programu omogoča vpenjanje in izpenjanje datotečnih sistemov za izmenljive pomnilnike.</string>
@@ -869,6 +870,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_readSyncStats">Programu omogoča branje statističnih podatkov o sinhronizaciji za račun, vključno z zgodovino dogodkov sinhronizacije in količino sinhroniziranih podatkov.</string>
   <string name="permdesc_readVoicemail">Omogoča programu branje vaše govorne pošte.</string>
   <string name="permdesc_reboot">Dovoljuje, da program vsili vnovični zagon telefona.</string>
+  <string name="permdesc_receiveBluetoothMap">Programu omogoča prejemanje in obdelavo Bluetooth MAP sporočil. Torej program lahko nadzira ali briše sporočila poslana na vašo napravo a vam jih ne prikaže.</string>
   <string name="permdesc_receiveBootCompleted">Programu omogoča, da se zažene takoj, ko sistem dokonča zagon. Zato lahko zagon telefona traja nekoliko dlje, program pa lahko upočasni splošno delovanje telefona, ker se vedno izvaja.</string>
   <string name="permdesc_receiveEmergencyBroadcast">Omogoča programu sprejem in obdelavo nujnih sporočil pošiljateljev. To dovoljenje je dostopno samo aplikacijam sistema.</string>
   <string name="permdesc_receiveMms">Programu omogoča prejemanje in obdelavo MMS-ov. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
@@ -1308,7 +1310,7 @@ za račun %s."</string>
   <string name="prepend_shortcut_label">Meni+</string>
   <string name="preposition_for_date">vsak %s</string>
   <string name="preposition_for_time">ob %s</string>
-  <string name="preposition_for_year">leta %s</string>
+  <string name="preposition_for_year">%s.</string>
   <string name="print_service_installed_message">Če želite omogočiti, se dotaknite</string>
   <string name="print_service_installed_title">Storitev %s je nameščena</string>
   <string name="progress_erasing">Brisanje pomnilnika USB ...</string>
@@ -1455,7 +1457,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="sms_short_code_confirm_deny">Prekliči</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati sporočilo na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
-  <string name="sms_short_code_details">S tem &lt;b&gt;bo morda bremenjen ra&amp;#269;un&lt;/b&gt; za va&amp;#353;o mobilno napravo.</string>
+  <string name="sms_short_code_details">To gre na stroške vašega mobilnega računa.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
   <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; programi</string>
   <string name="smv_application">Program %1$s (proces %2$s) krši svoj samouveljavljiv pravilnik o strogem načinu.</string>

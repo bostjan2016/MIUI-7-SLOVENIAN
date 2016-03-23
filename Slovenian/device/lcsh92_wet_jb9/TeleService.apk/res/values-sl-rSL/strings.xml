@@ -233,7 +233,7 @@
   <string name="mo_code_incoming_calls_barred">Dohodni klic je blokiran</string>
   <string name="mo_code_outgoing_calls_barred">Odhodni klic je blokiran</string>
   <string name="mo_code_some_cf_active">"Pogoji preusmerjanja
-  klica"</string>
+klica"</string>
   <string name="mo_code_unconditional_cf_active">"Posredivanje klica
 brezpogojno aktivirano"</string>
   <string name="mobile_networks">Nastavitve mobilnega omrežja</string>
@@ -324,10 +324,12 @@ Priporočamo uporabo \"Samodejna izbira\" ali izberite drugega ponudnika storite
   <string name="pause_prompt_str">"Pošiljanje tonov"</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="pch_data_prefer_message">"Željeni mobilni podatki se uporabljajo za povečanje učinkovitosti prenosa podatkov na škodo kakovosti klica. Ne priporočamo za uporabo.
+
 Ali ste prepričani, da želite omogočiti željene mobilne podatke?"</string>
   <string name="pch_data_prefer_summary">Omogočite polno hitrost prenosa podatkov</string>
   <string name="pch_data_prefer_title">Željeni mobilni podatki</string>
-  <string name="pin2_attempts">"Preostalih poizkusov: %d"</string>
+  <string name="pin2_attempts">"
+Preostalih poizkusov: %d"</string>
   <string name="pin2_name">PIN2</string>
   <string name="pin2_or_fdn_invalid">"FDN ni ažuriran. PIN2 je neveljaven ali pa je tel.številka zavrnjena."</string>
   <string name="pin_length_indicate">(4-8 številk)</string>

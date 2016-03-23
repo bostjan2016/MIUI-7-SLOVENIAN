@@ -202,7 +202,7 @@
   <string name="new_password_label">Novo geslo (4 številke)</string>
   <string name="no_search_result">Nič ni najdeno</string>
   <string name="no_service_msg">"Trenutno ni storitve ponudnika.
-  Uporabite \"Samodejna izbira\", ali izberite drugega pinudnika storitve."</string>
+Uporabite \"Samodejna izbira\", ali izberite drugega pinudnika storitve."</string>
   <string name="no_service_msg_gemini">"Trenutno ni ponudnika storitve za \"%s\" SIM kartico.
 Pruporabite \"Samodejna izbira\", ali izberite drugega pinudnika storitve."</string>
   <string name="no_service_msg_title">Ni storitve</string>

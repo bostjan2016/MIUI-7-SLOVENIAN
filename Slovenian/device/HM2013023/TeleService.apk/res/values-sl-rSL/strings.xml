@@ -233,7 +233,7 @@
   <string name="mo_code_incoming_calls_barred">Dohodni klic je blokiran</string>
   <string name="mo_code_outgoing_calls_barred">Odhodni klic je blokiran</string>
   <string name="mo_code_some_cf_active">"Pogoji preusmerjanja
-  klica"</string>
+klica"</string>
   <string name="mo_code_unconditional_cf_active">"Posredivanje klica
 brezpogojno aktivirano"</string>
   <string name="mobile_networks">Nastavitve mobilnega omrežja</string>
@@ -327,7 +327,8 @@ Priporočamo uporabo \"Samodejna izbira\" ali izberite drugega ponudnika storite
 Ali ste prepričani, da želite omogočiti željene mobilne podatke?"</string>
   <string name="pch_data_prefer_summary">Omogočite polno hitrost prenosa podatkov</string>
   <string name="pch_data_prefer_title">Željeni mobilni podatki</string>
-  <string name="pin2_attempts">"Preostalih poizkusov: %d"</string>
+  <string name="pin2_attempts">"
+Preostalih poizkusov: %d"</string>
   <string name="pin2_name">PIN2</string>
   <string name="pin2_or_fdn_invalid">"FDN ni ažuriran. PIN2 je neveljaven ali pa je tel.številka zavrnjena."</string>
   <string name="pin_length_indicate">(4-8 številk)</string>
@@ -392,7 +393,7 @@ Ali ste prepričani, da želite omogočiti željene mobilne podatke?"</string>
   <string name="simlock_enterpuk2code">Vnesite PUK2</string>
   <string name="simlock_enterpukcode">Vnesite PUK</string>
   <string name="simlock_entersimmelock">Vnesite SIM ME</string>
-  <string name="simlock_firstsim">Za prvi SIM</string>
+  <string name="simlock_firstsim">za prvi SIM</string>
   <string name="simlock_for">za</string>
   <string name="simlock_input4_8digits">Vnesite 4-8 številk.</string>
   <string name="simlock_input8digits">Vnesite 8 številk.</string>

@@ -565,6 +565,7 @@
      <string name="user_notice_yp_detail_summary_format_cta">"Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z dotikom na \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>
      <string name="voicemail">Glasovna pošta</string>
      <string name="web_permission_message">%1$s želi videti vaš %2$s za pravilno funkcioniranje.</string>
+     <string name="yellow_page_details">Podrobnosti o podjetju</string>
      <string name="yellow_page_website">Uradna spletna stran</string>
      <string name="yellowpage_navigation_network_location_enable">Dovoli</string>
      <string name="yellowpage_navigation_network_location_enable_later">Ne sadaj</string>

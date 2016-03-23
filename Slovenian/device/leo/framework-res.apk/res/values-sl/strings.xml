@@ -129,7 +129,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="car_mode_disable_notification_message">Dotaknite se, če želite zapreti način za avtomobil.</string>
   <string name="car_mode_disable_notification_title">Način delovanja za avtomobil je omogočen</string>
   <string name="cfTemplateForwarded">{0}: {1}</string>
-  <string name="cfTemplateForwardedTime">{0}: {1} po toliko sekundah: {2}</string>
+  <string name="cfTemplateForwardedTime">{0}: {1} po  {2} s</string>
   <string name="cfTemplateNotForwarded">{0}: ni posredovano</string>
   <string name="cfTemplateRegistered">{0}: ni posredovano</string>
   <string name="cfTemplateRegisteredTime">{0}: ni posredovano</string>
@@ -197,8 +197,8 @@ s številko %s"</string>
   <string name="dialog_alert_title">Pozor</string>
   <string name="display_manager_built_in_display_name">Vgrajen zaslon</string>
   <string name="display_manager_hdmi_display_name">Zaslon HDMI</string>
-  <string name="display_manager_overlay_display_name">Prekrivanje #%1$d</string>
-  <string name="display_manager_overlay_display_secure_suffix">, varen</string>
+  <string name="display_manager_overlay_display_name">Prekrivanje št. %1$d</string>
+  <string name="display_manager_overlay_display_secure_suffix">, varno</string>
   <string name="display_manager_overlay_display_title">%1$s: %2$d x %3$d, %4$d pik na palec</string>
   <string name="dlg_confirm_kill_storage_users_text">Če vklopite pomnilnik USB, se bodo nekateri programi, ki jih uporabljate, ustavili in ne bodo na voljo, dokler ne izklopite pomnilnika USB.</string>
   <string name="dlg_confirm_kill_storage_users_title">Vklop pomnilnika USB</string>
@@ -367,7 +367,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="js_dialog_before_unload_negative_button">Ostani na tej strani</string>
   <string name="js_dialog_before_unload_positive_button">Zapusti to stran</string>
   <string name="js_dialog_before_unload_title">Potrditev krmarjenja</string>
-  <string name="js_dialog_title">Na strani »%s« piše:</string>
+  <string name="js_dialog_title">Stran na naslovu \"%s\" vsebuje:</string>
   <string name="js_dialog_title_default">JavaScript</string>
   <string name="keyboard_headset_required_to_hear_password">Priključite slušalke, če želite slišati geslo.</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
@@ -410,11 +410,11 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyguard_password_wrong_pin_code">Napačna koda PIN.</string>
   <string name="kg_emergency_call_label">Klic v sili</string>
   <string name="kg_enter_confirm_pin_hint">Potrdite želeno kodo PIN</string>
-  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d-krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
+  <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
-  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d-krat napačno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
-  <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d-krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
+  <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d krat napačno odkleniti. Če poskusite še %d krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
+  <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
   <string name="kg_forgot_pattern_button_text">Pozabljen vzorec</string>
   <string name="kg_invalid_confirm_pin_hint">Kodi PIN se ne ujemata</string>
   <string name="kg_invalid_puk">Vnovič vnesite pravilno kodo PUK. Večkratni poskusi bodo trajno onemogočili kartico SIM.</string>
@@ -440,13 +440,13 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="kg_sim_unlock_progress_dialog_message">Odklepanje kartice SIM ...</string>
   <string name="kg_text_message_separator">" – "</string>
   <string name="kg_too_many_failed_attempts_countdown">Čez %1$d sekund poskusite znova.</string>
-  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d-krat vnesli napačno. 
+  <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
-  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d-krat. 
+  <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
-Poskusite znova čez %d s."</string>
-  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d-krat vnesli napačno. 
+Poskusite ponovno čez %d s."</string>
+  <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
   <string name="kg_wrong_password">Napačno geslo</string>
@@ -517,7 +517,7 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_permanent_disabled_sim_instructions">"Kartica SIM je trajno onemogočena.
  Če želite dobiti drugo kartico SIM, se obrnite na ponudnika telefonskih storitev."</string>
   <string name="lockscreen_permanent_disabled_sim_message_short">Neuporabna kartica SIM.</string>
-  <string name="lockscreen_plugged_in">Polnjenje (%d%%)</string>
+  <string name="lockscreen_plugged_in">Polnjenje, %d%%</string>
   <string name="lockscreen_return_to_call">Nazaj na klic</string>
   <string name="lockscreen_screen_locked">Zaslon je zaklenjen.</string>
   <string name="lockscreen_sim_error_message_short">Kartica SIM ni veljavna.</string>
@@ -528,13 +528,13 @@ Obiščite "&lt;b&gt;google.com/accounts/recovery&lt;/b&gt;.</string>
   <string name="lockscreen_sound_off_label">Izklopi zvok</string>
   <string name="lockscreen_sound_on_label">Vklopi zvok</string>
   <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
-  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d-krat. 
+  <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d krat. 
 
 Poskusite znova čez %d s."</string>
-  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d-krat vnesli napačno. 
+  <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Geslo ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
-  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d-krat vnesli napačno. 
+  <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
   <string name="lockscreen_transport_ffw_description">Previj naprej</string>
@@ -874,8 +874,9 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_readSyncStats">Programu omogoča branje statističnih podatkov o sinhronizaciji za račun, vključno z zgodovino dogodkov sinhronizacije in količino sinhroniziranih podatkov.</string>
   <string name="permdesc_readVoicemail">Omogoča programu branje vaše govorne pošte.</string>
   <string name="permdesc_reboot">Dovoljuje, da program vsili vnovični zagon telefona.</string>
+  <string name="permdesc_receiveBluetoothMap">Programu omogoča sprejem in obdelavo Bluetooth MAP sporočil. Torej aplikacija lahko nadzira ali briše sporočila a vam jih sploh ne pokaže.</string>
   <string name="permdesc_receiveBootCompleted">Programu omogoča, da se zažene takoj, ko sistem dokonča zagon. Zato lahko zagon telefona traja nekoliko dlje, program pa lahko upočasni splošno delovanje telefona, ker se vedno izvaja.</string>
-  <string name="permdesc_receiveEmergencyBroadcast">Programu omogoča prejemanje in obdelavo sporočil za oddajanje v sili. To dovoljenje je na voljo samo sistemskim programom.</string>
+  <string name="permdesc_receiveEmergencyBroadcast">Omogoča programu sprejem in obdelavo nujnih sporočil pošiljateljev. To dovoljenje je dostopno samo aplikacijam sistema.</string>
   <string name="permdesc_receiveMms">Programu omogoča prejemanje in obdelavo MMS-ov. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
   <string name="permdesc_receiveSms">Programu omogoča prejemanje in obdelavo SMS-ov. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
   <string name="permdesc_receiveWapPush">Programu omogoča prejemanje in obdelavo sporočil WAP. S tem lahko program nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazal.</string>
@@ -1043,7 +1044,7 @@ za račun %s."</string>
   <string name="permlab_backup">nadzor varnostnega kopiranja sistema in obnovitev</string>
   <string name="permlab_batteryStats">branje statističnih podatkov o akumulatorju</string>
   <string name="permlab_bindAccessibilityService">povezovanje s storitvijo za ljudi s posebnimi potrebami</string>
-  <string name="permlab_bindCarrierServices">povezovanje z operaterjevimi storitvami</string>
+  <string name="permlab_bindConditionProviderService">povezovanje z operaterjevimi storitvami</string>
   <string name="permlab_bindDeviceAdmin">povezovanje s skrbnikom naprave</string>
   <string name="permlab_bindDreamService">povezovanje na Dream</string>
   <string name="permlab_bindGadget">izbiranje pripomočkov</string>
@@ -1070,8 +1071,8 @@ za račun %s."</string>
   <string name="permlab_bluetoothPriv">programu dovoli seznanjanje prek povezave Bluetooth</string>
   <string name="permlab_bodySensors">tipala telesnih funkcij (npr. merilniki srčnega utripa)</string>
   <string name="permlab_brick">trajno onemogočenje telefona</string>
-  <string name="permlab_broadcastNetworkPrivileged">pošiljanje privilegiranih omrežnih oddajanj</string>
-  <string name="permlab_broadcastPackageRemoved">pošiljanje oddaje brez paketa</string>
+  <string name="permlab_broadcastPackageRemoved">pošiljanje paketno odstranjenega prenosa</string>
+  <string name="permlab_broadcastScoreNetworks">pošiljanje prenosa oddajanja omrežja</string>
   <string name="permlab_broadcastSmsReceived">pošiljanje oddaje, prejete prek SMS-a</string>
   <string name="permlab_broadcastSticky">pošiljanje fiksne oddaje</string>
   <string name="permlab_broadcastWapPush">pošiljanje oddaje, prejete s potisnim sporočilom WAP</string>
@@ -1313,9 +1314,9 @@ za račun %s."</string>
   <string name="power_dialog">Možnosti telefona</string>
   <string name="power_off">Izklopi</string>
   <string name="prepend_shortcut_label">Meni+</string>
-  <string name="preposition_for_date">vsak %s</string>
+  <string name="preposition_for_date">dne %s</string>
   <string name="preposition_for_time">ob %s</string>
-  <string name="preposition_for_year">leta %s</string>
+  <string name="preposition_for_year">%s.</string>
   <string name="print_service_installed_message">Če želite omogočiti, se dotaknite</string>
   <string name="print_service_installed_title">Storitev %s je nameščena</string>
   <string name="progress_erasing">Brisanje pomnilnika USB ...</string>
@@ -1456,13 +1457,13 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="sms_control_no">Zavrni</string>
   <string name="sms_control_title">Pošiljanje sporočil SMS</string>
   <string name="sms_control_yes">Dovoli</string>
-  <string name="sms_premium_short_code_details">&lt;b&gt;S tem bo bremenjen va&amp;#353; ra&amp;#269;un za mobilno napravo.&lt;/b&gt;</string>
+  <string name="sms_premium_short_code_details">&lt;b&gt;To se pla&amp;#263;uje preko va&amp;#353;ega mobilnega ra&amp;#269;una.&lt;/b&gt;</string>
   <string name="sms_short_code_confirm_allow">Pošlji</string>
   <string name="sms_short_code_confirm_always_allow">Vedno dovoli</string>
   <string name="sms_short_code_confirm_deny">Prekliči</string>
   <string name="sms_short_code_confirm_message">&lt;b&gt;%1$s&lt;/b&gt; želi poslati sporočilo na &lt;b&gt;%2$s&lt;/b&gt;.</string>
   <string name="sms_short_code_confirm_never_allow">Nikoli ne dovoli</string>
-  <string name="sms_short_code_details">S tem &lt;b&gt;bo morda bremenjen ra&amp;#269;un&lt;/b&gt; za va&amp;#353;o mobilno napravo.</string>
+  <string name="sms_short_code_details">To gre na stroške vašega mobilnega računa.</string>
   <string name="sms_short_code_remember_choice">Zapomni si mojo izbiro</string>
   <string name="sms_short_code_remember_undo_instruction">To lahko pozneje spremenite v Nastavitve &gt; programi</string>
   <string name="smv_application">Program %1$s (proces %2$s) krši svoj samouveljavljiv pravilnik o strogem načinu.</string>
@@ -1488,7 +1489,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="sync_do_nothing">Za zdaj ne naredi ničesar</string>
   <string name="sync_really_delete">Izbris elementov</string>
   <string name="sync_too_many_deletes">Omejitev brisanja je presežena</string>
-  <string name="sync_too_many_deletes_desc">Št. izbrisanih elementov za %2$s v računu %3$s: %1$d. Kaj želite narediti?</string>
+  <string name="sync_too_many_deletes_desc">Število izbrisanih postavk: %1$d za vrsto sinhronizacije %2$s in račun %3$s. Kaj boste naredili?</string>
   <string name="sync_undo_deletes">Razveljavitev brisanja</string>
   <string name="terabyteShort">TB</string>
   <string name="tethered_notification_message">Dotaknite se, da nastavite.</string>
@@ -1497,7 +1498,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="tethered_notification_one_device_message">%1$s povezanih naprav</string>
   <string name="tethered_notification_title">Tethering ali hotspot je aktiven</string>
   <string name="textSelectionCABTitle">Izbrano besedilo</string>
-  <string name="text_copied">Besedilo, kopirano v odložišče.</string>
+  <string name="text_copied">Besedilo kopirano v odložišče.</string>
   <string name="time_of_day" formatted="false">%H:%M:%S</string>
   <string name="time_picker_decrement_hour_button">Zmanjšanje vrednosti za uro</string>
   <string name="time_picker_decrement_minute_button">Zmanjšanje vrednosti za minuto</string>
@@ -1509,7 +1510,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="turn_off_radio">Izklopi brezžično omrežje</string>
   <string name="turn_on_radio">Vklopi brezžično omrežje</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Dvakrat se dotaknite za nadzor povečave/pomanjšave</string>
-  <string name="unknownName">Neznano</string>
+  <string name="unknownName">(Nepoznano)</string>
   <string name="untitled">&lt;Brez naslova&gt;</string>
   <string name="upload_file">Izberi datoteko</string>
   <string name="usb_accessory_notification_title">Priključen na dodatek USB</string>

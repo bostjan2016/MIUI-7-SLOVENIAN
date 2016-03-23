@@ -173,8 +173,10 @@
   <string name="mo_code_cug_call">Zaprta skupina uporabnikov</string>
   <string name="mo_code_incoming_calls_barred">Dohodni klic je blokiran</string>
   <string name="mo_code_outgoing_calls_barred">Odhodni klic je blokiran</string>
-  <string name="mo_code_some_cf_active">"Pogoji preusmeritve klica"</string>
-  <string name="mo_code_unconditional_cf_active">"Posredovanje klica je brezpogojno aktivirano"</string>
+  <string name="mo_code_some_cf_active">"Pogoji preusmeritve 
+klica"</string>
+  <string name="mo_code_unconditional_cf_active">"Posredovanje klica 
+je brezpogojno aktivirano"</string>
   <string name="modem_switching">Preklapljanje kartice bo trajala okoli 10 sek. Počakajte...</string>
   <string name="mt_code_additional_call_forwarded">Dohodni klici so preusmerjeni</string>
   <string name="mt_code_call_connected_ect">Vključena preusmeritev klicev</string>
@@ -202,7 +204,7 @@
   <string name="new_password_label">Novo geslo (4 številke)</string>
   <string name="no_search_result">Nič ni najdeno</string>
   <string name="no_service_msg">"Trenutno ni storitve ponudnika.
-  Uporabite \"Samodejna izbira\", ali izberite drugega ponudnika storitve."</string>
+Uporabite \"Samodejna izbira\", ali izberite drugega ponudnika storitve."</string>
   <string name="no_service_msg_gemini">"Trenutno ni ponudnika storitve za \"%s\" SIM kartico.
 Uporabite \"Samodejna izbira\", ali izberite drugega ponudnika storitve."</string>
   <string name="no_service_msg_title">Ni storitve</string>
@@ -271,7 +273,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="simlock_enterpuk2code">Vnesite PUK2</string>
   <string name="simlock_enterpukcode">Vnesite PUK</string>
   <string name="simlock_entersimmelock">Vnesite SIM ME</string>
-  <string name="simlock_firstsim">Za prvi SIM</string>
+  <string name="simlock_firstsim">za prvi SIM</string>
   <string name="simlock_for">za</string>
   <string name="simlock_input4_8digits">Vnesite 4-8 številk.</string>
   <string name="simlock_input8digits">Vnesite 8 številk.</string>
