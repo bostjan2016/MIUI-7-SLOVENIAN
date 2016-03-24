@@ -431,8 +431,8 @@
      <string name="older">Starejše</string>
      <string name="open_file_explorer_failed">"Ne morem odpreti aplik. Datoteke"</string>
      <string name="opening_file_error">Datoteke ni mogoče odpreti</string>
-     <string name="page_info"Informacija o strani</string>
-     <string name="page_info_address">Naslov:</string>
+     <string name="page_info">Informacija o strani</string>
+     <string name="page_info_address">Naslov</string>
      <string name="page_info_view">Prikaz info o strani</string>
      <string name="password">Geslo</string>
      <string name="password_generation_popup_content_description">Prikaz generiranja gesla</string>
