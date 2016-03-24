@@ -33,6 +33,7 @@
      <string name="add_card">Dodaj kartice</string>
      <string name="add_topic_success">Dodano \"%s\"</string>
      <string name="add_topic_unsuccess">Dodajanje \"%s\" ni uspelo</string>
+     <string name="adding_calendar">订阅中</string>
      <string name="agenda_today">DANES, %1$s</string>
      <string name="agenda_tomorrow">JUTRI, %1$s</string>
      <string name="agenda_view">Dnevni red</string>
@@ -75,7 +76,9 @@
      <string name="book_card_rating_text">|   %1$s 条评论</string>
      <string name="button_day">D</string>
      <string name="button_month">M</string>
+     <string name="button_online">订</string>
      <string name="button_week">T</string>
+     <string name="calendar_network_error">网络错误</string>
      <string name="calendar_refresh">Osveži</string>
      <string name="calendar_server_error">Napaka strežnika</string>
      <string name="can_not_create_long_event">Vsebina dogodka je predolga</string>
@@ -85,6 +88,7 @@
      <string name="card_manager">卡片管理</string>
      <string name="card_title_change">换一换</string>
      <string name="change_response_title">Spremeni odziv</string>
+     <string name="chinese_leap">闰</string>
      <string name="chongsha" />
      <string name="click_watch">Kliknite za gledanje</string>
      <string name="common_fri">Petek</string>
@@ -136,6 +140,8 @@
      <string name="delete_this_event_title">Izbrišem ta dogodek?</string>
      <string name="delete_topic_dialog_title">Izbrišem "%s"?</string>
      <string name="delete_topic_success">"%s" Izbrano</string>
+     <string name="deleting_calendar">退订中</string>
+     <string name="departure">Odhod</string>
      <string name="description_label">Opis</string>
      <string name="directory_searching_fmt">Iščem %s...</string>
      <string name="discard_label">Prekliči</string>
@@ -201,6 +207,7 @@
      <string name="every_weekday">Med tednom (Pon-Pet)</string>
      <string name="every_year_month_of_day">%1$s%2$s</string>
      <string name="exist_calendar">Koledar že obstaja</string>
+     <string name="free_day_default_banner_title">尽情享受美好假期吧！</string>
      <string name="from_google_group_calendar">Google koledar</string>
      <string name="gadget_no_events">Ni prihajajočih dogodkov</string>
      <string name="gadget_title">Koledar</string>
@@ -270,9 +277,14 @@
      <string name="no_network_btn">Poskusite ponovno</string>
      <string name="no_syncable_calendars">Ni koledarjev</string>
      <string name="no_title_label">(Brez naslova)</string>
+     <string name="not_exist_topic_list">无法获取订阅日历列表</string>
      <string name="not_synced">Ni sinhronizirano</string>
      <string name="notification_online">Nov dogodek %1$s: %2$s</string>
      <string name="online_calendar_activity_label">Vpis koledarja</string>
+     <string name="online_reminder_change_text">修改提醒</string>
+     <string name="online_reminder_header_text">提醒</string>
+     <string name="online_reminder_minutes_text">提醒时间</string>
+     <string name="online_reminder_slider_text">启用提醒</string>
      <string name="pengzu" />
      <string name="prefDialogTitle_vibrateWhen">Vibriraj</string>
      <string name="pref_error_no_ringtone_select">Izbrano ni nobeno zvonjenje</string>
@@ -338,6 +350,7 @@
      <string name="repeat_label_frequency">Pogostost</string>
      <string name="repeat_label_interval">Vsak</string>
      <string name="repeat_label_week">Teden</string>
+     <string name="repeat_lunar_yearly" />
      <string name="repeat_month_day_splitter">" "</string>
      <string name="repeat_week_info">" %1$s %2$s"</string>
      <string name="repeats_label">Ponovi</string>
@@ -387,6 +400,7 @@
      <string name="sync_notice_ok_toast_message">Lokalni koledar bo sinhroniziran z Mi Cloudom</string>
      <string name="sync_notice_title">Zahteva za sinhr.</string>
      <string name="synced">Sinhronizirano</string>
+     <string name="tab_category">分类</string>
      <string name="tab_local">Lokalno</string>
      <string name="tab_online">Priporočilo</string>
      <string name="taishen">Božji otrok</string>
@@ -457,6 +471,7 @@
      <string name="widget_events">Naslednji dogodek</string>
      <string name="widget_no_events">Ni dogodkov</string>
      <string name="widget_select_style">Izberi stil</string>
+     <string name="work_day_default_banner_title">挣钱不止步，加班是出路！</string>
      <string name="work_day_indication" />
      <string name="wuxing" />
      <string name="xiaomi_calendar_display_name">Koledar</string>

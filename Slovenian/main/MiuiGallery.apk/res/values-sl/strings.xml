@@ -380,6 +380,8 @@
      <string name="face_album">Osebe</string>
      <string name="face_album_detecting_tip">Samo trenutek…</string>
      <string name="face_album_empty">Prazno.</string>
+     <string name="face_album_empty_syncing">Sinhr. podatkov</string>
+     <string name="face_album_empty_syncing_when_connect_wifi">Sinhr. oseb, ko je naprava povezana preko WiFi</string>
      <string name="face_album_long_tap_tip">Za izbiro več oseob ali spremembo nastavitev skupine, pritisnite &amp; obdržite fotografijo profila</string>
      <string name="face_album_new_name_hint">Novo ime</string>
      <string name="face_album_not_named">Brez imena</string>
@@ -658,6 +660,8 @@
      <string name="operation_unhide">Prikaži</string>
      <string name="operation_unset_as_screensaver">Prekini ohranjevalnik zaslona</string>
      <string name="orientation">Orientacija</string>
+     <string name="orientation_lock_tip">Rotacija zaklenjena</string>
+     <string name="orientation_unlock_tip">Samod. rotacija vključena</string>
      <string name="original">Original</string>
      <string name="original_scale">Originalna lestvica</string>
      <string name="other_category">Dodatne nastavitve</string>
@@ -817,6 +821,7 @@
      <string name="set_face_group_toast_msg_old_user">Dolg pritisk na sliko osobe, osobe se lahko delijo v družini, med prijatelje, kolege, itd.</string>
      <string name="set_face_group_toast_title_new_user">Predlogi</string>
      <string name="set_face_group_toast_title_old_user">Osobe so lahko postavljene v skupino</string>
+     <string name="set_face_image">Nastavi novo osebo</string>
      <string name="set_group">Nastavite skupino</string>
      <string name="set_hidden_album">Skrij</string>
      <string name="set_label_all_albums">Vsi</string>

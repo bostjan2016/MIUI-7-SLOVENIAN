@@ -16,6 +16,7 @@
      <string name="alter_message_switch_mode">Zamenjam način?</string>
      <string name="alter_message_switch_mode_message">Ko zamenjate način dela, se vaše predhodne nastavitve ne bodo več uporabljale za to aplikacijo.</string>
      <string name="app_frozen_app_list_summary">Aplikacije v ozadju</string>
+     <string name="app_invisible_title">Aplik. skrita</string>
      <string name="app_list_title">Izberite aplikacije</string>
      <string name="app_list_total">Aplikacija: %d</string>
      <string name="app_name">Prihranek baterije</string>

@@ -55,8 +55,8 @@
      <string name="see_app_details">Oglej si podrobnosti aplikacije</string>
      <string name="settings">Nastavitve</string>
      <string name="success_message_import_from_account">Uvoženo</string>
-     <string name="tips_message">Povežite se z internetom da preverite če je stran, ki jo boste obiskali varna.</string>
-     <string name="tips_title">Poveži se z internetom</string>
+     <string name="tips_message">Povežite se s spletom, da preverite če je stran, ki jo boste obiskali varna.</string>
+     <string name="tips_title">Poveži se s spletom</string>
      <string name="title">Naslov:</string>
      <string name="url_is_phish">Na tej spletni strani lahko pride do podatkovne zlorabe.</string>
      <string name="url_is_safety">Ta spletna stran je varna.</string>
@@ -64,8 +64,8 @@
      <string name="url_is_unsafety">Ta stran predstavlja nevarnost za vaše podatke.</string>
      <string name="vcard_prompt">S to kartico ni povezano nobeno ime.</string>
      <string name="visit_cloud_album">Poglej galerijo</string>
-     <string name="web">Internet:</string>
-     <string name="web_url_apk_warning">Ta aplikacija je od neznanega vira. Vaša naprava in podatki so veliko bolj ranljivi za napad od aplikacij z neznanimi viri.</string>
+     <string name="web">Splet:</string>
+     <string name="web_url_apk_warning">Ta aplikacija je od neznanega vira. Vaša naprava in podatki so veliko bolj ranljivi za napad  aplikacij z neznanimi viri.</string>
      <string name="web_url_warning">Ta spletna stran je od neznanega vira in predstavlja tveganje.</string>
      <string name="website_details">Podrobnosti spletne strani:</string>
      <string name="wechat_details">WeChat podrobnosti:</string>

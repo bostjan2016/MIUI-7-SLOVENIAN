@@ -1,28 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="hot_city">
-         <item>Ljubljana</item>
-         <item>Maribor</item>
-         <item>Celje</item>
-		 <item>Kranj</item>
-         <item>Koper</item>
-         <item>Novo Mesto</item>
-         <item>Ptuj</item>
-         <item>Zagorje</item>
-         <item>Kamnik</item>
-         <item>Jesenice</item>
-         <item>Nova Gorica</item>
-         <item>Domzale</item>
-         <item>Skofja Loka</item>
-         <item>Murska Sobota</item>
-         <item>Izola</item>
-         <item>Postojna</item>
-         <item>Logatec</item>
-         <item>Kocevje</item>
-         <item>Vrhnika</item>
-         <item>Slovenj Gradec</item>
-    </string-array>
-    <string-array name="weather_type">
+     <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+     </string-array>
+     <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+     </string-array>
+     <string-array name="hot_city">
+        <item>Ljubljana</item>
+        <item>Maribor</item>
+        <item>Celje</item>
+        <item>Kranj</item>
+        <item>Koper</item>
+        <item>Novo Mesto</item>
+        <item>Ptuj</item>
+        <item>Zagorje</item>
+        <item>Kamnik</item>
+        <item>Jesenice</item>
+        <item>Nova Gorica</item>
+        <item>Domzale</item>
+        <item>Skofja Loka</item>
+        <item>Murska Sobota</item>
+        <item>Izola</item>
+        <item>Postojna</item>
+        <item>Logatec</item>
+        <item>Kocevje</item>
+        <item>Vrhnika</item>
+        <item>Slovenj Gradec</item>
+     </string-array>
+     <string-array name="indices_car_wash">
+        <item>Ugodno</item>
+        <item>Neugodno</item>
+     </string-array>
+     <string-array name="indices_sport">
+        <item>Ugodno</item>
+        <item>neugodno</item>
+     </string-array>
+     <string-array name="indices_uv_level">
+        <item>Nizek</item>
+        <item>Srednji</item>
+        <item>Visok</item>
+     </string-array>
+     <string-array name="weather_type">
         <item>Sončno</item>
         <item>Oblačno</item>
         <item>Delno oblačno</item>
@@ -49,21 +89,8 @@
         <item>Prašno</item>
         <item>Meglica</item>
         <item>Leden dež</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>Nizek</item>
-        <item>Srednji</item>
-        <item>Visok</item>
-    </string-array>
-	<string-array name="indices_sport">
-        <item>Ugodno</item>
-        <item>neugodno</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Ugodno</item>
-        <item>Neugodno</item>
-     </string-array>		    
-    <string-array name="wind_direction">
+     </string-array>
+     <string-array name="wind_direction">
         <item>S</item>
         <item>SV</item>
         <item>V</item>
@@ -72,8 +99,8 @@
         <item>JZ</item>
         <item>Z</item>
         <item>SZ</item>
-	</string-array>	
-    <string-array name="wind_power">
+     </string-array>
+     <string-array name="wind_power">
         <item>%s</item>
         <item>%s</item>
         <item>%s</item>
@@ -87,5 +114,5 @@
         <item>%s</item>
         <item>%s</item>
         <item>%s</item>
-    </string-array>		  
+     </string-array>
 </resources>

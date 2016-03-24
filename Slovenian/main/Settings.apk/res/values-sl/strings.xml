@@ -101,6 +101,7 @@
      <string name="add_fingerprint_put_finger_edge_msg">Po pritisku na senzor, umaknite prst in ponovite.</string>
      <string name="add_fingerprint_put_finger_msg">Po pritisku na senzor, umaknite prst in ponovite.</string>
      <string name="add_fingerprint_put_finger_title">Postavite in umaknite prst</string>
+     <string name="add_fingerprint_similar_fingerprint_input_error_msg">Spremenite položaj vašega prsta</string>
      <string name="add_fingerprint_text">Dodaj prstni odtis</string>
      <string name="add_fingerprint_toast_text">Postavite prst na skener</string>
      <string name="adding_profile_owner_warning">"Če nadaljujete bo z vašim Uporabnikom upravljal administrator, ki lahko hrani tudi povezane podatke, kot tudi vaše osebne podatke.Administrator lahko nadzira nastavitve, pristop, aplikacije in podatke povezane s tem uporabnikom in jih upravljati, vključno omrežno aktivnost in podatke o lokaciji vaše naprave."</string>

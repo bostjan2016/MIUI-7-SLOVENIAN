@@ -284,6 +284,7 @@
      <string name="resource_trial_fail_title">Ni uspelo vzpostaviti poskusne seje</string>
      <string name="resource_trial_hours">Preskusna doba : %1$d h</string>
      <string name="resource_trial_hours_minutes">(Preskusna doba :%1$dh %2$dm)</string>
+     <string name="resource_trial_minutes">(Preiskusno obdobje: %1$d m)</string>
      <string name="resource_trial_time">(Preskusna doba: %1$d min.)</string>
      <string name="resource_unknow_error">Prišlo je do neznane napake</string>
      <string name="resource_update">Posodobi</string>

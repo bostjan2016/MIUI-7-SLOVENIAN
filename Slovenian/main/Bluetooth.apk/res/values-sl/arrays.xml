@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="ble_profile_mi_band">
-        <item>Vibracija pri klicu</item>
-        <item>Vibracija pri prejemu sporočila</item>
-        <item>Vibracija pri alarmu</item>
+        <item>Vibriranje pri klicu</item>
+        <item>Vibriranje pri prejemu sporočila</item>
+        <item>Vibriranje pri alarmu</item>
     </string-array>
     <string-array name="ble_profile_mi_key">
         <item>Posnemi fotografijo</item>

@@ -155,10 +155,12 @@
      <string name="encrypt_success">Uspešno skrito</string>
      <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrtite datoteke lahko vidite s potegom dol na začetni strani aplik. Datoteke."</string>
      <string name="encrypting">Šifriranje…</string>
+     <string name="error_contains_sharer_path">"Ne morem dešifrirati datoteke v mapi /MIUI/Gallery/cloud/sharer. Prestavite datoteke drugam in poskusite ponovno."</string>
      <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
      <string name="error_info_cant_send_folder">Ta tip datoteke ni mogoče poslati</string>
      <string name="error_open_file_failed_no_app_found">Najdena ni bila nobena aplikacija za opravljanje te funkcije.</string>
      <string name="expand_all">Vse</string>
+     <string name="extended_storage_file_can_not_open">"Ne morem odpreti datoteko. Kopirajte datoteko v notranjo shrambo."</string>
      <string name="extract">Razširi</string>
      <string name="fail_to_create_folder">Ni dovolj prostora ali pa mapa že obstaja.</string>
      <string name="fail_to_create_folder_unknown">Mape ni mogoče ustvariti</string>

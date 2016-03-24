@@ -148,6 +148,8 @@
      <string name="notif_restore_complete_title">Uspešno vrnjeno</string>
      <string name="notif_restore_content">Vračanje upor. podatkov</string>
      <string name="notif_restore_title">Vrni upor. podatke</string>
+     <string name="notif_trans_receiving_completed">Podatki uspešno prejeti</string>
+     <string name="notif_trans_sending_completed">Podatki uspešno poslani</string>
      <string name="page_loading">Samo trenutek…</string>
      <string name="progress_backup_hint">Varnostno kopiranje...</string>
      <string name="progress_restore_hint">Obnavljam...</string>
@@ -240,13 +242,13 @@
      <string name="total_num">%d predmeti</string>
      <string name="trans_backingup">Izdelava var. kopije …</string>
      <string name="trans_backingup_no_items">Sinhr. …</string>
-  <string name="trans_calculating">Izračunavanje…</string>
-  <string name="trans_calculating_app_sd_size">Izračun velikosti podatkov za pošiljanje, %s skenirano</string>
-  <string name="trans_calculating_base_size">"Izračun velikosti baze aplikacije"</string>
+     <string name="trans_calculating">Izračunavanje…</string>
+     <string name="trans_calculating_app_sd_size">Izračun velikosti podatkov za pošiljanje, %s skenirano</string>
+     <string name="trans_calculating_base_size">"Izračun velikosti baze aplikacije"</string>
      <string name="trans_cancel_confirm">Prenos poteka, ustaviti zdaj?</string>
      <string name="trans_cancelling">Nehaj</string>
-  <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
-  <string name="trans_connect_failed_title">Povezovanje ni uspelo</string>
+     <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
+     <string name="trans_connect_failed_title">Povezovanje ni uspelo</string>
      <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
      <string name="trans_connecting_toast">Povezovanje…</string>
      <string name="trans_detail_category_account">Računi in kontakti</string>
@@ -257,39 +259,36 @@
      <string name="trans_generate_qr_code_failed">"Ni možno izdelati QR kode"</string>
      <string name="trans_main_tutor">Premestite kontakte, zgodovino klicev, sporočila, začetni zaslon, aplikacije, nastavitve, itd. na novo napravo</string>
      <string name="trans_my_device">Moja naprava</string>
-  <string name="trans_native_no_space">"V napravi ni dovolj prostora.
-Izbrišite najmanj %s"</string>
+     <string name="trans_native_no_space">"V napravi ni dovolj prostora.Izbrišite najmanj %s"</string>
      <string name="trans_one_key_migrate">Mi Mover</string>
      <string name="trans_operate_func_one">Metoda A</string>
      <string name="trans_operate_func_two">Metoda B</string>
-     <string name="trans_operate_new_phone_tips">"Skenirajte QR kodo z uporabo nove naprave.
-Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover
-Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
+     <string name="trans_operate_new_phone_tips">"Skenirajte QR kodo z uporabo nove naprave.Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi MoverDotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
      <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikacijo Mi Mover na vaši drugi napravi2. Odprite aplikacijo in izberite [Sem pošiljatelj]3. Skenirajte QR kodo z vašo drugo napravo"</string>
      <string name="trans_operate_old_phone_tips2">Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover. Dotaknite se [Sem pošiljatelj]"</string>
-  <string name="trans_please_waiting">Počakajte malo…</string>
+     <string name="trans_please_waiting">Počakajte malo…</string>
      <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
      <string name="trans_progress_subdescript_br_sender">Izdelava var. kopije %1$s, %2$s končana</string>
+     <string name="trans_progress_subdescript_br_sender_finish">Var. kopija  %s, čaka na pošiljanje se vraćanje…</string>
      <string name="trans_progress_subdescript_transing_receiver">Prejemanje %1$s, %2$s končano</string>
+     <string name="trans_progress_subdescript_transing_receiver_finish">Primljeno %s, čaka na obnovitev…</string>
      <string name="trans_progress_subdescript_transing_sender">Pošiljanje %1$s, %2$s končano</string>
      <string name="trans_progress_subdescript_transingsd_receiver">Sprejem datotek, %s končano</string>
      <string name="trans_progress_subdescript_transingsd_sender">Pošiljanje datotek, %s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD kartice %1$s, %2$s končano</string>
-  <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD kartice %1$s, %2$s končano</string>
+     <string name="trans_progress_subdescript_transingsddata_receiver">Prejemanje podatkov SD kartice %1$s, %2$s končano</string>
+     <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD kartice %1$s, %2$s končano</string>
      <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
      <string name="trans_receiver">"Sem prejemnik"</string>
      <string name="trans_receiver_time_remained">"%s preostalo. Ne izključite WLAN. Imejte obe napravi blizu skupaj."</string>
      <string name="trans_receiving_completed">Uspešno prejeto</string>
      <string name="trans_restoring">Vračanje…</string>
      <string name="trans_restoring_no_items">Sinhr. postavk</string>
-  <string name="trans_retry">Pokusite ponovno</string>
+     <string name="trans_retry">Pokusite ponovno</string>
      <string name="trans_scan_invalid_qrcode">Neveljavna  QR koda</string>
      <string name="trans_scan_qr_code_tips">Skenirajte QR kodo z vašo novo napravo</string>
      <string name="trans_select_data">Izberite podatke</string>
-     <string name="trans_select_data_no_space">"%s dostopno na novi napravi.
-      Izberite datoteke ponovno ali osvobodite prostor za hrambo"</string>
-     <string name="trans_select_data_tips">"Izberite datoteke za prenos.
-     Podobne datoteke na novi napravi bodo presnete"</string>
+     <string name="trans_select_data_no_space">"%s dostopno na novi napravi.      Izberite datoteke ponovno ali osvobodite prostor za hrambo"</string>
+     <string name="trans_select_data_tips">"Izberite datoteke za prenos.     Podobne datoteke na novi napravi bodo presnete"</string>
      <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
      <string name="trans_select_device_send">Izberite napravo za prenos podatakov.</string>
      <string name="trans_sender">"Sem pošiljatelj"</string>
@@ -300,11 +299,10 @@ Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
      <string name="trans_sending_completed">Uspešno poslano</string>
      <string name="trans_show_qr_code_label">Povežite drugo napravo</string>
      <string name="trans_show_qr_code_tips">Skenirajte QR kodo z vašo staro napravo</string>
-  <string name="trans_start_failed_message">Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno</string>
-  <string name="trans_start_failed_title">Pošiljanje ni uspelo</string>
+     <string name="trans_start_failed_message">Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno</string>
+     <string name="trans_start_failed_title">Pošiljanje ni uspelo</string>
      <string name="trans_time_format_second">Manj od 1 minute</string>
-     <string name="trans_time_spent">"
-      Porabljeni čas %s"</string>
+     <string name="trans_time_spent">"      Porabljeni čas %s"</string>
      <string name="trans_wait_trans_data">"Povezano z drugo napravo. Čakam prenos…"</string>
      <string name="trans_waiting_ensurance">"Poskrbite da je druga naprava vključena in Mi Mover vključen"</string>
      <string name="trans_waiting_for_sender">Čakanje povezovanja druge naprave…</string>
@@ -313,6 +311,14 @@ Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
      <string name="unknown_hint">Nepoznan</string>
      <string name="wifi_title">Wi-Fi nastavitve</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+     <string name="xiaomi_connect_download_manager_fail">Povezovanje z Upraviteljem prenosov ni uspelo, preverite stanje Upravitelja prenosov v Upraitelju aplikacij.</string>
+     <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico.</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
+     <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s Velikost: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verziju %1$s  Velikost Delta posodobitve: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">Dostopna nova posodobitev!</string>
 </resources>

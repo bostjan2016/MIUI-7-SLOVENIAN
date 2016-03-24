@@ -25,6 +25,17 @@
      <string name="resource_apply">Nastavi</string>
      <string name="resource_no_network_text">"Ne morem se povezati na omrežje."</string>
      <string name="setting_head">Nastavitve</string>
+     <string name="sst_favor_desc">Preveri priljubljene</string>
+     <string name="sst_favor_title">Priljubljeni</string>
+     <string name="sst_no_favor_wallpaper_hint">Ni priljubljenih</string>
+     <string name="sst_prov_enable_desc">Uživajte v več čudovitih ozadij na zakl. zaslonu</string>
+     <string name="sst_prov_enable_title">Uživajte v spremembah</string>
+     <string name="sst_require_one_category_hint">Naročite najmanj en predmet</string>
+     <string name="sst_sti_desc">Nastavite časovni interval za zamenjavo slike ozadja zakl. zaslona</string>
+     <string name="sst_sti_title">Sprememba časovnega intervala</string>
+     <string name="sst_subscribe_title">Naročnina</string>
+     <string name="sst_wifi_only_desc">Predlagamo, da izključite da privarčijete mobilne podatke</string>
+     <string name="sst_wifi_only_title">Omogočite Nalaganje Slik z Metered Mobile Connection</string>
      <string name="summary">"Sprejmite naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Uporabniški Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o zasebnosti&lt;/a&gt; za začetek. Potrebna je internetna povezava.​"</string>
      <string name="summary_international">"Z uporabo pristajate na naše &lt;a href ='http://www.miui.com/res/doc/eula.html?lang=en_US'&gt;Uporabniški Sporazum&lt;/a&gt; i &lt;a href='http://www.miui.com/res/doc/privacy/en.html'&gt;Pravila o Zasebnosti&lt;/a&gt;. Potrebna internetna povezava.​"</string>
      <string name="theme_apply_failured">"Ne morem nastaviti slike ozadja zakl. zaslona"</string>
