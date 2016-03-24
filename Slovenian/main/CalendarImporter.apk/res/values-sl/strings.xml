@@ -14,7 +14,7 @@
   <string name="importing">Uvoz...</string>
   <string name="loading">Nalaganje…</string>
   <string name="no_access_toast">Račun ni najden. Najprej dodajte račun</string>
-  <string name="no_calendars_found">Ta račun ne podpira sinhronizacije koledarja ali  pa zadnja sinhronizacija ni bila dokončana.</string>
+  <string name="no_calendars_found">Ta račun ne podpira sinhronizacije koledarja ali pa zadnja sinhronizacija ni bila dokončana.</string>
   <string name="no_syncable_calendars">Ne morem uvoziti</string>
   <string name="not_support_multi_events">Datoteka z več dogodki ni podprta.</string>
   <string name="null_name">Nobeden</string>

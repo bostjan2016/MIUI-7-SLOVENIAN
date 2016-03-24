@@ -19,11 +19,11 @@
   <string name="month_report_history_activity_label">Zgodovina poročil</string>
   <string name="month_report_network_dialog_description">Dovolim tej aplikaciji povezovanje na internet za dobivanje detajlev poročila?</string>
   <string name="month_report_network_dialog_positive">Dovoli</string>
-  <string name="month_report_network_dialog_title">"Ne morem dobiti detajlev poročila"</string>
+  <string name="month_report_network_dialog_title">"Ne morem dobiti detajlov poročila"</string>
   <string name="month_report_result_share">Deli</string>
   <string name="month_report_share_img_fail">"Ne morem podeliti"</string>
   <string name="month_report_share_loading">Samo trenutek…</string>
-  <string name="month_report_warning_dialog_description">"Za pregled mesečnega poročila, vključite to funkcijo v nastavitvah aplikacije Varnost."</string>
+  <string name="month_report_warning_dialog_description">"Za pregled mesečnega poročila vključite to funkcijo v nastavitvah aplikacije Varnost."</string>
   <string name="month_report_warning_dialog_positive">Vključi</string>
   <string name="month_report_warning_dialog_title">Mesečno varnostno poročilo</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>

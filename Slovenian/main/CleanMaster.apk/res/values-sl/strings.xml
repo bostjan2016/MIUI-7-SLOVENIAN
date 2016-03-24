@@ -75,9 +75,9 @@
      <string name="cached_garbage">Predpomnilnik</string>
      <string name="cancel">Prekliči</string>
      <string name="clean_content_all">Vse</string>
-     <string name="clean_content_one">1 postavko</string>
+     <string name="clean_content_one">1 postavka</string>
      <string name="clean_content_three">3 postavke</string>
-     <string name="clean_content_two">2 postavke</string>
+     <string name="clean_content_two">2 postavki</string>
      <string name="clean_content_zero">Nič</string>
      <string name="clear_bigfiles">Izbriši velike datoteke, duplikate fotografij in druge nepotrebne stvari</string>
      <string name="clear_immediately">Izbriši zdaj</string>
@@ -149,7 +149,7 @@
      <string name="goto_set">Nastavi</string>
      <string name="grabage_rank_title">Očiščeno danes</string>
      <string name="harass_detail">Blokirano %1$d SMS-ov in %2$d klicev</string>
-     <string name="header_optimizer">Z uporabo te funkcije, pristajate na %s.</string>
+     <string name="header_optimizer">Z uporabo te funkcije pristajate na %s.</string>
      <string name="hint_bar_select_image">Izbrano: %d</string>
      <string name="hint_clean_select_similar_image">Brisanje duplikatov…</string>
      <string name="hints_ad_header_left">Reklame</string>
@@ -182,7 +182,7 @@
      <string name="hints_installed_app_never">Nikoli uporabljeno</string>
      <string name="hints_installed_apps_header_left">Nameščene apl.: %d</string>
      <string name="hints_large_file_header_left">Vel. datoteke: %d</string>
-     <string name="hints_latest_garbage_cleanup_date">Zadnje čiščenje: Prije %d dnevi</string>
+     <string name="hints_latest_garbage_cleanup_date">Zadnje čiščenje: Pred %d dnevi</string>
      <string name="hints_latest_garbage_cleanup_never">Nikoli čiščeno</string>
      <string name="hints_latest_garbage_cleanup_today">Zadnje čiščenje: Danes</string>
      <string name="hints_latest_garbage_cleanup_yesterday">Zadnje čiščenje: Včeraj</string>
@@ -258,7 +258,7 @@
      <string name="pref_category_title_garbage_cleanup_check">Obvestila</string>
      <string name="pref_category_title_other_clean_settings">Dodatne nastavitve</string>
      <string name="pref_content_cleanup_white_list_none">Nič</string>
-     <string name="pref_summary_auto_clean_and_alert">Nastavi avutomatski zagon čistilca po razporedu</string>
+     <string name="pref_summary_auto_clean_and_alert">Nastavi avtomatski zagon čistilca po razporedu</string>
      <string name="pref_summary_auto_update_cleanup_db">Zadnja posodobitev %s</string>
      <string name="pref_summary_cleanup_white_list">Prepreči čiščenje izbranih aplikacij</string>
      <string name="pref_summary_expand_cache_group">Prikaži podrobnosti predpomnilnika avtomatsko</string>
@@ -300,7 +300,7 @@
      <string name="privacy_search_type">Google iskanje</string>
      <string name="promotion">Reklama</string>
      <string name="recommend_news">Priporočeni viri</string>
-     <string name="recommend_the_following">Sledite tem korakom, da dobite največ iz vaše naprave</string>
+     <string name="recommend_the_following">Sledite tem korakom da dobite največ iz vaše naprave</string>
      <string name="recommended">Priporočeno</string>
      <string name="safety_check_detail">%1$d krat, dobljeno %2$d točk</string>
      <string name="safety_rank">Pred %d%% MIUI uporabniki glede varnosti</string>

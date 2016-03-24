@@ -15,7 +15,7 @@
   <string name="cb_other_message_identifiers">Oddaje v celici</string>
   <string name="cell_broadcast_settings_not_available">Nastavitve sporočil o trenutni lokaciji niso na voljo za tega uporabnika</string>
   <string name="cmas_amber_alert">Ugrabitev otroka (oranžno opozorilo)</string>
-  <string name="cmas_category_cbrne">Kemična/biološka/jedrska/eksploziv</string>
+  <string name="cmas_category_cbrne">Kemična/biološka/jedrska/eksplozija</string>
   <string name="cmas_category_env">Okoljska</string>
   <string name="cmas_category_fire">Požar</string>
   <string name="cmas_category_geo">Geofizična</string>
@@ -78,7 +78,7 @@
   <string name="enable_emergency_alerts_summary">Prikaži oddaje za opozorila v sili</string>
   <string name="enable_emergency_alerts_title">Vklop besedil</string>
   <string name="enable_etws_test_alerts_summary">Prikaži preskusne oddaje za opozorilni sistem o potresih in cunamijih</string>
-  <string name="enable_etws_test_alerts_title">Pokaži preskus. oddaje za ETWS</string>
+  <string name="enable_etws_test_alerts_title">Pokaži preskusne oddaje za ETWS</string>
   <string name="etws_earthquake_and_tsunami_warning">Opozorilo o potresu in cunamiju</string>
   <string name="etws_earthquake_warning">Opozorilo o potresu</string>
   <string name="etws_other_emergency_type">Opozorilo v sili</string>

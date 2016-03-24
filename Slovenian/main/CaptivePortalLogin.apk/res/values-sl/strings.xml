@@ -6,5 +6,5 @@
   <string name="app_name">CaptivePortalLogin</string>
   <string name="ssl_error_continue">Vseeno nadaljuj v brskalniku</string>
   <string name="ssl_error_example">Stran za prijavo na primer morda ne pripada prikazani organizaciji.</string>
-  <string name="ssl_error_warning">Omrežje, ki se mu poskušate pridružiti, ima varnostne težave.</string>
+  <string name="ssl_error_warning">Omrežje ki se mu poskušate pridružiti ima varnostne težave.</string>
 </resources>

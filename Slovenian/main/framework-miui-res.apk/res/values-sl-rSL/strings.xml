@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alwaysUsePrompt">"Zapomni si (ne sprašuj več)"</string>
+  <string name="alwaysUsePrompt">"Ne sprašuj več"</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="app_no_notification">Brez obvestil</string>
   <string name="app_notificaiton_on_notificationBar">Plošča obvestil</string>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Spisek aliLista ili Plošča obvestil</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Spisek ali Plošča obvestil</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Dovoli</string>
@@ -35,7 +35,7 @@
   <string name="global_actions_airplane_mode">"Način Letalo"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
-  <string name="global_actions_silent_mode">"Brezšumni način"</string>
+  <string name="global_actions_silent_mode">"Način Tiho"</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -82,7 +82,7 @@
   <string name="lunar_yi">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">I</string>
-  <string name="memory_clear_nothing_result">Uporaba spomina že optimizirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba spomina že optimirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$s Dostopno: %2$s"</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
@@ -101,9 +101,9 @@
   <string name="reboot_progress">Ponovni zagon…</string>
   <string name="replace">Zamenjaj</string>
   <string name="retrocession_day"/>
-  <string name="screen_button_notification_text">"Da jih vključite, istočasno pritisnite tipke \"Domov\" in \"Vklop\"."</string>
+  <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipke \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije, istočasno pritisnite tipke \"Nazaj\" in \"Povečanje glasnosti\"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipke \"Nazaj\" in \"Povečanje glasnosti\"."</string>
   <string name="screen_on_proximity_sensor_summary">Ne prekrijte zgornjega dela zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="select">Izberi</string>

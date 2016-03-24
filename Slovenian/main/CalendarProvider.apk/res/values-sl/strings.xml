@@ -9,9 +9,9 @@
      <string name="calendar_storage">Pomnilnik koledarja</string>
      <string name="debug_tool_delete_button">Izbriši</string>
      <string name="debug_tool_email_body">Pripeta je zbirka podatkov koledarja z vsemi mojimi sestanki in osebnimi podatki. Z njo ravnajte previdno.</string>
-     <string name="debug_tool_email_sender_picker">Izberite program, s katerim želite poslati datoteko</string>
+     <string name="debug_tool_email_sender_picker">Izberite program s katerim želite poslati datoteko</string>
      <string name="debug_tool_email_subject">Zbirka podatkov koledarja priložena</string>
-     <string name="debug_tool_message">1) Na kartico SD/pomnilnik USB boste kopirali zbirko podatkov koledarja, ki jo bo lahko bral vsak program, in 2) jo poslali po e-pošti. Ne pozabite je izbrisati, takoj ko jo uspešno kopirate iz naprave.</string>
+     <string name="debug_tool_message">1) Na kartico SD/pomnilnik USB boste kopirali zbirko podatkov koledarja, ki jo bo lahko bral vsak program, in 2) jo poslali po e-pošti. Ne pozabite je izbrisati takoj ko jo uspešno kopirate iz naprave.</string>
      <string name="debug_tool_start_button">Začetek</string>
      <string name="holiday_data_no_network">"Ne morem se povezati na omrežje. Preverite podatkovno povezavo in poskusite ponovno."</string>
      <string name="holiday_data_update_failed">"Ne morem posodobiti. Preverite podatkovno povezavo in poskusite ponovno."</string>

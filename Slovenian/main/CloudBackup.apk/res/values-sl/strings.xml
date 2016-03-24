@@ -8,11 +8,11 @@
      <string name="back_up_task_unfinished">Var. kopija ni končana</string>
      <string name="backing_up_to_micloud">Varnostno kopiram...</string>
      <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
-     <string name="backup_finished_notification_content">Shranjene so aplikacije Zač.zaslona, sistemske nastavitve itd.</string>
+     <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
      <string name="backup_size">Velikost: %s</string>
      <string name="backup_success">Varnostna kopija uspešno napravljena</string>
      <string name="backup_to_cloud">Varnostno kopiraj podatke aplikacije</string>
-     <string name="button_cancel">Odustani</string>
+     <string name="button_cancel">Prekliči</string>
      <string name="button_delete">Izbriši</string>
      <string name="button_next">Naprej</string>
      <string name="cancel_recover_settings">Prekliči</string>

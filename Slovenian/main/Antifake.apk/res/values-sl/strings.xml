@@ -14,7 +14,7 @@
   <string name="cancel">Prekliči</string>
   <string name="cancel_check">Prekliči</string>
   <string name="capture_tip">Poravnajte kodo v okvir spodaj</string>
-  <string name="charge_up_battery">Da boste prepričani v točnost benchmark testa, poskrbite, da bo baterija telefona napolnjena več kot 50%.</string>
+  <string name="charge_up_battery">Da boste prepričani v točnost benchmark testa poskrbite da bo baterija telefona napolnjena več kot 50%.</string>
   <string name="check_again">Ponovno preveri</string>
   <string name="check_finish">Poglej na spletni strani</string>
   <string name="close_flash_error">"Ne morem izključiti bliskavice"</string>
@@ -24,7 +24,7 @@
   <string name="copy_succeed">Kopirano v odložišče</string>
   <string name="copycat_num">Ni pravi Xiaomi!</string>
   <string name="cpu">CPU</string>
-  <string name="desc_useless_session">"Ne morem dobiti informacij o QR kodi. Obiščite jd.mi.com in skenirajte QR kodo, da potrdite svojo napravo."</string>
+  <string name="desc_useless_session">"Ne morem dobiti informacij o QR kodi. Obiščite jd.mi.com in skenirajte QR kodo da potrdite svojo napravo."</string>
   <string name="detail_config">Podrobnosti</string>
   <string name="detail_config_unechecked">Podrobnosti - ni preverjeno</string>
   <string name="detail_info">Podrobnosti:</string>
@@ -57,7 +57,7 @@
   <string name="get_result_path">Podrobnosti avtentikacije</string>
   <string name="get_result_second">Podrobnosti avtentikacije</string>
   <string name="get_result_third">QR koda</string>
-  <string name="hard_device_msg_submit">Podrobnosti Hardwarea so poslani</string>
+  <string name="hard_device_msg_submit">Podrobnosti Hardwarea so poslane</string>
   <string name="hardware_compare">Hardware</string>
   <string name="help_adults">Pomoč</string>
   <string name="label_error_msg">Napake</string>

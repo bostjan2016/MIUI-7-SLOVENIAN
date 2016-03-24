@@ -5,9 +5,9 @@
      <string name="accessibility_add_reminder">Dodaj opomnik</string>
      <string name="accessibility_all_day">Celodnevni dogodek</string>
      <string name="accessibility_pick_end_date">Končni datum</string>
-     <string name="accessibility_pick_end_time">ZA</string>
+     <string name="accessibility_pick_end_time">Čas končanja</string>
      <string name="accessibility_pick_start_date">Začetni datum</string>
-     <string name="accessibility_pick_start_time">OD</string>
+     <string name="accessibility_pick_start_time">Čas začetka</string>
      <string name="accessibility_pick_time_zone">Časovni pas</string>
      <string name="accessibility_reminder_privacy">Zasebnost</string>
      <string name="accessibility_reminder_showmeas">Prikaži kot</string>
@@ -20,7 +20,7 @@
      <string name="account_and_calendar">Računi</string>
      <string name="account_and_calendar_to_display">Izberi koledarje za prikaz</string>
      <string name="accounts">Računi &amp; sinhronizacija</string>
-     <string name="acct_not_synced">Ta račun ni sinhroniziran, zato vaši koledarji morda niso posodobljeni.</string>
+     <string name="acct_not_synced">Ta račun ni sinhroniziran zato vaši koledarji morda niso posodobljeni.</string>
      <string name="acessibility_cal_notification">Obvestila koledarja</string>
      <string name="acessibility_selected_marker_description">Izbran dogodek</string>
      <string name="acessibility_snooze_notification">Obvestila dremeža</string>
@@ -49,7 +49,7 @@
      <string name="birthday_calendar_display_name">Rojstni dnevi</string>
      <string name="birthday_event_description">"Danes je %1$s's %4$s!"</string>
      <string name="birthday_event_description_a_week_ago">Pred tednom</string>
-     <string name="birthday_event_description_a_week_later">Tedan kasneje</string>
+     <string name="birthday_event_description_a_week_later">Teden kasneje</string>
      <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
      <string name="birthday_event_description_day_before_yesterday">Predvčerajšnjem</string>
      <string name="birthday_event_description_days_ago">Pred %1$s dni</string>
@@ -118,7 +118,7 @@
      <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
      <string name="credit_event_title">信用卡账单</string>
      <string name="cta_notice_checkbox">Zapomni si nastavitve</string>
-     <string name="cta_notice_message">Koledar mora prebrati informacije stikov, da lahko nastavi rojstnodnevne opomnike.</string>
+     <string name="cta_notice_message">Koledar mora prebrati informacije stikov da lahko nastavi rojstnodnevne opomnike.</string>
      <string name="cta_notice_ok">Dovoli</string>
      <string name="cta_notice_title">Zahtevek za dovoljenje</string>
      <string name="cta_notify_settings">Najprej vprašaj mene</string>
@@ -164,7 +164,7 @@
      <string name="dropdown_delete_button_desc">Izbriši %s</string>
      <string name="edit_event_all_day_label">Cel dan</string>
      <string name="edit_event_calendar_label">Koledar</string>
-     <string name="edit_event_confirm_message">Zavrzi spremembe dogodka?</string>
+     <string name="edit_event_confirm_message">Zavržem spremembe dogodka?</string>
      <string name="edit_event_from_label">Od</string>
      <string name="edit_event_label">Podrobnosti</string>
      <string name="edit_event_reminder_off_toast">Opomniki so izključeni</string>
@@ -307,7 +307,7 @@
      <string name="preferences_default_reminder_title">Privzeti čas opomnika</string>
      <string name="preferences_general_title">Način prikaza koledarja</string>
      <string name="preferences_hide_declined_title">Skrij zavrnjene dogodke</string>
-     <string name="preferences_home_tz_default">Europa/Zagreb</string>
+     <string name="preferences_home_tz_default">Europa/Ljubljana</string>
      <string name="preferences_home_tz_title">Domači časovni pas</string>
      <string name="preferences_import_credit_repayment">Plačilo s kreditno kartico</string>
      <string name="preferences_reminder_title">Obvestila &amp; opomniki</string>
@@ -404,7 +404,7 @@
      <string name="tab_local">Lokalno</string>
      <string name="tab_online">Priporočilo</string>
      <string name="taishen">Božji otrok</string>
-     <string name="tardis">TARDIS</string>
+     <string name="tardis">Tardis</string>
      <string name="template_announce_item_index">Dogodek %1$s od %2$s</string>
      <string name="text_year">Leto</string>
      <string name="ticket_card_date">%1$s月%2$s日</string>
@@ -427,7 +427,7 @@
      <string name="travel_airport">Letališče</string>
      <string name="travel_carriage_number_text">Avto</string>
      <string name="travel_eta_advice">%2$s min. vožnje do %1$s.</string>
-     <string name="travel_ets_advice">Vozi u %2$s pred %1$s.</string>
+     <string name="travel_ets_advice">Vozi ob %2$s pred %1$s.</string>
      <string name="travel_event_add_successfully">Dogodek dodan</string>
      <string name="travel_event_add_unsuccessfully">"Ne morem dodati dogodka"</string>
      <string name="travel_event_added">Dogodek dodan</string>
