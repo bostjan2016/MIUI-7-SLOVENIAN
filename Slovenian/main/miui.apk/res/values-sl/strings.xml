@@ -90,7 +90,7 @@
   <string name="friday">Petek</string>
   <string name="friday_short">Pet</string>
   <string name="friday_shortest">P</string>
-  <string name="hybrid_provider">Web stran ponuja %1$s .</string>
+  <string name="hybrid_provider">Ponuja %1$s .</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Ne morem se povezati z omrežjem. 
 Da boste videli te informacije, 
@@ -149,7 +149,7 @@ pojdite na: %s."</string>
   <string name="organization">Organizacija</string>
   <string name="perm_payment_dspt">Dovoljenje aplikaciji plačilo z Mi Uslugo plačila</string>
   <string name="perm_payment_lab">Mi Usluge plačila</string>
-  <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS-e, brez spraševanja za dovoljenje. To lahko povzroči dodatne stroške.</string>
+  <string name="permdesc_sendSmsNoConfirmation">Aplikacija lahko pošilja SMS-e brez spraševanja za dovoljenje. To lahko povzroči dodatne stroške.</string>
   <string name="permlab_sendSmsNoConfirmation">Pošiljanje SMS sporočil brez potrdila</string>
   <string name="phone">Telefon</string>
   <string name="pm">PM</string>

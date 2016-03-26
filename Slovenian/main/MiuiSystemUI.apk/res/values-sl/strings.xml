@@ -174,7 +174,7 @@
      <string name="settings_custom_notification">Upravljanje obvestil</string>
      <string name="settings_toggle_position">Upravljaj z bližnjicami</string>
      <string name="settings_toggle_position_divider_list">Bližnjice nad to vrstico so aktivne</string>
-     <string name="settings_toggle_position_divider_page">%1$d bližnjice nad to vrstico so aktivne</string>
+     <string name="settings_toggle_position_divider_page">%1$d bližnjic nad to vrstico so aktivne</string>
      <string name="settings_toggle_position_reset">Ponastavitev bližnjic</string>
      <string name="share">Deli</string>
      <string name="status_bar_date_format">"EEEE d. MMMM"</string>

@@ -100,7 +100,7 @@ pojdite na: %s."</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
   <string name="maml_component_customization_title">Nastavitve</string>
-  <string name="memory_clear_nothing_result">Uporaba memorije je že optimirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba spomina je že optimirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
   <string name="mibi_license">Mi Krediti Pogoji ponudbe storitev</string>
   <string name="miui_device_name">Android</string>
@@ -151,7 +151,7 @@ pojdite na: %s."</string>
   <string name="status_bar_toggle_flight_mode">Avion</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Zakl.</string>
-  <string name="status_bar_toggle_mute">Brezšumno</string>
+  <string name="status_bar_toggle_mute">Tiho</string>
   <string name="status_bar_toggle_network_type">Omrežje</string>
   <string name="status_bar_toggle_paper_mode">Način branja</string>
   <string name="status_bar_toggle_power_mode">Performanse</string>
@@ -190,6 +190,7 @@ pojdite na: %s."</string>
   <string name="vernal_equinox"/>
   <string name="vip_achievements">Dosežki</string>
   <string name="vip_level">LV%d</string>
+  <string name="vip_login">Kliknite za prijavo</string>
   <string name="vip_not_login">Niste prijavljeni</string>
   <string name="vip_sign">Podpis:</string>
   <string name="white_dews"/>

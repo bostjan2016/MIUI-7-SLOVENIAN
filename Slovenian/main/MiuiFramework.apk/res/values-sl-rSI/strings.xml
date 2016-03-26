@@ -37,7 +37,7 @@
       Za izklop te funkcije pojdi na Nastavitve &gt; Sistem &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM snemanje</string>
   <string name="fools_day">1. april</string>
-     <string name="force_exit_message">Prisilno zapri %1$s</string>
+  <string name="force_exit_message">Uspešno zaprta aplikacija: \"%1$s\"</string>
      <string name="force_exit_skip_message">Ni mogoče zapreti %1$s ker je zahtevan s strani sistema.</string>
      <string name="global_actions_airplane_mode">Letalski način</string>
      <string name="global_actions_reboot">Ponovno zaaženi</string>
@@ -92,7 +92,7 @@
   <string name="lunar_zheng">" "</string>
      <string name="maml_component_customization_title">Nastavitve</string>
      <string name="memory_clear_nothing_result">Nič ni za izbrisati v predpomnilniku</string>
-     <string name="memory_clear_result">%1$s izbrisano | %2$s na voljo</string>
+  <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
      <string name="miui_device_name">Android</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
@@ -126,7 +126,7 @@
      <string name="sim_added_reboot_title">SIM kartica se bo aktivirala po tem ko ponovno zaženete napravo.</string>
   <string name="slight_cold"/>
   <string name="slight_heat"/>
-  <string name="softap_notifif_summary">%d povezano</string>
+  <string name="softap_notifif_summary">Povezano: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" vključen</string>
   <string name="solar_calendar"/>
   <string name="spring_begins"/>
