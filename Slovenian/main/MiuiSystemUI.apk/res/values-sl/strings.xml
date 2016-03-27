@@ -112,7 +112,7 @@
      <string name="ext_media_unmountable_notification_message">USB pomnilnik poškodovan. Morda ga boste morali formatirati.</string>
      <string name="ext_media_unmountable_notification_title">Poškodovan USB pomnilnik.</string>
      <string name="gps_notification_found_text">Lokacija določena z GPS</string>
-     <string name="gps_notification_searching_text">Iščem GPS/string>
+     <string name="gps_notification_searching_text">Iščem GPS</string>
      <string name="headset_custom">Konfiguriranje</string>
      <string name="headset_info">Tapni za konfiguracijo nastavitev</string>
      <string name="headset_settings">Slušalke povezane</string>
@@ -217,7 +217,7 @@
      <string name="usb_accessory_uri_prompt">Nobena naložena aplikacija ne deluje s to USB opremo. Preberite več o tej opremi na %1$s.</string>
      <string name="usb_debugging_always">Vedno dovoli iz tega rečunalnika</string>
      <string name="usb_debugging_message">Računalnikov RSA odtis ključa je:     
-      %1$s</string>
+ %1$s</string>
      <string name="usb_debugging_title">Dovoli USB odpravljanje napak?</string>
      <string name="usb_device_confirm_prompt">Odpri %1$s ko bo ta USB naprava povezana?</string>
      <string name="usb_device_permission_prompt">Dovolim plikaciji %1$s dostop do USB naprave?</string>
