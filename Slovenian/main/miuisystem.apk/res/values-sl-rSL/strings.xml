@@ -47,7 +47,7 @@ Za vklop te funkcije, pojdite na Nastavitve &gt; Dodatne nastavitve &gt; Tipke</
   <string name="global_actions_airplane_mode">"Način v avionu"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
-  <string name="global_actions_silent_mode">"Brezšumno"</string>
+  <string name="global_actions_silent_mode">"Tiho"</string>
   <string name="good_friday"/>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>

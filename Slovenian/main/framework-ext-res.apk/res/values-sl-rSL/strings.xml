@@ -23,7 +23,7 @@
   <string name="copy">Kopiraj</string>
   <string name="cut">Izreži</string>
   <string name="default_name">Privzeto</string>
-  <string name="fc_dialog_body">Pošljem poročilo o napakah Mi strežnikom za analiz? Lahko vsebuje tudi osebne podatke. Vaše poročilo bo koristilo pri reševanju te napake in se ne bo delilo v komercialne namene.</string>
+  <string name="fc_dialog_body">Pošljem poročilo o napakah Mi strežnikom za analizo? Lahko vsebuje tudi osebne podatke. Vaše poročilo bo koristilo pri reševanju te napake in se ne bo delilo v komercialne namene.</string>
   <string name="fc_dialog_jump_to_preview">Prikaži poročilo</string>
   <string name="first_back_long_press_message">"Dolg pritisk na tipko "Nazaj" bo ustavil trenutni proces in njegove usluge v ozadju. Za omogočanje te funkcije, pojdite na Nastavitve &gt; Sistem &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snemanje</string>
@@ -36,7 +36,7 @@
   <string name="global_actions_airplane_mode">"Način v avionu"</string>
   <string name="global_actions_reboot">"Ponovno zaženi"</string>
   <string name="global_actions_shutdown">"Izključi"</string>
-  <string name="global_actions_silent_mode">"Brezšumno"</string>
+  <string name="global_actions_silent_mode">"Tiho"</string>
   <string name="group_name_contacts">Stiki</string>
   <string name="group_name_coworkers">Sodelavci</string>
   <string name="group_name_family">Družina</string>
