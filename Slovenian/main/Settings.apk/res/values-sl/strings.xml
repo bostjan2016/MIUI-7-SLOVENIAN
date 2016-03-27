@@ -643,10 +643,10 @@
      <string name="bootloader_apply_step_5">Bodite prepričani da znate uporabljati Fastboot način dela predno ga vključite.</string>
      <string name="bootloader_apply_title">Važno opozorilo</string>
      <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
-     <string name="breathing_light_color_menu_title">Barva svetlobe</string>
-     <string name="breathing_light_color_summary">LED opozorilo, ko je prejeto novo obvestilo</string>
-     <string name="breathing_light_freq_summary">Utripaj, ko imam novo obvestilo</string>
-     <string name="breathing_light_freq_title">LED bliskavica frekvence</string>
+  <string name="breathing_light_color_menu_title">Barva LED lučk</string>
+  <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
+  <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
+  <string name="breathing_light_freq_title">Frekvenca utripanja LED</string>
      <string name="brightness">Raven svetlosti</string>
      <string name="brightness_auto_adjust_off">Svetlosti zaslona bo ostala nespremenjena</string>
      <string name="brightness_auto_adjust_on">Optimizacija ravni svetlosti zaslona</string>
