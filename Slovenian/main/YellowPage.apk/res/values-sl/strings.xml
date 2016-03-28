@@ -519,7 +519,6 @@
      <string name="scan">Skeniraj</string>
      <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartic.</string>
      <string name="sdcard_not_mounted_dialog_title">Ni odkrite SD kartice</string>
-     <string name="select_all">@com.miui.sdk:string/select_all</string>
      <string name="select_package_before_buy">Izberi paket</string>
      <string name="selected_category_format">Označeno z %2$d ljudje kot %1$s.</string>
      <string name="send_shortcut_failed">Ne morem poslati</string>
