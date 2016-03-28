@@ -14,7 +14,7 @@
      <string name="menu_advanced_hide">Skrij notranjo shrambo</string>
      <string name="menu_advanced_show">Pokaži notranjo shrambo</string>
      <string name="menu_copy">Kopiraj v …</string>
-     <string name="menu_create_dir">Ustvarjanje mape</string>
+  <string name="menu_create_dir">Napravi mapo</string>
      <string name="menu_delete">Izbriši</string>
      <string name="menu_file_size_hide">Skrij velikost datoteke</string>
      <string name="menu_file_size_show">Pokaži velikost datoteke</string>

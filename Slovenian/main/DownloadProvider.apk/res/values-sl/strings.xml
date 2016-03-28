@@ -10,8 +10,8 @@
      <string name="dialog_insufficient_space_on_cache">Na notranjem pomnilniku ni dovolj prostora</string>
      <string name="dialog_insufficient_space_on_external">Na zunanjem pomnilniku ni dovolj prostora</string>
      <string name="dialog_not_show_again">"Ne prikazuj ponovno"</string>
-     <string name="download_apk_desktop_installing">Instaliranje…</string>
-     <string name="download_apk_desktop_pause">Pauzirano</string>
+     <string name="download_apk_desktop_installing">Nameščanje…</string>
+     <string name="download_apk_desktop_pause">Pavzirano</string>
      <string name="download_apk_desktop_pending">Na čakanju</string>
      <string name="download_apk_desktop_running">Prenašanje…</string>
      <string name="download_error">Neuspešno</string>
@@ -21,7 +21,7 @@
      <string name="download_remaining">%s preostane</string>
      <string name="download_running">V teku</string>
      <string name="download_running_percent">V teku, %d%%</string>
-  <string name="download_unknown_title">&lt;Neznano&gt;</string>
+  <string name="download_unknown_title">&lt;Brez naslova&gt;</string>
      <string name="enter_garbage_clean">Očistite notranjo shrambo.</string>
      <string name="insufficient_space">"Ni dovolj prostora v notranji shrambi"</string>
      <string name="mobile_recommended_title">Uporaba mob. podatkov</string>
@@ -37,13 +37,13 @@
      <string name="notification_need_wifi_for_size">Velikost prenosa zahteva uporabo Wi-Fi omrežja.</string>
      <string name="notification_paused_in_background">Zaustavljeno v ozadju.</string>
      <string name="paused_waiting_for_network">Čakanje na omrežje</string>
-     <string name="permdesc_accessAllDownloads">Dovoli aplikaciji dostop in spreminjanje vseh prenosov, ki jih je začela aplikacija na tem sistemu.</string>
-     <string name="permdesc_downloadCacheNonPurgeable">Aplikaciji omogoči prenos datotek v predpomnilnik za prenose, ki jih ni mogoče samodejno izbrisati, ko upravitelj prenosov potrebuje več prostora.</string>
-     <string name="permdesc_downloadCompletedIntent">Aplikaciji omogoči pošiljanje obvestil o končanih prenosih. Zlonamerne aplikacije lahko s tem zmedejo druge aplikacije, ki prenašajo datoteke.</string>
+     <string name="permdesc_accessAllDownloads">Dovoli aplikaciji dostop in spreminjanje vseh prenosov ki jih je začela aplikacija na tem sistemu.</string>
+     <string name="permdesc_downloadCacheNonPurgeable">Aplikaciji omogoči prenos datotek v predpomnilnik za prenose ki jih ni mogoče samodejno izbrisati ko upravitelj prenosov potrebuje več prostora.</string>
+     <string name="permdesc_downloadCompletedIntent">Aplikaciji omogoči pošiljanje obvestil o končanih prenosih. Zlonamerne aplikacije lahko s tem zmedejo druge aplikacije ki prenašajo datoteke.</string>
      <string name="permdesc_downloadManager">Aplikaciji omogoči dostop do upravitelja prenosov in ga uporablja za prenos datotek. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
      <string name="permdesc_downloadManagerAdvanced">Aplikaciji omogoči dostop do naprednih funkcij upravitelja prenosov. Zlonamerne aplikacije lahko s tem motijo prenose in dostopajo do zasebnih podatkov.</string>
      <string name="permdesc_downloadWithoutNotification">Aplikaciji omogoči prenos datotek preko upravitelja prenosov brez kakršnega koli obvestila uporabniku.</string>
-     <string name="permdesc_seeAllExternal">Aplikaciji omogoči ogled vseh prenosov na kartici SD, glede na to, katera aplikacija jih je prenesla.</string>
+     <string name="permdesc_seeAllExternal">Aplikaciji omogoči ogled vseh prenosov na kartici SD, ne glede na to katera aplikacija jih je prenesla.</string>
      <string name="permlab_accessAllDownloads">Dostop do vseh prenosov</string>
      <string name="permlab_downloadCacheNonPurgeable">Rezerviraj prostor na pomnilniku za prenose.</string>
      <string name="permlab_downloadCompletedIntent">Pošlji obvestilo o prenosu.</string>
@@ -54,18 +54,18 @@
      <string name="privacy_notif_content">Tapni za ogled podrobnosti.</string>
      <string name="privacy_notif_title">Xunlei Download Accelerator je vklopljen</string>
      <string name="privacy_tip_cancel">Prekini</string>
-     <string name="privacy_tip_content">Uporabi Xunlei Accelerator za pohitritev prenosa? URL naslov prenosa se bo prenesel na Xunlei serverje. Prenesli se bodo tudi vaši podatki z Mi računa, da se preveri če imate kakšno aktivno naročnino pri tej storitvi.</string>
+     <string name="privacy_tip_content">Uporabim Xunlei Accelerator za pohitritev prenosa? URL naslov prenosa se bo prenesel na Xunlei sirežnike. Prenesli se bodo tudi vaši podatki iz Mi računa da se preveri če imate kakšno aktivno naročnino pri tej storitvi.</string>
      <string name="privacy_tip_ok">V redu</string>
-     <string name="privacy_tip_title">Uporabiti Xunlei Accelerator?</string>
-     <string name="recommended_file_size_download_in_mobile">Uporabiti %s mobilnih podatkov za prenašanje te datoteke?</string>
-     <string name="recommended_no_file_size_download_in_mobile">Uporabiti mobilne podatke za prenašanje te datoteke?</string>
+     <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
+     <string name="recommended_file_size_download_in_mobile">Uporabim %s mobilnih podatkov za prenašanje te datoteke?</string>
+     <string name="recommended_no_file_size_download_in_mobile">Uporabim mobilnih podatkov za prenašanje te datoteke?</string>
      <string name="root_downloads">Prenosi</string>
      <string name="task_already_exist">Opravilo že obstaja</string>
      <string name="warning_tip_cancel">Prenesi</string>
-     <string name="warning_tip_content">"Niste več povezani z WLAN-om. Uporaba mobilnih podatkov za dokončanje prenosa bo povečalo uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
+     <string name="warning_tip_content">"Niste več povezani z WiFi. Uporaba mobilnih podatkov za dokončanje prenosa bo povečalo uporabo podatkov. Vaš operater vam to lahko zaračuna."</string>
      <string name="warning_tip_ok">Premor</string>
      <string name="warning_tip_title">Opozorilo uporabe podatkov</string>
-  <string name="wifi_recommended_body" formatted="false">Zagon %s prenosa lahko povzroči čezmerno uporabo vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju, odvisno od vašega podatkovnega načrta.
+  <string name="wifi_recommended_body" formatted="false">Zagon %s prenosa lahko povzroči čezmerno uporabo vaše mobilne podatkovne povezave, kar lahko pripelje do višjih stroškov pri operaterju.
       Pritisni %s za prenos naslednjič ko boste povezani na Wi-Fi omrežje.</string>
      <string name="wifi_recommended_title">Prenesem kasneje?</string>
   <string name="wifi_required_body" formatted="false">Za ta prenos velikosti %s potrebujete Wi-Fi povezavo.
