@@ -12,12 +12,12 @@
         <item quantity="many">Arhiviram te pogovore: %1$d?</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Izbrisati te pogovore: %1$d?</item>
-        <item quantity="zero">Izbrisati te pogovore: %1$d?</item>
-        <item quantity="one">Izbrisati ta pogovor?</item>
-		<item quantity="two">Izbrisati ta pogovora: %1$d?</item>
-        <item quantity="few">Izbrisati te pogovore: %1$d?</item>
-        <item quantity="many">Izbrisati te pogovore: %1$d?</item>
+        <item quantity="other">Izbrišem te pogovore: %1$d?</item>
+        <item quantity="zero">Izbrišem te pogovore: %1$d?</item>
+        <item quantity="one">Izbrišem ta pogovor?</item>
+		<item quantity="two">Izbrišem ta pogovora: %1$d?</item>
+        <item quantity="few">Izbrišem te pogovore: %1$d?</item>
+        <item quantity="many">Izbrišem te pogovore: %1$d?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Ti pogovori imajo skupne predmete, vseeno izbrišem?</item>
@@ -28,8 +28,8 @@
         <item quantity="many">Ti pogovori imajo skupne predmete, vseeno izbrišem?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Zavreči skice iz %1$d pogovora?</item>
-        <item quantity="one">Zavreči skice iz tega pogovora?</item>
+        <item quantity="other">Zavržem skice iz %1$d pogovora?</item>
+        <item quantity="one">Zavržem skice iz tega pogovora?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d izbrano</item>
