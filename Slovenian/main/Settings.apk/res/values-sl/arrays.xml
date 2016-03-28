@@ -562,12 +562,12 @@
         <item>9 sekund</item>
     </string-array>
 	<string-array name="led_color_values">
-        <item>modra</item>
-        <item>rdeča</item>
-        <item>rumena</item>
-        <item>zelena</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
         <item>cyan</item>
-        <item>bela</item>
+        <item>white</item>
         <item>\#FFAA00AA</item>
     </string-array>
  	<string-array name="led_color_entries">
