@@ -65,7 +65,6 @@
      <string name="description_uploadtime">Posodobi</string>
      <string name="description_version">Verzija</string>
      <string name="description_version_szie">Verzija: %1$s Size: %2$s</string>
-     <string name="deselect_all">@com.miui.sdk:string/deselect_all</string>
      <string name="do_not_remind_me">Ne kaži ponovno</string>
      <string name="dont_enable">Onemogoči</string>
      <string name="download_completed">Prenos končan! Datoteka shranjena v %s</string>
