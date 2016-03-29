@@ -43,6 +43,7 @@
      <string name="data_usage_correction_timeout_body">Dotakni se za ročno posodobitev.</string>
      <string name="data_usage_correction_timeout_title">Sinhronizacija podatkovne uporabe je potekla</string>
      <string name="data_usage_disabled_dialog">"Dosegli ste vašo omejitev uporabe podatkov. Nadaljna uporaba bo povzročila dodatne stroške.</string>
+
      <string name="data_usage_disabled_dialog_enable">Opozorilo o podatkovni uporabi</string>
      <string name="data_usage_leisure_warning_body">Dotakni se za pregled podrobnosti podatkovne uporabe.</string>
      <string name="data_usage_leisure_warning_title">Limit podatkovne uporabe</string>
