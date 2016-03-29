@@ -55,7 +55,7 @@
      </string-array>
      <string-array name="indices_sport">
         <item>Ugodno</item>
-        <item>neugodno</item>
+        <item>Neugodno</item>
      </string-array>
      <string-array name="indices_uv_level">
         <item>Nizek</item>
@@ -76,7 +76,7 @@
         <item>Dež</item>
         <item>Rahel dež</item>
         <item>Dež s snegom</item>
-        <item>Vijavica</item>
+        <item>Vetrovno</item>
         <item>Sneg</item>
         <item>Močno sneženje</item>
         <item>Sneženje</item>

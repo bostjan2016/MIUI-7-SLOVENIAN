@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_preference_screen_title">Detajli</string>
-  <string name="about_preference_title">Detajli</string>
+  <string name="about_preference_screen_title">Podrobnosti</string>
+  <string name="about_preference_title">Podrobnosti</string>
   <string name="acknowledge_btn">Razumem</string>
   <string name="action_settings">Nastavitve</string>
   <string name="activation_page">Ni aktivirano</string>
@@ -21,7 +21,7 @@
   <string name="button_exit_howitworks_flow">Izhod</string>
   <string name="button_how_it_works">Poglej kako to deluje</string>
   <string name="button_next">Naprej</string>
-  <string name="button_uninstall_old_app">Deinstaliraj</string>
+  <string name="button_uninstall_old_app">Odstrani</string>
   <string name="cancel">Prekliči</string>
   <string name="change_security_lock">Več zakl. zaslonov</string>
   <string name="check_code">Da boste preverili ali je pravilna vrednost ključa za %1$s potrdite da vrednost tu odgovarja vrednosti preverbe celovitosti dobljene s strežnika:&lt;br/&gt;</string>
@@ -31,7 +31,7 @@
   <string name="copy_to_clipboard">Kopiraj v  međpomnilnik</string>
   <string name="correct_enter_password">Geslo ki ste ga vnesli je pravilno</string>
   <string name="correct_enter_update_password">Geslo ki ste ga vnesli je pravilno</string>
-  <string name="counter_pin">Nabavite kodo</string>
+  <string name="counter_pin">Pridobite kodo</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaši podatki so uspešno uvoženi iz zastarele Authenticator aplikacije. Sedaj lahko varno odstranite prejšnjo verzijo.</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_title">Uvoz uspešen</string>
   <string name="decoding_exception">Izjema dekodiranja</string>
@@ -44,7 +44,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="enter_key_page_add_button">Dodaj</string>
   <string name="enter_key_title">Ročno nastavljanje računa</string>
   <string name="enter_key_too_short">Vrednost ključa je prekratka</string>
-  <string name="enter_pin">Vnesite kodo za proverbo, če bo zahtevano med prijavo v račun:</string>
+  <string name="enter_pin">Vnesite kodo za kontrolo, če bo zahtevano med prijavo v račun:</string>
   <string name="error_empty_secret">Ne morem shraniti prazno skrivnost ključa</string>
   <string name="error_exists">Na žalost, to ime je že v uporabi.</string>
   <string name="error_qr">Ne morem prebrati QR kode.</string>
@@ -78,7 +78,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Vaš novi vzorec za odklepanje:</string>
   <string name="lockpattern_pattern_entered_header">Vzorec shranjen.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanjše %d točke. Poskusite ponovno:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanj %d točke. Poskusite ponovno:</string>
   <string name="lockpattern_recording_inprogress">Odmaknite prst ko končate.</string>
   <string name="lockpattern_recording_intro_header">Narišite vzorec za odklepanje:</string>
   <string name="lockpattern_redraw_button_text">Narišite ponovno</string>
@@ -114,7 +114,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   Pred odstranitvijo: 
   —Izključite autentifikacijo v 2 korakih za ta račun, ali 
   Preskrbite si alternativni mehanizem za generiranje kod."</string>
-  <string name="remove_account_dialog_title">Odsrtanim račun?</string>
+  <string name="remove_account_dialog_title">Odstranim račun?</string>
   <string name="rename">Preimenuj</string>
   <string name="rename_message">Preimenuj %1$s</string>
   <string name="resetbtn_patternforgotten">Resetiraj</string>
@@ -132,17 +132,17 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Pogoji ponudnika storitev</string>
   <string name="timesync_about_feature_preference_title">O tej funkciji</string>
-  <string name="timesync_about_feature_screen_details">"Če kliknete &amp;quot;Sinhroniziraj zdaj&amp;quot;, bo Authenticator enkrat poskusil sinhronizirati svojo ​​notranjo uro z Googleovim strežnikom. Nastavitve datuma in časa se ne bodo spremenile. &lt;p&gt; Authenticator ne bo dajal nobenih osebnih podatkov in podatkove o računu med sinhronizacijo svje ure z Googleovim strežnikom. &lt;p&gt; &lt;b&gt;Zakaj je to koristno&lt;/b&gt; &lt;p&gt; Authenticator generira preverbo kod v 2 korakih na temelju 1) trenutnega časa, in 2) skrivne številke poznane aplikaciji in strežniku. &lt;p&gt; Če Authenticator in strežnik ne uskladita časa, kode ki jih aplikacija generira ne morejo biti sprejete pri prijavi. &lt;p&gt; Privzeto Authenticator uporablja nastavitve datuma in časa naprave, ponavadi pa boste lahko generirali veljavne kode tako da se zavaruje in pravilno konfigurira vaš čas, datum in časovna zona . Vendar kadar se pojavijo neusklajenosti, se težko odpravijo (še posebej če uporabljate čas dobljen od omrežja ali časovne zone)."</string>
+  <string name="timesync_about_feature_screen_details">"Če kliknete &amp;quot;Sinhroniziraj zdaj&amp;quot;, bo Authenticator enkrat poskusil sinhronizirati svojo ​​notranjo uro z Googleovim strežnikom. Nastavitve datuma in časa se ne bodo spremenile. &lt;p&gt; Authenticator ne bo dajal nobenih osebnih podatkov in podatkove o računu med sinhronizacijo svoje ure z Googleovim strežnikom. &lt;p&gt; &lt;b&gt;Zakaj je to koristno&lt;/b&gt; &lt;p&gt; Authenticator generira preverbo kode v 2 korakih na temelju 1) trenutnega časa, in 2) skrivne številke poznane aplikaciji in strežniku. &lt;p&gt; Če Authenticator in strežnik ne uskladita časa, kode ki jih aplikacija generira ne morejo biti sprejete pri prijavi. &lt;p&gt; Privzeto Authenticator uporablja nastavitve datuma in časa naprave, ponavadi pa boste lahko generirali veljavne kode tako da se zavaruje in pravilno konfigurira vaš čas, datum in časovno cono . Vendar kadar se pojavijo neusklajenosti, se težko odpravijo (še posebej če uporabljate čas dobljen od omrežja ali časovne cone)."</string>
   <string name="timesync_about_feature_screen_title">O tej funkciji</string>
-  <string name="timesync_preference_screen_summary">"Sinhronizacija interne ure Authenticatorja z strežniki"</string>
+  <string name="timesync_preference_screen_summary">"Sinhronizacija interne ure Authenticatorja s strežniki"</string>
   <string name="timesync_preference_screen_title">Korekcija časa za kode</string>
-  <string name="timesync_sync_now_connectivity_error_dialog_details">"Problem pri povezavi na strežnik. Preverite omrežne nastavitve i poskusite ponovno."</string>
+  <string name="timesync_sync_now_connectivity_error_dialog_details">"Problem pri povezavi na strežnik. Preverite omrežne nastavitve in poskusite ponovno."</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Sinhr. zdaj</string>
   <string name="timesync_sync_now_preference_title">Sinhr. zdaj</string>
   <string name="timesync_sync_now_progress_dialog_details">Povezovanje na strežnik…</string>
   <string name="timesync_sync_now_progress_dialog_title">Sinhr. zdaj</string>
   <string name="timesync_sync_now_screen_title">Sinhr. zdaj</string>
-  <string name="timesync_sync_now_time_already_correct_dialog_details">"Interna ura Authenticatorja ni nastavljena ker je že sinhronizirana z strežnikom."</string>
+  <string name="timesync_sync_now_time_already_correct_dialog_details">"Interna ura Authenticatorja ni nastavljena ker je že sinhronizirana s strežnikom."</string>
   <string name="timesync_sync_now_time_already_correct_dialog_title">Čas je popravljen</string>
   <string name="timesync_sync_now_time_corrected_dialog_details">"Interna ura Authenticatorja je nastavljena tako da odgovarja času strežnika.
 

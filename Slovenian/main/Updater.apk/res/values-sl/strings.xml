@@ -26,10 +26,10 @@
      <string name="button_text_reboot">Ponovni zagon sedaj</string>
      <string name="button_text_reboot_hm">Ponovni zagon sedaj</string>
      <string name="button_text_update">Posodobi</string>
-     <string name="cancel_download">Ustavite nalaganje te posodobitve?</string>
+     <string name="cancel_download">Ustavim nalaganje te posodobitve?</string>
      <string name="cancel_download_buton_text">Prekliči</string>
      <string name="check_local_package_update_btn">Ponovno zaženi in posodobi</string>
-     <string name="check_local_package_update_msg">"Vaš telefon se bo avtomatski ponovno zagnal zaradi posodobitve na MIUI verzijo %s."</string>
+     <string name="check_local_package_update_msg">"Vaš telefon se bo samodejno ponovno zagnal zaradi posodobitve na MIUI verzijo %s."</string>
      <string name="check_local_package_update_title">Posodobi</string>
      <string name="check_local_package_validate_error_button">V redu</string>
      <string name="check_local_package_validate_error_msg">"Ne morem preveriti posodobitev."</string>
@@ -50,13 +50,13 @@
      <string name="comment_upload_success">Poslano</string>
      <string name="confirm_local_package_wipe_btn">Izbriši in posodobi</string>
      <string name="confirm_local_package_wipe_msg">Vaši osebni podatki bodo izbrisani. Priporočamo predhodno izdelavo var. kopije da ohranite podatke.</string>
-     <string name="confirm_local_package_wipe_title">Izbrisati podatke?</string>
+     <string name="confirm_local_package_wipe_title">Izbrišem podatke?</string>
      <string name="continue_update_negative_btn">Nadaljuj</string>
      <string name="continue_update_positive_btn">Prekliči</string>
   <string name="daily_build">Dnevna izdaja</string>
      <string name="download_again">Poskusi ponovno</string>
      <string name="download_cancel">Prekliči</string>
-     <string name="download_current_rom">Posodobitev bliska</string>
+     <string name="download_current_rom">Posodobitev </string>
      <string name="download_diff">Naloži diff</string>
      <string name="download_error">Počakaj minuto ali dve in poskusite znova.</string>
      <string name="download_failed">Ni mogel naložiti</string>
@@ -72,7 +72,7 @@
      <string name="expect">Pričakovanja</string>
      <string name="experimental_build">Eksperimentalna</string>
      <string name="finish">Končano</string>
-     <string name="fourgrid_hint_text">Hvala za uporabo testno za razvijalce verzije MIUI! Povejte nam, kaj si mislite in pomagajte, da bo MIUI še boljši.</string>
+     <string name="fourgrid_hint_text">Hvala za uporabo testne verzije MIUI za razvijalce! Povejte nam, kaj si mislite in pomagajte, da bo MIUI še boljši.</string>
      <string name="fourgrid_no_notificaiont">Ne pokaži v vrstici za obvestila</string>
      <string name="fourgrid_notificaiont">Prikaži v vrstici stanja</string>
      <string name="get_auto">Uporabi mobilna omrežja ali omrežja Wi-Fi</string>
@@ -113,7 +113,7 @@
   Vaš operater vam to lahko računa."</string>
      <string name="no_wifi_title">Opozorilo uporabe podatkov</string>
      <string name="not_open">Izklop</string>
-     <string name="notification_auto_reboot_seccess_title">Naprava je avtomatsko posodobljena</string>
+     <string name="notification_auto_reboot_seccess_title">Naprava je samodejno posodobljena</string>
      <string name="notification_downloading">Prenašanje posodobitev...</string>
      <string name="notification_fail_msg">Poskusite prevzeti cel ROM</string>
      <string name="notification_load_body_alpha">Pridobite najnovejše posodobitve za vašo napravo.</string>
@@ -136,8 +136,8 @@
      <string name="particular_build">Zlasti</string>
      <string name="pause">Odmor</string>
      <string name="pm_root_acquired_button">ROOT pristop</string>
-     <string name="pm_root_acquired_notification_title">Dobijanje ROOT pristopa</string>
-     <string name="pm_root_acquired_rooting">Dobijanje ROOT pristopa %s</string>
+     <string name="pm_root_acquired_notification_title">Pridobitev ROOT pristopa</string>
+     <string name="pm_root_acquired_rooting">Pridobitev ROOT pristopa %s</string>
      <string name="pm_root_checking">Preverjanje informacij sistema…</string>
      <string name="pm_root_fail_button_retry">Poskusi ponovno</string>
      <string name="pm_root_fail_msg">"Ta aplikacija ne more dobiti ROOT pristopa. Poskusite ponovno."</string>
@@ -149,7 +149,7 @@
      <string name="previous">Prejšnje</string>
      <string name="progress_title_checking">Preverjam posodobitve</string>
      <string name="reboot">Ponovni zagon</string>
-     <string name="recovery_failed_button">V redu</string>
+     <string name="recovery_failed_button">Vredu</string>
   <string name="recovery_failed_msg">"Vaša naprava nima dovolj spomina za vstop v Recovery in posodabljanje sistema. Poskusite z Mi PC Suite:
 http://zhushou.xiaomi.com"</string>
      <string name="recovery_failed_notification_msg">"Ne morem vstopiti v Recovery"</string>
@@ -164,7 +164,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="set_auto">Samodejno preveri za posodobitev</string>
      <string name="set_auto_msg">Prenestite samodejne posodobitve prek omrežja Wi-Fi</string>
      <string name="set_auto_update_title">Samodejno prenesi posodobitve</string>
-     <string name="set_installfail_full_msg">Trenutno ne morem posodobiti. Pritisnite\"Vredu\" za prijavo to napako, da so naši inženirji.</string>
+     <string name="set_installfail_full_msg">Trenutno ne morem posodobiti. Pritisnite\"Vredu\" za prijavo to napako.</string>
   <string name="set_installfail_msg">Uporabi mobilno podatkovno povezavo, da prenesete posodobitev,
       povečala se bo poraba mobilnih podatkov.</string>
      <string name="set_installfail_title">Poskusi ponovno prenesti posodobitev?</string>
@@ -197,7 +197,7 @@ http://zhushou.xiaomi.com"</string>
      <string name="submit_progress">Pošiljam...</string>
      <string name="submit_success">Pošlji</string>
      <string name="test">Test</string>
-     <string name="timer_title">Naprava se bo ponovno zagnal v %d sekundah.</string>
+     <string name="timer_title">Naprava se bo ponovno zagnala v %d sekundah.</string>
      <string name="title_toast_auto">Posodobitve se bodo prenesele samodejno</string>
      <string name="top_secret_build">Skrivnost</string>
      <string name="unkown_error_title">Ne morem prenesti</string>
@@ -244,7 +244,7 @@ http://zhushou.xiaomi.com"</string>
      Beta Programa Povratne informacije"</string>
   <string name="vote_error2">"Ne morem poslati Povratne informacije.
      Posodobite napravo in poskusite ponovno"</string>
-     <string name="vote_error3">"Ne morem se prijaviti.Poskusite se prijaviti v vaš Mi Račun ponovno."</string>
+     <string name="vote_error3">"Ne morem se prijaviti.Poskusite se ponovno prijaviti v vaš Mi Račun."</string>
      <string name="vote_error4">Ste že poslali Povratne informacije</string>
   <string name="vote_error5">"Ne morem poslati
       Povratne informacije"</string>

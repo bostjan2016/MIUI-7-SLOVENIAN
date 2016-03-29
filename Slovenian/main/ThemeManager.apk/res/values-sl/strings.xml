@@ -10,7 +10,7 @@
      <string name="apply_default_font_tip">Uporabljaj trenutno sistemsko pisavo?</string>
      <string name="apply_font_btn_exclude">Ne zdaj</string>
      <string name="apply_font_btn_reboot">Ponovni zagon</string>
-     <string name="apply_font_tip">Ponovni zagon za uporabo te temo pisave.</string>
+     <string name="apply_font_tip">Ponovni zagon za uporabo te teme pisave.</string>
      <string name="apply_theme_with_ringtones">Uporabite melodije teme</string>
      <string name="backup_preference_title">Varnostno kopiraj temo</string>
      <string name="backup_theme_dialog_message">Varnostno kopirati trenutno temo?</string>
@@ -38,8 +38,8 @@
      <string name="download_preview_failed">Ne morem naložiti predogleda</string>
      <string name="download_success">Prenos končan</string>
      <string name="fail_to_add_account">Ne morem dodati računa</string>
-     <string name="favorite_list">Favoriti</string>
-     <string name="favorite_list_format">Favorit %1$s</string>
+     <string name="favorite_list">Priljubljene</string>
+     <string name="favorite_list_format">Priljubljeni %1$s</string>
      <string name="gift_anonymous">Anonimno</string>
      <string name="gift_count_format">%1$s+</string>
      <string name="gift_operation_fail_dlg_abandon">Prekliči</string>
@@ -50,11 +50,11 @@
      <string name="gift_present_dlg_anonymous">Anonimno darilo</string>
      <string name="gift_present_dlg_input_hint">ID Mi Računa/Telefon</string>
      <string name="gift_present_dlg_no_fee">"Ne bo vam računano s strani vašega ponudnika za pošiljanje daril"</string>
-     <string name="gift_present_dlg_present_max_limit">"Tema ne more biti podarjena več kot tolikokrat: %1$s."</string>
+     <string name="gift_present_dlg_present_max_limit">"Tema ne more biti podarjena več kot: %1$s."</string>
      <string name="gift_present_dlg_share">Napravite kodo in podarite darilo</string>
      <string name="gift_present_fail_dlg_content">"Ne morem poslati tega darila. "</string>
      <string name="gift_present_fail_dlg_title">"Ne morem poslati darila"</string>
-     <string name="gift_present_success_dlg_content">SMS bo poslan tej osebi kadar bo tema dostavljena.</string>
+     <string name="gift_present_success_dlg_content">SMS bo poslan tej osebi ko bo tema dostavljena.</string>
      <string name="gift_present_success_dlg_title">Darilo je poslano</string>
      <string name="gift_present_success_no_sms_dlg_content">Zgodovina daril je navedena na strani vašega računa.</string>
      <string name="gift_presented">Poslano</string>
@@ -93,7 +93,7 @@
      <string name="online_search_hint">Iskanje spletnih virov</string>
      <string name="payment_info">Mi Credits</string>
      <string name="present_local_themes">Prevzete</string>
-     <string name="present_online_themes">Online</string>
+     <string name="present_online_themes">On line</string>
      <string name="purchased_list">Kupljene teme</string>
      <string name="purchased_list_format">Kupljeno %1$s</string>
      <string name="resource_account_abnormal_state">Napaka računa. Počakaj minuto ali dve in poskusite znova.</string>
@@ -158,9 +158,9 @@
      <string name="resource_detail_comment_title">Komentarji</string>
      <string name="resource_detail_jump_to_online_title">V omrežju</string>
      <string name="resource_detail_jump_to_same_author_title">Isti avtor</string>
-     <string name="resource_detail_recommend_desiner_other_themes">Themes designed by %1$s</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Oblikovalec tem %1$s</string>
      <string name="resource_detail_recommend_desiner_themes">%1$s tem</string>
-     <string name="resource_detail_recommend_other_themes">Uporabniki je tudi všeč</string>
+     <string name="resource_detail_recommend_other_themes">Uporabnikom je tudi všeč</string>
      <string name="resource_detail_update_log_title">Posodobitve</string>
      <string name="resource_detail_vertical_divider">|</string>
      <string name="resource_detail_window_title">%1$s podrobnosti</string>
@@ -217,7 +217,7 @@
      <string name="resource_pack_discount_info">%1$s shranjeno</string>
      <string name="resource_pack_get_auth_has_been_undercarriaged">Ta tema ni več dostopna.</string>
      <string name="resource_pack_price_info">%1$s Original</string>
-     <string name="resource_pack_warning">Kupili ste že komponent %1$d v tej temi. To je ceneje, če kupite preostale komponente posebej.</string>
+     <string name="resource_pack_warning">Kupili ste že komponent %1$d v tej temi. Ceneje je, če kupite preostale komponente posebej.</string>
      <string name="resource_present">Darilo</string>
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Brezplačno</string>
@@ -243,7 +243,7 @@
      <string name="resource_search_color_hint_pink">Roza</string>
      <string name="resource_search_color_hint_purple">Vijoličasta</string>
      <string name="resource_search_color_hint_red">Rdeča</string>
-     <string name="resource_search_color_hint_white">Bjela</string>
+     <string name="resource_search_color_hint_white">Bela</string>
      <string name="resource_search_color_hint_yellow">Rumena</string>
      <string name="resource_search_list_empty">"Nič nisem našel."</string>
      <string name="resource_see_more">Poglej več</string>
@@ -332,12 +332,12 @@
      <string name="theme_description_title_customized">Po meri</string>
      <string name="theme_description_title_default">Privzeto</string>
      <string name="theme_empty_redirect">Nazaj v Trgovino Teme</string>
-     <string name="theme_favorite_add_fail">"Ne morem dati v favorite"</string>
-     <string name="theme_favorite_add_success">Tema dana v favorite</string>
+     <string name="theme_favorite_add_fail">"Ne morem dati v priljubljene"</string>
+     <string name="theme_favorite_add_success">Tema dana v priljubljene</string>
      <string name="theme_favorite_delete">Odstrani</string>
      <string name="theme_favorite_delete_fail">"Ne morem odstraniti"</string>
      <string name="theme_favorite_delete_success">Tema odstranjena</string>
-     <string name="theme_favorite_list_empty">"Nič niste dali v favorite."</string>
+     <string name="theme_favorite_list_empty">"Nič niste dali v priljubljene."</string>
      <string name="theme_favorite_waiting">Trenutek…</string>
      <string name="theme_fresh_man_notifaction">Nove teme na voljo</string>
      <string name="theme_immediately_apply_tip">Uporabi posodobitev tem zdaj?</string>
@@ -356,7 +356,7 @@
      <string name="theme_provision_oper_button_next">Naprej</string>
      <string name="theme_provision_title">Izberite temo</string>
      <string name="theme_purchased_list_empty">"Nimate kupljenih tem."</string>
-     <string name="theme_purchased_non_local">Online</string>
+     <string name="theme_purchased_non_local">On line</string>
      <string name="theme_select_others">Iskanje</string>
      <string name="theme_setting">Nastavitve</string>
      <string name="theme_user_agreement_allow">Se strinjam</string>

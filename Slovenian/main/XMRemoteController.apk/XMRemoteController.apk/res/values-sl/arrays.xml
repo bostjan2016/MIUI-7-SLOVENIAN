@@ -104,13 +104,13 @@
         <item>Ventilator</item>
     </string-array>
     <string-array name="question">
-        <item>"Telefon ne more odkriti naprave na WLAN omrežju?"</item>
+        <item>"Telefon ne more odkriti naprave na WiFi omrežju?"</item>
         <item>"Ne morete mejenjati način dela ali temperaturo na A/C?"</item>
         <item>Ali Mi 3, Mi 2 in Redmi podpirajo infrardeči daljinec za TV, A/C in druge naprave?</item>
     </string-array>
     <string-array name="answer">
-        <item>"Vaša naprava se lahko upari samo s Mi TV, Mi Box in neaj drugimi Android napravami preko WLAN omrežja."</item>
-        <item>"Preverite ali ste izbrali A/C v procesu uparjanja. Sledite navodilom na napravi dokler postopek uparjanja ni končan."</item>
+        <item>"Vaša naprava se lahko seznani samo s Mi TV, Mi Box in nekaj drugimi Android napravami preko WiFi omrežja."</item>
+        <item>"Preverite ali ste izbrali A/C v procesu seznanjanja. Sledite navodilom na napravi dokler postopek seznanjanja ni končan."</item>
         <item>Ne. Trenutno lahko uporabite Mi 4, Mi 4c in Redmi Note 2 kot daljinski upravljalec.</item>
     </string-array>
 </resources>

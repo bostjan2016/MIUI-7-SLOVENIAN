@@ -68,7 +68,7 @@
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Ne morem se povezati na omrežje."</string>
   <string name="miuishare_publish">Pošlji</string>
-  <string name="miuishare_share_done">Uspšno deljeno.</string>
+  <string name="miuishare_share_done">Uspešno deljeno.</string>
   <string name="miuishare_share_editor_title">Deli</string>
   <string name="miuishare_title_more">Več</string>
   <string name="miuishare_title_share">Deli</string>
@@ -81,7 +81,7 @@
   <string name="no_app">Najprej namestite Mi VIP aplikacijo</string>
   <string name="no_award">Ni nagrad</string>
   <string name="no_network">"Ne morem se povezati na omrežje"</string>
-  <string name="no_task">Vsi naloge so končane</string>
+  <string name="no_task">Vse naloge so končane</string>
   <string name="passive_task">Naloge v ozadju</string>
   <string name="personal_info">Profil</string>
   <string name="privilege">Privilegiji</string>
@@ -99,7 +99,7 @@
   <string name="share_button">Deli</string>
   <string name="start_activity_error">"Ne morem zagnati aplik.: %s"</string>
   <string name="take_awarded_package">Odkupljen</string>
-  <string name="take_awarded_package_failed">"Ne morem odkupiti darila. Počakajte minuto ali dve in poiskusite ponovno."</string>
+  <string name="take_awarded_package_failed">"Ne morem odkupiti darila. Počakajte minuto ali dve in poskusite ponovno."</string>
   <string name="task">Naloge</string>
   <string name="task_begin">Poteka…</string>
   <string name="task_completed">Končano</string>

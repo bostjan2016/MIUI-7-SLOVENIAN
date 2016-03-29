@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="about_fraud_num_online_identification">O blokadi telefonskih ponudnikih</string>
+     <string name="about_fraud_num_online_identification">O blokadi telefonskih ponudnikov</string>
      <string name="about_phone_event">O lastnostih Service Info</string>
      <string name="about_smart_antispam_summary">O funkciji</string>
      <string name="about_telephone_fraud">Pazi na goljufije</string>
@@ -21,12 +21,12 @@
      <string name="all_resources">Vse</string>
      <string name="all_services">Vse</string>
      <string name="allow">Dovoli</string>
-     <string name="app_label">Direktorij</string>
+     <string name="app_label">Mapa</string>
      <string name="app_recommendation_install">Namestitev</string>
      <string name="average_price">Povprečno %d RMB</string>
      <string name="back">Nazaj</string>
      <string name="balance_inquiry_send_sms_fail_hint">Ne morem poslati SMS</string>
-     <string name="balance_inquiry_send_sms_hint">SMS bo poslana k vašemi ponudniku storitev, da preverite svoje stanje.</string>
+     <string name="balance_inquiry_send_sms_hint">SMS bo poslan vašemu ponudniku storitev, da preverite svoje stanje.</string>
      <string name="balance_inquiry_send_sms_summmary">Preverite stanje</string>
      <string name="balance_inquiry_title">Ravnovesje analize</string>
      <string name="call">Klici</string>
@@ -82,7 +82,7 @@
      <string name="enable_now">Omogoči</string>
      <string name="exapress_save_address_to_contact">Shranite naslov v stiku</string>
      <string name="express_add_new_address">Dodaj naslov</string>
-     <string name="express_address_delete_warning">Izbriši ta naslov?</string>
+     <string name="express_address_delete_warning">Izbrišem ta naslov?</string>
      <string name="express_address_deleted">Naslov izbrisan</string>
      <string name="express_address_info">Informacije o naslovu</string>
      <string name="express_address_name">Ime</string>
@@ -118,8 +118,8 @@
      <string name="express_inquiry_button_text">Sledi</string>
      <string name="express_inquiry_data_owner_prefix">Sledilne informacije od</string>
      <string name="express_inquiry_data_owner_suffix" />
-     <string name="express_inquiry_delete_warning_multiple">Izbriši %d vnose?</string>
-     <string name="express_inquiry_delete_warning_single">Izbriši ta vnos?</string>
+     <string name="express_inquiry_delete_warning_multiple">Izbrišem %d vnose?</string>
+     <string name="express_inquiry_delete_warning_single">Izbrišem ta vnos?</string>
      <string name="express_inquiry_delivered">Dostavljeno</string>
      <string name="express_inquiry_edit_logistics">Kurir</string>
      <string name="express_inquiry_history">Zgodovina</string>
@@ -261,7 +261,7 @@
      <string name="miuishare_account_login_confirmation">Potrebna je prijava</string>
      <string name="miuishare_account_login_ok">Prijava</string>
      <string name="miuishare_account_need_activate">Dodajte svoj Weibo račun trenutnemu Mi Računu za delenje. Izgleda da vaš Mi Račun ni bil aktiviran. Ga želite aktivirati sedaj?</string>
-     <string name="miuishare_account_need_login">Dodajte svoj Weibo račun trenutnemu Mi Računu za deljenje. Prijaviti se sedaj?</string>
+     <string name="miuishare_account_need_login">Dodajte svoj Weibo račun trenutnemu Mi Računu za deljenje. Prijavin sedaj?</string>
      <string name="miuishare_app_name">MiuiShare</string>
      <string name="miuishare_no_network">Omrežna povezava ni na voljo</string>
      <string name="miuishare_publish">Pošlji</string>
@@ -348,8 +348,8 @@
      <string name="recharge_payment_result_progress_summary">Preverjanje rezultata plačila...</string>
      <string name="recharge_phone">Top-up številka:</string>
      <string name="recharge_phone_format">%1$s / %2$s</string>
-     <string name="recharge_phone_number_empty">Telefonsko številko, ki ste jo vnesli mora biti pravilna</string>
-     <string name="recharge_phone_number_error">Telefonsko številko, ki ste jo vnesli je nepravilna</string>
+     <string name="recharge_phone_number_empty">Telefonska številka, ki ste jo vnesli mora biti pravilna</string>
+     <string name="recharge_phone_number_error">Telefonska številka, ki ste jo vnesli je nepravilna</string>
      <string name="recharge_select_money_title">Izberi top-up vrednost</string>
      <string name="recharge_status_description">Status:</string>
      <string name="recharge_title">Top-up</string>
@@ -440,12 +440,12 @@
      <string name="resource_exchange_has_expired">Koda, ki ste jo vnesli je potekla.</string>
      <string name="resource_exchange_has_used">Koda, ki ste jo vnesli je že bila uporabljena.</string>
      <string name="resource_exchange_hint">Vnesi svojo darilno kodo</string>
-     <string name="resource_exchange_purchase_unkown_error">Ups! Neznana napaka se je pojavila. Vpišite se v http://market.xiaomi.com za ogled statusa plačila.</string>
+     <string name="resource_exchange_purchase_unkown_error">Ups! Pojavila se je neznana napaka. Vpišite se v http://market.xiaomi.com za ogled statusa plačila.</string>
      <string name="resource_exchange_share_code_content">"Prejeli ste darilno kodo (%2$s) za to temo %1$s v MIUI's Theme Store. Pritisnite %3$s za sedanjo uporabo."</string>
-     <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s: %2$s. Ko jo pošljete drugemu MIUI user, they can use it to download this theme.</string>
+     <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s: %2$s. Ko jo pošljete drugemu MIUI uporabniku, jo lahko uporabi za prenos te teme.</string>
      <string name="resource_exchange_share_code_dlg_title">Pošiljanje</string>
      <string name="resource_exchange_success">Uživaj! :)</string>
-     <string name="resource_exchange_unavailable">Tema povezana z kodo, ki ste jo vnesli ni na voljo.</string>
+     <string name="resource_exchange_unavailable">Tema povezana s kodo, ki ste jo vnesli ni na voljo.</string>
      <string name="resource_exchange_universal_finish">Uporabite to kodo za prenos tem iz Theme Store.</string>
      <string name="resource_exchange_universal_goon">Ta koda se lahko uporablja za prenos katerekoli teme v trgovini.</string>
      <string name="resource_exchange_window_title">Naključno</string>
@@ -470,10 +470,10 @@
      <string name="resource_notification_default">Obvestilo</string>
      <string name="resource_on_trial">Poskus: %1$s</string>
      <string name="resource_online">V omrežju %1$s</string>
-     <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponentov te teme je še vedno cenej, če kupite celoten paket.</string>
+     <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponent te teme je še vedno ceneje, če kupite celoten paket.</string>
      <string name="resource_pack_discount_info">%1$s shranjeno</string>
      <string name="resource_pack_price_info">%1$s Original</string>
-     <string name="resource_pack_warning">Čeprav ste kupili %1$d komponent v tej temi. Je ceneje, če kupite preostale sestavine posebej.</string>
+     <string name="resource_pack_warning">Kupili ste že %1$d komponent v tej temi. Ceneje je , če kupite preostale sestavine posebej.</string>
      <string name="resource_present">Darilo</string>
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Brezplačno</string>
@@ -509,16 +509,16 @@
      <string name="resource_trial_fail_go_settings">Nastavitve</string>
      <string name="resource_trial_fail_message">Poskrbite, da je vaša sistemska ura nastavljena na točen čas.</string>
      <string name="resource_trial_fail_title">Ni uspelo vzpostaviti poskusne seje</string>
-     <string name="resource_trial_time">（trial session: %1$d minutes）</string>
-     <string name="resource_unable_to_access">Na žalost, vsebina, ki jo iščeni ni na voljo v vaši regiji.</string>
+     <string name="resource_trial_time">（čas za testiranje: %1$d minut）</string>
+     <string name="resource_unable_to_access">Na žalost, vsebina, ki jo iščete ni na voljo v vaši regiji.</string>
      <string name="resource_unknow_error">Pojavila se je neznana napak</string>
      <string name="resource_update">Posodobi</string>
      <string name="resource_user_know">V redu</string>
      <string name="resource_waiting_download">Čakam</string>
      <string name="rmb">RMB</string>
      <string name="scan">Skeniraj</string>
-     <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartic.</string>
-     <string name="sdcard_not_mounted_dialog_title">Ni odkrite SD kartice</string>
+     <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartico.</string>
+     <string name="sdcard_not_mounted_dialog_title">Ni SD kartice</string>
      <string name="select_package_before_buy">Izberi paket</string>
      <string name="selected_category_format">Označeno z %2$d ljudje kot %1$s.</string>
      <string name="send_shortcut_failed">Ne morem poslati</string>
@@ -540,7 +540,7 @@
      <string name="toast_finish_delete_call_log">Seznam klicev izbrisan</string>
      <string name="toast_text_copied">Kopirano besedilo</string>
      <string name="try_again">Poskusite znova</string>
-     <string name="turn_off_hint_title">"Ne identificirati neznane številke?"</string>
+     <string name="turn_off_hint_title">"Ne identificiram neznane številke?"</string>
      <string name="turn_off_phone_event_hint">"Ne boste mogli videti podrobnosti o poročilu neznane številke."</string>
      <string name="turn_off_smart_antispam_hint">"Izklopitm zaščito pri klicu neznanih številk?"</string>
      <string name="turn_on_phone_event_dialog_title">Posodobi bazo podatkov znanih številk</string>
@@ -556,8 +556,8 @@
      <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
      <string name="user_agreement2">Sporazum o uporabniku</string>
      <string name="user_agreement4">Politika zasebnosti</string>
-     <string name="user_notice_identify_summary_format">"Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>
-     <string name="user_notice_identify_summary_format_cta">"Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WLAN. Z dotikom na \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>
+     <string name="user_notice_identify_summary_format">"Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WiFi. Z dotikom na \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>
+     <string name="user_notice_identify_summary_format_cta">"Vaš telefon bo uporabljal MIUI podatkovno bazo za blokiranje neželenih klicev, ko ste povezani z omrežjem WiFi. Z dotikom na \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>
      <string name="user_notice_title">Pripomba</string>
      <string name="user_notice_yp_detail_summary_format">"Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z pritiskom \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>
      <string name="user_notice_yp_detail_summary_format_cta">"Nekatere informacije imenika so zastarele. Ali jih želite posodobiti? Z dotikom na \\Strinjam\\ se strinjate z Xiaomi's %1$s in %2$s."</string>

@@ -18,8 +18,8 @@
          <item>> 12000</item>
      </string-array>
      <string-array name="question_no1">
-         <item>Obitelj</item>
-         <item>"Ime babice poočetovi strani"</item>
+         <item>Družina</item>
+         <item>"Ime babice po očetovi strani"</item>
          <item>"Ime dedka po očetovi strani"</item>
          <item>"Ime dedka po mamini strani"</item>
          <item>"Ime babice po mamini strani"</item>
@@ -32,7 +32,7 @@
          <item>Ime vašeg predsednika razreda v osnovni šoli?</item>
          <item>Ime vašeg predsednika razreda v srednji šoli?</item>
          <item>Vaša študentska ID štev. na faksu</item>
-         <item>"Ime vašega cimera na faksu?"</item>
+         <item>"Ime vašega sostanovalca na faksu?"</item>
          <item>"Ime vašega mentorja na faksu?"</item>
      </string-array>
      <string-array name="question_no3">
