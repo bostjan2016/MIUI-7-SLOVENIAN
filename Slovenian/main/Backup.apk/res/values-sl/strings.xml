@@ -309,6 +309,9 @@
      <string name="unit_byte">B</string>
      <string name="unit_piece">predmeti</string>
      <string name="unknown_hint">Nepoznan</string>
+     <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
+     <string name="user_notice_message">Nekatere funkcije za normalno delo potrebujejo spletno povezavo.</string>
+     <string name="user_notice_title">Obvesti uporabnika</string>
      <string name="wifi_title">Wi-Fi nastavitve</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_bytes_unit">%1$sB</string>

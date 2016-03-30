@@ -328,6 +328,7 @@
      <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>
      <string name="network_connect_confirm_des">Aplikacija Datoteke potrebuje povezavo z internetom</string>
      <string name="network_dialog_checkbox_tip">"Ne prikaži več"</string>
+     <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
      <string name="network_spent_reminding">Odpiranje te strani bo porabilo nekaj vašega mobilnega prometa.</string>
      <string name="network_spent_reminding_title">Obvestilo uporabe podatkov</string>
      <string name="never_notify_network_connect">Ne kaži več</string>
@@ -475,6 +476,7 @@
      <string name="report_politics">Politika</string>
      <string name="report_porn">Porn</string>
      <string name="report_violence">Nasilje</string>
+     <string name="request_timeout">Veljavnost zahteve za omrežje je potekla</string>
      <string name="reset_password">Sprememba gesla</string>
      <string name="restoring">Obnavljam…</string>
      <string name="rlv_last_loading_time">Zadnja osvežitev: %1$s</string>
@@ -539,6 +541,7 @@
      <string name="server_control_advanced_settings">FTP nastavitve</string>
      <string name="server_control_charset">Prenos kodiranja</string>
      <string name="server_control_settings">Nastavitve</string>
+     <string name="server_error">Napaka strežnika, poskusite kasneje. (Napaka %s)</string>
      <string name="share_box">Skupno</string>
      <string name="share_box_receive">Prejeto</string>
      <string name="share_box_send">Poslano</string>

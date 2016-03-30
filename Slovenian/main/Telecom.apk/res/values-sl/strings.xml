@@ -8,13 +8,13 @@
   <string name="change_default_dialer_no_previous_app_set_text">Želite %s uporabljati kot privzeto aplikacijo za klicanje?</string>
   <string name="change_default_dialer_with_previous_app_set_text">Želite %1$s uporabljati kot privzeto aplikacijo za klicanje namesto %2$s?</string>
   <string name="dial_conference_fail_prompt">"Ne morem izbirati konferenčno, ker trenutno omrežje ne podpira VoLTE."</string>
-  <string name="dial_vt_fail_prompt">"Trenutno omrežje ne podpira VoLTE. Preklopim na normalni klic poziv?"</string>
+  <string name="dial_vt_fail_prompt">"Trenutno omrežje ne podpira VoLTE. Preklopim na normalni klic?"</string>
   <string name="duplicate_video_call_not_allowed">Klica trenutno ni mogoče dodati.</string>
   <string name="enable_account_preference_title">Računi za klicanje</string>
   <string name="handle_restricted">OMEJEN</string>
-  <string name="headset_plugin_view_text">Hands-free je povezan.</string>
-  <string name="headset_plugin_view_title">Hands-free</string>
-  <string name="incall_error_call_failed">"Nije možno usmerjanje klica."</string>
+  <string name="headset_plugin_view_text">Prostoročno je povezan.</string>
+  <string name="headset_plugin_view_title">Prostoročno</string>
+  <string name="incall_error_call_failed">"Ni možno usmerjanje klica."</string>
   <string name="lch_dtmf_key">D</string>
   <string name="no_vm_number">Manjkajoča številka glasovne pošte</string>
   <string name="no_vm_number_msg">Na kartici SIM ni shranjena številka glasovne pošte.</string>

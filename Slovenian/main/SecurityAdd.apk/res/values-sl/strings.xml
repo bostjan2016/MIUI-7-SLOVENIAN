@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Vtičnik Usluge varnosti</string>
-  <string name="app_not_installed_toast">"Aplikacija ni instalirana na vaši napravi."</string>
+  <string name="app_name">Vtičnik Storitve varnosti</string>
+  <string name="app_not_installed_toast">"Aplikacija ni nameščena na vaši napravi."</string>
   <string name="cancel_button">Prekliči</string>
   <string name="empty">" "</string>
   <string name="main_toolbar_purchase">Doplačilo</string>
@@ -17,9 +17,9 @@
   <string name="month_report_follow_service_summary">"Ostanite v toku z novicami o varnosti in informacijah z uporabo aplikacije MIUI Varnost."</string>
   <string name="month_report_follow_service_title">Varnostne posodobitve</string>
   <string name="month_report_history_activity_label">Zgodovina poročil</string>
-  <string name="month_report_network_dialog_description">Dovolim tej aplikaciji povezovanje na internet za dobivanje detajlev poročila?</string>
+  <string name="month_report_network_dialog_description">Dovolim tej aplikaciji povezovanje na splet za dobivanje podrobnega poročila?</string>
   <string name="month_report_network_dialog_positive">Dovoli</string>
-  <string name="month_report_network_dialog_title">"Ne morem dobiti detajlov poročila"</string>
+  <string name="month_report_network_dialog_title">"Ne morem dobiti podrobnega poročila"</string>
   <string name="month_report_result_share">Deli</string>
   <string name="month_report_share_img_fail">"Ne morem podeliti"</string>
   <string name="month_report_share_loading">Samo trenutek…</string>
@@ -28,7 +28,7 @@
   <string name="month_report_warning_dialog_title">Mesečno varnostno poročilo</string>
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
   <string name="no_network_btn">Poskusi ponovno</string>
-  <string name="ok_button">V redu</string>
+  <string name="ok_button">Vredu</string>
   <string name="open_browser">Odpri v brskalniku</string>
   <string name="pm_lable_name">O ROOT dostopu</string>
   <string name="privacy_declare_dialog_title">Pogoji ponujanja storitev</string>

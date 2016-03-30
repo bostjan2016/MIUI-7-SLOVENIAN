@@ -2,7 +2,9 @@
 <resources>
      <string name="access_denied">Dostop zavrnjen</string>
      <string name="account">Račun</string>
+     <string name="account_related">Vaša naprava je povezana z obstoječim Mi Računom (%s). Povežite se na omrežje da potrdite napravo.</string>
      <string name="activate">Aktiviraj</string>
+     <string name="activate_finddevice">Povežite se na omrežje da aktivirate napravo</string>
      <string name="activate_number_change_dialog_message">Izberite številko telefona ki bo vidna drugim napravam kadar kličete preko VoIP-a.</string>
      <string name="activating">Aktiviranje...</string>
      <string name="alert_notif_title_dspt">Ne sinhroniziraj</string>
@@ -44,8 +46,11 @@
      <string name="cloud_space_upgrade_title">Več prostora za Mi Cloud</string>
      <string name="cloudservice_new_sync">Sinhr. %s z Mi Cloudom</string>
      <string name="cmcc_micloud_dspt">Uporabite Mi Cloud za sinhronizacijo podatkov in lociranje naprave.</string>
+     <string name="connect_network">Povežite se na WiFi ali vstavite SIM kartico</string>
+     <string name="connect_wlan">Povežite se na WiFi</string>
      <string name="contact">Stiki</string>
      <string name="deskclock_backup">Napravi var. kopijo ure</string>
+     <string name="detect_sim_card">Ponovno poišči SIM kartico</string>
      <string name="disable_find_device_error">Ni mogoče izklopiti funkcije Najdi napravo %1$s</string>
      <string name="disable_find_device_success">"Najdi napravo" je izključeno.</string>
      <string name="enableAll">Sinhroniziraj vse</string>

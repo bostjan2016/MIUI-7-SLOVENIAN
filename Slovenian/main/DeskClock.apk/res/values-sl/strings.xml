@@ -95,6 +95,13 @@
      <string name="snooze_duration_title">Trajanje dremeža</string>
      <string name="start">Začni</string>
      <string name="start_up">Začni</string>
+     <string name="stat_repeat_everyday">Vsak dan</string>
+     <string name="stat_repeat_legal_off_day">法定节假日</string>
+     <string name="stat_repeat_legal_workday">法定工作日</string>
+     <string name="stat_repeat_none">Enkrat</string>
+     <string name="stat_repeat_self_define">Po meri</string>
+     <string name="stat_repeat_weekdays">Pon-Pet</string>
+     <string name="stat_repeat_weekends">Vikend</string>
      <string name="stopwatch_lap_empty_text">Ni krogov</string>
      <string name="stopwatch_title">Štoparica</string>
      <string name="system_time_setting">Nastavitve</string>

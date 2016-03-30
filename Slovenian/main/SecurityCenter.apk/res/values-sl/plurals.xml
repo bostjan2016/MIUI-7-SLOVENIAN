@@ -5,7 +5,7 @@
         <item quantity="one">Preišči med %d aplik.</item>
      </plurals>
      <plurals name="found_apps_title">
-        <item quantity="other">Majdeno %d aplik.</item>
+        <item quantity="other">Najdeno %d aplik.</item>
         <item quantity="zero">Najdeno 0 aplik.</item>
         <item quantity="one">Najdena %d aplik.</item>
      </plurals>
@@ -14,12 +14,12 @@
         <item quantity="one">Dovoljenje: %d</item>
      </plurals>
      <plurals name="hints_auto_start_disable_title">
-        <item quantity="other">"Aplikacij (%d) brez avtom. zagona"</item>
-        <item quantity="one">"Aplikacija (%d) brez avtom. zagona"</item>
+        <item quantity="other">"Aplikacij (%d) brez samod. zagona"</item>
+        <item quantity="one">"Aplikacija (%d) brez samod. zagona"</item>
      </plurals>
      <plurals name="hints_auto_start_enable_title">
-        <item quantity="other">Aplikacij (%d) z avtom. zagonom</item>
-        <item quantity="one">Aplikacija (%d) z avtom. zagonom</item>
+        <item quantity="other">Aplikacij (%d) z samod. zagonom</item>
+        <item quantity="one">Aplikacija (%d) z samod. zagonom</item>
      </plurals>
      <plurals name="hints_get_root_disable_title">
         <item quantity="other">"Aplikacij (%d) brez ROOT dostopa"</item>
@@ -38,24 +38,24 @@
         <item quantity="one">Aplikacija: %d</item>
      </plurals>
      <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"Toliko aplikacij (%d) ne more uporabljati podatke v roamingu"</item>
-        <item quantity="one">"%d aplikacija ne more uporabljati podatke v roamingu"</item>
+        <item quantity="other">"Toliko aplikacij (%d) ne more porabljati podatke v roamingu"</item>
+        <item quantity="one">"%d aplikacija ne more porabljati podatke v roamingu"</item>
      </plurals>
      <plurals name="hints_roaming_enable_title">
-        <item quantity="other">Toliko aplikacij (%d) lahko uporablja podatke v roamingu</item>
-        <item quantity="one">%d aplikacija lahko uporablja podatke v roamingu</item>
+        <item quantity="other">Toliko aplikacij (%d) lahko porablja podatke v roamingu</item>
+        <item quantity="one">%d aplikacija lahko porablja podatke v roamingu</item>
      </plurals>
      <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">Najdeno (%d) aplikacij</item>
         <item quantity="one">Najdena %d aplikacija</item>
      </plurals>
      <plurals name="hints_traffic_disable_title">
-        <item quantity="other">Spremljaj uporabo podatakov za (%d) aplikacij</item>
-        <item quantity="one">Spremljaj uporabu podatakov za %d aplikaciju</item>
+        <item quantity="other">Spremljaj porabo podatakov za (%d) aplikacij</item>
+        <item quantity="one">Spremljaj porabo podatakov za %d aplikaciju</item>
      </plurals>
      <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Ne prati uporabu podataka za ovoliko (%d) aplikacija</item>
-        <item quantity="one">Ne prati uporabu podataka za %d aplikacijo</item>
+        <item quantity="other">Ne spremljaj porabo podatkov za (%d) aplikacija</item>
+        <item quantity="one">Ne spremljaj porabo podatkov za %d aplikacijo</item>
      </plurals>
      <plurals name="hints_traffic_saving_disable_title">
         <item quantity="other">(%d) aplikacij ne uporablja Varčevanje Podatakov</item>

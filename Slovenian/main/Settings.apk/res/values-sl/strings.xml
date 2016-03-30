@@ -93,6 +93,7 @@
      <string name="add_device_admin_msg">Ali želite omogočiti skrbnika naprave?</string>
      <string name="add_fingerprint_done_msg">Zdaj lahko odklenete napravo s prstnim odtisom.</string>
      <string name="add_fingerprint_done_title">Končano!</string>
+     <string name="add_fingerprint_failed_retry_text">"Ne morem dodati prstnega odtisa, poskusite ponovno"</string>
      <string name="add_fingerprint_finished_button_text">Končano</string>
      <string name="add_fingerprint_instruction_dialog_msg">"Da dodate svoj prstni odtis, položite prst na senzor.Preverite ali vaš prst pokriva notranji rob senzorja"</string>
      <string name="add_fingerprint_instruction_msg">Odklenite napravo ali potrdite plačilo z vašim prstnim odtisom</string>
@@ -961,7 +962,7 @@
      <string name="data_usage_metered_body">Ko so podatki v ozadju omejeni, se omrežja z omejeno količino prenosa obravnavajo kot mobilna omrežja. V primeru velikih prenosov lahko aplikacije opozorijo pred uporabo teh omrežij.</string>
      <string name="data_usage_metered_mobile">Mobilna omrežja</string>
      <string name="data_usage_metered_title">Omejitve omrežja</string>
-     <string name="data_usage_metered_wifi">Wi‑Fi z omejeno količ. prenosa</string>
+     <string name="data_usage_metered_wifi">WiFi z omejeno količ. prenosa</string>
      <string name="data_usage_metered_wifi_disabled">Če želite izbrati omrežje z omej. kol. prenosa, vklopite Wi-Fi.</string>
      <string name="data_usage_pick_cycle_day">Dan za ponastavitev cikla porabe podatkov:</string>
      <string name="data_usage_received_sent">prejeto: %1$s, poslano: %2$s</string>
@@ -1057,6 +1058,7 @@
      <string name="device_cpu">CPU</string>
      <string name="device_cpu2_info">Dvojedrni procesor</string>
      <string name="device_cpu4_info">Štirijedrni procesor</string>
+     <string name="device_cpu6_info">"6-jedrni "</string>
      <string name="device_cpu8_info">"8-jedrni "</string>
      <string name="device_edit_title">Preimenuj telefon</string>
      <string name="device_feedback">Pošlji povratne info. o tej napravi</string>

@@ -8,6 +8,14 @@
         <item quantity="other">Alarmi se bodo izključili čez %d minut</item>
         <item quantity="one">Alarm se bo izključil čez %d minuto</item>
      </plurals>
+     <plurals name="delete_alarm_confirm">
+        <item quantity="other">Izbrišem izbrane alarme?</item>
+        <item quantity="one">Izbrišem ta alarm?</item>
+     </plurals>
+     <plurals name="delete_timezone_confirm">
+        <item quantity="other">Izbrišem izbrane časovne pasove?</item>
+        <item quantity="one">Izbrišem časovni pas?</item>
+     </plurals>
      <plurals name="snooze_message">
         <item quantity="other">Odlog alarma za %d min.</item>
         <item quantity="one">Odloži alarm za %d min.</item>

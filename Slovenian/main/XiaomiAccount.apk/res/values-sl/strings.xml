@@ -174,6 +174,7 @@
      <string name="confirm_phone_number_dialog_title">Potrdi številko telefona</string>
      <string name="confirm_unbind">Odstrani ta račun</string>
      <string name="continue_action">Nadaljuj</string>
+     <string name="current_location_title">Trenutna lokacija</string>
      <string name="data_keep_in_device">Ostani na tej napravi</string>
      <string name="data_wipe_from_device">Izbriši iz te naprave</string>
      <string name="delete_action">Izbriši</string>
@@ -228,6 +229,8 @@
      <string name="loading">Nalaganje...</string>
      <string name="loading_micloud_sync_data">Nalaganje...</string>
      <string name="loading_mili_center">Nalaganje...</string>
+     <string name="locating_current_location">Lociranje</string>
+     <string name="location_service_not_working">Storitev lociranja ne dela</string>
      <string name="login">Vpiši se</string>
      <string name="login_failed">Ne morem se vpisati v</string>
      <string name="login_instead_reg">Uporabi to številko</string>
@@ -405,11 +408,11 @@
      <string name="passport_user_agreement_p3">in</string>
      <string name="passport_user_agreement_p4">Pravilnik o zasebnosti</string>
      <string name="passport_vcode">Koda za preverjanje</string>
-     <string name="passport_vcode_notification_title">Vaša vpis za preverjanje je nepopolen</string>
+     <string name="passport_vcode_notification_title">Vaš vpis za preverjanje je nepopolen</string>
      <string name="passport_vcode_prompt_long">Vnesite kodo za preverjanje, ki jo je ustvaril Mi Varnostni žeton</string>
      <string name="passport_verification_failed">Preverjanje pristnosti ni uspelo</string>
      <string name="passport_verify">Preveri</string>
-     <string name="passport_wait_for_sms_prompt">"Začeti ponovno? Dostava sporočila za preverjanje lahko traja do 10 minut ko je telefon v dosegu omrežja vašega operaterja."</string>
+     <string name="passport_wait_for_sms_prompt">"Začeti znova? Dostava sporočila za preverjanje lahko traja do 10 minut ko je telefon v dosegu omrežja vašega operaterja."</string>
      <string name="passport_welcome_skip_login">Preskoči to nastavitev</string>
      <string name="passport_wrong_captcha">Koda, ki ste jo vnesli, je napačna</string>
      <string name="passport_wrong_password">Napačno geslo</string>
@@ -463,6 +466,7 @@
      <string name="security_question_notice_message">Nastavite varnostna vprašanja po povezavi telefona, da jih boste lahko razveljavili če ste jih pozabili</string>
      <string name="security_question_notice_title">Poveži Telefon</string>
      <string name="security_question_prompt">"Varnostna vprašanja se lahko uporabijo ko spremenite ali razveljavite geslo. Poskrbite, da si boste zapomnili odgovore na ta vprašanja."</string>
+     <string name="select_location_title">Izberite vašo lokacijo</string>
      <string name="send_email_activate_message">E-pošta za preverjanje poslana</string>
      <string name="service_error">Napaka storitve</string>
      <string name="set_security_question_title">Nastavi varnostna vprašanja</string>
