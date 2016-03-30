@@ -26,8 +26,10 @@
      <string name="backup_data">Izberi datoteke za varnostno kopiranje</string>
      <string name="backup_delete">Izbriši:</string>
      <string name="backup_empty">Ni varnostnih kopij.</string>
-     <string name="backup_empty_info">Varnostno kopiraj podatke,nastavitve in aplikacije.</string>
-     <string name="backup_empty_info_onpad">" Napravite var. kopijo vaših podatkov,nastavitev in aplikacij"</string>
+     <string name="backup_empty_info">Varnostno kopiraj podatke,
+nastavitve in aplikacije.</string>
+     <string name="backup_empty_info_onpad">" Napravite var. kopijo vaših podatkov,
+nastavitev in aplikacij"</string>
      <string name="backup_error">Ni mogoče varnostno kopirati</string>
      <string name="backup_failed">Ni mogoče varnostno kopirati</string>
      <string name="backup_file_error">Ni mogoče varnostno kopirati</string>
@@ -78,7 +80,7 @@
      <string name="custom_progress">%d postavk</string>
      <string name="data_item_desc">Podatki</string>
      <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
-     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
+  <string name="date_format">yyyy MM dd HH:mm:ss</string>
      <string name="delete">Odstrani</string>
      <string name="delete_backup_process">Odstranjujem...</string>
      <string name="delete_backup_title">Izbrisati var. kopijo</string>
@@ -116,7 +118,9 @@
      <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
      <string name="guarded_mode_dialog_message">Ta funkcija ni omogočena v načinu Gost</string>
      <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
-     <string name="import_from_xiaomi_account_hint1">1.\u0009Prenesi Mi Talk in se prijavi.\u0009http://www.miliao.com 2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”</string>
+     <string name="import_from_xiaomi_account_hint1">1.\u0009Prenesi Mi Talk in se prijavi.
+  \u0009http://www.miliao.com 
+  2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”</string>
      <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
      <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje stikov iz vaših naprav.</string>
      <string name="local_app_name">Varnostno kopiraj</string>
@@ -247,8 +251,9 @@
      <string name="trans_calculating_base_size">"Izračun velikosti baze aplikacije"</string>
      <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
      <string name="trans_cancelling">Nehaj</string>
+  <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
-     <string name="trans_connect_failed_title">Povezovanje ni uspelo</string>
+     <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
      <string name="trans_connecting_toast">Povezovanje…</string>
      <string name="trans_detail_category_account">Računi in kontakti</string>
@@ -259,13 +264,19 @@
      <string name="trans_generate_qr_code_failed">"Ni možno izdelati QR kode"</string>
      <string name="trans_main_tutor">Premestite kontakte, zgodovino klicev, sporočila, začetni zaslon, aplikacije, nastavitve, itd. na novo napravo</string>
      <string name="trans_my_device">Moja naprava</string>
-     <string name="trans_native_no_space">"V napravi ni dovolj prostora. Izbrišite najmanj %s"</string>
+     <string name="trans_native_no_space">"V napravi ni dovolj prostora.
+     Izbrišite najmanj %s"</string>
      <string name="trans_one_key_migrate">Mi Mover</string>
      <string name="trans_operate_func_one">Metoda A</string>
      <string name="trans_operate_func_two">Metoda B</string>
-     <string name="trans_operate_new_phone_tips">"Skenirajte QR kodo z uporabo nove naprave. Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover. Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
-     <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikacijo Mi Mover na vaši drugi napravi 2. Odprite aplikacijo in izberite [Sem pošiljatelj] 3. Skenirajte QR kodo z vašo drugo napravo"</string>
-     <string name="trans_operate_old_phone_tips2">Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover. Dotaknite se [Sem pošiljatelj]"</string>
+     <string name="trans_operate_new_phone_tips">"Skenirajte QR kodo z uporabo nove naprave. Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
+  
+     Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
+     <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikacijo Mi Mover na vaši drugi napravi 
+     2. Odprite aplikacijo in izberite [Sem pošiljatelj] 
+     3. Skenirajte QR kodo z vašo drugo napravo"</string>
+     <string name="trans_operate_old_phone_tips2">Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
+    Dotaknite se [Sem pošiljatelj]"</string>
      <string name="trans_please_waiting">Počakajte malo…</string>
      <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
      <string name="trans_progress_subdescript_br_sender">Izdelava var. kopije %1$s, %2$s končana</string>
@@ -279,7 +290,9 @@
      <string name="trans_progress_subdescript_transingsddata_sender">Pošiljanje podatkov SD kartice %1$s, %2$s končano</string>
      <string name="trans_progress_subdescript_waiting">Čakanje na sprejem %s</string>
      <string name="trans_receiver">"Sem prejemnik"</string>
-     <string name="trans_receiver_time_remained">"%s preostalo. Ne izključite WiFi. Imejte obe napravi blizu skupaj."</string>
+     <string name="trans_receiver_time_remained">"%s preostalo.
+     Ne izključite WiFi.
+    Imejte obe napravi blizu skupaj."</string>
      <string name="trans_receiving_completed">Uspešno prejeto</string>
      <string name="trans_restoring">Vračanje…</string>
      <string name="trans_restoring_no_items">Sinhr. postavk</string>
@@ -287,24 +300,32 @@
      <string name="trans_scan_invalid_qrcode">Neveljavna  QR koda</string>
      <string name="trans_scan_qr_code_tips">Skenirajte QR kodo z vašo novo napravo</string>
      <string name="trans_select_data">Izberite podatke</string>
-     <string name="trans_select_data_no_space">"%s dostopno na novi napravi.  Izberite datoteke ponovno ali osvobodite prostor za shrambo"</string>
-     <string name="trans_select_data_tips">"Izberite datoteke za prenos.  Podobne datoteke na novi napravi bodo presnete"</string>
+     <string name="trans_select_data_no_space">"%s dostopno na novi napravi. 
+     Izberite datoteke ponovno ali osvobodite prostor za shrambo"</string>
+     <string name="trans_select_data_tips">"Izberite datoteke za prenos.
+    Podobne datoteke na novi napravi bodo presnete"</string>
      <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
      <string name="trans_select_device_send">Izberite napravo za prenos podatakov.</string>
      <string name="trans_sender">"Sem pošiljatelj"</string>
      <string name="trans_sender_connectting">Potrdite na novi napravi</string>
      <string name="trans_sender_searching">Iskanje novih naprav</string>
-     <string name="trans_sender_searching_ensurance">"Poskrbite da je druga naprava vključena. Čakanje povezovanja druge naprave…"</string>
-     <string name="trans_sender_time_remained">"%s preostalo. Ne izključite WiFi. Imejte obe napravi blizu skupaj."</string>
+     <string name="trans_sender_searching_ensurance">"Poskrbite da je druga naprava vključena.
+    Čakanje povezovanja druge naprave…"</string>
+     <string name="trans_sender_time_remained">"%s preostalo.
+    Ne izključite WiFi.
+    Imejte obe napravi blizu skupaj."</string>
      <string name="trans_sending_completed">Uspešno poslano</string>
      <string name="trans_show_qr_code_label">Povežite drugo napravo</string>
      <string name="trans_show_qr_code_tips">Skenirajte QR kodo z vašo staro napravo</string>
      <string name="trans_start_failed_message">Pošiljanje ni uspelo, poskusite ponovno ali ponovno zaženite napravo in poskusite ponovno</string>
      <string name="trans_start_failed_title">Pošiljanje ni uspelo</string>
      <string name="trans_time_format_second">Manj od 1 minute</string>
-     <string name="trans_time_spent">"      Porabljeni čas %s"</string>
-     <string name="trans_wait_trans_data">"Povezano z drugo napravo. Čakam prenos…"</string>
-     <string name="trans_waiting_ensurance">"Poskrbite da je druga naprava vključena in Mi Mover vključen"</string>
+     <string name="trans_time_spent">"   
+  Porabljeni čas %s"</string>
+     <string name="trans_wait_trans_data">"Povezano z drugo napravo. 
+  Čakam prenos…"</string>
+     <string name="trans_waiting_ensurance">"Poskrbite da je druga naprava vključena 
+  in Mi Mover vključen"</string>
      <string name="trans_waiting_for_sender">Čakanje povezovanja druge naprave…</string>
      <string name="unit_byte">B</string>
      <string name="unit_piece">predmeti</string>
@@ -321,7 +342,9 @@
      <string name="xiaomi_megabytes_unit">%1$sMB</string>
      <string name="xiaomi_router">Mi Router</string>
      <string name="xiaomi_router_location">Mi Router %s</string>
-     <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s Velikost: %2$s"</string>
-     <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  Velikost Delta posodobitve: %2$s"</string>
+     <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s 
+  Velikost: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s  
+  Velikost Delta posodobitve: %2$s"</string>
      <string name="xiaomi_update_dialog_title">Dostopna nova posodobitev!</string>
 </resources>
