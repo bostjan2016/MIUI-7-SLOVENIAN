@@ -476,7 +476,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="timeshow_m_s">%1$dmin %2$dsek</string>
      <string name="timeshow_s">%dsek</string>
      <string name="tips_dialog_title">Ne veste svoje omejitve?</string>
-     <string name="tips_message">Če ne poznate podrobnosti vaših omejitev si jih lahko ogledate s klicanjem na %2$s (%1$s). Samo za Kitajsko.</string>
+     <string name="tips_message">Če ne poznate podrobnosti vaših omejitev si jih lahko ogledate s kontaktom na %2$s (%1$s). Samo za Kitajsko.</string>
      <string name="title_limit_traffic_per_day">Dnevna omejitev uporabe podatkov</string>
      <string name="traffic_alert_auto_modify_notification_sumarry">Mesečni plan zamenjan v %s.</string>
      <string name="traffic_alert_auto_modify_notification_titile">Osvežen plan podatkov</string>

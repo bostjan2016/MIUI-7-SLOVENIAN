@@ -13,7 +13,7 @@
 ali vnesite geslo"</string>
      <string name="access_control_need_to_unlock_nofingerprint">Vnesite geslo za odklepanje</string>
      <string name="access_control_recording_intro_header">Narišite vzorec za zaklepanje aplikacije</string>
-     <string name="access_control_reset_by_account">Prijavite se na svoj Mi Račun za resetiranje zaklepanja aplikacije</string>
+     <string name="access_control_reset_by_account">Prijavite se na svoj Mi račun za resetiranje zaklepanja aplikacije</string>
      <string name="activity_title_antispam">Seznam blokad</string>
      <string name="activity_title_antivirus">Iskanje virusov</string>
      <string name="activity_title_apps_manager">Aplikacije</string>
