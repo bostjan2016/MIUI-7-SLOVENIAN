@@ -662,10 +662,12 @@
      <string name="livetalk_creat_account_fialed">Account error</string>
      <string name="livetalk_dial_direct">Dial directly</string>
      <string name="livetalk_experience_button">Try now</string>
-     <string name="livetalk_introduction_text">"Low flow, low cost and high quality Super cheap international calls over the Internet"</string>
-     <string name="livetalk_last_step">Back</string>
-     <string name="livetalk_login_experience_button">Sign in</string>
-     <string name="livetalk_login_message">"prijava z Mi Računom za pričetek uporabe Top-up paketa"</string>
+  <string name="livetalk_introduction_text">"Low flow, low cost and high quality 
+Super cheap international calls over the Internet"</string>
+  <string name="livetalk_last_step">Back</string>
+  <string name="livetalk_login_message">"Sign in with Mi Account
+to start using Top-up package"</string>
+  <string name="livetalk_login_experience_button">Sign in</string>
      <string name="livetalk_name">Top-up package</string>
      <string name="livetalk_network_confirm">OK</string>
      <string name="livetalk_network_confirm_summary">Top-up packages use about 1KB of mobile data each time a call is connected.</string>
