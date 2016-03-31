@@ -32,9 +32,11 @@
         <item>15 minut</item>
         <item>30 minut</item>
         <item>1 ura</item>
+		<item>12 ur</item>
         <item>1 dan</item>
         <item>2 dni</item>
         <item>1 teden</item>
+		<item>2 tedna</item>
      </string-array>
      <string-array name="miui_reminder_minutes_labels">
         <item>Brez opomnika</item>
@@ -93,14 +95,17 @@
      <string-array name="reminder_minutes_labels">
         <item>Brez opozorila</item>
         <item>0 minut</item>
+		<item>1 minuta</item>
         <item>5 minut</item>
         <item>10 minut</item>
         <item>15 minut</item>
-        <item>30 minut</item>
+        <item>20 minut</item>
         <item>1 ura</item>
+		<item>12 ur</item>
         <item>1 dan</item>
         <item>2 dni</item>
         <item>1 teden</item>
+		<item>2 tedna</item
      </string-array>
      <string-array name="repeat_choose_day">
         <item>1.</item>
