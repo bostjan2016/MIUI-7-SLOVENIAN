@@ -496,7 +496,6 @@
   <string name="internal_camera_folder_display_name">Notranje fotografije</string>
   <string name="internal_miui_capture_screen_folder_display_name">Notranji posnetki zaslona</string>
      <string name="internal_sd_card_hm">Telefonski pomnilnik</string>
-  <string name="internal_sd_card_hm">Shramba telefona</string>
   <string name="internal_sdcard_root">Root direktorij SD kartice</string>
      <string name="invalid_invition_url">Neveljavno vabilo URL</string>
      <string name="invalid_recipient_message">Imena prejemnikov so napačna</string>
@@ -634,7 +633,6 @@
      <string name="operation_download">Prenesi fotografijo (%s)</string>
      <string name="operation_edit">Uredi</string>
      <string name="operation_enable_auto_upload">Omogoči sam. Var. kopijo</string>
-  <string name="operation_add_secret_button">Skrij</string>
   <string name="operation_delete_confirm_message_folder">"Vsa vsebina map bo izbrisana.
 "</string>
   <string name="operation_failed">Opravilo ni uspelo</string>
@@ -667,7 +665,6 @@
   <string name="orientation_lock_tip">Rotacija zaklenjena</string>
   <string name="orientation_unlock_tip">Avtom. rotacija vključena</string>
   <string name="operation_unset_as_screensaver">Odpovej Čuvaja zaslona</string>
-     <string name="orientation_unlock_tip">Samod. rotacija vključena</string>
      <string name="original">Original</string>
      <string name="original_scale">Originalna lestvica</string>
      <string name="other_category">Dodatne nastavitve</string>
@@ -880,7 +877,6 @@
      <string name="slideshow">Diaprojekcija</string>
      <string name="slideshow_category">Diaprojekcija</string>
      <string name="slideshow_dream_name">Diaprojekcija</string>
-     <string name="slideshow_interval_invalid">Interval mora biti med 1 in 3600 sekund</string>
      <string name="slideshow_repeat_mode">Zanka</string>
      <string name="sports_camera">Športna Kamera</string>
      <string name="square">Kvadrat</string>
@@ -956,7 +952,6 @@
   <string name="user_agreement4">Pravila o zasebnosti</string>
   <string name="untagged">Neoznačeno</string>
   <string name="upgrade_micloud_space">Kupite več prostora</string>
-     <string name="user_agreement4">Pravila o Zasebnosti</string>
      <string name="user_alias_self">Jaz</string>
      <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate s Xiaomi %1$s and %2$s."</string>
      <string name="user_notice_title">Pozor</string>
