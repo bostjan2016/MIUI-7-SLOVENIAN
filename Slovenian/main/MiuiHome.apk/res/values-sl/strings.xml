@@ -79,13 +79,13 @@
      <string name="editing_set_transition_effect_tips">Izberite učinek prehoda zaslona</string>
      <string name="editing_set_wallpaper_tips">Izberi ozadje</string>
      <string name="editing_tips">Spremeni Domači zaslon</string>
-     <string name="emptyplaylist">Tapni, če hočeš dodati pesem</string>
+     <string name="emptyplaylist">Tapni če hočeš dodati pesem</string>
      <string name="enable_wallpaper_scroll">Vključi pomikanje slike</string>
      <string name="encryption">Enkripcija</string>
      <string name="failed_to_delete_temporary">Izbris ni mogoč</string>
      <string name="failed_to_drop">Ni mogoče premakniti</string>
      <string name="failed_to_drop_widget_invalid">Pripomoček nepravilen</string>
-     <string name="failed_to_drop_widget_nospace">Ni več prostora na tem Domačem zaslonu</string>
+  <string name="failed_to_drop_widget_nospace">Na tem zaslonu ni več prostora</string>
      <string name="failed_to_load_image">"Ne morem naložiti slike"</string>
      <string name="folder_name">Mapa</string>
      <string name="frame_load_failed">Ni mogočenaložiti okvirja</string>
@@ -123,7 +123,7 @@
      <string name="gadget_search_label">Iskanje</string>
      <string name="gadget_weather_app_not_installed">Dotaknite se, da naložite MIUI vremensko aplikacijo</string>
      <string name="gadget_weather_aqi_title">Kakovost zraka;</string>
-     <string name="gadget_weather_download_message">Prenesti morate vsebino aplikacije: %1$s (%2$s). Po prenosu ponovno zaženite aplikacijo.</string>
+     <string name="gadget_weather_download_message">Prenesti morate vsebino aplikacije: %1$s velikosti %2$s. Po prenosu ponovno zaženite aplikacijo.</string>
      <string name="gadget_weather_download_start">Naloži</string>
      <string name="gadget_weather_download_title">Naloži</string>
      <string name="gadget_weather_downloading">Vsebina aplikacije se nalaga. Po prenosu ponovno zaženite aplikacijo.</string>
@@ -140,7 +140,7 @@
      <string name="group_shortcuts">Bližnjice</string>
      <string name="guide_install_app_msg">Aplikacija ni naložena na telefonu. Poišči in naloži aplikacijo sedaj?</string>
      <string name="guide_install_app_title">Naloži aplikacijo</string>
-     <string name="guide_tips_editing_mode">Pritisni in drži, če hočeš pobrati pripomoček</string>
+  <string name="guide_tips_editing_mode">Tapni &amp; drži da pobereš pripomoček</string>
      <string name="image_too_small_message">"Izbrana slika ni dovolj velika"</string>
      <string name="install">Naloži</string>
      <string name="invalid_contact_shortcut">Napačen stik</string>
@@ -236,9 +236,9 @@
      <string name="transformation_type_classic_no_overshoot">Drseti</string>
      <string name="transformation_type_crossfade">Preliv</string>
      <string name="transformation_type_cube">Kocka</string>
-     <string name="transformation_type_falldown">Prekucni</string>
+  <string name="transformation_type_falldown">2D rotacija</string>
      <string name="transformation_type_leftpage">Stran</string>
-     <string name="transformation_type_rotate">Rotirati</string>
+  <string name="transformation_type_rotate">3D rotacija</string>
      <string name="transformation_type_stack">Kaskada</string>
      <string name="uninstall">Odstrani</string>
      <string name="uninstall_dialog_message">Odstranitev bo odstranila vse podatke aplikacij.</string>
