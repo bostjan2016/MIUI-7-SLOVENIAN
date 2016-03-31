@@ -253,7 +253,6 @@ nastavitev in aplikacij"</string>
      <string name="trans_cancelling">Nehaj</string>
   <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
-     <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
      <string name="trans_connecting_toast">Povezovanje…</string>
      <string name="trans_detail_category_account">Računi in kontakti</string>
