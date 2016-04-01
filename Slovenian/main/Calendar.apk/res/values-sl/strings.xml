@@ -47,7 +47,7 @@
      <string name="app_label">Koledar</string>
      <string name="attendees_label">Gostje</string>
      <string name="birthday_calendar_display_name">Rojstni dnevi</string>
-     <string name="birthday_event_description">"Danes je %1$s's %4$s!"</string>
+     <string name="birthday_event_description">"Danes je %1$s %4$s!"</string>
      <string name="birthday_event_description_a_week_ago">Pred tednom</string>
      <string name="birthday_event_description_a_week_later">Teden kasneje</string>
      <string name="birthday_event_description_day_after_tomorrow">Pojutrišnjem</string>
