@@ -116,7 +116,6 @@
      <string name="credit_event_card_title">信用卡还款</string>
      <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
      <string name="credit_event_title">信用卡账单</string>
-  <string name="creating_event_with_guest">Vabilo bo poslano</string>
      <string name="cta_notice_checkbox">Zapomni si nastavitve</string>
      <string name="cta_notice_message">Koledar mora prebrati informacije stikov da lahko nastavi rojstnodnevne opomnike.</string>
      <string name="cta_notice_ok">Dovoli</string>
