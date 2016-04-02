@@ -444,7 +444,7 @@
      <string name="group_by_location">po lokaciji</string>
      <string name="group_by_tags">po oznakah</string>
      <string name="group_by_time">po času</string>
-     <string name="has_invalid_recipient">Napačni prejemniki: %1$s&gt;</string>
+  <string name="has_invalid_recipient">Neveljavni prejemnik: %1$s</string>
      <string name="have_known">Vem</string>
      <string name="height">Višina</string>
      <string name="hidden_album_display_name">Skriti album</string>
