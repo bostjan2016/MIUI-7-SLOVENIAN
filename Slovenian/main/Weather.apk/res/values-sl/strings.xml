@@ -271,7 +271,7 @@
      <string name="resource_selected">Izbrano</string>
      <string name="resource_send">Pošlji</string>
      <string name="resource_server_alert_dialog_title">"Vrnemo se takoj…"</string>
-     <string name="resource_server_out_of_service">Na žalost, naš strežnik je trenutno nedostopen.</string>
+     <string name="resource_server_out_of_service">Na žalost je naš strežnik trenutno nedostopen.</string>
      <string name="resource_share_subject">Podeli temo: %1$s</string>
      <string name="resource_share_text">Tema ki bi vam lahko bila všeč: %1$s! Povezava: %2$s</string>
      <string name="resource_share_title">Podeli</string>

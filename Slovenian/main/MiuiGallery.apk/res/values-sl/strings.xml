@@ -20,7 +20,7 @@
      <string name="activity_not_found">Nobena aplikacija ni bila najdena za to opravilo</string>
      <string name="add_account">Dodaj račun</string>
      <string name="add_automatically_alert_msg">Dodati fotografije od \"%1$s\" v ta album avtomatsko?</string>
-     <string name="add_automatically_alert_title">Dodaj fotografije automatsko</string>
+     <string name="add_automatically_alert_title">Dodaj fotografije avtomatsko</string>
      <string name="add_event">Dodaj dogodek</string>
      <string name="add_event_hint">Vnesite ime</string>
      <string name="add_sharer">Dodaj člana</string>
