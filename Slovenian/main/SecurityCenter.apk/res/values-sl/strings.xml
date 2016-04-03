@@ -67,7 +67,7 @@ ali vnesite geslo"</string>
      <string name="antivirus_privacy_dialog_summary">"Ta funkcija šifrira in pošilja ID vaše naprave na AVL in Tencent strežnike (%s)."</string>
      <string name="antivirus_privacy_dialog_summary_link">Prikaz Pravila o zasebnosti</string>
      <string name="antivirus_privacy_dialog_title">Pravila o zasebnosti</string>
-     <string name="antivirus_sec_support">S strani</string>
+  <string name="antivirus_sec_support">Powered by %s</string>
      <string name="antivirus_update_db">%s</string>
      <string name="apn_exception_summary">Test konfiguracije APN-jev mobilnega operatera</string>
      <string name="apn_exception_title">Preverite nastavitve APN-ja</string>

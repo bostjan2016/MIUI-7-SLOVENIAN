@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="account_unactivated">Račun ni aktiviran</string>
-     <string name="act_aqi_src_port">%1$s%2$s %3$s</string>
+  <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
      <string name="act_find_city_hint">Vnesi lokacijo</string>
      <string name="act_find_city_hot_title">Dodaj</string>
      <string name="act_set_city_find_side">Lociranje...</string>
      <string name="act_set_city_find_side_error">Ne morem najti naprave</string>
      <string name="act_weather_find_city_added">Dodano</string>
      <string name="act_weather_find_city_click_retry">Poskusite znova</string>
-     <string name="act_weather_find_city_connect_net">"Ne morem se povezati z omrežjem."</string>
      <string name="act_weather_find_city_net_no_good">"Ne morem se povezati na omrežje."</string>
      <string name="act_weather_find_city_no_result">Ni rezultatov</string>
      <string name="act_weather_find_city_searching">Iskanje...</string>
@@ -17,11 +16,11 @@
      <string name="activity_find_city_dialog_message">Vreme naj uporabi podatke lokacije</string>
      <string name="activity_find_city_dialog_set">Nastavitve</string>
      <string name="activity_find_city_dialog_title">Storitev lokacije</string>
-     <string name="activity_main_alert" />
      <string name="activity_main_clickable">&gt;</string>
+  <string name="activity_main_alert"/>
      <string name="activity_main_one_alert" />
      <string name="activity_main_refresh_fail">"Ne morem se povezati na omrežje"</string>
-     <string name="activity_main_time_format">MM/dd</string>
+  <string name="activity_main_time_format">E</string>
      <string name="activity_main_update_time">Posodobljeno %1$s</string>
      <string name="activity_main_update_time_right_now">Zdaj</string>
      <string name="activity_weathermain_locationg">Lociranje...</string>
@@ -57,7 +56,7 @@
      <string name="aqi_quality_index_unhealthy_short_desc">%1$s</string>
      <string name="aqi_short_desc">AQI %1$s</string>
      <string name="button_abandon">Opusti spremembe</string>
-     <string name="button_allow">Vredu</string>
+     <string name="button_allow">V redu</string>
      <string name="button_confirm">Dovoli</string>
      <string name="button_exit">Izhod</string>
      <string name="button_not_allow">Prekliči</string>
@@ -157,7 +156,7 @@
      <string name="resource_comment_edit_comment_waiting">Preverjanje zgodovine…</string>
      <string name="resource_comment_edit_text_default">Napišite komentar</string>
      <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
-     <string name="resource_comment_entry_tips">Komentarjev(%1$s)</string>
+  <string name="resource_comment_entry_tips">Komentarjev (%1$s)</string>
      <string name="resource_comment_expand_full_text">Razširi ves tekst▼</string>
      <string name="resource_comment_footer">Prazni komentari niso prikazani.</string>
      <string name="resource_comment_good_comments">Pozitivni</string>
@@ -169,7 +168,7 @@
      <string name="resource_comment_publish">Pošlji</string>
      <string name="resource_comment_rate">Ocena:</string>
      <string name="resource_comment_rating_star_tips">Dotaknite se * da ocenite:</string>
-     <string name="resource_comment_score_count">%1$s uporabnika</string>
+  <string name="resource_comment_score_count">%1$s uporabnikov</string>
      <string name="resource_comment_sending">Pošiljam komentar…</string>
      <string name="resource_comment_title">Komentarjev: %1$s</string>
      <string name="resource_comment_upload_data_invalid">Komentar ni veljaven</string>
@@ -203,7 +202,7 @@
      <string name="resource_downloaded_title">Prevzeti elementi</string>
      <string name="resource_downloading">Nalaganje…</string>
      <string name="resource_exchange">Kupi temo</string>
-     <string name="resource_exchange_confirm">Vredu</string>
+     <string name="resource_exchange_confirm">V redu</string>
      <string name="resource_exchange_empty_format">Vnesite darilno kodo!</string>
      <string name="resource_exchange_has_bought">"To temo ste že kupili."</string>
      <string name="resource_exchange_has_expired">Koda je potekla.</string>
@@ -244,7 +243,7 @@
      <string name="resource_notification_default">Obvestila</string>
      <string name="resource_on_trial">Preizkušam: %1$s</string>
      <string name="resource_online">Omrežno %1$s</string>
-     <string name="resource_pack_confirm">"Čeprav ste že kupili %1$d komponente te teme, je ceneje če kupite cel paket."</string>
+     <string name="resource_pack_confirm">"Čeprav ste že kupili %1$d komponente te teme je ceneje če kupite cel paket."</string>
      <string name="resource_pack_discount_info">Prihranjeno: %1$s</string>
      <string name="resource_pack_get_auth_has_been_undercarriaged">Ta tema ni več dostopna.</string>
      <string name="resource_pack_price_info">Izvirna cena: %1$s</string>
@@ -298,7 +297,8 @@
      <string name="resource_update">Posodobi</string>
      <string name="resource_user_know">Vredu</string>
      <string name="resource_waiting_download">Čakam…</string>
-     <string name="sdcard_not_mounted_dialog_message">"Vstavite SD kartico."</string>
+  <string name="sdcard_not_mounted_dialog_message">"Vstavite SD kartico.
+"</string>
      <string name="sdcard_not_mounted_dialog_title">Ne najdem SD kartice</string>
      <string name="select_all">@miui:string/select_all</string>
      <string name="share">Deli</string>
@@ -308,7 +308,7 @@
      <string name="share_menu_title">Podeli</string>
      <string name="share_subject">Podeli</string>
      <string name="share_title">Podeli čas</string>
-     <string name="share_weather_desc">\#MIUI Čas#Danes %1$s %2$s</string>
+  <string name="share_weather_desc">\#MIUI Vreme#Danes %1$s %2$s</string>
      <string name="share_weather_desc_alert">%1$s%2$s</string>
      <string name="share_weather_desc_split">,</string>
      <string name="share_weather_save_pic_fail">"Ne morem narediti posnetek zaslona"</string>
@@ -323,5 +323,5 @@
      <string name="view_indexes_wind_unit">km/h</string>
      <string name="weather_unit">°</string>
      <string name="weather_unit_middle">~</string>
-     <string name="weather_unit_with_c">℃</string>
+  <string name="weather_unit_with_c">°C</string>
 </resources>
