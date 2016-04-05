@@ -255,7 +255,8 @@ s številko %s"</string>
   <string name="ext_media_nomedia_notification_title">Shramba %s je bila odstranjena</string>
   <string name="ext_media_safe_unmount_notification_message">USB shrambo lahko varno odstranite.</string>
   <string name="ext_media_safe_unmount_notification_title">Varno odstranjevanje shrambe USB</string>
-  <string name="ext_media_unmountable_notification_title">Naprava za shranjevanje %s je poškodovana</string>
+  <string name="ext_media_unmountable_notification_message">Poškodovana je USB shramba. Poskusite jo ponovno formatirati.</string>
+  <string name="ext_media_unmountable_notification_title">Poškodovana USB shramba</string>
   <string name="extmedia_format_button_format">Formatiraj</string>
   <string name="extmedia_format_message">Vse shranjene datoteke bodo izbrisane. Tega se ne da obnoviti!</string>
   <string name="extmedia_format_title">Format. USB shrambo?</string>
@@ -735,7 +736,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_backup">Programu omogoča nadzor mehanizma za varnostno kopiranje in obnovitev sistema. Ni za uporabo z navadnimi programi.</string>
   <string name="permdesc_batteryStats">Programu omogoča branje podatkov o trenutni nizki napolnjenosti akumulatorja. Programu lahko tudi dovoli dostop do podrobnosti o tem, katere programe uporabljate.</string>
   <string name="permdesc_bindAccessibilityService">Lastniku omogoča povezovanje z vmesnikom najvišje ravni storitve za ljudi s posebnimi potrebami. Tega nikoli ni treba uporabiti za navadne programe.</string>
-  <string name="permdesc_bindConditionProviderService">Vlasniku omogućuje povezivanje sa sučeljem najviše razine usluge davatelja uvjeta. Nije potrebno za normalne aplikacije.</string>
+  <string name="permdesc_bindConditionProviderService">Lastniku omogoča povezovanje z vmesnikom najvišje ravni usluge ponudnika storitev. Ni potrebno za normalne programe.</string>
   <string name="permdesc_bindDeviceAdmin">Omogoča lastniku, da pošlje namere skrbniku naprave. Nikoli se ne uporablja za navadne programe.</string>
   <string name="permdesc_bindDreamService">Imetniku omogoča povezovanje z vmesnikom storitve sanjarjenja najvišje ravni. Tega ni treba nikoli uporabiti za navadne programe.</string>
   <string name="permdesc_bindGadget">Programu omogoča, da sistemu ukaže, katere pripomočke je mogoče uporabiti s katerim programom. S tem dovoljenjem lahko programi drugim programom dajo dostop do osebnih podatkov. Ni za uporabo z navadnimi programi.</string>
