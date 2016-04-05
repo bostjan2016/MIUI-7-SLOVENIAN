@@ -1,42 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string-array name="availability">
-        <item>Zaposlen</item>
-        <item>Na voljo</item>
-        <item>Pogojno</item>
-     </string-array>
-     <string-array name="buttons_list">
-        <item>Dan</item>
-        <item>Teden</item>
-        <item>Mesec</item>
-        <item>Dnevni red</item>
-     </string-array>
-     <string-array name="change_response_labels">
-        <item>Samo ta dogodek</item>
-        <item>Vsi dogodki v seriji</item>
-     </string-array>
-     <string-array name="delete_repeating_labels">
-        <item>Samo ta dogodek</item>
-        <item>Ta in prihodnji dogodki</item>
-        <item>Vsi dogodki</item>
-     </string-array>
-     <string-array name="delete_repeating_labels_no_selected">
-        <item>Ta &amp; prihodnji dogodki</item>
-        <item>Vsi dogodki</item>
-     </string-array>
-     <string-array name="miui_preferences_default_reminder_labels">
+    <string-array name="reminder_methods_labels">
+        <item>Obvestila</item>
+        <item>E-pošta</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
         <item>Brez opomnika</item>
-        <item>0 minut</item>
+        <item>1 minuta</item>
         <item>5 minut</item>
         <item>10 minut</item>
         <item>15 minut</item>
-        <item>30 minut</item>
+        <item>20 minut</item>
         <item>1 ura</item>
-		<item>12 ur</item>
+        <item>12 ur</item>
         <item>1 dan</item>
         <item>2 dni</item>
         <item>1 teden</item>
-		<item>2 tedna</item>
+        <item>2 tedna</item>
      </string-array>
      <string-array name="miui_reminder_minutes_labels">
         <item>Brez opomnika</item>
@@ -50,19 +32,7 @@
         <item>2 dni</item>
         <item>1 teden</item>
      </string-array>
-     <string-array name="ordinal_labels">
-        <item>prvi</item>
-        <item>drugi</item>
-        <item>tretji</item>
-        <item>četrti</item>
-        <item>zadnji</item>
-     </string-array>
-     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Vedno</item>
-        <item>Samo ko je zvonenje utišano</item>
-        <item>Nikoli</item>
-     </string-array>
-     <string-array name="preferences_default_reminder_labels">
+	<string-array name="miui_preferences_default_reminder_labels">
         <item>Brez opozorila</item>
         <item>0 minut</item>
         <item>5 minut</item>
@@ -74,28 +44,23 @@
         <item>2 dni</item>
         <item>1 teden</item>
      </string-array>
-     <string-array name="preferences_week_start_day_labels">
-        <item>Privzeto lokalno</item>
-        <item>Sobota</item>
-        <item>Nedelja</item>
-        <item>Ponedeljek</item>
-     </string-array>
-     <string-array name="quick_response_defaults">
-        <item>Zamujam samo nekaj minut.</item>
-        <item>Pridem čez 10 minut.</item>
-        <item>Začnite brez mene.</item>
-        <item>Se opravičujem, ne bo mi uspelo priti. Morali bomo prestaviti.</item>
-     </string-array>
-     <string-array name="reminder_methods_labels">
-        <item>Obvestilo</item>
-        <item>E-pošta</item>
-        <item>SMS sporočilo</item>
-        <item>Budilka</item>
-     </string-array>
-     <string-array name="reminder_minutes_labels">
+    <integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </integer-array>
+    <string-array name="preferences_default_reminder_labels">
         <item>Brez opozorila</item>
         <item>0 minut</item>
-	<item>1 minuta</item>
         <item>5 minut</item>
         <item>10 minut</item>
         <item>15 minut</item>
@@ -105,99 +70,27 @@
         <item>1 dan</item>
         <item>2 dni</item>
         <item>1 teden</item>
-		<item>2 tedna</item>
-	    <item>2 tedna</item>
+        <item>2 tedna</item>
      </string-array>
-     <string-array name="repeat_choose_day">
-        <item>1.</item>
-        <item>2.</item>
-        <item>3.</item>
-        <item>4.</item>
-        <item>5.</item>
-        <item>6.</item>
-        <item>7.</item>
-        <item>8.</item>
-        <item>9.</item>
-        <item>10.</item>
-        <item>11.</item>
-        <item>12.</item>
-        <item>13.</item>
-        <item>14.</item>
-        <item>15.</item>
-        <item>16.</item>
-        <item>17.</item>
-        <item>18.</item>
-        <item>19.</item>
-        <item>20.</item>
-        <item>21.</item>
-        <item>22.</item>
-        <item>23.</item>
-        <item>24.</item>
-        <item>25.</item>
-        <item>26.</item>
-        <item>27.</item>
-        <item>28.</item>
-        <item>29.</item>
-        <item>30.</item>
-        <item>31.</item>
-     </string-array>
-     <string-array name="repeat_choose_end">
-        <item>Nikoli</item>
-        <item>Čas</item>
-        <item>Odštevanje</item>
-     </string-array>
-     <string-array name="repeat_choose_month">
-        <item>Jan</item>
-        <item>Feb</item>
-        <item>Mar</item>
-        <item>Apr</item>
-        <item>Maj</item>
-        <item>Jun</item>
-        <item>Jul</item>
-        <item>Avg</item>
-        <item>Sep</item>
-        <item>Okt</item>
-        <item>Nov</item>
-        <item>Dec</item>
-     </string-array>
-     <string-array name="repeat_choose_week_left">
-        <item>Prvi</item>
-        <item>Drugi</item>
-        <item>Tretji</item>
-        <item>Četrti</item>
-        <item>Zadnji</item>
-     </string-array>
-     <string-array name="repeat_choose_week_right">
-        <item>Pon - Pet</item>
-        <item>Vikend</item>
-        <item>Cel teden</item>
-     </string-array>
-     <string-array name="repeat_choose_weekday">
-        <item>Pon</item>
-        <item>Tor</item>
-        <item>Sre</item>
-        <item>Čet</item>
-        <item>Pet</item>
+    <string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Zadnja oznaka države</item>
         <item>Sob</item>
         <item>Ned</item>
-     </string-array>
-     <string-array name="repeat_frequency_spinner">
-        <item>dan</item>
-        <item>teden</item>
-        <item>mesec</item>
-        <item>leto</item>
-     </string-array>
-     <string-array name="repeat_frequency_spinner_plural">
-        <item>dni</item>
-        <item>tednov</item>
-        <item>mesecev</item>
-        <item>let</item>
-     </string-array>
-     <string-array name="response_labels1">
-        <item>Ni odgovora</item>
-        <item>Da</item>
-        <item>Mogoče</item>
-        <item>Ne</item>
+        <item>Pon</item>
      </string-array>
      <string-array name="timezone_labels">
         <item>Marshall Islands</item>
@@ -285,20 +178,153 @@
         <item>Fiji</item>
         <item>Tonga</item>
      </string-array>
-     <string-array name="travel_reminder_minutes_labels">
-        <item>3 ure</item>
-        <item>4 ure</item>
-        <item>5 ur</item>
-        <item>6 ur</item>
-        <item>1 dan</item>
+    <string-array name="availability">
+        <item>Zaseden</item>
+        <item>Dostopen</item>
+        <item>Začasno</item>
      </string-array>
      <string-array name="visibility">
         <item>Privzeto</item>
         <item>Privatno</item>
         <item>Javno</item>
      </string-array>
-     <string-array name="widget_style_list">
-        <item>Prozoren</item>
+    <string-array name="ordinal_labels">
+        <item>prvi</item>
+        <item>drugi</item>
+        <item>tretji</item>
+        <item>četrti</item>
+        <item>zadnji</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Ni odgovora</item>
+        <item>Da</item>
+        <item>Mogoče</item>
+        <item>Ne</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Samo ta dogodek</item>
+        <item>Ta in bodoči dogodek</item>
+        <item>Vsi dogodki</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Ta &amp; bodoči dogodki</item>
+        <item>Vsi dogodki</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Samo ta dogodek</item>
+        <item>Vsi dogodki v nizu</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Dan</item>
+        <item>Teden</item>
+        <item>Mesec</item>
+        <item>Raspored</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Zamujam samo nekoliko minut.</item>
+        <item>Bodite tam čez pribložno 10 min.</item>
+        <item>Kar naprej, začnite brez mene.</item>
+        <item>Žal mi je, ne morem priti. Morava spremeniti dogovor.</item>
+    </string-array>
+   <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vedno</item>
+        <item>Samo ko je zvonec utišan</item>
+        <item>Nikoli</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparentno</item>
         <item>Belo ozadje</item>
-     </string-array>
-</resources>
+    </string-array>
+	    <string-array name="repeat_frequency_spinner">
+        <item>dan</item>
+        <item>teden</item>
+        <item>mesec</item>
+        <item>leto</item>
+    </string-array>
+	<string-array name="repeat_frequency_spinner_plural">
+        <item>dni</item>
+        <item>tednov</item>
+        <item>mesecev</item>
+        <item>let</item>
+    </string-array>
+	<string-array name="travel_reminder_minutes_labels">
+        <item>3 ure</item>
+        <item>4 ure</item>
+        <item>5 ur</item>
+        <item>6 ur</item>
+        <item>1 dan</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>5.</item>
+        <item>6.</item>
+        <item>7.</item>
+        <item>8.</item>
+        <item>9.</item>
+        <item>10.</item>
+        <item>11.</item>
+        <item>12.</item>
+        <item>13.</item>
+        <item>14.</item>
+        <item>15.</item>
+        <item>16.</item>
+        <item>17.</item>
+        <item>18.</item>
+        <item>19.</item>
+        <item>20.</item>
+        <item>21.</item>
+        <item>22.</item>
+        <item>23.</item>
+        <item>24.</item>
+        <item>25.</item>
+        <item>26.</item>
+        <item>27.</item>
+        <item>28.</item>
+        <item>29.</item>
+        <item>30.</item>
+        <item>31.</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Pon</item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+        <item>Ned</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Maj</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Avg</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>Prvi</item>
+        <item>Drugi</item>
+        <item>Tretji</item>
+        <item>Četrti</item>
+        <item>Zadnji</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Pon - Pet</item>
+        <item>Vikend</item>
+        <item>Cel teden</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Nikoli</item>
+        <item>Čas</item>
+        <item>Odštevanje</item>
+    </string-array>
+</resources> 

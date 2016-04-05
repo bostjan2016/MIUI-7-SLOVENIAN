@@ -47,4 +47,56 @@
         <item>Ostalo</item>
         <item>Prilagojeno</item>
     </string-array>
+	<string-array name="app_ops_labels">
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vibriranje</item>
+        <item>Branje stikov</item>
+        <item>Spreminjanje stikov</item>
+        <item>Branje seznama klicev</item>
+        <item>Spreminjanje seznama klicev</item>
+        <item>Branje koledarja</item>
+        <item>Spreminjanje koledarja</item>
+        <item>Lokacija</item>
+        <item>Objavljanje obvestil</item>
+        <item>Lokacija</item>
+        <item>Klic na telefon</item>
+        <item>Branje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Prejemanje SMS-a/MMS-a</item>
+        <item>Prejemanje SMS-a/MMS-a</item>
+        <item>Prejemanje SMS-a/MMS-a</item>
+        <item>Prejemanje SMS-a/MMS-a</item>
+        <item>Pošiljanje SMS-a/MMS-a</item>
+        <item>Branje SMS-a/MMS-a</item>
+        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Spreminjanje nastavitev</item>
+        <item>Umik na vrh</item>
+        <item>Dostop do obvestil</item>
+        <item>Kamera</item>
+        <item>Snemanje zvuka</item>
+        <item>Predvajanje audiozapisa</item>
+        <item>Beri odložišče</item>
+        <item>Spreminjanje dohodne pošte</item>
+        <item>Spremeni odložišče</item>
+        <item>Medijski gumbi</item>
+        <item>Audiofokus</item>
+        <item>Glavna glasnost</item>
+        <item>Glasnost glasu</item>
+        <item>Glasnost zvonenja</item>
+        <item>Glasnost medija</item>
+        <item>Glasnost alarma</item>
+        <item>Glasnost obvestil</item>
+        <item>Glasnost Bluetootha</item>
+        <item>Zadrži v aktivnem stanju</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Vklj./izklj WLAN</item>
+        <item>Vklj./izklj Bluetooth</item>
+        <item>Vklj./izklj. podatkov</item>
+        <item>Lokacija</item>
+        <item>Lokacija</item>
+        <item>Zaženi kodo zagona</item>
+	</string-array>
 </resources>
