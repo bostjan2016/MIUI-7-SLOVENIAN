@@ -22,8 +22,8 @@
   <string name="aerr_process_lowstorage">Zmanjkuje prostora na notranjem pomnilniku, postopek je zaustavljen. Sprostite nekaj prostora in poizkusite ponovno.</string>
   <string name="alarm_alert_dismiss_text">Zavrni</string>
   <string name="alarm_alert_snooze_text">Dremež</string>
-  <string name="badPin2">Stari PIN2, ki ste ga vnesli, ni previlen.</string>
-  <string name="badPuk2">PUK2 ki ste ga vnesli, ni pravilen.</string>
+  <string name="badPin2">Stari PIN2 ki ste ga vnesli ni previlen.</string>
+  <string name="badPuk2">PUK2 ki ste ga vnesli ni pravilen.</string>
   <string name="calibration_data">Potrbna je kalibracija. Prevzemite podatke o kalibraciji! V nasprotnem naprava ne bo na mreži.[MTK interni uporabnik]</string>
   <string name="callBarringFailMmi">Napaka v prepovedi klica.</string>
   <string name="cfServiceNotForwarded">Ni posredovano</string>
@@ -80,7 +80,7 @@
   <string name="drm_use_left">Preostalo število:</string>
   <string name="edit">Uredi</string>
   <string name="every_day">Vsak dan</string>
-  <string name="ext_media_badremoval_notification_message_otg">Izključite USB na varen način pred odstranitvijo, da preprečite izgubo podatkov.</string>
+  <string name="ext_media_badremoval_notification_message_otg">Izključite USB na varen način pred odstranitvijo da preprečite izgubo podatkov.</string>
   <string name="ext_media_badremoval_notification_title_otg">USB nepravilno odstranjen</string>
   <string name="ext_media_checking_notification_title_otg">Pripravite USB</string>
   <string name="ext_media_checking_notification_title_sd2">Pripravite SD kartico</string>
@@ -140,10 +140,10 @@
   <string name="keyguard_wrong_code_input">Napačna koda.</string>
   <string name="lockscreen_missing_sim_dialog_message">SIM kartica je isključena. Preverite če je  SIM kartica pravilno vstavljena.</string>
   <string name="lockscreen_password_error">Napačno geslo, poskusite ponovno</string>
-  <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Geslo ste %d nepravilno vnesli. 
+  <string name="lockscreen_password_too_many_failed_attempts_dialog_message" formatted="false">"Geslo ste %d krat nepravilno vnesli. 
 
 Poizkusite ponovno čez %d sekund."</string>
-  <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"PIN  ste %d nepravilno vnesli. 
+  <string name="lockscreen_pin_too_many_failed_attempts_dialog_message" formatted="false">"PIN ste %d krat nepravilno vnesli. 
 
 Poizkusite ponovno čez %d sekund."</string>
   <string name="lockscreen_pinword_error">Napačen PIN, poizkusite ponovno</string>
@@ -206,7 +206,7 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="puk_length_indicate">(8 številk)</string>
   <string name="puk_pass">PIN je deblokiran</string>
   <string name="recip_unsupport_operator">RecipientsView ne podpira uporabo znakov, uporabite vrstico s programi pri delu s prejemniki.</string>
-  <string name="recip_unsupport_selection">Žal ne morete premikniti kazalke na začetk, če je prejemnik v RecipientsView.</string>
+  <string name="recip_unsupport_selection">Žal ne morete premikniti kazalke na začetek če je prejemnik v RecipientsView.</string>
   <string name="redo">Ponovi</string>
   <string name="retries_left">Preostane:%d</string>
   <string name="safe_media_volume_warning_title">Opozorilo</string>
@@ -238,9 +238,9 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="simlock_entersimmelock">Vnesite SIM ME blokado</string>
   <string name="simlock_slot_locked_message">Reža je trajno zaklenjena</string>
   <string name="slot_id">Reža %d:</string>
-  <string name="storage_sd">Na SD kartici ni dovolj prostora. Sprostite nekaj prostora za shranjevane ali v nastavitvah zamenjate privzeti disk za shranjevanje.</string>
-  <string name="storage_withoutsd">V shrambi telefona ni dovolj prostora. Sprostite nekaj prostora ali vstavite SD karticu.</string>
-  <string name="storage_withsd">V shrambi telefona ni dovolj prostora. Sprostite nekaj prostora za shranjevane ali v nastavitvah zamenjate privzeti disk za shranjevanje.</string>
+  <string name="storage_sd">Na SD kartici ni dovolj prostora. Sprostite nekaj prostora za shranjevanje ali v nastavitvah zamenjate privzeti disk za shranjevanje.</string>
+  <string name="storage_withoutsd">V shrambi telefona ni dovolj prostora. Sprostite nekaj prostora ali vstavite SD kartico.</string>
+  <string name="storage_withsd">V shrambi telefona ni dovolj prostora. Sprostite nekaj prostora za shranjevanje ali v nastavitvah zamenjate privzeti disk za shranjevanje.</string>
   <string name="tethered_notification_message_bandwidth_set">Pasovna širina je nastavljena</string>
   <string name="tethered_notification_message_for_hotspot">%1$d povezano, %2$d blokirano</string>
   <string name="unable_launch_the_ap">Aplikacija se ne more zagnati.</string>
@@ -255,14 +255,14 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="usb_storage_ready_title">Zunanja USB shramba je pripravljena</string>
   <string name="usb_ums_notification_title">Povezan kot USB pogon</string>
   <string name="usbint_notification_title">Aktiven je USB internet</string>
-  <string name="virtual_sim_on">Navidezni SIM VKLJUČEN</string>
-  <string name="virtual_sim_on_slot1">Navidezni SIM 1 VKLJUČEN</string>
-  <string name="virtual_sim_on_slot2">Navidezni SIM 2 VKLJUČEN</string>
-  <string name="virtual_sim_on_slot3">Navidezni SIM 3 VKLJUČEN</string>
-  <string name="virtual_sim_on_slot4">Navidezni SIM 4 VKLJUČEN</string>
+  <string name="virtual_sim_on">Navidezni SIM vključen</string>
+  <string name="virtual_sim_on_slot1">Navidezni SIM 1 vključen</string>
+  <string name="virtual_sim_on_slot2">Navidezni SIM 2 vključen</string>
+  <string name="virtual_sim_on_slot3">Navidezni SIM 3 vključen</string>
+  <string name="virtual_sim_on_slot4">Navidezni SIM 4 vključen</string>
   <string name="voice_unlock_media_playing">Glasovno odklepanje je onemogočeno med predvajanjem medija.</string>
   <string name="voice_unlock_noisy">Prebučno, ne slišite se jasno.</string>
-  <string name="voice_unlock_password_wrong">Žal, ne prepoznam vašega glasu.</string>
+  <string name="voice_unlock_password_wrong">Žal ne prepoznam vašega glasu.</string>
   <string name="voice_unlock_service_error">Napaka pri glasovnem odklepanju!</string>
   <string name="voice_unlock_weak">Vaš glas se ne sliši.</string>
   <string name="voiceui_comma">,</string>
@@ -277,19 +277,19 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="wap_push_setting_noti_text">Pritisnite za izbiro</string>
   <string name="wap_push_setting_noti_ticker">Želite sprejeti ali ne želite sprejeti storitev samodejnega pošiljanja?</string>
   <string name="wap_push_setting_noti_title">Sprejmi ali zavrni storitev samodejnega pošiljanja?</string>
-  <string name="wifi_display_bt_hdmi_off_wfd_on">HDMI se bo izključil ko vključite wifi. Želite nadaljevati?</string>
-  <string name="wifi_display_change_resolution_reminder">Sprememba ločljivosti bo smodejno ponovno povezala wifi.</string>
-  <string name="wifi_display_connection_is_not_steady">Trenutna povezava wifi ni stabilna.</string>
-  <string name="wifi_display_disconnect_then_reconnect">Izklapljanje wifi. Želite vklopiti?</string>
+  <string name="wifi_display_bt_hdmi_off_wfd_on">HDMI se bo izključil ko vključite Wifi. Želite nadaljevati?</string>
+  <string name="wifi_display_change_resolution_reminder">Sprememba ločljivosti bo smodejno ponovno povezala Wifi.</string>
+  <string name="wifi_display_connection_is_not_steady">Trenutna povezava Wifi ni stabilna.</string>
+  <string name="wifi_display_disconnect_then_reconnect">Izklapljanje Wifi. Želite vklopiti?</string>
   <string name="wifi_display_disconnected">Wifi je izklopljen.</string>
   <string name="wifi_display_do_not_remind_again">Ne opominjaj ponovno.</string>
   <string name="wifi_display_reconnect">Ponovno vklapljanje</string>
   <string name="wifi_display_sound_path_reminder">Multimedijski zvok se ne predvaja v slušalkah.</string>
   <string name="wifi_display_unstable_connection">Nestabilna povezava</string>
-  <string name="wifi_display_unstable_suggestion">Trenutna wifi povezava  ni stabilna, približajte se napravi za prikaz.</string>
-  <string name="wifi_display_wfd_and_wifi_are_turned_on">Vključen je wifi in WLAN.</string>
+  <string name="wifi_display_unstable_suggestion">Trenutna Wifi povezava  ni stabilna, približajte se napravi za prikaz.</string>
+  <string name="wifi_display_wfd_and_wifi_are_turned_on">Vključena sta brezžični zaslon in Wifi.</string>
   <string name="wifi_display_wfd_off_bt_on">Wifi se bo izključil ko vključite Bluetooth. Želite nadaljevati?</string>
   <string name="wifi_display_wfd_off_hdmi_on">Wifi se bo izključil ko vključite HDMI. Želite nadaljevati?</string>
-  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Trenutna WLAN povezava se bo prekinila ko se povežete z wifi. Želite nadaljevati?</string>
+  <string name="wifi_display_wifi_p2p_disconnect_wfd_connect">Trenutna WiFi povezava se bo prekinila ko se povežete z napravo za brezžično prikazovanje. Želite nadaljevati?</string>
   <string name="wifi_wps_failed_overlap">Poteka druga  WPS seja. Ponovno poizkusite čez nekaj minut.</string>
 </resources>

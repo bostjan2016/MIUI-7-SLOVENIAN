@@ -5,33 +5,33 @@
         <item>Ležeče</item>
         <item>Obrnjeno pokončno</item>
         <item>Obrnjen ležeče</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
     </string-array>
     <string-array name="bt_bpp_sidesettings">
         <item>Enostransko</item>
         <item>Dvostransko z dolgim robom</item>
         <item>Dvostransko s kratkim robom</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
     </string-array>
     <string-array name="bt_bpp_qualitys">
         <item>Običajna</item>
         <item>Nizka</item>
         <item>Visoka</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
-        <item>neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
+        <item>Neznano</item>
     </string-array>
     <string-array name="bt_bpp_entry_error">
-        <item>ni napake</item>
+        <item>Ni napake</item>
         <item>Izdelava v-card datoteke ni uspela</item>
         <item>Format slike ni podprt</item>
     </string-array>

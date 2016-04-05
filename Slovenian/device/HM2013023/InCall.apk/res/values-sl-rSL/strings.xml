@@ -19,10 +19,10 @@
   <string name="callFailed_cdma_notEmergency">Samo nujni klici</string>
   <string name="callFailed_cdma_reorder">CDMA: ponovi.</string>
   <string name="callFailed_dsac_vt_bear_not_authorized">Video klica ni možno vzpostaviti.Storitev video klica je aktivirana na tej SIM kartici, izberite zvočni klic!</string>
-  <string name="callFailed_dsac_vt_bearer_not_avail">Video klic ni možno vzpostaviti.Izberite zvočni klic!</string>
+  <string name="callFailed_dsac_vt_bearer_not_avail">Video klica ni možno vzpostaviti.Izberite zvočni klic!</string>
   <string name="callFailed_dsac_vt_incompatible_destination">Naprava s katere kličete ne podpira video klica. Izberite zvočni klic!</string>
   <string name="callFailed_dsac_vt_out_of_3G_yourphone">Ni signala 3G, izberite zvočni klic!</string>
-  <string name="callFailed_dsac_vt_resource_unavailable">Video klic ni mogoče vzpostaviti, nahajate se na področju brez 3G signala, izberite zvočni klic!</string>
+  <string name="callFailed_dsac_vt_resource_unavailable">Video klica ni mogoče vzpostaviti, nahajate se na področju brez 3G signala, izberite zvočni klic!</string>
   <string name="callFailed_simError_slotNumber">Ni SIM kartice ali napaka na SIM reži %d</string>
   <string name="call_additional_sum">Ostalo</string>
   <string name="call_barring_sum">Blokiranje zvočnih klicev</string>
@@ -49,7 +49,7 @@
   <string name="cb_default_new_channel_name">Nov kanal</string>
   <string name="cb_dialog_title_language_choice">Izberi jezik</string>
   <string name="cb_error_channel_id_exist">ID kanala že obstaja.</string>
-  <string name="cb_error_channel_name">Napačna dolžina imena kanala (1-10 znakova).</string>
+  <string name="cb_error_channel_name">Napačna dolžina imena kanala (1-10 znakov).</string>
   <string name="cb_error_channel_num">Število vhodnih kanalov (0-65534).</string>
   <string name="cb_error_language_select">Izberite jezik.</string>
   <string name="cb_menu_add_channel">Dodaj kanal</string>
@@ -63,23 +63,23 @@
   <string name="cell_broadcast">Oddajanje</string>
   <string name="cell_broadcast_settings">Nastavitve oddajanja</string>
   <string name="change_password">Zamenjava gesla</string>
-  <string name="confirm_3g_switch">Ali ste prepričani, da želite nastaviti 3G storitve na to SIM katrico? Kartica bo avtomatično privzeta kartica za sprejem video klicev.</string>
-  <string name="confirm_3g_switch_to_off">Ali ste prepričani, da želite onemogočiti 3G storitev? Video klic bo onemogočen</string>
+  <string name="confirm_3g_switch">Ali ste prepričani da želite nastaviti 3G storitve na to SIM katrico? Kartica bo avtomatično privzeta kartica za sprejem video klicev.</string>
+  <string name="confirm_3g_switch_to_off">Ali ste prepričani da želite onemogočiti 3G storitev? Video klic bo onemogočen</string>
   <string name="confirm_device_info_full">Na SD kartici ni dovolj prostora, posnetek je shranjen..</string>
   <string name="confirm_password_label">Potrdi novo geslo</string>
   <string name="confirm_save_info_saved">Posnetek je shranjen</string>
-  <string name="data_conn_under_roaming_hint">Vklop podatkovnega gostovanja v nastavitve -&gt; Mobilno omrežje -&gt; Mobilne nastavitve -&gt; Data Roaming</string>
+  <string name="data_conn_under_roaming_hint">Vklop podatkovnega gostovanja v nastavitve -&gt; Mobilno omrežje -&gt; Mobilne nastavitve -&gt; Data Roaming (Gostovanje)</string>
   <string name="deactivate_all">Prekliči vse</string>
   <string name="default_notification_description">Privzeti zvok (%1$s)</string>
   <string name="description_search_button">Iskanje</string>
   <string name="dialog_network_priority_title">Prednost</string>
-  <string name="disable_data_connection_msg">Iskanje vseh razpoložljivih omrežij bo izklopilo mobilno podatkovno povezavo, ki je bila v uporabi. Onemogočim?</string>
+  <string name="disable_data_connection_msg">Iskanje vseh razpoložljivih omrežij bo izklopilo mobilno podatkovno povezavo ki je bila v uporabi. Onemogočim?</string>
   <string name="dm_lock">DM zakleni</string>
   <string name="dm_unlock">DM odkleni</string>
   <string name="dual_mic_title">Zmanjašanje hrupa</string>
   <string name="dual_mic_turnoff">Izklopi Zmanjašanje hrupa</string>
   <string name="dual_mic_turnon">Vklopi Zmanjašanje hrupa</string>
-  <string name="dualtalk_tip_accept_disconnect_current">Sprejem novega klica bo prekinilo trenutni klic.</string>
+  <string name="dualtalk_tip_accept_disconnect_current">Sprejem novega klica bo prekinil trenutni klic.</string>
   <string name="dualtalk_tip_accept_disconnect_current_reject_incoming">Sprejem novega klica bo prekinil trenutni klic in zavrnil drugi dohodni klic.</string>
   <string name="dualtalk_tip_accept_disconnect_incoming">Sprejem novega klica bo zavrnil drugi dohodni klic.</string>
   <string name="dualtalk_tip_accept_disconnect_outgoing">Sprejem novega klica bo prekinil odhodni klic.</string>
@@ -87,7 +87,7 @@
   <string name="dualtalk_tip_accept_disconnect_voice">Sprejem novega klica bo prekinil zvočni klic(e).</string>
   <string name="enable_3G_service">Omogoči 3G</string>
   <string name="enable_sip_dialog_message">SIP klici so onemogočeni, ali jih želite omogočiti?</string>
-  <string name="end_call_because_can_not_hold">"Končajte trenutni klic, ker ne more biti zadržan."</string>
+  <string name="end_call_because_can_not_hold">"Končajte trenutni klic ker ne more biti zadržan."</string>
   <string name="enter_callbarring_password">Vnesite geslo za zaporo klicev (4-mestno)</string>
   <string name="enter_ip_prefix_number">Vnesite pozivno številko</string>
   <string name="error_sdcard_access">Napaka pri dostopu do SD kartice</string>
@@ -105,7 +105,7 @@
   <string name="fdn_only_error">Opravila dovoljena le fiksnim številkam.</string>
   <string name="fdn_phone_book_busy">Imenik je zaseden, poizkusite kasnije.</string>
   <string name="gemini_3g_disable_warning_case0">Omogočiti morate podatkovno gostovanje, kar lahko poveča vaše stroške! Ali želite omogočiti?</string>
-  <string name="gemini_3g_disable_warning_case1">3G storitev ni na voljo. Podatki se lahko nalagajo počasneje. 3G nastavitve lahko spremenite v Nastavitve &gt; Mobilna omrežja. Omogoči za to SIM kartico?</string>
+  <string name="gemini_3g_disable_warning_case1">3G storitev ni na voljo. Podatki se lahko nalagajo počasneje. 3G nastavitve lahko spremenite v Nastavitve &gt; Mobilna omrežja. Omogočim za to SIM kartico?</string>
   <string name="gemini_3g_disable_warning_case2">Omogočiti morate podatkovno gostovanje, kar lahko poveča vaše stroške! 3G storitev ni na voljo. Podatki se lahko nalagajo počasneje. 3G nastavitve lahko spremenite v Nastavitve &gt; Mobilna omrežja. Omogoči podatkovno gostovanje za to SIM kartico?</string>
   <string name="gemini_3g_indic">3G</string>
   <string name="gemini_data_connection">Mobilni podatki</string>
@@ -118,13 +118,13 @@
   <string name="international_dialing_add_country_code" formatted="false">"Izbirate številko %s. Želite  dodati kodo države (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"Izbirate številko v %1$s, %2$s. Želite dodati klicno številko države in klicno številko mesta (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Želite dodati klicno številko države in klicno številko mesta?</string>
-  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Izbirate številko v %s.  Če vaša izbira ni %s, vnesite klicno številko mesta."</string>
+  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Izbirate številko v %s.  Če vaša izbira ni %s vnesite klicno številko mesta."</string>
   <string name="international_dialing_add_country_code_input_area_code">"Izbirate številko v %1$s. Vnesite klicno številko mesta."</string>
-  <string name="international_dialing_area_code">Klicno številka</string>
+  <string name="international_dialing_area_code">Klicna številka</string>
   <string name="international_dialing_call_button">Klic</string>
-  <string name="international_dialing_change_country_prefix">"Izbirate številko s %s. Zamenjajte mednarodno predštevilko za '+'?"</string>
+  <string name="international_dialing_change_country_prefix">"Izbirate številko s %s. Zamenjam mednarodno predštevilko za '+'?"</string>
   <string name="international_dialing_click_below_button">Pritisnite spodnji gumb za zamenjavo kode države.</string>
-  <string name="international_dialing_confirm_area_code">Če vaš izbor ni mesto %s, spodaj vnesite predštevilko za svoj izbor.</string>
+  <string name="international_dialing_confirm_area_code">Če vaš izbor ni mesto %s spodaj vnesite predštevilko za svoj izbor.</string>
   <string name="international_dialing_dial_with_country_code">Izbirajte s klicno številko države</string>
   <string name="international_dialing_dialed_number">Klicna številka:</string>
   <string name="international_dialing_input_area_code">Vnesite pozivno številko</string>
@@ -158,12 +158,12 @@
   <string name="lable_pad">PAD</string>
   <string name="lable_sim_not_ready">SIM kartica ni pripravljena/podprta</string>
   <string name="lable_sms">SMS</string>
-  <string name="lable_voice">ZVOK</string>
+  <string name="lable_voice">Zvok</string>
   <string name="manual_select_dialog_msg">Vaš telefon ne podpira izbire drugih operaterjev v tem načinu dela. Mogoče boste morali izbrati ročne nastavitve ali vrnitev na samodejni način če izgubite storitev izbranega operaterja</string>
   <string name="manual_select_title">Izberite ročno</string>
   <string name="meid">MEID</string>
   <string name="minutereminder_title">Števec minut</string>
-  <string name="minutereminder_turnoff">Isključi</string>
+  <string name="minutereminder_turnoff">Izključi</string>
   <string name="minutereminder_turnon">Vključi števec minut v 50s vsake minute</string>
   <string name="mismatch_password">Vnešena gesla se ne ujemajo.</string>
   <string name="mo_code_call_deflected">Klic prenešen</string>
@@ -198,8 +198,8 @@ je brezpogojno aktivirano"</string>
   <string name="net_or_simcard_busy">Omrežje ali SIM kartica zasedena.</string>
   <string name="network_forbidden">Omrežje prepovedano</string>
   <string name="network_id">ID omrežja</string>
-  <string name="network_setting_all_forbidden_dialog">Ni dostopnih omrežij. Poizkusite vklopiti 3G storitev, ali kliknite na prepovedano omrežje in se ročno prijavite.</string>
-  <string name="networksettings_tips_data_disabled">Izključim prenos podatkov? Storitev, kot je pošiljanje ali sprejemanje MMS sporočil in e-pošte bo izključena.</string>
+  <string name="network_setting_all_forbidden_dialog">Ni dostopnih omrežij. Poizkusite vklopiti 3G storitev ali kliknite na prepovedano omrežje in se ročno prijavite.</string>
+  <string name="networksettings_tips_data_disabled">Izključim prenos podatkov? Storitve kot je pošiljanje ali sprejemanje MMS sporočil in e-pošte bodo izključene.</string>
   <string name="networksettings_tips_data_enabled">Vključim prenos podatkov? Lahko se povečajo stroški!</string>
   <string name="new_password_label">Novo geslo (4 številke)</string>
   <string name="no_search_result">Nič ni najdeno</string>
@@ -239,12 +239,12 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="pin_name">PIN</string>
   <string name="plmn_list_setting_add_plmn">Nov PLMN</string>
   <string name="plmn_list_setting_title">Zaželjeno omrežje</string>
-  <string name="preferred_network_mode_scdma_only_summary">Želeni način omrežja: Samo TD-SCDMA</string>
-  <string name="preferred_network_mode_scdma_perf_summary">Želeni način omrežja: Samo TD-SCDMA</string>
+  <string name="preferred_network_mode_scdma_only_summary">Željeni način omrežja: Samo TD-SCDMA</string>
+  <string name="preferred_network_mode_scdma_perf_summary">Željeni način omrežja: Samo TD-SCDMA</string>
   <string name="puk_length_indicate">(8 številk)</string>
   <string name="reminder">Opomnik</string>
   <string name="reset">Ponastavi</string>
-  <string name="reset_alert">Ali ste prepričani, da želite izbrisati višino porabe podatkov?</string>
+  <string name="reset_alert">Ali ste prepričani da želite izbrisati višino porabe podatkov?</string>
   <string name="reset_data_usage">Ponastavi porabo podatkov</string>
   <string name="retries_left">Poskusov: %d</string>
   <string name="select_all">Izberi vse</string>
@@ -252,7 +252,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="select_from">Izberi iz</string>
   <string name="select_trash">Koš</string>
   <string name="selected_item_count">Izbrano: %d</string>
-  <string name="service_3g_off">Isključeno</string>
+  <string name="service_3g_off">Izključeno</string>
   <string name="show_always_title">"Ne opozori ponovno</string>
   <string name="simContacts_emptyLoading_ex">Branje stikov iz %s...</string>
   <string name="simContacts_title">Izberite stike za uvoz</string>
@@ -260,7 +260,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="sim_manage_indicator_3g">3G</string>
   <string name="sim_manage_sipcall">Internetni klic</string>
   <string name="sim_manage_suggested">Priporočilo</string>
-  <string name="sim_permanently_locked">Napačen vnos PUK2 več kot 10x, trajno zaklene SIM kartico</string>
+  <string name="sim_permanently_locked">Napačen vnos PUK2 več kot 10 krat trajno zaklene SIM kartico</string>
   <string name="sim_toolkit">Orodje SIM-a</string>
   <string name="simlock_dismiss">Zavrni</string>
   <string name="simlock_emergency">Nujni klic</string>
@@ -282,7 +282,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="simlock_newsim">Nov SIM</string>
   <string name="simlock_newsiminsert">Vstavljena je nova SIM kartica</string>
   <string name="simlock_nocard">Nič</string>
-  <string name="simlock_ok">Vredu</string>
+  <string name="simlock_ok">V redu</string>
   <string name="simlock_pinnotmatched">"Napačen PIN."</string>
   <string name="simlock_retriesleft">"Preostalo: "</string>
   <string name="simlock_returntocall">Nazaj na klic</string>
@@ -340,7 +340,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="vt_dis_peer_rep">Prikaži odjemalca videa</string>
   <string name="vt_dis_peer_rep_des">Prikaz slike za zamenjavo odjemalca videa ko je nedostopen</string>
   <string name="vt_enable_back_camera">Omogoči zadnjo kamero</string>
-  <string name="vt_enable_back_camera_description">Omogočeno preklapljanje med fotoaparati, če je vključeno</string>
+  <string name="vt_enable_back_camera_description">Omogočeno preklapljanje med fotoaparati če je vključeno</string>
   <string name="vt_error_media">Videa ni možno pravilno prikazati.Video klic se bo prekinil.</string>
   <string name="vt_error_network">Omrežje nedostopno. Video klic se bo prekinil</string>
   <string name="vt_incoming_call">Dohodni video klic</string>
@@ -376,7 +376,7 @@ Ali ste prepričani, da želite vključiti prenos podatkov?"</string>
   <string name="vt_peer_video_quality_normal">Normalna</string>
   <string name="vt_peer_video_quality_sharp">Ostra</string>
   <string name="vt_peer_video_rep">Zamenjava odjemalskega videa</string>
-  <string name="vt_peer_video_rep_des">Izberite sliko za prikaz, ko je odjemalski video nedostopen</string>
+  <string name="vt_peer_video_rep_des">Izberite sliko za prikaz ko je odjemalski video nedostopen</string>
   <string name="vt_pic_replace_local">Slika za zamenjavo lokalnega videa</string>
   <string name="vt_pic_replace_local_default">Privzeta slika</string>
   <string name="vt_pic_replace_local_description">Izberite sliko za prikaz ko je fotoaparat izključen</string>

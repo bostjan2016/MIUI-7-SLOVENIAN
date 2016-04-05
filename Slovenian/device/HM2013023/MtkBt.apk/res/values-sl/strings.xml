@@ -4,12 +4,12 @@
   <string name="app_label">Bluetooth</string>
   <string name="app_name">Bluetooth izpis</string>
   <string name="auth_cancel">Prekini</string>
-  <string name="auth_ok">Vredu</string>
+  <string name="auth_ok">V redu</string>
   <string name="auth_passcode">Dostopno geslo</string>
   <string name="bluetooth_device_context_transfer_files">Prenos datoteke</string>
   <string name="bluetooth_dun_authorize_allow">Dovoli</string>
   <string name="bluetooth_dun_authorize_decline">Zavrni</string>
-  <string name="bluetooth_dun_authorize_message">Sprejmi zahtevo za telefonsko povezovanje z %1$s?</string>
+  <string name="bluetooth_dun_authorize_message">Sprejmem zahtevo za telefonsko povezovanje z %1$s?</string>
   <string name="bluetooth_dun_authorize_title">Potrjuje se Bluetooth telefonsko povezovanje</string>
   <string name="bluetooth_dun_notification_connect_request_message">Izberite za sprejem zahteve od %1$s</string>
   <string name="bluetooth_dun_notification_connect_request_ticker">Zahteva za Bluetooth dial up povezavo</string>
@@ -23,7 +23,7 @@
   <string name="bluetooth_ftp_client_activated_notify_title">%s je povezan preko FTP-a</string>
   <string name="bluetooth_ftp_client_browse_failed">Iskanje datoteke ni bilo uspešno</string>
   <string name="bluetooth_ftp_client_cancelling">Opusti</string>
-  <string name="bluetooth_ftp_client_confirm_delete_message">Izbriši %s ?</string>
+  <string name="bluetooth_ftp_client_confirm_delete_message">Izbrišem %s ?</string>
   <string name="bluetooth_ftp_client_confirm_delete_title">Potrdi brisanje</string>
   <string name="bluetooth_ftp_client_confirm_exit_message">Zapri FTP odjemalec?</string>
   <string name="bluetooth_ftp_client_confirm_exit_title">Zapri FTP</string>
@@ -56,7 +56,7 @@
   <string name="bluetooth_ftp_client_processing">Obdelava</string>
   <string name="bluetooth_ftp_client_refreshing">Osvežitev</string>
   <string name="bluetooth_ftp_client_root_folder">Osnovna mapa</string>
-  <string name="bluetooth_ftp_client_sd_not_ready">Pred vključitvijo FTP odjemalca, preverite ali imate pripravljeno SD kartico.</string>
+  <string name="bluetooth_ftp_client_sd_not_ready">Pred vključitvijo FTP odjemalca preverite ali imate pripravljeno SD kartico.</string>
   <string name="bluetooth_ftp_client_sending">Datoteka %s se pošilja</string>
   <string name="bluetooth_ftp_client_set_path_failed_message">Sprememba poti v %s ni uspela</string>
   <string name="bluetooth_ftp_client_set_path_failed_title">Sprememba poti ni uspela</string>
@@ -66,7 +66,7 @@
   <string name="bluetooth_ftp_date">Datum</string>
   <string name="bluetooth_ftp_local_browser">Bluetooth FTP lokalni brskalnik</string>
   <string name="bluetooth_ftp_no">Ne</string>
-  <string name="bluetooth_ftp_ok">Vredu</string>
+  <string name="bluetooth_ftp_ok">V redu</string>
   <string name="bluetooth_ftp_profile_summary_connected">Povezano</string>
   <string name="bluetooth_ftp_profile_summary_not_connected">Ni povezano</string>
   <string name="bluetooth_ftp_server">Bluetooth FTP strežnik</string>
@@ -84,12 +84,12 @@
   <string name="bluetooth_ftp_server_disconnect_title">Odklopi Bluetooth FTP</string>
   <string name="bluetooth_ftp_server_enable_summary">Vključi</string>
   <string name="bluetooth_ftp_server_enable_title">FTP strežnik</string>
-  <string name="bluetooth_ftp_server_off_sd_unmounted">FTP strežnik se izključije zaradi izključene SD kartice.</string>
+  <string name="bluetooth_ftp_server_off_sd_unmounted">FTP strežnik se izključuje zaradi izključene SD kartice.</string>
   <string name="bluetooth_ftp_server_permission_summary_fullctrl">Poln dostop</string>
   <string name="bluetooth_ftp_server_permission_summary_readonly">Samo za branje</string>
   <string name="bluetooth_ftp_server_permission_title">Dovoljenje</string>
-  <string name="bluetooth_ftp_server_sd_dialog_msg">Pred vključitvijo FTP strežnika, preverite ali imate pripravljeno SD kartico.</string>
-  <string name="bluetooth_ftp_server_sd_dialog_ok">Vredu</string>
+  <string name="bluetooth_ftp_server_sd_dialog_msg">Pred vključitvijo FTP strežnika preverite ali imate pripravljeno SD kartico.</string>
+  <string name="bluetooth_ftp_server_sd_dialog_ok">V redu</string>
   <string name="bluetooth_ftp_server_sd_dialog_title">SD kartica ni pripravljena</string>
   <string name="bluetooth_ftp_server_settings">Nastavitve FTP strežnika</string>
   <string name="bluetooth_ftp_service_busy">FTP storitev je zasedena</string>
@@ -113,26 +113,26 @@
   <string name="bt_bip_auth_ok">Vredu</string>
   <string name="bt_bip_auth_password">Geslo:</string>
   <string name="bt_bip_auth_userid">ID:</string>
-  <string name="bt_bip_cancel_pending_job">Preklic prenosa na čakanju?</string>
+  <string name="bt_bip_cancel_pending_job">Preklićem prenos na čakanju?</string>
   <string name="bt_bip_pending_job">Pošlji %1$s (na čakanju)</string>
   <string name="bt_bip_receiving">Sprejemanje fotografije, %1$s</string>
   <string name="bt_bip_receiving_fail">Fotografija %1$s ni uspešno sprejeta</string>
   <string name="bt_bip_receiving_successful">"Fotografija %1$s je sprejeta.
-Želite  pregledati to fotografijo?"</string>
+Želite pregledati to fotografijo?"</string>
   <string name="bt_bip_toast_connect_fail">Povezava ni uspela</string>
   <string name="bt_bip_toast_sending_object">Pošiljanje fotografije, %1$s</string>
   <string name="bt_bip_toast_storage_unmounted">Preverite če je SD kartica pripravljena</string>
   <string name="bt_bip_transmitting">Pošiljanje fotografije, %1$s</string>
   <string name="bt_bip_transmitting_dialog_cancel">Prekliči</string>
-  <string name="bt_bip_transmitting_dialog_hide">Skri</string>
+  <string name="bt_bip_transmitting_dialog_hide">Skrij</string>
   <string name="bt_bip_transmitting_dialog_no">Ne</string>
-  <string name="bt_bip_transmitting_dialog_ok">Vredu</string>
+  <string name="bt_bip_transmitting_dialog_ok">V redu</string>
   <string name="bt_bip_transmitting_dialog_yes">Da</string>
   <string name="bt_bip_transmitting_fail">Fotografija %1$s ni uspešno poslana</string>
   <string name="bt_bip_transmitting_successful">Fotografija %1$s je poslana</string>
   <string name="bt_bipi_push_confirmation">Potrdilo za pošiljanje fotografije</string>
   <string name="bt_bipi_push_confirmation_cancel">Prekliči</string>
-  <string name="bt_bipi_push_confirmation_ok">Vredu</string>
+  <string name="bt_bipi_push_confirmation_ok">V redu</string>
   <string name="bt_bipi_unsupported_format">"Nepodprt format.
 Nadaljujem s pošiljanjem?"</string>
   <string name="bt_bipr_accept_always">Vedno sprejmem?</string>
@@ -210,7 +210,7 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="dialog_bt_not_ready_confirm">Potrdi</string>
   <string name="dialog_printing_cancel">Prekliči</string>
   <string name="dialog_printing_hide">Skrij</string>
-  <string name="dialog_printing_ok">Vredu</string>
+  <string name="dialog_printing_ok">V redu</string>
   <string name="dialog_title_bpp_not_ready">Storitev je nedostopna</string>
   <string name="get_default_value">Sprejmi privzeto vrednost</string>
   <string name="number_of_copies">Nastavi število kopij</string>
@@ -237,7 +237,7 @@ Nadaljujem s pošiljanjem?"</string>
   <string name="reason_output_area_full">Izhodno področje je polno</string>
   <string name="reason_paused">Premor</string>
   <string name="sides">Nastavitev strani</string>
-  <string name="simap_acceptance_dialog_title">%1$s želi dostop do naprave. Omogočite dostop %2$s?</string>
+  <string name="simap_acceptance_dialog_title">%1$s želi dostop do naprave. Omogočim dostop %2$s?</string>
   <string name="simap_acceptance_timeout_message">Potekel čas za sprejem povezave s %1$s</string>
   <string name="simap_connected_notify_message">Izberite za izklop</string>
   <string name="simap_connected_notify_ticker">Naprava je povezana</string>

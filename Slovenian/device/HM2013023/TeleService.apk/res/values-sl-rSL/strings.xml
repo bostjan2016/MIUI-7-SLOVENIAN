@@ -4,7 +4,7 @@
   <string name="accessibility_speakerphone_enabled">Zvočnik omogočen.</string>
   <string name="activity_not_found">Aplikacija ni nameščena.</string>
   <string name="add_call_reject_number">Dodaj samodejno zavrnitev številke</string>
-  <string name="airplane_mode_on">Ni mogoće zagnati Nastavitve SIM-a če je vključen Način letenja.</string>
+  <string name="airplane_mode_on">Ni mogoče zagnati Nastavitve SIM-a če je vključen Način letenja.</string>
   <string name="alert_device_error">Prišlo je do napake.</string>
   <string name="associate_sim_missing_message">SIM %1$s ni dostopen. Želite uporabiti %2$s?</string>
   <string name="associate_sim_missing_other">Ostalo</string>
@@ -20,25 +20,25 @@
   <string name="auto_reject_title_sip">Internetni klici</string>
   <string name="auto_reject_title_video">Video klici</string>
   <string name="auto_reject_title_voice">Zvočni klici</string>
-  <string name="badPin">Stari PIN, ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
-  <string name="badPin2">Stari PIN2, ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
-  <string name="badPuk2">PUK 2, ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
+  <string name="badPin">Stari PIN ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
+  <string name="badPin2">Stari PIN2 ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
+  <string name="badPuk2">PUK 2 ki ste ga vnesli ni pravilen. Poizkusite ponovno.</string>
   <string name="buttonTxtContinue">Nadaljuj</string>
   <string name="callDurationFormat">%1$smin %2$ss</string>
   <string name="callFailed_cdma_notEmergency">Samo nujni klici</string>
   <string name="callFailed_cdma_reorder">CDMA: ponovno naroči.</string>
-  <string name="callFailed_dsac_vt_bear_not_authorized">Video klic ni možno vzpostaviti.Storitev video klica je aktivirana na tej SIM kartici, kličite z zvočnim klicem!</string>
+  <string name="callFailed_dsac_vt_bear_not_authorized">Video klica ni možno vzpostaviti.Storitev video klica je aktivirana na tej SIM kartici, kličite z zvočnim klicem!</string>
   <string name="callFailed_dsac_vt_bearer_not_avail">Video klic ni možno vzpostaviti. Kličite z zvočnim klicem!</string>
   <string name="callFailed_dsac_vt_incompatible_destination">Naprava ne podpira video klic. Kličite z zvočnim klicem!</string>
   <string name="callFailed_dsac_vt_out_of_3G_yourphone">Nahajate se izven dosega 3G signala, kličite z zvočnim klicem!</string>
   <string name="callFailed_dsac_vt_resource_unavailable">Video klic ni možno vzpostaviti, nahajate se izven dosega 3G signala, kličite z zvočnim klicem!</string>
-  <string name="callFailed_simError">Ni SIM kartice, ali pa je napaka na kartici SIM</string>
+  <string name="callFailed_simError">Ni SIM kartice ali pa je napaka na kartici SIM</string>
   <string name="callFailed_simError_slotNumber">Ni SIM kartice ali pa je napaka na reži SIM %d</string>
   <string name="call_additional_sum">Ostalo</string>
   <string name="call_barring_sum">Blokiranje zvočnih klicev</string>
   <string name="call_reject_list_add">Dodaj</string>
   <string name="call_reject_list_delete">Izbriši</string>
-  <string name="call_reject_no_name">Bez imena</string>
+  <string name="call_reject_no_name">Brez imena</string>
   <string name="call_reject_please_wait">Počakajte…</string>
   <string name="call_reject_sum">Upravljanje s seznamom zavrnjenih klicev in nastavitvami samodejne zavrnitve klicev</string>
   <string name="call_reject_title">Zavrnitev klica</string>
@@ -68,12 +68,12 @@
   <string name="cb_all_languages">Vsi jeziki</string>
   <string name="cb_channel_dialog_channel_name">Ime kanala (1-10 znakov)</string>
   <string name="cb_channel_dialog_channel_number">Številka kanala (0-65534)</string>
-  <string name="cb_channel_dialog_channel_state">Omogči kanal</string>
+  <string name="cb_channel_dialog_channel_state">Omogoči kanal</string>
   <string name="cb_channel_dialog_edit_channel">Uredi kanal</string>
   <string name="cb_default_new_channel_name">Nov kanal</string>
   <string name="cb_dialog_title_language_choice">Izberi jezik</string>
   <string name="cb_error_channel_id_exist">ID kanala že obstaja.</string>
-  <string name="cb_error_channel_name">Dolžina imena kanala ni pravilna (1-10 znakova).</string>
+  <string name="cb_error_channel_name">Dolžina imena kanala ni pravilna (1-10 znakov).</string>
   <string name="cb_error_channel_num">Številka vhodnega kanala (0-65534).</string>
   <string name="cb_error_language_select">Izberite vsaj en jezik.</string>
   <string name="cb_menu_add_channel">Dodaj kanal</string>
@@ -89,13 +89,13 @@
   <string name="change_password">Zamenjava gesla</string>
   <string name="confirmPin2Label">Potrdi nov PIN2</string>
   <string name="confirmPinLabel">Potrdi nov PIN</string>
-  <string name="confirm_3g_switch">Ali ste prepričani, da želite nastaviti 3G storitev na to SIM kartico? Ta kartica SIM bo samodejno privzeta za video klic.</string>
-  <string name="confirm_3g_switch_to_off">Ali ste prepričani da želite izključiti 3G storitrv? Storitev video klica bo samodejno izključena </string>
+  <string name="confirm_3g_switch">Ali ste prepričani da želite nastaviti 3G storitev na to SIM kartico? Ta kartica SIM bo samodejno privzeta za video klic.</string>
+  <string name="confirm_3g_switch_to_off">Ali ste prepričani da želite izključiti 3G storitev? Storitev video klica bo samodejno izključena </string>
   <string name="confirm_device_info_full">Na SD kartici zmanjkuje prostora, posnetek je shranjen..</string>
   <string name="confirm_password_label">Potrdi novo geslo</string>
   <string name="confirm_save_info_saved">Posnetek je shranjen</string>
   <string name="contactPhoto">Fotografija stika</string>
-  <string name="data_conn_under_roaming_hint">Omogočite roming podatkov v Nastavitve -&gt; Mobilna omrežja -&gt; Nastavitve Mobilno omrežje -&gt; Roming podatkov</string>
+  <string name="data_conn_under_roaming_hint">Omogočite roming podatkov v Nastavitve -&gt; Mobilna omrežja -&gt; Nastavitve Mobilno omrežje -&gt; Roming podatkov (Gostovanje)</string>
   <string name="deactivate_all">Prekliči vse</string>
   <string name="default_notification_description">Privzeti zvok (%1$s)</string>
   <string name="description_search_button">Išči</string>
@@ -104,7 +104,7 @@
   <string name="description_target_send_sms">Pošlji SMS</string>
   <string name="dialerKeyboardHintText">Uporabite tipkovnico za vnos številke</string>
   <string name="dialog_network_priority_title">Prednostno</string>
-  <string name="disable_data_connection_msg">Iskanje dostopnih omrežij bo izključilo mobilno podatkovno povezavo, ki je v uporabi. Onemogoči?</string>
+  <string name="disable_data_connection_msg">Iskanje dostopnih omrežij bo izključilo mobilno podatkovno povezavo ki je v uporabi. Onemogočim?</string>
   <string name="disable_fdn">Onemogoči FDN</string>
   <string name="dm_lock">DM zakleni</string>
   <string name="dm_unlock">DM odkleni</string>
@@ -117,7 +117,7 @@
   <string name="dualtalk_tip_accept_disconnect_outgoing">Sprejem tega klica  bo prekinil dohodni klic.</string>
   <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Sprejem tega klica bo prekinil odhodni klic in zavrnil drugi dohodni klic.</string>
   <string name="dualtalk_tip_accept_disconnect_voice">Sprejem tega klica bo končal bo končal glasovne klice.</string>
-  <string name="emergency_enable_radio_dialog_message">Vključitev GSM radija…</string>
+  <string name="emergency_enable_radio_dialog_message">Vključitev GSM radia…</string>
   <string name="emergency_enable_radio_dialog_retry">Izven območja storitve, poskušam ponovno…</string>
   <string name="enable">Omogoči</string>
   <string name="enable_3G_service">Omogoči 3G</string>
@@ -165,17 +165,17 @@
   <string name="international_dialing_add_country_code" formatted="false">"Izbirate %s številko. Želite dodati kodo države (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"Izbirate številko v %1$s, %2$s. Želite dodati pozivno številko države in pozivno številko mesta (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Želite dodati pozivno številko države in pozivno številko mesta?</string>
-  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Izbirate številko v %s.  Če vaš cilj ni %s, vnesite pozivno številko mesta."</string>
-  <string name="international_dialing_add_country_code_input_area_code">"Izbirate številko v %1$s.Vnesite pozivno številko mesta."</string>
+  <string name="international_dialing_add_country_code_default_input_area_code" formatted="false">"Izbirate številko v %s.  Če vaš cilj ni %s vnesite pozivno številko mesta."</string>
+  <string name="international_dialing_add_country_code_input_area_code">"Izbirate številko v %1$s. Vnesite pozivno številko mesta."</string>
   <string name="international_dialing_area_code">Pozivna številka</string>
   <string name="international_dialing_call_button">Klic</string>
-  <string name="international_dialing_change_country_prefix">"Izbirate številko s %s. Zamenjajte mednarodno predštevilko z '+'?"</string>
+  <string name="international_dialing_change_country_prefix">"Izbirate številko s %s. Zamenjam mednarodno predštevilko z '+'?"</string>
   <string name="international_dialing_click_below_button">Pritisnite spodnji gumb za zamenjavo številke kode države.</string>
-  <string name="international_dialing_confirm_area_code">Če vaše ciljno mesto ni %s, vnesite spodaj predštevilko za svoj cilj.</string>
+  <string name="international_dialing_confirm_area_code">Če vaše ciljno mesto ni %s vnesite spodaj predštevilko za svoj cilj.</string>
   <string name="international_dialing_dial_with_country_code">Izbirajte s pozivno številko države</string>
   <string name="international_dialing_dialed_number">Pozivna številka:</string>
   <string name="international_dialing_input_area_code">Vnesite pozivno številko</string>
-  <string name="international_dialing_invalid_number">Številka, ki ste jo vnesli ne obstaja. Nadaljujem vseeno?</string>
+  <string name="international_dialing_invalid_number">Številka ki ste jo vnesli ne obstaja. Nadaljujem vseeno?</string>
   <string name="international_dialing_need_area_code">Za klic je potrebna pozivna številka.</string>
   <string name="international_dialing_no">Ne. Uporabite originalno številko:</string>
   <string name="international_dialing_select_country">"Mednarodni klic. Izberite svoj cilj."</string>
@@ -212,7 +212,7 @@
   <string name="lable_voice">GLAS</string>
   <string name="manageConferenceLabel">Upravljanje konferenčnega klica</string>
   <string name="manage_fdn_list">FDN seznam</string>
-  <string name="manual_select_dialog_msg">Vaš telefon ne izbere drugega operaterja v tem načinu. Včasih boste morali ponoviti ročno izbiro ali povrnitev na avtomatsko izbiro, ko izgubite storitev izbranega operaterja.</string>
+  <string name="manual_select_dialog_msg">Vaš telefon ne izbere drugega operaterja v tem načinu. Včasih boste morali ponoviti ročno izbiro ali povrnitev na avtomatsko izbiro ko izgubite storitev izbranega operaterja.</string>
   <string name="manual_select_title">Izberite ročno</string>
   <string name="meid">MEID</string>
   <string name="menu_delete">Izbriši stik</string>
@@ -234,7 +234,7 @@
   <string name="mo_code_outgoing_calls_barred">Odhodni klic je blokiran</string>
   <string name="mo_code_some_cf_active">"Pogoji preusmerjanja
 klica"</string>
-  <string name="mo_code_unconditional_cf_active">"Posredivanje klica
+  <string name="mo_code_unconditional_cf_active">"Posredovanje klica
 brezpogojno aktivirano"</string>
   <string name="mobile_networks">Nastavitve mobilnega omrežja</string>
   <string name="modem_switching">Prestavitev SIM bo trajalo okili 10 sek. Počakajte…</string>
@@ -289,8 +289,8 @@ Priporočamo uporabo \"Samodejna izbira\" ali izberite drugega ponudnika storite
   <string name="notification_ongoing_call">Klic poteka</string>
   <string name="notification_ongoing_call_format">Trenutni klic (%s)</string>
   <string name="notification_voicemail">Nova govorna pošta</string>
-  <string name="oldPin2Label">Star PIN2</string>
-  <string name="oldPinLabel">Star PIN</string>
+  <string name="oldPin2Label">Stara PIN2</string>
+  <string name="oldPinLabel">Stara PIN</string>
   <string name="old_password_label">Staro geslo (4 številke)</string>
   <string name="oldman_answer_call_button_text">Odgovori</string>
   <string name="oldman_dialpad_button_text">Številčnica</string>
@@ -324,7 +324,8 @@ Priporočamo uporabo \"Samodejna izbira\" ali izberite drugega ponudnika storite
   <string name="pause_prompt_str">"Pošiljanje tonov"</string>
   <string name="pause_prompt_yes">Da</string>
   <string name="pch_data_prefer_message">"Željeni mobilni podatki se uporabljajo za povečanje učinkovitosti prenosa podatkov na škodo kakovosti klica. Ne priporočamo za uporabo.
-Ali ste prepričani, da želite omogočiti željene mobilne podatke?"</string>
+
+Ali ste prepričani da želite omogočiti željene mobilne podatke?"</string>
   <string name="pch_data_prefer_summary">Omogočite polno hitrost prenosa podatkov</string>
   <string name="pch_data_prefer_title">Željeni mobilni podatki</string>
   <string name="pin2_attempts">"
@@ -380,7 +381,7 @@ Preostalih poizkusov: %d"</string>
   <string name="sim_manage_indicator_3g">3G</string>
   <string name="sim_manage_sipcall">Internetni klic</string>
   <string name="sim_manage_suggested">Priporočilo</string>
-  <string name="sim_permanently_locked">Nepravilen vnos PUK2 gesla več kot 10 krat, trajno zaklene SIM kartico</string>
+  <string name="sim_permanently_locked">Nepravilen vnos PUK2 gesla več kot 10 krat trajno zaklene SIM kartico</string>
   <string name="sim_toolkit">Nastavitve SIM kartice</string>
   <string name="simlock_dismiss">Zavrni</string>
   <string name="simlock_emergency">Nujni klic</string>
@@ -436,10 +437,10 @@ Preostalih poizkusov: %d"</string>
   <string name="throttle_help">Pomoč</string>
   <string name="throttle_help_subtext">Več informacij o vašem ponudniku storitev omrežja</string>
   <string name="throttle_rate">Pravilo za hitrost prenosa podatkov</string>
-  <string name="throttle_rate_subtext">Hitrost prenosa podatkov se bo znižala na %1$d Kb/s če je poraba podatkov prekoračila omejitev</string>
-  <string name="throttle_status_subtext">"%1$s (%2$d٪) od %3$s maksimalno v obdobju. Naslednje obdobje prične čez %4$d dni (%5$s)"</string>
-  <string name="throttle_time_frame">Obdobje porabe podataka</string>
-  <string name="throttle_time_frame_subtext">"Preteklo je %1$d٪ ciklusov. Naslednje obdobje prične čez %2$d dni (%3$s)"</string>
+  <string name="throttle_rate_subtext">Hitrost prenosa podatkov se bo znižala na %1$d Kb/s če bo poraba podatkov prekoračila omejitev</string>
+  <string name="throttle_status_subtext">"%1$s (%2$d٪) od %3$s maksimalno v obdobju. Naslednje obdobje se prične čez %4$d dni (%5$s)"</string>
+  <string name="throttle_time_frame">Obdobje porabe podatkov</string>
+  <string name="throttle_time_frame_subtext">"Preteklo je %1$d٪ ciklusov. Naslednje obdobje se prične čez %2$d dni (%3$s)"</string>
   <string name="turn_on_3g_service_message">3G storitev je onemogočena, ali jo želite omogočiti?</string>
   <string name="umts_preferred_network_mode_dialogtitle">Omrežni način</string>
   <string name="unblock_pin2">Odblokraj PIN2</string>
@@ -459,11 +460,11 @@ Preostalih poizkusov: %d"</string>
   <string name="voice_call_settings">Kontrola glasa</string>
   <string name="voice_command_notification_message">Kontrola glasa omogočena za mobitel</string>
   <string name="voice_command_notification_ticker" formatted="false">Lahko rečete \"%s\" ali \"%s\" za odgovor ali zavrnitev dohodnega klica</string>
-  <string name="voice_command_notification_title">Kontrola glasa</string>
+  <string name="voice_command_notification_title">Kontrola glasu</string>
   <string name="voice_mail">Govorna pošta</string>
   <string name="voice_mail_dialog_text">Imate novo govorno pošto od %s. Želite poslušati?</string>
   <string name="vt_addtional_call_description">Nastavitv številke telefona in klica na čakanju</string>
-  <string name="vt_ask_show_local">Prikazati lokalni video?</string>
+  <string name="vt_ask_show_local">Prikažem lokalni video?</string>
   <string name="vt_ask_show_local_no">Ne</string>
   <string name="vt_ask_show_local_yes">Da</string>
   <string name="vt_auto_dropback">Samodejno povezovanje klicev</string>
@@ -479,7 +480,7 @@ Preostalih poizkusov: %d"</string>
   <string name="vt_dis_peer_rep_des">Prikaz slike za zamenjavo peer videa ko je nedostopen</string>
   <string name="vt_enable_back_camera">Omogoči zadnjo kamero</string>
   <string name="vt_enable_back_camera_description">Dostopno za zamenjavo kamere če je vključeno</string>
-  <string name="vt_error_media">Video ni mogoče pravilno prikazati.Video klic se bo prekinil.</string>
+  <string name="vt_error_media">Video ni mogoče pravilno prikazati. Video klic se bo prekinil.</string>
   <string name="vt_error_network">Omrežje nedostopno. Video klic se bo prekinil</string>
   <string name="vt_incoming_call">Dohodni video klic</string>
   <string name="vt_incoming_call_description">Prikaži ​​lokalni video ob sprejemu video klica</string>
@@ -496,8 +497,8 @@ Preostalih poizkusov: %d"</string>
   <string name="vt_local_video_effect">Lokalni video - efekt</string>
   <string name="vt_local_video_nightmode">Lokalni video - nočni način</string>
   <string name="vt_local_video_rep">Lokalni video - zamenjava</string>
-  <string name="vt_local_video_zoom">Lokalni video - zum</string>
-  <string name="vt_media_occupied">Ker je kamera nedostopna, video klic ni možno sprejeti. Preverite če kakšen drug program uporablja kamero.</string>
+  <string name="vt_local_video_zoom">Lokalni video - zoom</string>
+  <string name="vt_media_occupied">Ker je kamera nedostopna video klica ni možno sprejeti. Preverite če kakšen drug program uporablja kamero.</string>
   <string name="vt_media_video_fail">Video se ne da pravilno prikazati. Video klic se prekinja</string>
   <string name="vt_menu_hide_me">Skrij lokalni video</string>
   <string name="vt_menu_show_me">Prikaži lokalni video</string>
@@ -509,7 +510,7 @@ Preostalih poizkusov: %d"</string>
   <string name="vt_peer_camera_close">Daljinska kamera je zaprta</string>
   <string name="vt_peer_camera_open">Daljinska kamera je odprta</string>
   <string name="vt_peer_video_bigger">Večji peer video</string>
-  <string name="vt_peer_video_bigger_description">Vključite, da bi peer video bil večji od lokalnega videa</string>
+  <string name="vt_peer_video_bigger_description">Vključite da bo peer video večji od lokalnega videa</string>
   <string name="vt_peer_video_quality">Kakovost peer videa </string>
   <string name="vt_peer_video_quality_normal">Normalna</string>
   <string name="vt_peer_video_quality_sharp">Ostra</string>
@@ -540,9 +541,9 @@ nedostopna"</string>
   <string name="vt_vocie_answer">Zvočni odgovor</string>
   <string name="vt_voice_connecting">Povezava zvočnega klica</string>
   <string name="vt_wait_voice">Čaka se povezovanje zvočnega klica</string>
-  <string name="wait_prompt_str">"Poslati naslednje tone?
+  <string name="wait_prompt_str">"Pošljem naslednje tone?
 "</string>
   <string name="which_call_to_activate">Kateri klic želite aktivirati?</string>
-  <string name="wild_prompt_str">Znak za zamenjavo zamenjaj s</string>
+  <string name="wild_prompt_str">Znak za zamenjavo zamenjaj z</string>
   <string name="wrong_password">Napačno geslo</string>
 </resources>

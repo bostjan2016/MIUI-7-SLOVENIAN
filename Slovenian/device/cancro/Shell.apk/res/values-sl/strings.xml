@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<resources>
-  <string name="app_label">"Okolje"</string>
-  <string name="bugreport_confirm">Poročilo o napaki vsebuje različne podatke sistema, vključno z osebnimi podatki in informacijami. Delite jih samo z varnimi aplikacijami in zaupanja vrednimi osebami.</string>
-  <string name="bugreport_confirm_repeat">Ponovno pokaži poročilo o napaki</string>
-  <string name="bugreport_finished_text">Dotaknite za deljenje poročila o napaki</string>
-  <string name="bugreport_finished_title">Sporočilo o napaki je zabeleženo</string>
-</resources>
