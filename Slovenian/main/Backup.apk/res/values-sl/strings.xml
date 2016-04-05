@@ -26,8 +26,8 @@
      <string name="backup_data">Izberi datoteke za varnostno kopiranje</string>
      <string name="backup_delete">Izbriši:</string>
      <string name="backup_empty">Ni varnostnih kopij.</string>
-     <string name="backup_empty_info">Varnostno kopiraj podatke,
-nastavitve in aplikacije.</string>
+     <string name="backup_empty_info">"Varnostno kopiraj podatke,
+nastavitve in aplikacije."</string>
      <string name="backup_empty_info_onpad">" Napravite var. kopijo vaših podatkov,
 nastavitev in aplikacij"</string>
      <string name="backup_error">Ni mogoče varnostno kopirati</string>
@@ -80,7 +80,7 @@ nastavitev in aplikacij"</string>
      <string name="custom_progress">%d postavk</string>
      <string name="data_item_desc">Podatki</string>
      <string name="data_no_enough_space_message">Na vaši napravi ni dovolj notranjega pomnilnika.</string>
-  <string name="date_format">yyyy MM dd HH:mm:ss</string>
+     <string name="date_format">yyyy MM dd HH:mm:ss</string>
      <string name="delete">Odstrani</string>
      <string name="delete_backup_process">Odstranjujem...</string>
      <string name="delete_backup_title">Izbrisati var. kopijo</string>
@@ -116,11 +116,12 @@ nastavitev in aplikacij"</string>
      <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videozapise, podatke aplikacij, itd.)</string>
      <string name="findlost_contact">Obnovi stike</string>
      <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
+     <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
      <string name="guarded_mode_dialog_message">Ta funkcija ni omogočena v načinu Gost</string>
      <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
-     <string name="import_from_xiaomi_account_hint1">1.\u0009Prenesi Mi Talk in se prijavi.
+     <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
   \u0009http://www.miliao.com 
-  2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”</string>
+  2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”"</string>
      <string name="import_from_xiaomi_account_hint2">Če že imate varnostno kopijo, tapni Naprej.</string>
      <string name="import_from_xiaomi_account_hint_title">Uporabi Mi Talk za varnostno kopiranje stikov iz vaših naprav.</string>
      <string name="local_app_name">Varnostno kopiraj</string>
@@ -140,6 +141,8 @@ nastavitev in aplikacij"</string>
      <string name="miliao_account_login">Vpiši se v Mi Talk</string>
      <string name="mms_title">MMS sporočanje</string>
      <string name="multi_select_title">%1$s izbran</string>
+     <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje.."</string>
+     <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
      <string name="never">Nikoli</string>
      <string name="new_backup">Var. kopija</string>
      <string name="no_encrypt_password">Brez gesla</string>
@@ -251,11 +254,11 @@ nastavitev in aplikacij"</string>
      <string name="trans_calculating_base_size">"Izračun velikosti baze aplikacije"</string>
      <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
      <string name="trans_cancelling">Nehaj</string>
-  <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
-  <string name="trans_connect_failed_title">"Povezovanje ni uspelo"</string>
+     <string name="trans_connect_failed_title">"Povezovanje ni uspelo"</string>
      <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
      <string name="trans_connecting_toast">Povezovanje…</string>
+     <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_detail_category_account">Računi in kontakti</string>
      <string name="trans_detail_category_files">Datoteke</string>
      <string name="trans_detail_category_sysdata">Podatki sistema</string>
@@ -275,8 +278,8 @@ nastavitev in aplikacij"</string>
      <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikacijo Mi Mover na vaši drugi napravi 
      2. Odprite aplikacijo in izberite [Sem pošiljatelj] 
      3. Skenirajte QR kodo z vašo drugo napravo"</string>
-     <string name="trans_operate_old_phone_tips2">Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
-    Dotaknite se [Sem pošiljatelj]"</string>
+     <string name="trans_operate_old_phone_tips2">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
+    Dotaknite se [Sem pošiljatelj]""</string>
      <string name="trans_please_waiting">Počakajte malo…</string>
      <string name="trans_progress_subdescript_br_receiver"> Vračanje %1$s, %2$s končano</string>
      <string name="trans_progress_subdescript_br_sender">Izdelava var. kopije %1$s, %2$s končana</string>

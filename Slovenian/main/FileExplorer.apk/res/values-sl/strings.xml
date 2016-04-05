@@ -581,6 +581,7 @@
      <string name="storage_usb_description">USB pomnilnik</string>
      <string name="storage_warning">Zunanjega pomnilnika ni mogoče uporabiti</string>
      <string name="subtitle_report_video">Pošilja %1$s</string>
+     <string name="symbol_for_storage_tip">:</string>
      <string name="sys_size_enable">na voljo</string>
      <string name="system_alert">Internet povezovanje</string>
      <string name="tab_category">Kategorije</string>

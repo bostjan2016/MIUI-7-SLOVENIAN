@@ -222,6 +222,8 @@
      <string name="last_check_canceled">Zadnje skeniranje je odpovedano</string>
      <string name="load_only_under_wlan">Naloži novice kadar je povezano na WiFi</string>
      <string name="login_immediately">Prijavite se</string>
+     <string name="long_click_dialog_summary">Dolg pritisk za dodajanje v izjeme.</string>
+     <string name="long_click_dialog_title">Obvestila</string>
      <string name="mainbtn_text_quick_cleanup">Očisti %s</string>
      <string name="mainbtn_text_quick_cleanup_default">Očisti</string>
      <string name="memeory_check_content">%1$d aplik., spomin %2$s</string>
@@ -239,6 +241,7 @@
      <string name="net_assistant_detail">Izkoriščeno %1$s, prihranjeno %2$s</string>
      <string name="net_assistant_title">Izkoriščeno %s mob. pod. ta mesec</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
+     <string name="news_change">Zamenjaj</string>
      <string name="no_network">"Ne morem se povezati na omrežje, poskusite ponovno kasneje"</string>
      <string name="no_network_btn">Poskusite ponovno</string>
      <string name="notification_summary_after_auto_cleanup">Očiščeno %s.</string>
@@ -258,7 +261,9 @@
      <string name="pref_category_title_garbage_cleanup_check">Obvestila</string>
      <string name="pref_category_title_other_clean_settings">Dodatne nastavitve</string>
      <string name="pref_content_cleanup_white_list_none">Nič</string>
+     <string name="pref_section_auto_clean_and_alert">Samodejno očisti</string>
      <string name="pref_summary_auto_clean_and_alert">Nastavi avtomatski zagon čistilca po razporedu</string>
+     <string name="pref_summary_auto_deepclean_and_alert">Obvestila neizkoriščenih aplikacij</string>
      <string name="pref_summary_auto_update_cleanup_db">Zadnja posodobitev %s</string>
      <string name="pref_summary_cleanup_white_list">Prepreči čiščenje izbranih aplikacij</string>
      <string name="pref_summary_expand_cache_group">Prikaži podrobnosti predpomnilnika avtomatsko</string>
@@ -324,6 +329,7 @@
      <string name="summary_optimizer">"Ta funkcija bere imena nepoznanih datotek za pododobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
      <string name="text_optimizer">Preberi imena map</string>
      <string name="there_is_no">Vse izgleda dobro, vrnite se kasneje</string>
+     <string name="tips_of_app_manage">Izbrišite redko uporabljene aplikacije za prihranek prostora za shranjevanje</string>
      <string name="tips_of_auto_launch_manage">Preprečite redko uporabljanim aplikacijam avtomatski zagon</string>
      <string name="tips_of_cloud_service">Prijavite se s svojim Mi Računom za uporabo več Mi Uslug</string>
      <string name="tips_of_connect">Povežite se na internet za uporabo celega sklopa varnosti</string>
@@ -340,6 +346,7 @@
      <string name="title_delete_clipboard">Vsebina predpomnilnika</string>
      <string name="title_delete_deepclean">Izbriši</string>
      <string name="title_delete_large_file">Izbriši velike datoteke</string>
+     <string name="title_of_app_manage">Aplik.</string>
      <string name="title_of_auto_launch_manage">Avtostart</string>
      <string name="title_of_cloud_service">Cloud usluge</string>
      <string name="title_of_garbage_cloud_scan">Cloud skeniranje</string>
