@@ -1193,7 +1193,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="toast_cleaner_cloudscan">Optimizacija bo uporabila spletna navodila</string>
      <string name="toast_default_app">"%1$s nastaviti kot privzeto sistema %2$s"</string>
      <string name="toast_flow_notification">Vklopljeno obvestilo uporabe podatkov</string>
-     <string name="toast_garbage_cleanup_success">Čiščenje končano</string>
+  <string name="toast_garbage_lib">Avtomatska posodobitev Čistilca je vključena</string>
      <string name="toast_lockscreen_glogin_empty_password">Potrebno je geslo</string>
      <string name="toast_network_switch">Ta aplikacija se lahko povezuje na splet</string>
      <string name="toast_root_apply_accept">Administratorski dostop odobren %s</string>

@@ -634,6 +634,7 @@
      <string name="operation_download">Prenesi fotografijo (%s)</string>
      <string name="operation_edit">Uredi</string>
      <string name="operation_enable_auto_upload">Omogoči sam. Var. kopijo</string>
+  <string name="operation_add_secret_button">Skrij</string>
   <string name="operation_delete_confirm_message_folder">"Vsa vsebina map bo izbrisana.
 "</string>
   <string name="operation_failed">Opravilo ni uspelo</string>
@@ -879,6 +880,7 @@
      <string name="slideshow">Diaprojekcija</string>
      <string name="slideshow_category">Diaprojekcija</string>
      <string name="slideshow_dream_name">Diaprojekcija</string>
+  <string name="slideshow_interval">Interval trajanja diaprojekcije</string>
      <string name="slideshow_repeat_mode">Zanka</string>
      <string name="sports_camera">Športna Kamera</string>
      <string name="square">Kvadrat</string>
