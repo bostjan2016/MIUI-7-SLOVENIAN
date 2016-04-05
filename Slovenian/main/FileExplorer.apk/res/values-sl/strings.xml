@@ -19,7 +19,7 @@
      <string name="app_name_market">App Store</string>
      <string name="app_name_midrop">Mi Drop</string>
      <string name="app_name_miui">MIUI</string>
-     <string name="app_name_miuimusic">Glazba</string>
+     <string name="app_name_miuimusic">Glasba</string>
      <string name="app_name_miuiringtone">Zvok zvonenja</string>
      <string name="app_name_miuiwallpaper">Slike za ozadje</string>
      <string name="app_name_screenshot">Posnetki zaslona</string>
@@ -249,7 +249,7 @@
      <string name="load_sticker_fail">"Ne morem naložiti, poskusite ponovno"</string>
      <string name="loading">Nalaganje...</string>
      <string name="local_image">Slike</string>
-     <string name="local_music">Glazba</string>
+     <string name="local_music">Glasba</string>
      <string name="local_sticker_str">Izvenmrežno</string>
      <string name="local_video">Videozapisi</string>
      <string name="local_video_empty">Ni malih videozapisov. Preverite popularne.</string>
