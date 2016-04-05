@@ -156,7 +156,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="data_usage_3g_limit_title">Dosežena pod. omejitev za 2G/3G</string>
   <string name="data_usage_4g_limit_snoozed_title">Omejitev za podat. 4G presež.</string>
   <string name="data_usage_4g_limit_title">Dosežena pod. omejitev za 4G</string>
-  <string name="data_usage_limit_body">Dodirnite se za omogočanje.</string>
+  <string name="data_usage_limit_body">Dotaknite se za omogočanje.</string>
   <string name="data_usage_limit_snoozed_body">Velikost %s presega omejitev</string>
   <string name="data_usage_mobile_limit_snoozed_title">Omej. mobil. podatkov presežena</string>
   <string name="data_usage_mobile_limit_title">Dosežena mobilna pod. omejitev</string>
