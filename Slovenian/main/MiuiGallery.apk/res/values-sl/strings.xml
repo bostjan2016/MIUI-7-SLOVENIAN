@@ -634,7 +634,6 @@
      <string name="operation_download">Prenesi fotografijo (%s)</string>
      <string name="operation_edit">Uredi</string>
      <string name="operation_enable_auto_upload">Omogoči sam. Var. kopijo</string>
-  <string name="operation_add_secret_button">Skrij</string>
   <string name="operation_delete_confirm_message_folder">"Vsa vsebina map bo izbrisana.
 "</string>
   <string name="operation_failed">Opravilo ni uspelo</string>
