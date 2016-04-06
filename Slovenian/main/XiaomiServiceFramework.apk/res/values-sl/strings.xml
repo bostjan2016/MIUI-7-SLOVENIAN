@@ -49,7 +49,7 @@
      <string name="activate_popup_desc_new_2_sim_cards">Izgleda, da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 SMS-sporočili, ki se uporabljati za ponovno aktiviranje %s.</string>
      <string name="activate_popup_desc_new_intl_sim_card">Izgleda, da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna mednarodna sporočila SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
      <string name="activate_popup_desc_new_mixed_sim_cards">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 1 domače in 1 mednarodno sporočilo SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_sim_card">Izgleda, da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna sporočila SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_sim_card">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna sporočila SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
      <string name="activate_popup_desc_new_sim_card_downlink">Izgleda da ste zamenjali SIM kartico. Vnesite telefonsko številko, povezano z vašo novo kartico SIM za ponovno aktiviranje %s</string>
      <string name="activate_popup_desc_register_account">Vaš ponudnik storitev vam lahko zaračuna sporočila SMS, ki se uporabljajo za ustvarjanje vašega Mi računa.</string>
      <string name="activate_popup_desc_register_account_downlink">Vnesi svojo telefonsko številko</string>
@@ -57,7 +57,7 @@
      <string name="activate_popup_desc_sim_card">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporablja za aktiviranje %s.</string>
      <string name="activate_popup_desc_sim_card_downlink">Če želite omogočiti %s vnesite svojo telefonsko številko</string>
      <string name="activate_popup_desc_voip_privacy">Varnostna pravila</string>
-     <string name="activate_popup_desc_voip_privacy_prefix">"VOIP storitev podpira Wei Hui. Prikaži Wei Hui "</string>
+     <string name="activate_popup_desc_voip_privacy_prefix">"VOIP storitev podpira Wei Hui. Prikaži Wei Hui"</string>
      <string name="activate_popup_title_all_gateway_failed_query_info">"Ne morem najti telefonske številke"</string>
      <string name="activate_popup_title_all_gateway_failed_send_sms">"Ne morem poslati SMS aktivacije"</string>
      <string name="activate_popup_title_error_device_id">Neveljaven IMEI</string>
@@ -69,7 +69,6 @@
      <string name="activate_popup_title_manual">Aktivirati %s</string>
      <string name="activate_popup_title_new_sim_card">Deaktivirati %s</string>
      <string name="activate_popup_title_register_account">Ustvari MI Račun</string>
-     <string name="activate_sms_postfix">Ta SMS se uporablja za aktiviranje vaše Mi naprave</string>
      <string name="activate_status_desc_acquire_phone_number">Pridobivanje telefonske številke iz strežnika</string>
      <string name="activate_status_desc_acquire_phone_number_server_error">Pri pridobivanju telefonske številke je prišlo do napake na strežniku</string>
      <string name="activate_status_desc_acquire_phone_number_server_no_info">Nisem uspel pridobiti telefonske številke</string>

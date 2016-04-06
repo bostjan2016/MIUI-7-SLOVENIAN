@@ -781,7 +781,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_manageFingerprint">Programu omogoča klicanje načina za dodajanje in brisanje predlogov prstnih odtisov ki bodo uporabljeni.</string>
   <string name="permdesc_manageNetworkPolicy">Programu omogoča upravljanje pravilnikov o omrežju in določanje pravil za program.</string>
   <string name="permdesc_manageProfileAndDeviceOwners">Dovoli programom da nastavijo lastnike profilov in lastnika naprave.</string>
-  <string name="permdesc_modifyAudioSettings"Programu omogoča zamenjavo globalnih nastavitev zvoka, npr. glasnosti in zvočnika ki se uporablja za izhod.</string>
+  <string name="permdesc_modifyAudioSettings">Programu omogoča zamenjavo globalnih nastavitev zvoka, npr. glasnosti in zvočnika ki se uporablja za izhod.</string>
   <string name="permdesc_modifyNetworkAccounting">Programu omogoča zamenjavo načina uporabe omrežja v odnosu na aplikacije. Ni namenjeno navadnim aplikacijam.</string>
   <string name="permdesc_nfc">Podpira komunikacijo med računalnikom in oznakami, karticami in bralniki komunikacije s tehnologijo NFC.</string>
   <string name="permdesc_persistentActivity">Programu omogoča da nekatere svoje dele naredi trajne v pomnilniku. S tem je lahko pomnilnik omejen za druge programe, zaradi česar je delovanje telefona upočasnjeno.</string>
