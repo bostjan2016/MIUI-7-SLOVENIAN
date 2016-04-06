@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
      <string name="SMS_and_MMS">SMS in MMS</string>
      <string name="Setting_lock">Nastavitve</string>
@@ -340,16 +340,16 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
      <string name="free_time_traffic_settings">Izklj. maks. omejitve podatkov</string>
      <string name="free_time_traffic_title">Vnesite Izklj. maks. omejitev podatkov</string>
      <string name="free_traffic_settings">Nastavitve Izklj. maks. omejitve</string>
+     <string name="gigabyteShort">GB</string>
      <string name="gateway_exception_summary">Preverite svoj router in poskusite ponovno.</string>
      <string name="gateway_exception_summary2">"Ne moren se povezati na strežnik"</string>
      <string name="gateway_exception_title">Test routerja</string>
-     <string name="gigabyteShort">GB</string>
      <string name="go_to_setting_fingerprint">Pojdi v Nastavitve</string>
      <string name="handle_text_cache">Predpomnilnik</string>
      <string name="handle_text_memory">Spomin</string>
      <string name="handle_text_system">Sistem</string>
-     <string name="header_antivirus">"Ta funkcija šifrira in prenese ID vaše naprave v Tencent strežnike (%s)."</string>
      <string name="help_label">Pomoč</string>
+     <string name="header_antivirus">"Ta funkcija šifrira in prenese ID vaše naprave v Tencent strežnike (%s)."</string>
      <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
      <string name="hints_cleanning_text">Čiščenje...</string>
      <string name="hints_handle_item_text_risk">Tveganja: %d</string>
@@ -550,11 +550,11 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="miuishare_title_more">Več</string>
      <string name="miuishare_title_share">Deli</string>
      <string name="miuishare_wechat_timeline_title">Wechat Moments</string>
-     <string name="miuishare_weibo_title">Weibo</string>
      <string name="modify_password_info">Vzorec za odklepanje</string>
      <string name="modifypassword">Zamenjajte geslo</string>
      <string name="monitor_requests_from_pc">Upravljanje namestitve aplikacij preko USB</string>
      <string name="month_report_month_report_switch">Prikaži mesečne prijave</string>
+     <string name="miuishare_weibo_title">Weibo</string>
      <string name="network_assistant_upgraded_body">Tapnite za prikaz</string>
      <string name="network_assistant_upgraded_title">Ažurirano</string>
      <string name="network_blocked_connected_open_wifi">Povezovanje z javnim omrežjem</string>
@@ -660,8 +660,11 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="pm_auto_start_basic_services_lock">Zakleni</string>
      <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
      <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
+     <string name="pm_auto_start_by_other">Aktiviran zagon</string>
+     <string name="pm_auto_start_by_other_app">Dopustiti aplikaciji da je zagnana s strani druge aplikacije	</string>
      <string name="pm_auto_start_by_other_services">Poskusite izključiti te storitve</string>
      <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
+     <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samod. zagon</string>
      <string name="pm_auto_start_proc_is_running">Zagnano</string>
      <string name="pm_remember_choice">Shrani mojo izbiro</string>
      <string name="pm_root_success_notification_title">ROOT pristop omogočen</string>
@@ -1200,7 +1203,6 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="traffic_alert_auto_modify_package_summary">"Samodejno prilagodi paket podatakov skladno z informacijami mobilnega operaterja"</string>
      <string name="traffic_config_alert_auto_modify">Samodejno posodobi načrt podatkov</string>
      <string name="traffic_config_alert_body">"Po vašem operaterju imate: %s.
-
     Sprejmete to?"</string>
      <string name="traffic_config_alert_body_extra">"
      Kupili ste dodatni internet  %1$s ta mesec. To se razlikuje od %2$s kar ste dodali ročno."</string>

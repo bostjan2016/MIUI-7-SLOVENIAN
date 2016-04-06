@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
 <resources>
      <string name="Accounts_settings_title">Računi</string>
+     <string name="aaid_info">"
+ Identifikator oglaševanja je stalni ID unikaten za vašo napravo. Dobavitelji ga uporabljajo za izbor reklamne vsebine ki vam bo koriszila.
+ 
+ Če ne želite uporabljati prilagojene oglase, količina oglašavanja ne bo zmanjšana, le količina oglasov korisnih za vas se bo zmanjšala."</string>
      <string name="about_settings">Vizitka telefona</string>
      <string name="about_settings_summary">Ogled pravnih informacij, stanja, različice programske opreme</string>
      <string name="ac_enable_summary">Geslo bo potrebno za odpiranje aplikacije</string>
@@ -84,6 +89,7 @@
      <string name="active_input_method_subtypes">Aktivni načini vnosa</string>
      <string name="activity_not_found">Aplikacija ni nameščena v telefonu.</string>
      <string name="activity_picker_label">Izberite dejavnost</string>
+     <string name="ad_service">Storitve oglasov</string>
      <string name="adb_keys_warning_message">Ali želite preklicati dostop do odpravljanja težav prek povezave USB iz vseh računalnikov, ki ste jih pooblastili?</string>
      <string name="adb_warning_message">Odpravljanje težav s povezavo USB je namenjeno samo za razvoj. Lahko ga uporabljate za kopiranje podatkov med računalnikom in napravo, nameščanje aplikacij v napravo brez obveščanja in branje podatkov v dnevniku.</string>
      <string name="adb_warning_title">Ali dovolite odpravljanje težav s povezavo USB?</string>
@@ -644,10 +650,10 @@
      <string name="bootloader_apply_step_5">Bodite prepričani da znate uporabljati Fastboot način dela predno ga vključite.</string>
      <string name="bootloader_apply_title">Važno opozorilo</string>
      <string name="bootloader_summary">Flashajte napravo preko USB-a</string>
-  <string name="breathing_light_color_menu_title">Barva LED lučk</string>
-  <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
-  <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
-  <string name="breathing_light_freq_title">Frekvenca utripanja LED</string>
+     <string name="breathing_light_color_menu_title">Barva LED lučk</string>
+     <string name="breathing_light_color_summary">Barva LED lučk pri prejemu novega obvestila</string>
+     <string name="breathing_light_freq_summary">Utripaj kadar bo novo obvestilo</string>
+     <string name="breathing_light_freq_title">Frekvenca utripanja LED</string>
      <string name="brightness">Raven svetlosti</string>
      <string name="brightness_auto_adjust_off">Svetlosti zaslona bo ostala nespremenjena</string>
      <string name="brightness_auto_adjust_on">Optimizacija ravni svetlosti zaslona</string>
@@ -817,6 +823,7 @@
      <string name="confirm_fingerprint_icon_content_description">Uporabite prstni odtis, če želite nadaljevati.</string>
      <string name="confirm_fingerprint_msg">Položite prst na skener prstnih odtisov</string>
      <string name="confirm_new_backup_pw_prompt">Znova vnesite novo geslo za popolno varnostno kopiranje</string>
+     <string name="confirm_reset_aaid">Vredu</string>
      <string name="connect_to_internet">Izberi Wi-Fi omrežje</string>
      <string name="connected_via_passpoint">Vzpostavljena povezava prek: %1$s</string>
      <string name="connected_via_wfa">Povezava vzpostavljena prek pomočnika za Wi-Fi</string>
@@ -1080,6 +1087,7 @@
      <string name="device_status">Stanje</string>
      <string name="device_status_activity_title">Stanje</string>
      <string name="device_status_summary">Telefonska številka, signal itn.</string>
+     <string name="dial_application_title">Izbiraj</string>
      <string name="dial_pad_tones_title">Toni tipkovnice</string>
      <string name="dialog_content_login">Prijavite se v svoj Mi račun za posodobitve?</string>
      <string name="dialog_no">Ne</string>
@@ -1372,6 +1380,7 @@
      <string name="fingerprint_enable_keyguard_toggle_title">zaklepanje zaslona</string>
      <string name="fingerprint_enroll_button_add">Dodaj še enega</string>
      <string name="fingerprint_enroll_button_next">Naprej</string>
+     <string name="fingerprint_for_keyguard_disabled">Prstni odtis je onemogočen s strani varnostnih nastavitev.</string>
      <string name="fingerprint_identificating_msg">Skeniranje prstnega odtisa…</string>
      <string name="fingerprint_identify_input_password_msg">Vnesite geslo</string>
      <string name="fingerprint_identify_msg">Skeniranje prstnega odtisa…</string>
@@ -1630,6 +1639,7 @@
      <string name="keep_screen_on">Brez zaklepanja</string>
      <string name="keep_screen_on_summary">Med polnjenjem se zaslon ne bo nikoli zaklenil</string>
      <string name="kernel_version">Različica jedra</string>
+     <string name="key_position_cat">Položaj tipk</string>
      <string name="key_settings">Tipke</string>
      <string name="key_settings_title">Tipke</string>
      <string name="keyboard_layout_default_label">Privzeto</string>
@@ -1707,7 +1717,7 @@
      <string name="layout_size_small">Majhen</string>
      <string name="layout_size_small_text">MAJHEN</string>
      <string name="led_colors_summary">Obvestila</string>
-     <string name="led_frequence_summary">Nastavi utripanje LED indikatorja</string>
+     <string name="led_frequence_summary">Nastavite interval utripov</string>
      <string name="led_pulse_summary">LED obvestilo, ko je prejeto novo obvestilo</string>
      <string name="led_settings">Opozorilna lučka</string>
      <string name="legacy_dhcp_client">Uporaba starejšega odjemalca DHCP</string>
@@ -2463,12 +2473,36 @@
      <string name="power_cell">Stanje pripravljenosti</string>
      <string name="power_center">Performanse</string>
      <string name="power_charge_remaining">%1$s do napolnjenosti</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 2 Original: 1
+	%d: 0 Original: 1 -->
+     <!-- Original string: %1$d%% – %2$s -->
      <string name="power_charging">%1$s – %2$s</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 2 Original: 1
+	%d: 0 Original: 1 -->
+     <!-- Original string: %1$d%% – %2$s do napunjenosti -->
      <string name="power_charging_duration">%1$s – %2$s do napolnjenosti</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 2 Original: 1
+	%d: 0 Original: 1 -->
+     <!-- Original string: %1$d%% – %2$s do napunjenosti putem utičnice -->
      <string name="power_charging_duration_ac">%1$s – %2$s do napolnjenosti prek napajalnika</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 2 Original: 1
+	%d: 0 Original: 1 -->
+     <!-- Original string: %1$d%% – %2$s do napunjenosti putem USB-a -->
      <string name="power_charging_duration_usb">%1$s – %2$s do napolnjenosti prek USB-ja</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 2 Original: 1
+	%d: 0 Original: 1 -->
+     <!-- Original string: %1$d%% – %2$s do napunjenosti bežičnim putem -->
      <string name="power_charging_duration_wireless">%1$s – %2$s do napolnjenosti prek brezž. pol.</string>
      <string name="power_discharge_remaining">Preostali čas: %1$s</string>
+     <!-- MNPS mismatch found! Translated: 2 Original: 2
+	%s: 2 Original: 1
+	%d: 0 Original: 1 -->
+     <!-- Original string: %1$d%% – još približno %2$s -->
      <string name="power_discharging_duration">%1$s – še približno %2$s</string>
      <string name="power_flashlight">Svetilka</string>
      <string name="power_hide_mode_summary">"Prihranite baterijo z omejevanjem procesov v ozadju, WiFi-ja, mobilne podatkovne povezave i uporabo GPS-a"</string>
@@ -2713,6 +2747,7 @@
      <string name="remove_managed_profile_label">Odstrani delovni profil</string>
      <string name="repeat">Ponovi</string>
      <string name="repeat_title">Ponovitev</string>
+     <string name="reset_aaid">Resetiraj identifikator oglašavanja</string>
      <string name="reset_app_preferences">Ponastavitev nastavitev aplikacij</string>
      <string name="reset_app_preferences_button">Ponastavi aplikacije</string>
      <string name="reset_app_preferences_desc">"S tem se bodo ponastavile vse nastavitve za: "&lt;li&gt;onemogo&amp;#269;ene aplikacije,&lt;/li&gt;" "&lt;li&gt;obvestila za onemogo&amp;#269;ene aplikacije,&lt;/li&gt;" "&lt;li&gt;privzete aplikacije za dejanja,&lt;/li&gt;" "&lt;li&gt;omejitev prenosa podatkov v ozadju za aplikacije,&lt;/li&gt;" "&lt;li&gt;omejitve dovoljenj.&lt;/li&gt;"Podatkov iz aplikacij ne boste izgubili."</string>
@@ -2800,6 +2835,7 @@
      <string name="screen_key_long_press">Daljši pritisk na navigacijske tipke</string>
      <string name="screen_key_long_press_action">Funkcija sprožilca</string>
      <string name="screen_key_long_press_timeout">Določite dolžino pritiska</string>
+     <string name="screen_key_position">Navigacijske tipke</string>
      <string name="screen_key_press">Pritisnite navigacijske tipke</string>
      <string name="screen_key_press_action">Funkcija sprožilca</string>
      <string name="screen_locking_sounds_title">Zvoki zaklepanja zaslona</string>
@@ -3112,6 +3148,10 @@
      <string name="sim_editor_name">Ime kartice SIM</string>
      <string name="sim_editor_num_format">Prikaži številke</string>
      <string name="sim_editor_number">Številka</string>
+     <!-- MNPS mismatch found! Translated: 1 Original: 0
+	%s: 0 Original: 0
+	%d: 1 Original: 0 -->
+     <!-- Original string: SIM kartica -->
      <string name="sim_editor_title">Reža za SIM %1$d</string>
      <string name="sim_enable_disable_lock_not_supported">"Ni možno zamenjati stanja SIM/RUIM zaklepanja. SIM/RUIM ga ne podpira."</string>
      <string name="sim_enable_sim_lock">Zakleni kartico SIM</string>
@@ -3709,6 +3749,7 @@
      <string name="use_location_title">Lokacija in Iskanje Google</string>
      <string name="use_nuplayer">Uporabi NuPlayer (presk.)</string>
      <string name="use_nuplayer_summary">Uporabi NuPlayer namesto AwesomePlayerja</string>
+     <string name="use_personalized_ad_service">Prilagođeni oglasi</string>
      <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
      <string name="user_account_title">Račun za vsebino</string>
      <string name="user_add_max_count">Dodate lahko do toliko uporabnikov: %1$d</string>
