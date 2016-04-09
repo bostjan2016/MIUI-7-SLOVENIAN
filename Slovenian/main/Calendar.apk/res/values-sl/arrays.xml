@@ -218,11 +218,11 @@
         <item>Dan</item>
         <item>Teden</item>
         <item>Mesec</item>
-        <item>Raspored</item>
+        <item>Razpored</item>
     </string-array>
     <string-array name="quick_response_defaults">
         <item>Zamujam samo nekoliko minut.</item>
-        <item>Bodite tam čez pribložno 10 min.</item>
+        <item>Bodite tam čez približno 10 min.</item>
         <item>Kar naprej, začnite brez mene.</item>
         <item>Žal mi je, ne morem priti. Morava spremeniti dogovor.</item>
     </string-array>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="calendar_lable">"Koledar: "</string>
+  <string name="calendar_lable">"Koledar:"</string>
   <string name="cancel">Prekliči</string>
-  <string name="date_lable">"Datum: "</string>
+  <string name="date_lable">"Datum:"</string>
   <string name="done">Končano</string>
   <string name="give_up">Ustavi</string>
   <string name="import_button">Uvozi</string>
@@ -22,5 +22,5 @@
   <string name="open_calendar_failed">Koledar ni dostopen.</string>
   <string name="progresszero">0%</string>
   <string name="retry">Poskusi ponovno</string>
-  <string name="title_lable">"Naslov: "</string>
+  <string name="title_lable">"Naslov:"</string>
 </resources>

@@ -16,7 +16,7 @@
      <string name="holiday_data_no_network">"Ne morem se povezati na omrežje. Preverite podatkovno povezavo in poskusite ponovno."</string>
      <string name="holiday_data_update_failed">"Ne morem posodobiti. Preverite podatkovno povezavo in poskusite ponovno."</string>
      <string name="holiday_data_update_succeed">Posodabljanje končano</string>
-  <string name="holiday_data_updating">"&gt;Posodabljanje…</string>
+  <string name="holiday_data_updating">Posodabljanje…</string>
      <string name="holiday_update_summary">Dotaknite se za posodabljanje informacij koledarja.</string>
      <string name="holiday_update_title">Dostopna je posodobitev</string>
      <string name="provider_label">Koledar</string>

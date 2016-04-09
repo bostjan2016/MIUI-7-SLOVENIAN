@@ -17,7 +17,7 @@
         <item quantity="one">1 dan</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">TEDEN %d</item>
+        <item quantity="other">Teden %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>

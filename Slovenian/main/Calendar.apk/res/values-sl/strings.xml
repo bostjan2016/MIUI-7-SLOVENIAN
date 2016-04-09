@@ -36,10 +36,10 @@
   <string name="add_card">Dodaj kartice</string>
   <string name="add_topic_success">Dodano \"%s\"</string>
   <string name="add_topic_unsuccess">Dodajanje \"%s\" ni uspelo</string>
-  <string name="agenda_today">DANES, %1$s</string>
-  <string name="agenda_tomorrow">JUTRI, %1$s</string>
+  <string name="agenda_today">Danes, %1$s</string>
+  <string name="agenda_tomorrow">Jutri, %1$s</string>
   <string name="agenda_view">Dnevni red</string>
-  <string name="agenda_yesterday">VČERAJ, %1$s</string>
+  <string name="agenda_yesterday">Včeraj, %1$s</string>
   <string name="alarm_label">Razreši</string>
   <string name="alert_reminder_divider">|</string>
   <string name="alert_reminder_expired">Pretečeno</string>
@@ -168,7 +168,7 @@
   <string name="edit_label">"Uredi"</string>
   <string name="email_guests_label">Pošiljanje e-pošte gostom</string>
   <string name="email_picker_label">Pošlji e-pošto z</string>
-  <string name="email_subject_prefix">"Odgovor: "</string>
+  <string name="email_subject_prefix">"Odgovor:"</string>
   <string name="empty_event">Prazen dogodek ni kreiran.</string>
   <string name="enter_calendar">Koledar</string>
   <string name="event_account">Račun</string>
@@ -439,9 +439,9 @@
   <string name="travel_train_number_text">Vlak</string>
   <string name="travel_train_station">Žel. postaja</string>
   <string name="user_notice_button_exit">Izhod</string>
-  <string name="user_notice_button_ok">Vredu</string>
+  <string name="user_notice_button_ok">V redu</string>
   <string name="user_notice_declaration_ignore">"Ne prikaži ponovno"</string>
-  <string name="user_notice_message">"Z uporabo tega proizvoda pristajate na Xiaomi %1$s i %2$s. Nekatere funkcije potrebujejo povezavo z internetom, pristop lokaciji in kontaktom za normalno delovanje."</string>
+  <string name="user_notice_message">"Z uporabo tega proizvoda pristajate na Xiaomi %1$s in %2$s. Nekatere funkcije potrebujejo povezavo z internetom, pristop lokaciji in kontaktom za normalno delovanje."</string>
   <string name="user_notice_title">Obvestila uporabniku</string>
   <string name="user_notification">Obvestila </string>
   <string name="user_notification_descrip">Prikaži obvestila uporabniku vsakič ko odprete Koledar</string>
