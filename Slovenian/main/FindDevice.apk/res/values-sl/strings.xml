@@ -27,10 +27,10 @@
      <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da najdete, zaklenite, ali zbrišete svojo napravo na daljavo.
 Če zamenjate SIM kartice, bo poslano še eno SMS sporočilo za ponovno aktiviranje te funkcije."</string>
-     <string name="find_device_stop_noise">Dotaknite se Vredu da utišate</string>
+     <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
      <string name="find_device_storage_corrupted">Prostor za shrambo Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
      <string name="find_device_success_title">Najdi napravo</string>
-     <string name="i_know">Vredu</string>
+     <string name="i_know">V redu</string>
      <string name="lock_msg_phone">Kontakt informacije: %s</string>
      <string name="login_extra_steps">Kontrola prijave</string>
      <string name="login_failed">"Ne morem se prijaviti. %s."</string>
