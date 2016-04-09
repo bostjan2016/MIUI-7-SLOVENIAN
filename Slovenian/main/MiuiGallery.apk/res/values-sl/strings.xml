@@ -864,7 +864,7 @@ naprave"</string>
      <string name="sharer_quota_fulfiled">"Album ste že delili z največjim možnim številom uporabnikov."</string>
      <string name="sharpen">Izostri</string>
      <string name="show_all">Fotografije in video posnetki</string>
-     <string name="show_hidden_album">Prikaži skrite albume</string>
+  <string name="show_hidden_album_title">Pokaži skrite albume</string>
      <string name="slideshow_interval_dialog_title">Vnesite interval</string>
      <string name="slideshow_interval_invalid">Interval mora biti med 3 in 3600 sek</string>
      <string name="slideshow_interval_title">Prikaži vsak slajd na</string>
