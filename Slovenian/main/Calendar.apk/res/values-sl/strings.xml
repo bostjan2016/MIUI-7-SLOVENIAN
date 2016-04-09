@@ -296,7 +296,7 @@
   <string name="preferences_default_reminder_title">Privzeti čas opomnika</string>
   <string name="preferences_general_title">Način prikaza koledarja</string>
   <string name="preferences_hide_declined_title">Skrij zavrnjene dogodke</string>
-  <string name="preferences_home_tz_default">Europa/Ljubljana</string>
+  <string name="preferences_home_tz_default">Europe/Ljubljana</string>
   <string name="preferences_home_tz_title">Domači časovni pas</string>
   <string name="preferences_import_credit_repayment">Plačilo s kreditno kartico</string>
   <string name="preferences_reminder_title">Obvestila &amp; opomniki</string>
