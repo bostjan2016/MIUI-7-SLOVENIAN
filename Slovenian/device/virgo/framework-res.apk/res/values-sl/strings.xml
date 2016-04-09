@@ -82,7 +82,7 @@ Ali jo želite zapreti?"</string>
 
 Ali ga želite zapreti?"</string>
   <string name="anr_title"/>
-  <string name="app_no_restricted_accounts">Ta aplikacija ne podpira računov za profile z omejitvami</string>
+  <string name="app_not_found">Ne najdem aplikacije za to opravilo</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
   <string name="app_running_notification_title">%1$s se izvaja</string>
   <string name="autofill_address_name_separator">" "</string>
@@ -813,7 +813,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_sendSms">Programu omogoča pošiljanje SMS sporočil. To lahko povzroči dodatne stroške. Program lahko to naredi brez vašega nadzora.</string>
   <string name="permdesc_setAlarm">Programu omogoča nastavljanje alarma na aplikaciji budilka. Nekatere aplikacije budilk morda tega ne bodo uporabile.</string>
   <string name="permdesc_setInputCalibration">Programu dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne programe.</string>
-  <string name="permdesc_setTime">Programu dovoljuje spreminjanje ure telefona.</string>
+  <string name="permdesc_setTimeZone">Programu omogoča spremembo časovnega pasu na telefonu.</string>
   <string name="permdesc_setWallpaper">Programu omogoča nastavitev ozadja sistema.</string>
   <string name="permdesc_setWallpaperHints">Programu omogoča nastavitev namigov o velikosti ozadja sistema.</string>
   <string name="permdesc_sim_communication">Programu dovoli pošiljanje ukazov kartici SIM. To je lahko zelo nevarno.</string>
@@ -934,7 +934,7 @@ za račun %s."</string>
   <string name="permlab_sendSms">pošiljanje in ogled sporočil SMS</string>
   <string name="permlab_setAlarm">nastavitev alarma</string>
   <string name="permlab_setInputCalibration">sprememba umerjanja vhodne naprave</string>
-  <string name="permlab_setTime">nastavljanje ure</string>
+  <string name="permlab_setTimeZone">nastavljanje časovnega pasu</string>
   <string name="permlab_setWallpaper">nastavljanje ozadja</string>
   <string name="permlab_setWallpaperHints">prilagajanje velikosti slike za ozadje</string>
   <string name="permlab_sim_communication">komuniciranje s kartico SIM</string>

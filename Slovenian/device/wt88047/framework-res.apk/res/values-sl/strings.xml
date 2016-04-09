@@ -239,8 +239,8 @@ Ali ga želite zapreti?"</string>
   <string name="ext_media_nomedia_notification_title">Shramba %s je bila odstranjena</string>
   <string name="ext_media_safe_unmount_notification_message">USB shrambo lahko varno odstranite.</string>
   <string name="ext_media_safe_unmount_notification_title">Varno odstranjevanje shrambe USB</string>
-  <string name="ext_media_unmountable_notification_title">Naprava za shranjevanje %s je poškodovana</string>
-  <string name="ext_media_unmounting_notification_message">Ne odstranite je</string>
+  <string name="ext_media_unmountable_notification_message">USB shramba je poškodovana. Poskusite jo ponovno formatirati.</string>
+  <string name="ext_media_unmountable_notification_title">Poškodovana USB shramba</string>
   <string name="extmedia_format_button_format">Formatiraj</string>
   <string name="extmedia_format_message">Vse shranjene datoteke bodo izbrisane. Tega se ne da obnoviti!</string>
   <string name="extmedia_format_title">Format. USB shrambo?</string>
@@ -1267,7 +1267,6 @@ Znova poskusite čez %d s."</string>
   <string name="roamingTextSearching">Iskanje storitve</string>
   <string name="safeMode">Varni način</string>
   <string name="safe_media_volume_warning">"Ali želite povečati glasnost nad priporočeno raven?
-
 Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="save_password_label">Potrdi</string>
   <string name="save_password_message">Ali želite da si brskalnik zapomni to geslo?</string>
@@ -1439,7 +1438,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="wait">Čakaj</string>
   <string name="wallpaper_binding_label">Ozadje</string>
   <string name="webpage_unresponsive">"Stran se ne odziva.
- 
+
  Ali jo želite zapreti?"</string>
   <string name="websearch">Spletno iskanje</string>
   <string name="webviewchromium_accessibility_content_view">Spletni pogled</string>
@@ -1455,7 +1454,7 @@ Dolgotrajno poslušanje pri veliki glasnosti lahko poškoduje sluh."</string>
   <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
   <string name="webviewchromium_actionbar_share">Daj v skupno rabo</string>
   <string name="webviewchromium_actionbar_web_search">Spletno iskanje</string>
-  <string name="webviewchromium_color_picker_button_black">Črna</string>
+  <string name="webviewchromium_color_picker_button_cancel">Prekliči</string>
   <string name="webviewchromium_color_picker_button_more">Več</string>
   <string name="webviewchromium_color_picker_button_set">Nastavi</string>
   <string name="webviewchromium_color_picker_dialog_title">Izbira barve</string>

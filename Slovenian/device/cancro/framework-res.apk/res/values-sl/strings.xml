@@ -82,7 +82,7 @@ Ali jo želite zapreti?"</string>
 
 Ali ga želite zapreti?"</string>
   <string name="anr_title"/>
-  <string name="app_no_restricted_accounts">Ta aplikacija ne podpira računov za profile z omejitvami</string>
+  <string name="app_not_found">Ne najdem nobene aplikacije za izvedbo te naloge</string>
   <string name="app_running_notification_text">Dotaknite se če želite izvedeti več ali ustaviti aplikacijo.</string>
   <string name="app_running_notification_title">%1$s se izvaja</string>
   <string name="autofill_address_name_separator">" "</string>

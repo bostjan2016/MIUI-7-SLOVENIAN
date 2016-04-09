@@ -887,8 +887,8 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_receiveWapPush">Programu omogoča prejemanje in obdelavo sporočil WAP. S tem lahko program nadzoruje ali izbriše sporočila poslana v napravo, ne da bi vam jih pokazal.</string>
   <string name="permdesc_recordAudio">Programu omogoča snemanje zvoka z mikrofonom. S tem dovoljenjem lahko program kadar koli snema zvok brez vaše potrditve.</string>
   <string name="permdesc_recovery">Omogoča programu interakcijo z sistemom za obnovo in posodobitvijo sistema.</string>
-  <string name="permdesc_register_sim_subscription">Programu omogoča registriranje novih telekomunikacijskih povezav s kartico SIM.</string>
-  <string name="permdesc_removeDrmCertificates">Programu omogoča odstranjevanje potrdil za upravljanje digitalnih pravic. Tega ni treba nikoli uporabiti za navadne programe.</string>
+  <string name="permdesc_removeDrmCertificates">Omogoča programu odstranitev DRM certifikata. Navadni programi tega nikoli ne potrebujejo.</string>
+  <string name="permdesc_removeTasks">Omogoča programu odstranitev nalog in njihovih aplikacij. Zlonamerne aplikacije lahko zmotijo delo drugih aplikacij.</string>
   <string name="permdesc_reorderTasks">Programu omogoča premikanje opravil v ospredje in ozadje. Program lahko to naredi brez vašega nadzora.</string>
   <string name="permdesc_retrieveWindowToken">Programu omogoča branje tokena okna. Zlonamerne aplikacije lahko vstopijo v nepooblaščeno interakcijo z oknom aplikacije.</string>
   <string name="permdesc_retrieve_window_content">Programu omogoča dobivanje vsebine aktivnega okna. Zlonamerne aplikacije lahko dobijo vsebino okna in jo pregledajo vse razen gesel.</string>
@@ -974,7 +974,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
   <string name="permgroupdesc_network">Dostop do različnih funkcij omrežja.</string>
   <string name="permgroupdesc_personalInfo">Neposreden dostop do podatkov o vas, shranjenih v vizitki.</string>
-  <string name="permgroupdesc_phone">Opravljanje in upravljanje telefonskih klicev</string>
+  <string name="permgroupdesc_phoneCalls">Spremljanje, evidenca in obdelava tel. klicev.</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
@@ -1048,7 +1048,7 @@ za račun %s."</string>
   <string name="permlab_backup">nadzor varnostnega kopiranja sistema in obnovitev</string>
   <string name="permlab_batteryStats">branje statističnih podatkov o akumulatorju</string>
   <string name="permlab_bindAccessibilityService">povezovanje s storitvijo za ljudi s posebnimi potrebami</string>
-  <string name="permlab_bindCarrierServices">povezovanje z operaterjevimi storitvami</string>
+  <string name="permlab_bindConditionProviderService">povezovanje z uslugo ponudnika storitev</string>
   <string name="permlab_bindDeviceAdmin">povezovanje s skrbnikom naprave</string>
   <string name="permlab_bindDreamService">povezovanje na Dream</string>
   <string name="permlab_bindGadget">izbiranje pripomočkov</string>
@@ -1075,8 +1075,8 @@ za račun %s."</string>
   <string name="permlab_bluetoothPriv">programu dovoli seznanjanje prek povezave Bluetooth</string>
   <string name="permlab_bodySensors">tipala telesnih funkcij (npr. merilniki srčnega utripa)</string>
   <string name="permlab_brick">trajno onemogočenje telefona</string>
-  <string name="permlab_broadcastNetworkPrivileged">pošiljanje privilegiranih omrežnih oddajanj</string>
-  <string name="permlab_broadcastPackageRemoved">pošiljanje oddaje brez paketa</string>
+  <string name="permlab_broadcastPackageRemoved">pošiljanje paketno odstranjenega prenosa</string>
+  <string name="permlab_broadcastScoreNetworks">pošiljanje prenosa oddajanja omrežja</string>
   <string name="permlab_broadcastSmsReceived">pošiljanje oddaje, prejete prek SMS-a</string>
   <string name="permlab_broadcastSticky">pošiljanje fiksne oddaje</string>
   <string name="permlab_broadcastWapPush">pošiljanje oddaje, prejete s potisnim sporočilom WAP</string>
@@ -1487,7 +1487,7 @@ za račun %s."</string>
   <string name="storage_internal">Notranja shramba</string>
   <string name="storage_sd_card">Kartica SD</string>
   <string name="storage_uicc">UICC shramba</string>
-  <string name="storage_usb_drive">Pogon USB</string>
+  <string name="storage_usb">USB shramba</string>
   <string name="submit">Pošlji</string>
   <string name="sync_binding_label">Sinhronizacija</string>
   <string name="sync_do_nothing">Za zdaj ne naredi ničesar</string>

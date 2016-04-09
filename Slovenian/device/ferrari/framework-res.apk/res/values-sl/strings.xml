@@ -1477,7 +1477,7 @@ Znova poskusite čez %d s."</string>
   <string name="storage_internal">Notranja shramba</string>
   <string name="storage_sd_card">Kartica SD</string>
   <string name="storage_uicc">UICC shramba</string>
-  <string name="storage_usb_drive">Pogon USB</string>
+  <string name="storage_usb">USB shramba</string>
   <string name="submit">Pošlji</string>
   <string name="sync_binding_label">Sinhronizacija</string>
   <string name="sync_do_nothing">Za zdaj ne naredi ničesar</string>

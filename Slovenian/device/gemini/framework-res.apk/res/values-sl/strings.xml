@@ -752,7 +752,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_bindDreamService">Imetniku omogoča povezovanje z vmesnikom storitve sanjarjenja najvišje ravni. Tega ni treba nikoli uporabiti za navadne programe.</string>
   <string name="permdesc_bindNotificationListenerService">Lastniku omogoča povezovanje z vmesnikom storitve poslušalca obvestil najvišje ravni. Tega nikoli ni treba uporabiti za navadne programe.</string>
   <string name="permdesc_bind_connection_service">Omogoča programu povezavo s telefonskimi uslugami za vzpostavljanje in prejemanje klicev.</string>
-  <string name="permdesc_bind_call_service">Omogoča programu upravljanje s prikazom na zaslonu med klicem.</string>
+  <string name="permdesc_bind_incall_service">Omogoča programu urejanje časa in načina kako se uporabniku prikazuje zaslon med klicem.</string>
   <string name="permdesc_bluetooth">Programu omogoča ogled konfiguracije Bluetootha telefona ter ustvarjanje in sprejemanje povezave s seznanjenimi napravami.</string>
   <string name="permdesc_bluetoothAdmin">Programu omogoča konfiguriranje lokalnega telefona s tehnologijo Bluetooth ter odkrivanje oddaljenih naprav in povezovanje z njimi.</string>
   <string name="permdesc_bodySensors">Programu omogoča dostop do podatkov tipal ki nadzirajo vaše fizično stanje, med drugim vaš srčni utrip.</string>
@@ -813,7 +813,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_sendSms">Programu omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerni programi lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
   <string name="permdesc_setAlarm">Programu omogoča nastavitev alarma v nameščenem programu budilke. Nekateri programi budilke morda nimajo te funkcije.</string>
   <string name="permdesc_setInputCalibration">Programu dovoli spreminjanje parametrov za umerjanje zaslona na dotik. Tega ni treba nikoli uporabiti za navadne programe.</string>
-  <string name="permdesc_setTime">Programu dovoljuje spreminjanje ure telefona.</string>
+  <string name="permdesc_setTimeZone">Programu omogoča spremembo časovnega pasu na telefonu.</string>
   <string name="permdesc_setWallpaper">Programu omogoča nastavitev ozadja sistema.</string>
   <string name="permdesc_setWallpaperHints">Programu omogoča nastavitev namigov o velikosti ozadja sistema.</string>
   <string name="permdesc_sim_communication">Programu dovoli pošiljanje ukazov kartici SIM. To je lahko zelo nevarno.</string>
@@ -934,7 +934,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_sendSms">pošiljanje in ogled sporočil SMS</string>
   <string name="permlab_setAlarm">nastavitev alarma</string>
   <string name="permlab_setInputCalibration">sprememba umerjanja vhodne naprave</string>
-  <string name="permlab_setTime">nastavljanje ure</string>
+  <string name="permlab_setTimeZone">nastavljanje časovnega pasu</string>
   <string name="permlab_setWallpaper">nastavljanje ozadja</string>
   <string name="permlab_setWallpaperHints">prilagajanje velikosti slike za ozadje</string>
   <string name="permlab_sim_communication">komuniciranje s kartico SIM</string>
@@ -1182,7 +1182,7 @@ Znova poskusite čez %d s."</string>
   <string name="storage_internal">Notranja shramba</string>
   <string name="storage_sd_card">Kartica SD</string>
   <string name="storage_sd_card_label">Kartica SD %s</string>
-  <string name="storage_uicc">UICC shramba</string>
+  <string name="storage_usb">USB shramba</string>
   <string name="storage_usb_drive">Pogon USB</string>
   <string name="storage_usb_drive_label">%s USB pogon</string>
   <string name="submit">Pošlji</string>
