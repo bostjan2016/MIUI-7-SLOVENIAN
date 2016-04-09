@@ -203,8 +203,8 @@
      <string name="choose_some_people">Izberite album s %s</string>
   <string name="click_download_gif">Tapnite za prenos GIF-a</string>
   <string name="cleaning_cache">Brisanje predspomina…</string>
-     <string name="clear_thumbnail_cache_confirm">Vse slike predpomnjene v Galeriji bodo izbrisane.</string>
-     <string name="clear_thumbnail_cache_summary">Izbriši slike predpomnjene v Galeriji</string>
+  <string name="clear_thumbnail_cache">Izbriši predspomin miniatur</string>
+  <string name="clear_thumbnail_cache_confirm">Ves predspomin miniatur v Galeriji bo izbrisan.</string>
   <string name="clear_thumbnail_cache_summary">Brisanje miniatur predspomina v Galeriji</string>
      <string name="click_to_add_picture">Tapnite da dodate slike</string>
      <string name="click_top_right">Tapnite to ikono</string>
@@ -633,7 +633,7 @@ naprave"</string>
   <string name="open_single_image_failure">"Ne morem prebrati slike"</string>
   <string name="open_sync_title">Sinhr. z Mi Cloud</string>
   <string name="operation_add_picture">Dodaj slike</string>
-     <string name="operation_add_secret_button">Skrij</string>
+  <string name="operation_add_secret">Skrij.</string>
      <string name="operation_delete">Izbriši</string>
      <string name="operation_detail">Podrobnosti</string>
      <string name="operation_disable_auto_upload">Onemogoči sam. Var. kopijo</string>
