@@ -47,12 +47,12 @@
         <item>Lokacija</item>
         <item>Lokacija</item>
         <item>Vibriranje</item>
-        <item>Branje kontaktov</item>
-        <item>Izmjena kontaktov</item>
+        <item>Branje stikov</item>
+        <item>Zamenjava stikov</item>
         <item>Branje seznama klicev</item>
         <item>Spreminjanje seznama klicev</item>
         <item>Branje koledarja</item>
-        <item>Izmjena koledarja</item>
+        <item>Spreminjanje koledarja</item>
         <item>Lokacija</item>
         <item>Objavljanje obvestil</item>
         <item>Lokacija</item>
@@ -100,7 +100,7 @@
         <item>Spremeni Nfc</item>
         <item>Izbriši SMS</item>
         <item>Izbriši MMS</item>
-        <item>Izbriši kontakte</item>
+        <item>Izbriši stike</item>
         <item>Izbriši seznam klicev</item>
         <item>Spremeni podatke</item>
      </string-array>
@@ -114,8 +114,8 @@
         <item>natančna lokacija</item>
         <item>gps</item>
         <item>vibriranje</item>
-        <item>branje kontaktov</item>
-        <item>pisanje kontaktov</item>
+        <item>branje stikov</item>
+        <item>pisanje stikov</item>
         <item>branje seznama klicev</item>
         <item>pisanje seznama klicev</item>
         <item>branje koledarja</item>
@@ -158,7 +158,7 @@
         <item>toast okna</item>
         <item>projekcija medijev</item>
         <item>aktiviraj VPN</item>
-        <item>spreminjanje wifi-ja</item>
+        <item>spreminjanje Wifi-ja</item>
         <item>spreminjanje bluetootha</item>
         <item>pošiljanje MMS-a</item>
         <item>branje MMS-a</item>
@@ -167,7 +167,7 @@
         <item>spreminjanje nfc-a</item>
         <item>brisanje SMS-a</item>
         <item>brisanje MMS-a</item>
-        <item>brisanje kontaktov</item>
+        <item>brisanje stikov</item>
         <item>brisanje seznama klicev</item>
         <item>sprememba podatkov</item>
      </string-array>
@@ -211,7 +211,7 @@
      </string-array>
      <string-array name="captioning_edge_type_selector_titles">
         <item>Privzeto</item>
-        <item>Niča</item>
+        <item>Nič</item>
         <item>Obris</item>
         <item>Senca</item>
         <item>Dvignjeno</item>
@@ -261,7 +261,7 @@
         <item>Geslo</item>
      </string-array>
      <string-array name="color_picker">
-        <item>Turkiznomodra</item>
+        <item>Turkizno modra</item>
         <item>Modra</item>
         <item>Indigo</item>
         <item>Vijoličasta</item>
@@ -303,7 +303,7 @@
         <item>Normalen</item>
         <item>Srednji</item>
         <item>Velik</item>
-        <item>Ogromae</item>
+        <item>Ogromen</item>
         <item>Godzilla</item>
      </string-array>
      <string-array name="entries_zen_mode">
@@ -313,7 +313,7 @@
      </string-array>
      <string-array name="fluency_mode_confirms">
         <item>Ponovno zaženem za uporabo te funkcije?</item>
-        <item>Ponovno zagnati napravo za uporabo te funkcije?</item>
+        <item>Ponovno zaženem napravo za uporabo te funkcije?</item>
      </string-array>
      <string-array name="fluency_mode_entries">
         <item>Skrij animacije sistema</item>
@@ -417,13 +417,13 @@
         <item>XXXL</item>
      </string-array>
      <string-array name="msd_pc_system">
-        <item>Windows XP in starijši</item>
+        <item>Windows XP in starejši</item>
         <item>Windows Vista,7,8</item>
         <item>OSX</item>
         <item>Linux</item>
      </string-array>
      <string-array name="msd_pc_system_install_summary">
-        <item>"2.Sledite navodila na zaslonu"</item>
+        <item>"2.Sledite navodilom na zaslonu"</item>
         <item></item>
         <item></item>
         <item></item>
@@ -452,7 +452,7 @@
         <item>1080 p (varno)</item>
         <item>4000</item>
         <item>4000 (varno)</item>
-        <item>4000 (povečanje razlučivosti)</item>
+        <item>4000 (povečanje razločnosti)</item>
         <item>4000 (poveč. razl., varno)</item>
         <item>720 p, 1080 p (dvojni zaslon)</item>
      </string-array>
@@ -510,7 +510,7 @@
         <item>Hiša</item>
         <item>Zadnja aktivnost</item>
         <item>Predpomnilnik (aktivnost)</item>
-        <item>Predpomnilnik (klient aktivnosti)</item>
+        <item>Predpomnilnik (uporabnik aktivnosti)</item>
         <item>Predpomnilnik (prazna)</item>
      </string-array>
      <string-array name="ram_states">
@@ -617,7 +617,7 @@
      </string-array>
      <string-array name="timezone_filters">
         <item>Amerika</item>
-        <item>Europa</item>
+        <item>Evropa</item>
         <item>Afrika</item>
         <item>Azija</item>
         <item>Avstralija</item>
@@ -665,7 +665,7 @@
      </string-array>
      <string-array name="usage_stats_display_order_types">
         <item>Čas uporabe</item>
-        <item>Zadnji put uporabljeno</item>
+        <item>Zadnjič uporabljeno</item>
         <item>Ime aplikacije</item>
      </string-array>
      <string-array name="usb_connection_mode_entries">
@@ -753,7 +753,7 @@
         <item>GTC</item>
      </string-array>
      <string-array name="wifi_proxy_settings">
-        <item>Niča</item>
+        <item>Nič</item>
         <item>Ročno</item>
         <item>Proxy Auto-Config</item>
      </string-array>
