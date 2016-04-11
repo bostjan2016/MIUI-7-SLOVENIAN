@@ -1,156 +1,132 @@
-<?xml version="1.0" encoding="utf-8" ?> 
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-        <string-array name="running_months">
-        <item>Januar</item> 
-        <item>Februar</item> 
-        <item>Marec</item> 
-        <item>April</item> 
+    <string-array name="months">
+        <item>Jan</item> 
+        <item>Feb</item> 
+        <item>Mar</item> 
+        <item>Apr</item> 
         <item>Maj</item> 
-        <item>Junij</item> 
-        <item>julij</item> 
-        <item>Avgust</item> 
-        <item>September</item> 
-        <item>Oktober</item> 
-        <item>November</item> 
-        <item>December</item> 
+        <item>Jun</item> 
+        <item>Jul</item> 
+        <item>Avg</item> 
+        <item>Sep</item> 
+        <item>Okt</item> 
+        <item>Nov</item> 
+        <item>Dec</item> 
     </string-array>
-    <string-array name="health_link_title">
-        <item>1. 24-hour emergency response</item>
-        <item>2. Emergency proposal</item>
-        <item>3. Help arrange emergency vehicles</item>
-        <item>4. Assist the dangerous condition report</item>
-        <item>5. Contact the families</item>
-        <item>6. Emergency Hospital Available</item>
-        <item>7. Hospitalization guide</item>
-    </string-array>
-    <string-array name="health_link_content">
-        <item>Health care professionals 24 hours, the bilingual provision of emergency assistance, 7x24 hours, 365 days year round.</item>
-        <item>In the user informed of the real situation, the AU will provide far Platinum ten minutes of "self" or "mutual aid" emergency proposal by telephone.</item>
-        <item>Far League call center call and immediately call the local emergency center telephone ("120" or "999"), the establishment of three-way calling, by the user to the emergency center readme Chuxian location tracking ambulance rescue process.</item>
-        <item>Assist the user in the event of an accident report to the authorities.</item>
-        <item>Notify family members or emergency contact person according to the user wishes and provide contact information.</item>
-        <item>Without prejudice to the "anxious, nearby, on the condition on patients and their families will" under the principles of first aid, first aid can be implemented far-Union Medical Hospital to user referrals, ultimately decided by the user, or according to the actual situation by emergency vehicles the doctor ordered.</item>
-        <item>Guidance hospitalization procedure, hospitalization precautions advice.</item>
+    <string-array name="running_months">
+        <item>Jan</item> 
+        <item>Feb</item> 
+        <item>Mar</item> 
+        <item>Apr</item> 
+        <item>Maj</item> 
+        <item>Jun</item> 
+        <item>Jul</item> 
+        <item>Avg</item> 
+        <item>Sep</item> 
+        <item>Okt</item> 
+        <item>Nov</item> 
+        <item>Dec</item> 
     </string-array>
     <string-array name="weeks">
-        <item>Po.</item> 
-        <item>To.</item> 
-        <item>Sr.</item> 
-        <item>Če.</item> 
-        <item>Pe.</item> 
-        <item>So.</item> 
-        <item>Ne.</item> 
+        <item>Ponedeljek</item> 
+        <item>Torek</item> 
+        <item>Sreda</item> 
+        <item>Četrtek</item> 
+        <item>Petek</item> 
+        <item>Sobota</item> 
+        <item>Nedelja</item> 
     </string-array>
     <string-array name="weeks_short">
-        <item>Po.</item> 
-        <item>To.</item> 
-        <item>Sr.</item> 
-        <item>Če.</item> 
-        <item>Pe.</item> 
-        <item>So.</item> 
-        <item>Ne.</item> 
-    </string-array>
-    <string-array name="months">
-        <item>Januar</item> 
-        <item>Februar</item> 
-        <item>Marec</item> 
-        <item>April</item> 
-        <item>Maj</item> 
-        <item>Junij</item> 
-        <item>Julij</item> 
-        <item>Avgust</item> 
-        <item>September</item> 
-        <item>Oktober</item> 
-        <item>November</item> 
-        <item>December</item> 
-     </string-array>
-    <string-array name="select_days_simple">
-        <item>Enkrat</item>
-        <item>Vsakodnevno</item>
-        <item>Od Po. do Pe.</item>
-        <item>Prilagojeno</item>
-    </string-array>
-    <string-array name="fortune">
-        <item>Ne obstaja zamenjava za doslednost.</item>
-        <item>Težite k napredku, ne pa k popolnosti.</item>
-        <item>Ponavljanje je ključ uspeha.</item>
-        <item>Energija in upornost osvajajo vse stvari.</item>
-        <item>"Svet ni nastal v enem dnevu, kakor tudi ne mi. Postavite majhne  cilje in gradite na njih."</item>
-        <item>Vsako potovanje se začne s prvim korakom.</item>
-        <item>Izpolnite en cilj dnevno.</item>
-        <item>"Ne glede na to kako ste počasni, še vedno ste hitrejši od vseh, ki ležijo na kavču."</item>
-        <item>Tečite ko lahko. Sprehajajte se če je potrebno. Plazite če morate. Samo nikoli na obupajte.</item>
-        <item>Zapomnite si. Občutek, ki ga dobite zaradi dobre telovadbe je daleč boljši, kot občutek če sedite in si želite telovaditi.</item>
-    </string-array>
-      <string-array name="weather_aqi_descriptions">
-        <item>Odlično</item>
-        <item>Dobro</item>
-        <item>Zmerno</item>
-        <item>Pozor</item>
-        <item>Nezdravo</item>
-        <item>Zelo nezdravo</item>
-    </string-array>
-    <string-array name="weight_test_unit">
-        <item>Kg</item>
-        <item>jin</item>
-        <item>Funtov</item>
+        <item>Pon</item> 
+        <item>Tor</item> 
+        <item>Sre</item> 
+        <item>Čet</item> 
+        <item>Pet</item> 
+        <item>Sob</item> 
+        <item>Ned</item> 
     </string-array>
     <string-array name="weight_body_figures">
-        <item>Premajhna</item>
-        <item>Normalna</item>
-        <item>Povečana</item>
-        <item>Debel</item>
+        <item>Podhranjen</item>
+        <item>Zdravo</item>
+        <item>Zmer. debel</item>
         <item>Zelo debel</item>
     </string-array>
     <string-array name="weight_body_figures_for_child">
-         <item>Premajhna</item>
-        <item>Normalna</item>
-        <item>Povečana</item>
+        <item>Normalno</item>
         <item>Debel</item>
         <item>Zelo debel</item>
     </string-array>
-    <string-array name="weight_dynamic_list_bmi_tips">
-        <item>BMI Kategorija: Podhranjen</item>
-        <item>BMI Kategorija: Normalna teža</item>
-        <item>BMI Kategorija: Povečana teža</item>
-        <item>BMI Kategorija: Debelost</item>
+    <string-array name="weight_unit">
+        <item>" kg"</item>
+        <item>" jin"</item>
+        <item>" lbs"</item>
     </string-array>
-    <string-array name="weight_report_suggestions_boy">
-        <item>Postavite cilj da vam pomaga pri uravnavanju vaše teže</item>
-        <item>Čestitamo! Vi imate primerno težo.</item>
-        <item>Vi ste pod svojo željeno težo</item>
-        <item>Vi ste nad svoje željeno težo</item>
+    <string-array name="hr_sport">
+        <item>Ni aktivnosti</item>
+        <item>Lahka</item>
+        <item>Aerobna</item>
+        <item>Težka</item>
     </string-array>
-    <string-array name="weight_report_suggestions_girl">
-        <item>Postavite cilj da vam pomaga pri uravnavanju vaše teže</item>
-        <item>Čestitamo! Vi imate primerno težo.</item>
-        <item>Vi ste pod svojo željeno težo</item>
-        <item>Vi ste nad svoje željeno težo</item>
+    <string-array name="mili_help_tips">
+        <item>"Preverite ali je Mi Band napolnjen in da baterija ni ostala brez energije"</item>
+        <item>Najprej izključite Bluetooth, nato seznanite s trenutno napravo</item>
+        <item>"Če je baterija Mi Banda napolnjena, telefon ga pa ne vidi, poskusite izkl/vkl Bluetooth"</item>
+        <item>"Če izkl/vkl Bluetootha ne riješi težave, poskusite ponovno zagnati telefon"</item>
     </string-array>
-    <string-array name="weight_report_result_without_goal">
-        <item>Presegli ste svoj cilj</item>
-        <item>"Niste dosegli svoj cilj"</item>
-        <item>Dosegli ste svoj cilj!</item>
+    <string-array name="mili_help_title">
+        <item>Ali je baterija Mi Banda napolnjena?</item>
+        <item>Ali je Mi Band seznanjen z drugo napravo?</item>
+        <item>Poskusite iskl/vkl Bluetooth</item>
+        <item>Poskusite ponovno zagnati telefon</item>
     </string-array>
-    <string-array name="weight_report_result_with_goal_gainweight">
-        <item>"Niste še dosegli svoj cilj"</item>
-        <item>"Niste še dosegli svoj cilj"</item>
-        <item>"Niste še dosegli svoj cilj"</item>
-        <item>Dosegli ste svoj cilj (%1$s%2$s)!</item>
+    <string-array name="mili_pro_display_items">
+        <item>Čas</item>
+        <item>Število korakov</item>
+        <item>Km</item>
+        <item>Temp</item>
+        <item>Štev. utripov srca</item>
     </string-array>
-    <string-array name="weight_report_result_with_goal_loseweight">
-        <item>"Niste še dosegli svoj cilj"</item>
-        <item>"Niste še dosegli svoj cilj"</item>
-        <item>"Niste še dosegli svoj cilj"</item>
-        <item>Dosegli ste svoj cilj (%1$s%2$s)!</item>
+    <string-array name="shoes_help_tips">
+        <item>"If you don't use Huami sensor for a long time, it goes to sleep Try to shake it"</item>
+        <item>"Huami sensor battery life is 1 year If you've been using it for a longer period, maybe there's no power left"</item>
+        <item>Najprej izključite Bluetooth, nato seznanite s trenutno napravo</item>
+        <item>Ponovno poskusite zagnati telefon in nato seznanite Mi Band</item>
+        <item>"Če izkl/vkl Bluetootha ne riješi težavo, ponovno poskusite zagmati telefon"</item>
+        <item>Every time you open Mi Fit it will try to sync data automatically</item>
     </string-array>
-    <string-array name="phone_notify_tips">
-        <item>Zavibriraj Mi Band ko ima seznanjena naprava dohodni klic</item>
-        <item>Zavibriraj Mi Band v času alarma na seznanjeni napravi</item>
-        <item>Zavibriraj Mi Band pri dohodnem SMS sporočilu na sezanjeni napravi</item>
+    <string-array name="shoes_help_title">
+        <item>Potresite Huami senzor</item>
+        <item>Ali je Huami senzor napolnjen?</item>
+        <item>Ali je Huami senzor seznanjen z drugo napravo?</item>
+        <item>Poskusite izkl/vkl Bluetooth</item>
+        <item>Ponovno poskusite zagnati telefon</item>
+        <item>Kako sinhr. podatke superg?</item>
     </string-array>
-    <string-array name="contacts_notify_title">
-        <item>Samo za klice iz stikov</item>
-        <item>Samo za SMS iz stikov</item>
-     </string-array>
+    <string-array name="unbind_device_description">
+        <item>Mi Band</item>
+        <item>Mi Tehtnica</item>
+        <item>Superge</item>
+    </string-array>
+    <string-array name="weight_body_figures_for_not_chinese">
+        <item>Podhranjen</item>
+        <item>Normalen</item>
+        <item>Zmerno debel</item>
+        <item>Debel</item>
+        <item>Zelo debel</item>
+    </string-array>
+    <string-array name="weight_help_tips">
+        <item>Lahko stopite na tehtnico da preverite vašo težo. Če je prikazana ikona baterije, zamenjajte baterije</item>
+        <item>"Če tehtnica ne dela ko stopite nanjo, preverite ali so baterije pravilno vstavljene"</item>
+        <item>"Če je baterija polna a je telefon še vedno ne najde, poskusite izkl/vkl Bluetooth"</item>
+        <item>"Če izkl/vkl Bluetootha ne reši težavo, poskusite ponovno zagnati telefon"</item>
+        <item>Vedno ko odprete Mi Fit bo poskušal samodejno sinhronizirati podatke</item>
+    </string-array>
+    <string-array name="weight_help_title">
+        <item>Ali je dovolj preostale energije?</item>
+        <item>Ali so baterije pravilno vstavljene?</item>
+        <item>Poskusite izkl/vkl Bluetooth</item>
+        <item>Poskusite ponovno zagnati telefon</item>
+        <item>Kako sinhr. podatke Mi Tehtnice?</item>
+    </string-array>
 </resources>
