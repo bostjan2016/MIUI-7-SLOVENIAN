@@ -50,6 +50,14 @@
         <item quantity="other">Odstranim %d skladbe?</item>
         <item quantity="one">Odstranim %d skladbo?</item>
     </plurals>
+	     <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\">%d pesmi&lt;/font> prenešeno</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenešena</item>
+     </plurals>
+     <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\">%d pesmi se&lt;/font> prenašajo</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem se&lt;/font> prenaša</item>
+     </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Na seznam je dodano (%d) skladb</item>
         <item quantity="one">Na seznam dodana ena skladba</item>

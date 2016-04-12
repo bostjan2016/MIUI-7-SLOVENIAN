@@ -18,7 +18,10 @@
      <string name="accessibility_time_picker_minute">Minuta</string>
      <string name="accessibility_time_picker_second">Sekunda</string>
      <string name="account_prifix">Račun:</string>
-     <string name="action">Vpis</string>
+     <string name="action">Vpis</string>	
+	 <string name="action_menu_account_not_login">Niste prijavljeni</string>
+     <string name="action_menu_account_not_login_hint">Uporabi Cloud nastavitve pri prijavi</string>
+     <string name="action_menu_bookshelf">Polica za knjige</string>
      <string name="action_menu_current_version">Trenutna verzija</string>
      <string name="action_menu_text_add_bookmark">Dodaj oznako</string>
      <string name="action_menu_text_bandwidth">Varčevanje s podatki</string>
@@ -37,9 +40,12 @@
      <string name="action_menu_text_nightmode_on">Nočni način on</string>
      <string name="action_menu_text_refresh">Osveži</string>
      <string name="action_menu_text_setting">Nastavitve</string>
-     <string name="action_menu_text_share">Deli</string>
+	 <string name="action_menu_text_share">Deli</string>
      <string name="action_menu_text_snapshot">Shrani stran</string>
      <string name="action_menu_text_video">Video</string>
+	 <string name="action_menu_toolbox">Toolbox</string>
+     <string name="action_menu_useful_page">Dodaj koristno</string>
+     <string name="action_menu_useful_page_added">Koristno dodano</string>
      <string name="actionbar_share">Deli</string>
      <string name="actionbar_web_search">Spletno iskanje</string>
      <string name="adblock_notification">%d oglasov blokiranih</string>
@@ -138,13 +144,15 @@
      <string name="color_picker_button_magenta">Magenta</string>
      <string name="color_picker_button_more">Več</string>
      <string name="color_picker_button_red">Rdeča</string>
-     <string name="color_picker_button_set">Nastavi</string>
+     <string name="color_picker_button_set">Nastavi</string>	 
      <string name="color_picker_button_white">Bela</string>
      <string name="color_picker_button_yellow">Rumena</string>
      <string name="color_picker_dialog_title">Izberi barvo</string>
      <string name="color_picker_hue">Odtenek</string>
      <string name="color_picker_saturation">Saturacija</string>
      <string name="color_picker_value">Vrednost</string>
+	 <string name="comment_app_menu">komentar</string>
+     <string name="comment_menu">komentar</string>
      <string name="common_use_phrase_bottom_bar_cn_txt">.sl</string>
      <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
      <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
@@ -180,6 +188,10 @@
      <string name="current_version_pad">Pad</string>
      <string name="current_version_pc">Namizje</string>
      <string name="current_version_phone">Telefon</string>
+	 <string name="custom_head_card_text">"Vedno verjamite da se bo nekaj
+lepega zgodilo"</string>
+     <string name="custom_head_card_text_incognito">"Samo Bog in vi poznate to 
+zasebnost​"</string>
      <string name="data_traffic_prompt_change">Uporaba podatkovne povezave za gledanje videov bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
      <string name="data_traffic_prompt_message">Uporaba podatkovne povezave za iskanje po spletu bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
      <string name="data_traffic_prompt_title">Opozorilo porabe podatkov</string>
@@ -318,6 +330,7 @@
      <string name="license_activity_title">Sistem WebView dovoljenje</string>
      <string name="loading_tips">Podrsaj navzdol za osvežitev</string>
      <string name="local_bookmarks">Mi</string>
+	 <string name="login_failed_toast">Ne morem se prijaviti, osvežite.</string>
      <string name="low_memory_error">Ni dovolj pomnilnika za to opravilo</string>
      <string name="max_tabs_warning">Ne morem odpreti več zavihkov</string>
      <string name="maximum_input_alert">Maksimalni vhod je 2048 znakov</string>
@@ -580,6 +593,7 @@
      <string name="remove_history_item">Odstrani iz zgodovine</string>
      <string name="remove_snapshot">Izbriši shranjeno stran</string>
      <string name="removed_from_bookmarks">Odstranjeno iz zaznamkov</string>
+	 <string name="reply_comment_title">Odgovor: %s</string>
      <string name="resume_download">Prenos</string>
      <string name="retry_after_network_available">"Ne morem se povezati na omrežje"</string>
      <string name="retry_download">Poskusi ponovno</string>
@@ -634,6 +648,8 @@
      <string name="security_warnings_confirm_message">Izklop te funkcije lahko povzroči varnostne probleme.</string>
      <string name="select_dot">Izberi tekst</string>
      <string name="select_download_device">Izberi napravo</string>
+	 <string name="send_comment_button">Pošlji</string>
+     <string name="send_comment_title">komentar</string>
      <string name="share_page_text">【%1$s】 | %2$s</string>
      <string name="show_check_security_url_check_tip_dialog_description">Ta URL naslov bo poslan na Xiaomi strežnike da se preveri če je varen.</string>
      <string name="show_check_security_url_check_tip_dialog_title">Preveri varnost URL naslova</string>

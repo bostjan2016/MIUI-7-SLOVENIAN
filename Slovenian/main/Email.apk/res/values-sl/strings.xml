@@ -238,7 +238,8 @@
      <string name="archived">Arhivirano</string>
      <string name="att_download_failed_content">Priponke tega sporočila ni bilo mogoče prenesti</string>
      <string name="att_download_failed_network_slow">Omrežje je počasno, poskusite prenesti kasneje</string>
-     <string name="att_download_failed_title">Priponke ni mogoče prenesti</string>
+     <string name="att_download_failed_permission_denied">"Nimate dovoljenja za dostop do zunanje shrambe"</string>
+	 <string name="att_download_failed_title">Priponke ni mogoče prenesti</string>	 
      <string name="att_file_not_exists">Datoteka %s ni najdena!</string>
      <string name="att_mgr_no_attachment">Ni priponk.</string>
      <string name="att_mgr_title_order_mime">Format</string>
@@ -452,6 +453,7 @@
      <string name="download_failed">Ni bilo mogoče prenesti. Tapni za ponovni poskus.</string>
      <string name="download_message_failed_for_too_large">Sporočilo je preveliko.</string>
      <string name="download_show_image">Prenesi in odpri sliko</string>
+	 <string name="download_whole_email">Prenesi preostalo vsebino</string>
      <string name="downloading_message_body">Prenašam...</string>
      <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Zapri predal za navigacijo</string>
@@ -482,6 +484,8 @@
      <string name="feedback">Pošlji povratne informacije</string>
      <string name="feedback_body">Sporočilo</string>
      <string name="feedback_sent">Hvala za vaše povratne informacije</string>
+	 <string name="feedback_user_edit_hint">Tu opišite težavo. Ko pregledamo težavo vam bomo poslali e-mail.</string>
+     <string name="feedback_user_edit_tag">Od MIUI </string>
      <string name="fetching_attachment">Pridobivam priponke</string>
      <string name="file_deleted_success">Datoteka izbrisana</string>
      <string name="file_not_found">Datoteke ni bilo mogoče najti</string>
@@ -621,6 +625,7 @@
   <string name="mail_header_message_body_download_failed">Prenos vsebine e-pošte ni uspel</string>
      <string name="mail_header_network_not_available">Povezava ni vzpostavljena.</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinirani račun</string>
+     <string name="mailbox_name_display_ad">Oglasi &amp; obvestila</string>
      <string name="mailbox_name_display_drafts">Osnutki</string>
      <string name="mailbox_name_display_inbox">Prejeto</string>
      <string name="mailbox_name_display_junk">Vsiljena pošta</string>
@@ -686,14 +691,12 @@
      <string name="message_body_auto_download_tip">Vaše sporočilo bo samodejno prenešeno ko boste povezani z omrežjem Wi-Fi.</string>
      <string name="message_body_download_failed">E-pošte ni bilo mogoče prenesti. Povezava je potekla.</string>
      <string name="message_body_loading">[ Nalagam... ]</string>
-  <string name="message_compose_fwd_header_fmt">"
-     
+  <string name="message_compose_fwd_header_fmt">"     
      -------- Originalno sporočilo -------- 
      Predmet: %1$s 
      Od: %2$s 
      Za: %3$s 
      Kopija: %4$s
-
      "</string>
      <string name="message_compose_insert_quick_response_list_title">Vstavi hitri odgovor</string>
      <string name="message_compose_insert_quick_response_menu_title">Vstavi hitri odgovor</string>
@@ -1015,7 +1018,7 @@
      <string name="shortcut_name_title">Imenuj bližnjico mape</string>
      <string name="show_elided">▶ Prikaži citirano besedilo</string>
      <string name="show_images">Prenesi in prikaži slike</string>
-  <string name="show_n_more_folders">Prikaži še map (%1$s)</string>
+  <string name="show_n_more_folders">Prikaži več map (%1$s)</string>
   <string name="signature">"
 
 

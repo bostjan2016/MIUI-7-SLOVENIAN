@@ -1042,6 +1042,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="suffix_virus_count_bottom">Skupno</string>
      <string name="suffix_virus_count_top">Tveganja</string>
      <string name="suggest_app_tolock">Predlogi</string>
+	 <string name="summary_app_lock_disable">Zaklenite aplikacije da zaščitite svojo zasebnost</string>
      <string name="summary_cleaner_cloudscan">Naloži in primerjaj imena map s spletnimi opredelitvami</string>
      <string name="summary_cloud_account">Dobiti največ iz vaše Mi naprave</string>
      <string name="summary_cloud_service">Sinhroniziraj fotografije, imenik in ostalo v vseh vaših naprave</string>
@@ -1163,6 +1164,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="timeshow_s">%dsek</string>
      <string name="tips_dialog_title">"Ne poznate svoje omejitve"</string>
      <string name="tips_message">"Za prikaz podrobnosti vaše omejitve izberite %2$s (%1$s) (Samo Kitajska)"</string>
+	 <string name="title_app_lock_disable">Zaklj. aplikacija</string>
      <string name="title_app_update">Dostopne posodobitve</string>
      <string name="title_cleaner_cloudscan">Naložite imena map</string>
      <string name="title_cloud_account">Mi Račun</string>
