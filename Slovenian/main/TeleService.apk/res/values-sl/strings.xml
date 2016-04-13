@@ -979,18 +979,22 @@
      <string name="phone_numbers">Vnesi Telefonsko Številko</string>
      <string name="pick_outgoing_call_phone_type">Vzpostavi klic</string>
      <string name="pick_outgoing_sip_phone">Uporabi internetni klicni račun</string>
-     <string name="pin2_attempts">"Imate še toliko preostalih poskusov: %d."</string>
+     <string name="pin2_attempts">"
+Imate še toliko preostalih poskusov: %d."</string>
      <string name="pin2_changed">Koda PIN 2 je posodobljena</string>
      <string name="pin2_error_exception">Napaka omrežja ali kartice SIM</string>
      <string name="pin2_invalid">FDN ni bil posodobljen, ker ste vnesli napačen PIN.</string>
      <string name="pin2_invalid_or_name_is_too_long">Vnesli ste neveljavni PIN ali pa je ime, ki ste ga vnesli predolgo.</string>
-     <string name="pin2_lock_warning">Funkcije povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu.</string>
+     <string name="pin2_lock_warning">"
+Funkcije povezane s PIN2 bodo zaklenjene po ponovnem napačnem vnosu."</string>
      <string name="pin2_or_fdn_invalid">FDN ni bil posodobljen. Koda PIN2 je bila napačna ali pa je bila telefonska številka zavrnjena.</string>
      <string name="pin2_unblocked">Koda PIN 2 ni več blokirana</string>
-     <string name="pin_attempts">%d preostalih poskusov</string>
+     <string name="pin_attempts">"
+%d preostalih poskusov"</string>
      <string name="pin_changed">Uspešno spremenjen PIN SIM kartice.</string>
      <string name="pin_failed">PIN, ki ste ga vnesli je napačen</string>
-     <string name="pin_lock_warning">Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu</string>
+     <string name="pin_lock_warning">"
+Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="pin_progress_change_pin">Spreminjam PIN...</string>
      <string name="pin_progress_change_pin2">Spreminjam PIN2...</string>
      <string name="pin_progress_set_fdn_lock">Nastavljam FDN zaklenjeno stanje...</string>
@@ -1103,7 +1107,8 @@
      <string name="puk2_label">Vnesi PUK2 kodo</string>
      <string name="puk2_requested">Geslo je napačno. Kartica SIM je zaklenjena. Vnesite kodo PUK 2.</string>
      <string name="puk_label">Vnesi PUK kodo</string>
-     <string name="puk_lock_warning">Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
+     <string name="puk_lock_warning">
+Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="puk_requested">Geslo je nepravilno, PIN je bil blokiran. Zahtevan PUK.</string>
      <string name="puk_unlock_failed">Neuspešno odklepanje PUK</string>
      <string name="puk_unlock_success">Uspešno odklepanje PUK</string>
@@ -1115,11 +1120,11 @@
      <string name="purchase_limit">Dosegli ste omejitev doplačila</string>
      <string name="purchase_list">Zgodovina nakupov</string>
      <string name="purchase_notes">Opomba: Lahko se uporablja za mednarodne klice. Znesek plačila za 1 min mednarodnega klica je enak znesek za 6 min v domačem omrežju.</string>
+  <string name="purchase_primary">Purchase</string>
+  <string name="purchase_summary">Save up to 70% on your calling charges</string>
      <string name="purchase_notification">"Zgoraj navedene cene su za domače klice. Za mednarodne klice preverite "</string>
      <string name="purchase_notification_title">Preverite podprte regije</string>
-     <string name="purchase_primary">Kupiti</string>
      <string name="purchase_rates_title">Cenik</string>
-     <string name="purchase_summary">Prihranite do 70% klicnih stroškov</string>
      <string name="query">Povpraševanje</string>
      <string name="quickly_verify">Preveri</string>
      <string name="radio_off_error">Vklopite radio preden pogledate te nastavitve.</string>
@@ -1204,6 +1209,8 @@
      <string name="roaming_alert_title">Želite dovoliti podatkovno gostovanje?</string>
      <string name="roaming_disable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
      <string name="roaming_enable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
+  <string name="roaming_notification_content">Lahko dodate klicno številko države avtomatsko da napravite izbiranje klicev hitrejše.</string>
+  <string name="roaming_notification_title">Kaže da je roaming aktiviran</string>
      <string name="roaming_reenable_message">Izgubili ste podatkovno povezavo, ker ste zapustili domače omrežje z izklopljenim podatkovnim gostovanjem.</string>
      <string name="roaming_warning">Dovoli podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
      <string name="rsp_unlock_failed">RUIM zahtevek odklepa ponudnika storitev neuspešen.</string>
@@ -1339,6 +1346,8 @@
      <string name="telocation_contacts_countrycode">Privzeta koda države</string>
      <string name="telocation_contacts_countrycode_hint">Vnesi kodo države</string>
      <string name="telocation_contacts_countrycode_summary">Privzeta koda države za stike je %s</string>
+  <string name="telocation_country_code_enabled_message">Dodaj klicno številko države avtomatsko da napravite izbiranje klicev v roamingu lažje.</string>
+  <string name="telocation_country_code_enabled_title">Dodaj klicno številko države pri izbiranju</string>
      <string name="telocation_countrycode_alert_message">Vnesi telefonsko številko brez kode države</string>
      <string name="telocation_countrycode_alert_message_warning">Koda države, ki ste jo vnesli je lahko napačna.</string>
      <string name="telocation_countrycode_alert_message_wrong">Koda države, ki ste jo vnesli je nepravilna.</string>

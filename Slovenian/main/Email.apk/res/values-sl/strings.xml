@@ -33,7 +33,7 @@
   <string name="account_options_only_title">Pri uporabi podatkov prevzemi samo naslov sporočila</string>
      <string name="account_options_sync_title">Nastavitve sinhronizacije</string>
      <string name="account_password_spaces_error">To geslo se začne ali konča z enim ali več presledki. Številni strežniki ne podpirajo gesel s presledki.</string>
-     <string name="account_security_dialog_content_fmt">%s zahteva, da posodobite varnostne nastavitve.</string>
+     <string name="account_security_dialog_content_fmt">%s zahteva da posodobite varnostne nastavitve.</string>
      <string name="account_security_dialog_title">Varnostna posodobitev</string>
      <string name="account_security_policy_explanation_fmt">Strežnik %s zahteva da mu dovolite nastavitev nekaterih varnostnih funkcij vaše Android naprave.</string>
      <string name="account_security_title">Varnost naprave</string>
