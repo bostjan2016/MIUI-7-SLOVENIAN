@@ -2,7 +2,7 @@
 <resources>
   <string name="all_call_livetalk_enable">Uporaba paketa doplačila za domače in mednarodne klice</string>
   <string name="all_call_livetalk_remain_mins">Preostalo minut: %1$s domači | %2$s mednarodni</string>
-  <string name="alwaysUsePrompt">"Zapomni si zbrano"</string>
+  <string name="alwaysUsePrompt">"Zapomni si izbrano"</string>
   <string name="apply_password_action">Nastavi geslo</string>
   <string name="apply_password_confirm_dlg_msg">Potrebno geslo za %s​?</string>
   <string name="apply_password_confirm_dlg_title">To geslo bo uporabljeno za %s</string>
@@ -57,7 +57,7 @@
   <string name="lockscreen_access_pattern_detected">Vzorec je končan</string>
   <string name="lockscreen_access_pattern_start">Vzorec se začenja</string>
   <string name="maml_component_customization_title">Nastavitve</string>
-  <string name="memory_clear_nothing_result">Uporaba memorije je že optimirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
   <string name="paste">Prilepi</string>
   <string name="perm_send_push_dspt">Dovoli Mi push sporočila</string>
@@ -70,11 +70,11 @@
   <string name="reboot_progress">Ponovni zagon…</string>
   <string name="replace">Zamenjaj</string>
   <string name="resource_select">Izberi</string>
-  <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite, se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>
+  <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke so izključene.</string>
-  <string name="screen_button_notification_text">"Da jih vključite, istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
+  <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije, istočasno pritisnite tipki \"Nazaj\" in \"Glasnost +\"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki \"Nazaj\" in \"Glasnost +\"."</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte oranžnega dela zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Dodatne nastavitve &gt; Način branja.</string>

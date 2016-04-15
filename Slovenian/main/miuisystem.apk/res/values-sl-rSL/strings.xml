@@ -39,7 +39,7 @@
   <string name="double_seventh_day"/>
   <string name="easter">Velika noč</string>
   <string name="first_back_long_press_message">"Pritisnite &amp; držite tipko Nazaj za izklop trenutnega procesa in njegovih uslug v ozadju. 
-Za vklop te funkcije, pojdite na Nastavitve &gt; Dodatne nastavitve &gt; Tipke</string>
+Za vklop te funkcije pojdite na Nastavitve &gt; Dodatne nastavitve &gt; Tipke</string>
   <string name="fm_record_smaple_prefix_miui">FM Snemanje</string>
   <string name="fools_day">1. april</string>
   <string name="force_exit_message">Uspešno zaprta aplikacija: \"%1$s\"</string>
@@ -120,11 +120,11 @@ pojdite na: %s."</string>
   <string name="replace">Zamenjaj</string>
   <string name="resource_select">Izberi</string>
   <string name="retrocession_day"/>
-  <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite, se dotaknite tipke \"Začetna\" in \"Vklop\" istočasno.</string>
+  <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipke \"Začetna\" in \"Vklop\" istočasno.</string>
   <string name="screen_button_enabled_message">Navigacijske tipke so izključene.</string>
-  <string name="screen_button_notification_text">"Da jih vključite, istočasno pritisnite tipke \"Začetna\" in \"Vklop\"."</string>
+  <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipke \"Začetna\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
-  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije, istočasno pritisnite tipke \"Nazaj\" i \"Glasnost +\"."</string>
+  <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipke \"Nazaj\" in \"Glasnost +\"."</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte oranžnega dela zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Dodatne nastavitve &gt; Način branja.</string>

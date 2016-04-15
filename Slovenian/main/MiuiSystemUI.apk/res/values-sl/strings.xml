@@ -161,14 +161,14 @@
      <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="reject_call">Zavrnjen klic</string>
      <string name="return_to_incall_screen">Vrni se na klic</string>
-     <string name="screen_button_notification_text">"Da jih vključite, istočasno pritisnite tipke \"Začetna\" in \"Napajanje\"."</string>
+     <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipke \"Začetna\" in \"Napajanje\"."</string>
      <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
      <string name="screen_pinning_description">To se prikazuje dokler ne odznačite. Dotaknite se in zadržite \"Začetna\" in \"Napajanje\" istočasno da odpnete.</string>
      <string name="screen_pinning_description_accessible">To se prikazuje dokler ne odznačite. Dotaknite se \"Začetna\" in \"Napajanje\" istočasno da odpnete.</string>
      <string name="screen_pinning_negative">Ne hvala</string>
      <string name="screen_pinning_positive">Razumem</string>
      <string name="screen_pinning_title">Zaslon je pripet</string>
-     <string name="screenshot_failed_text">Ne more shraniti posnetka zaslona. Pomnilnik je verjetno v uporabi.</string>
+     <string name="screenshot_failed_text">Ne morem shraniti posnetka zaslona. Pomnilnik je verjetno v uporabi.</string>
      <string name="screenshot_saved_text">Tapni za ogled posnetka zaslona.</string>
      <string name="screenshot_saved_title">Posnetek zaslona zajet</string>
      <string name="screenshot_saving_text">Posnetek zaslona se shranjuje</string>
@@ -193,7 +193,7 @@
      <string name="status_bar_network_name_separator">|</string>
      <string name="status_bar_no_recent_apps">Ni zadnjih aplikacij</string>
      <string name="status_bar_notification_inspect_item_title">Informacije o aplikacijah</string>
-     <string name="status_bar_recent_guide_all">Podrsaj gor, da se zapre.     
+     <string name="status_bar_recent_guide_all">Podrsaj gor da se zapre.     
   
       Podrsaj dol za zaklenitev.</string>
      <string name="status_bar_recent_guide_bottom">Podrsaj dol za zaklenitev</string>
@@ -230,20 +230,20 @@
      <string name="usb_notification_mtp_info">Dostopam do datotek shranjenih na tej napravi</string>
      <string name="usb_notification_mtp_problem">Pomoč</string>
      <string name="usb_notification_mtp_ticker_text">Povezan kot medijska naprava (datoteke)</string>
-     <string name="usb_notification_ptp_info">Dostop do fotografij, shranjenih v tej napravi</string>
+     <string name="usb_notification_ptp_info">Dostop do fotografij shranjenih v tej napravi</string>
      <string name="usb_notification_ptp_ticker_text">Povezan kot medijska naprava (slike)</string>
      <string name="usb_ptp_text">Slike</string>
      <string name="usb_share_net_info">Uporabi internetno povezavo računalnika</string>
      <string name="usb_storage_error_message">Pojavila se je napaka med pregledovanjem vašega USB masovnega pomnilnika.</string>
-     <string name="usb_storage_message">Povezali ste se na računalnik preko USB. Tapnite gumb spodaj, če želite prenesti datoteke med vašim računalnikom in Android USB pomnilnikom.</string>
+     <string name="usb_storage_message">Povezali ste se na računalnik preko USB. Tapnite gumb spodaj če želite prenesti datoteke med vašim računalnikom in Android USB pomnilnikom.</string>
      <string name="usb_storage_notification_message">Izberite za kopiranje na/iz vašega računalnika.</string>
      <string name="usb_storage_notification_title">USB povezan</string>
-     <string name="usb_storage_stop_message">Preden izklopite USB pomnilnik se prepričajte, da ste izvrgli (»izvrzi«) vaš Android USB pomnilnik iz vašega računalnika.</string>
+     <string name="usb_storage_stop_message">Preden izklopite USB pomnilnik se prepričajte da ste izvrgli (»izvrzi«) vaš Android USB pomnilnik iz vašega računalnika.</string>
      <string name="usb_storage_stop_notification_message">Izberi za izklop USB pomnilnika</string>
      <string name="usb_storage_stop_notification_title">Izklopi USB pomnilnik</string>
      <string name="usb_storage_stop_title">USB pomnilnik v uporabi</string>
      <string name="usb_storage_title">USB povezan</string>
-     <string name="user_guide_for_notification">Povleci navzdol z enim prstom,da dobite obvestilno vrstico</string>
+     <string name="user_guide_for_notification">Povleci navzdol z enim prstom da dobite obvestilno vrstico</string>
      <string name="user_guide_for_toggle">Bližnjice lahko podrsate vodoravno</string>
      <string name="user_guide_for_toggle_list">Upravljaj z bližnicami</string>
      <string name="vpn_text">Dotakni se za prikaz nastavitev.</string>
