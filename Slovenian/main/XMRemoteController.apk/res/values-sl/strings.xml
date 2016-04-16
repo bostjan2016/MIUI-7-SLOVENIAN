@@ -34,7 +34,7 @@
   <string name="app_detail_info">Podrobnosti programa</string>
   <string name="app_detail_no_comments">Ni komentarjev</string>
   <string name="app_detail_title_info">Informacije</string>
-  <string name="app_detail_title_recomment">Povdarjeno</string>
+  <string name="app_detail_title_recomment">Poudarjeno</string>
   <string name="app_exit_tip">Ponovno pritisnite za izhod</string>
   <string name="app_frequency_little">Manj</string>
   <string name="app_frequency_more">Več</string>
@@ -99,7 +99,7 @@
   <string name="common_use">Pogosto koriščeno</string>
   <string name="confirm">V redu</string>
   <string name="confirm_on">V redu</string>
-  <string name="connect_to_retry">"Ne morem povezati z omrežjem. Preverite povezavo in poskusite ponovno."</string>
+  <string name="connect_to_retry">"Ne se morem povezati z omrežjem. Preverite povezavo in poskusite ponovno."</string>
   <string name="connected">Povezano</string>
   <string name="continue_to_add_other_rc">Seznani več naprav</string>
   <string name="control_vol_by_cellphone">Uporabite napravo za kontolo glasnosti</string>
@@ -121,7 +121,7 @@
   <string name="delete">Izbriši</string>
   <string name="delete_confirm">Prekličem seznanitev?</string>
   <string name="delete_desc">Ne boste imeli možnost upravljati “%s” s pomočjo Mi Remote.</string>
-  <string name="delete_device_frame">Izbriši %1$s?</string>
+  <string name="delete_device_frame">Izbrišem %1$s?</string>
   <string name="delete_frame">Izbrišem \"%1$s\" ?</string>
   <string name="device_bluetoothi">Bluetooth daljinec</string>
   <string name="device_brand">Znamka</string>
@@ -130,15 +130,15 @@
   <string name="device_type">Naprava</string>
   <string name="diagnose">Test daljinca</string>
   <string name="diagnosis_intro">Testiraj omrežje za težave pri povezovanju</string>
-  <string name="dialog_install_assistant_content">Naložite Xiaomi Emitiranje zaslona da dobite največ od vašega Mi TV-a ali Mi Box-a.</string>
+  <string name="dialog_install_assistant_content">Naložite Xiaomi predvajanje zaslona da dobite največ od vašega Mi TV-a ali Mi Box-a.</string>
   <string name="dining_room">Restavracija</string>
   <string name="download_assistant">Oddajanje zaslona</string>
-  <string name="download_path_fail">"Ne morem prevzeti. preverite SD kartico ali USB disk."</string>
+  <string name="download_path_fail">"Ne morem prevzeti. Preverite SD kartico ali USB disk."</string>
   <string name="download_times">Sprejemanje: %1$d</string>
   <string name="downloading">Sprejem…</string>
   <string name="dpad_down">Dol</string>
   <string name="dpad_left">Levo</string>
-  <string name="dpad_ok">Vredu</string>
+  <string name="dpad_ok">V redu</string>
   <string name="dpad_right">Desno</string>
   <string name="dpad_up">Gor</string>
   <string name="dvb_bind_epg">(Trenutno)</string>
@@ -200,12 +200,12 @@
   <string name="feedback_error_tips">Imate težave s uporabo daljinskega upravljalnika, pritisnite za prijavo težave</string>
   <string name="find_adb_frame">Odkrito %1$d ADB naprav</string>
   <string name="find_milink_frame">Odkrito %1$d naprav</string>
-  <string name="from_share">Od deljenja</string>
+  <string name="from_share">Deljeno od drugih</string>
   <string name="gamepad">Gamepad</string>
   <string name="gamepad_rule">"Naprava ne more prikazati vodoravni zaslon, ko je v načinu Krmilnik iger"</string>
   <string name="gesture_pad_first_line_tips">"Uporabite tipke za glasnost na napravi za nastavitve glasnosti zaslona."</string>
-  <string name="gesture_pad_orietaion_tips">Povlecite kontrolo gor in dol, nato pritisnite Vredu</string>
-  <string name="gesture_pad_sencond_line_tips">"Za prikaz menija, pritisnite &amp; držite z enim prstom na prazno področje na zaslonu. Za nastavitev glasnosti na zaslonu, povlecite s prstom gor ali dol."</string>
+  <string name="gesture_pad_orietaion_tips">Povlecite kontrolo gor in dol, nato pritisnite V redu</string>
+  <string name="gesture_pad_sencond_line_tips">"Za prikaz menija, pritisnite &amp; držite z enim prstom na prazno področje na zaslonu. Za nastavitev glasnosti na zaslonu povlecite s prstom gor ali dol."</string>
   <string name="gesture_pad_vol_tips">Pritisnite tipke glasnosti na napravi za nastavitev izhodne glasnosti</string>
   <string name="get_backup_failed">恢复失败，请您重试</string>
   <string name="get_backup_succeed">恢复完成，共%1$d个, 已有%2$d个，恢复%3$d个，</string>
@@ -226,7 +226,7 @@
   <string name="hot_apps">Popularno</string>
   <string name="hot_mode">Vroče</string>
   <string name="hot_videos">Novosti</string>
-  <string name="hour">Ura</string>
+  <string name="hour">Ur</string>
   <string name="humidity">Vlaga:</string>
   <string name="humidity_frame">%1$d%%</string>
   <string name="input_complete">Končano</string>
@@ -301,7 +301,7 @@
   <string name="match_count_frame">Seznani %1$d/%2$d daljinec</string>
   <string name="match_count_tip_frame">Testne tipke (%1$d/%2$d)</string>
   <string name="match_data">Podrobnosti seznanjanja</string>
-  <string name="match_data_error_tips">"Ne morem dobiti podatkov
+  <string name="match_data_error_tips">"Ne morem dobiti podatkov. 
 Vrnite se za nadaljevanje"</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_direction_default">Ali navigacijske tipke delajo?</string>
@@ -321,9 +321,9 @@ Vrnite se za nadaljevanje"</string>
   <string name="match_is_respond">Ali to ustreza?</string>
   <string name="match_main_tip_frame">"Usmerite daljinec na %1$s in pritisnite tipko
 Sprostite ko %1$s odgovori"</string>
-  <string name="match_mibox_first">Mi TV odkrit</string>
-  <string name="match_mibox_sencond">Nadzorujte vaš Mi TV sa to napravo.</string>
-  <string name="match_mibox_third">Samodejno seznani ostale Mi naprave</string>
+  <string name="match_mibox_first">    Mi TV najdena</string>
+  <string name="match_mibox_sencond">    ·Kontrolirajte vašo Mi TV s to napravo.</string>
+  <string name="match_mibox_third">    ·Seznani ostale Mi naprave avtomatsko</string>
   <string name="match_name_power">Energija</string>
   <string name="match_number_default">Ali delajo tipke številčnice?</string>
   <string name="match_power_confirm_tip_frame">%1$s是否开机?</string>
@@ -332,7 +332,7 @@ Sprostite ko %1$s odgovori"</string>
   <string name="match_stb_intro_ok">Sprostite ko se sprememba prikaže na zaslonu</string>
   <string name="match_stb_intro_up">Sprostite ko se kazalec pomakne gor</string>
   <string name="match_stb_name_left">Levo</string>
-  <string name="match_stb_name_ok">Vredu</string>
+  <string name="match_stb_name_ok">V redu</string>
   <string name="match_stb_name_up">Gor</string>
   <string name="match_stb_seletion_des">Izberite vašo lokacijo</string>
   <string name="match_succuss">"Vse ste namestili"</string>
@@ -373,7 +373,7 @@ počakajte trenutak po opravilu"</string>
   <string name="mi_brand">Mi</string>
   <string name="mi_rc">Mi Remote</string>
   <string name="mibox">Mi Box</string>
-  <string name="milink_nowifi">WiFi mreža ni povezana, ne morem se povezati</string>
+  <string name="milink_nowifi">WiFi omrežje ni povezano, ne morem se povezati</string>
   <string name="minute">min.</string>
   <string name="mitv">Mi TV</string>
   <string name="mitv_assistant_setting_version">Mi TV Control Verzija: %1$s</string>
@@ -389,10 +389,10 @@ počakajte trenutak po opravilu"</string>
   <string name="my_backup">遥控器备份</string>
   <string name="my_favorite">我的收藏</string>
   <string name="my_setting">设置</string>
-  <string name="network_diagnosis">Testiraj mrežo</string>
-  <string name="network_no_connection">"Ne morem se povezati na omrežje. Preverite mrežno povezavo in poskušajte ponovno."</string>
+  <string name="network_diagnosis">Testiraj omrežje</string>
+  <string name="network_no_connection">"Ne morem se povezati na omrežje. Preverite omrežno povezavo in poskušajte ponovno."</string>
   <string name="network_ok">Ni odkritih problemov</string>
-  <string name="network_unstable">Imate stabilno vezo</string>
+  <string name="network_unstable">Imate stabilno povezavo</string>
   <string name="next_step">Naslednji korak</string>
   <string name="no">Ne</string>
   <string name="no_backup">没有发现可恢复数据</string>
@@ -409,11 +409,11 @@ počakajte trenutak po opravilu"</string>
   <string name="none">Nič</string>
   <string name="not_login">Niste prijavljeni</string>
   <string name="not_respond">Ni odgovora</string>
-  <string name="notification_found_shared_remote_text">Dotaknite, da ga upravljate</string>
+  <string name="notification_found_shared_remote_text">Dotaknite se da ga upravljate</string>
   <string name="notification_found_shared_remote_title">Najdeno %1$s v bližini</string>
   <string name="notification_str1">\"</string>
-  <string name="notification_str2">\" bo pričelo čez 30 min.</string>
-  <string name="notification_str3">\" bo pričelo čez 5 min.</string>
+  <string name="notification_str2">\" se bo pričelo čez 30 min.</string>
+  <string name="notification_str3">\" se bo pričelo čez 5 min.</string>
   <string name="notification_title">Obvestila Timera</string>
   <string name="num_keys">Številčne tipke</string>
   <string name="office">Pisarna</string>
@@ -444,13 +444,13 @@ počakajte trenutak po opravilu"</string>
   <string name="passport_choose_which_one_sim">Izberite številko telefona</string>
   <string name="passport_click_email_to_valid">"
 
-Da aktivirate svoj uporabniški račun, sledite
+Da aktivirate svoj uporabniški račun sledite
  povezavi v sporočilu ki smo ga poslali na vašo dohodno pošto."</string>
   <string name="passport_completed">Končano</string>
   <string name="passport_confirm">Potrdi geslo</string>
   <string name="passport_confirm_recycle_account">Da</string>
   <string name="passport_data_keep_in_device">Shrani geslo</string>
-  <string name="passport_data_wipe_from_device">"Ne shrani geslo"</string>
+  <string name="passport_data_wipe_from_device">"Ne shrani gesla"</string>
   <string name="passport_delete_account">Odjava</string>
   <string name="passport_dspt_provision">"Uporabljajte svoj Mi Račun z MiCloud, MIUI Trgovino Tem, ter druge Mi Storitve, od kjer koli. "</string>
   <string name="passport_dspt_provision2">Preberi več</string>
@@ -590,8 +590,8 @@ Da aktivirate svoj uporabniški račun, sledite
   <string name="please_select_tv">Izberite TV</string>
   <string name="pm_2.5">PM2.5:</string>
   <string name="power">Vključi/Izključi</string>
-  <string name="power_off">Isklj.</string>
-  <string name="power_on">Uklj.</string>
+  <string name="power_off">Izklj.</string>
+  <string name="power_on">Vklj.</string>
   <string name="press_to_continue_match">Pritisnite za nadaljevanje</string>
   <string name="press_to_match">Pritisnite za seznanitev</string>
   <string name="privacy_content">"Preberite Xiaomi Pravila o zasebnosti in Uporabniški Sporazum pred uporabo Mi Remote. Aplikaciji je potreben doisto do interneta in usluga lociranja da dela normalno.</string>
@@ -602,7 +602,7 @@ Da aktivirate svoj uporabniški račun, sledite
   <string name="pull_down_refresh">Povlecite dol za osvežitev</string>
   <string name="pull_up_refresh">Povucite gor za osvežitev</string>
   <string name="push_add">Najden deljeni daljinski upravljalnik</string>
-  <string name="push_add_desc">Upravljajte %1$s  s pomočjo tega daljinca?</string>
+  <string name="push_add_desc">Upravljam z %1$s s pomočjo tega daljinca?</string>
   <string name="rc">Upravljalnik</string>
   <string name="rc_add_distance">%1$dm</string>
   <string name="rc_add_distance_far">&gt;1000km</string>
@@ -656,7 +656,7 @@ Da aktivirate svoj uporabniški račun, sledite
   <string name="share">Deli</string>
   <string name="share_action_cancel">Prekini</string>
   <string name="share_action_confirm">Deli</string>
-  <string name="share_address_desc">Vaša stvarna lokacija će pomoći ljudima u blizini da vide vaše podijeljene daljinske upravljače</string>
+  <string name="share_address_desc">Vaša točna lokacija bo pomagala ljudem v bližini da vidijo vaše deljene daljince</string>
   <string name="share_address_hint">Vnesite vašo točno lokacijo</string>
   <string name="share_address_title">Točna lokacija (priporočeno)</string>
   <string name="share_app_category">Kategorija:</string>
@@ -674,7 +674,7 @@ Da aktivirate svoj uporabniški račun, sledite
   <string name="share_done">Uspešno deljeno</string>
   <string name="share_fail">"Ne morem deliti"</string>
   <string name="share_friends_cancel">Prekini</string>
-  <string name="share_friends_confirm">Vredu</string>
+  <string name="share_friends_confirm">V redu</string>
   <string name="share_friends_none_text">Bez prijatelja.</string>
   <string name="share_friends_not_find_text">Najdi prijatelje</string>
   <string name="share_friends_search_hint_text">Išči</string>

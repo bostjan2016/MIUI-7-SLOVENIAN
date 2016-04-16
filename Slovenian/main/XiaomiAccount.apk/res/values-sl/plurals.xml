@@ -5,8 +5,8 @@
         <item quantity="one">Posodobljen (%s) stik</item>
     </plurals>
     <plurals name="dirty_contacts_count">
-        <item quantity="other">Kontaktov: %d</item>
-        <item quantity="one">%d kontakt</item>
+        <item quantity="other">Stikov: %d</item>
+        <item quantity="one">%d stik</item>
     </plurals>
     <plurals name="dirty_mms_count">
         <item quantity="other">Sporočil: %d </item>

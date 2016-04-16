@@ -34,8 +34,10 @@
      <string name="activate_popup_confirm_failed_server">Poskusite znova</string>
      <string name="activate_popup_desc_2_intl_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 2 mednarodni SMS-sporočili, ki se uporabljata za aktiviranje %s.</string>
      <string name="activate_popup_desc_2_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 2 SMS-sporočili, ki se uporabljata za aktiviranje %s.</string>
-     <string name="activate_popup_desc_all_gateway_failed_query_info">"Ne morem najti vaše telefonske številke. Preverite ali je vaša SIM kartica aktivirana. Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivirate %s"</string>
-     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne morem poslati SMS aktivacije. Preverite ali je vaša SIM kartica aktivirana. Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivirate %s"</string>
+     <string name="activate_popup_desc_all_gateway_failed_query_info">"Ne morem najti vaše telefonske številke. Preverite ali je vaša SIM kartica aktivirana. 
+Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivirate %s"</string>
+     <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne morem poslati SMS aktivacije. Preverite ali je vaša SIM kartica aktivirana. 
+Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivirate %s"</string>
      <string name="activate_popup_desc_error_device_id">Vnesite *#06# za preverjanje IMEI</string>
      <string name="activate_popup_desc_failed_phone_error">Telefonska številka ki ste jo vnesli ni veljavna.</string>
      <string name="activate_popup_desc_failed_query_info">Ne morem najti vaše telefonske številke. Prepričajte se da je bila vaša kartica SIM aktivirana.</string>
@@ -78,8 +80,6 @@
      <string name="activate_status_desc_device_id_error">Neveljaven IMEI</string>
      <string name="activate_status_desc_failed_getting_gateway">Nisem uspel pridobiti SMS od gateway</string>
      <string name="activate_status_desc_getting_gateway">Pridobivam SMS od gateway</string>
-     <string name="activate_status_desc_getting_sim_info">Pridobivam informacije s kartice SIM</string>
-     <string name="activate_status_desc_getting_sim_info_fail">Nisem uspel pridobiti informacij s kartice SIM</string>
      <string name="activate_status_desc_prepare_sending_sms">Priprava na pošiljanje aktivacijskega SMS sporočila na gateway</string>
      <string name="activate_status_desc_query_activation_info">Poizvedovanje aktivacijskih informacij na strežniku</string>
      <string name="activate_status_desc_query_activation_info_downlink_sms_error">Strežniku ni uspelo poslati aktivacijskega SMS sporočila na vaš telefon</string>
@@ -89,22 +89,19 @@
      <string name="activate_status_desc_registering_sim_account_server_error">Pri registraciji SIM kartice je prišlo do napake v strežniku</string>
      <string name="activate_status_desc_registering_xiaomi_account">Registracija Mi računa na strežniku</string>
      <string name="activate_status_desc_registering_xiaomi_account_server_error">Pri registraciji Mi računa je prišlo do napake v strežniku</string>
-     <string name="activate_status_desc_registration">Registracija SIM kartice</string>
-     <string name="activate_status_desc_registration_server_error">Pri registraciji SIM kartice je prišlo do napake v strežniku.</string>
      <string name="activate_status_desc_request_activation_sms">Zahtevek aktivacijskega SMS sporočila od strežnika do telefona.</string>
-     <string name="activate_status_desc_request_activation_sms_phone_error">Telefonska številka ki ste jo vnesli ni veljavna</string>
      <string name="activate_status_desc_request_activation_sms_server_error">Pojavila se je napaka na strežniku pri zahtevku aktivacijskega SMS sporočila od strežnika do telefona.</string>
      <string name="activate_status_desc_sending_sms">Pošlji aktivacijski SMS do vrat</string>
      <string name="activate_status_desc_sending_sms_fail">Ne morem poslati aktivacijskega SMS do vrat</string>
      <string name="activate_status_desc_sms_sent">Aktivacijski SMS poslan</string>
-     <string name="activate_status_desc_wait_for_phone_service">Čakam na telefonske storitve</string>
      <string name="activate_status_desc_wait_for_sms">Čakam na aktivacijski SMS iz strežnika</string>
      <string name="activate_status_desc_wait_for_sms_fail">Neuspešno prejet aktivacijski SMS iz strežnika</string>
      <string name="activate_status_desc_wait_for_sms_success">Uspešno prejet aktivacijski SMS iz strežnika</string>
      <string name="activate_status_title_activating">Aktiviranje vaše kartice SIM</string>
      <string name="activate_status_title_activating_msim">Aktiviranje vaše kartice SIM %s</string>
-     <string name="app_name">Xiaomi okvir storitev</string>
-     <string name="error_device_id_message">Napačen ID naprave: %s Na ID napravi mora biti veljaven IMEI ali MAC naslov. Brez ID-ja naprave nekateri računi in oblačne funkcije ne bodo na voljo.</string>
+  <string name="app_name">Xiaomi Aktivacija</string>
+  <string name="error_device_id_message">"Neveljavna ID naprave: %s
+ID naprave mora biti veljaven IMEI ali MAC naslov. Brez ID naprave nekateri računi in cloud postavke ne bodo dostopne."</string>
      <string name="error_device_id_title">Ne morem pridobiti veljavnega ID naprave</string>
      <string name="sim_unactivated_title">Vaša kartica SIM je neaktivna</string>
      <string name="sync_notification_title_format">Sinh.: %1$s</string>

@@ -108,10 +108,11 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Pravila o zasebnosti</string>
   <string name="progress_loading">Nalaganje…</string>
-  <string name="remove_Xiaomi_account_dialog_message">Pri odstranitvi tega računa bo &lt;b&gt;se umaknila možnost&lt;/b&gt; generiranja kod, ampak, to bo &lt;b&gt;not&lt;/b&gt; izključiti proverbo v 2 korakih. To vam lahko onemogoči prijavo v svoj ​​račun. &lt;p&gt; Pred odstranitvijo: &lt;ul&gt; &lt;li&gt;Izključite prerbo v 2 korakih za ta račun ali si&lt;/li&gt; &lt;li&gt;Priskrbite si alternativni mehanizem za generiranje kod.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">Pri odstranitvi tega računa se bo &lt;b&gt;umaknila možnost&lt;/b&gt; generiranja kod, ampak, to bo &lt;b&gt;not&lt;/b&gt; izključilo preverjanje v 2 korakih. To vam lahko onemogoči prijavo v svoj ​​račun. &lt;p&gt; Pred odstranitvijo: &lt;ul&gt; &lt;li&gt;Izključite preverjanje v 2 korakih za ta račun ali si&lt;/li&gt; &lt;li&gt;si priskrbite alternativni mehanizem za generiranje kod.&lt;/li&gt; &lt;/ul&gt;</string>
   <string name="remove_account">Odstrani račun</string>
   <string name="remove_account_dialog_message">"Pri odstranitvi tega računa boste izgubili možnost generiranja kod. To vam lahko onemogoči prijavo v svoj ​​račun.
-  Pred odstranitvijo: 
+
+Pred odstranitvijo:
   —Izključite autentifikacijo v 2 korakih za ta račun, ali 
   Preskrbite si alternativni mehanizem za generiranje kod."</string>
   <string name="remove_account_dialog_title">Odstranim račun?</string>
