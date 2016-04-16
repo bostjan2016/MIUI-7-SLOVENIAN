@@ -61,7 +61,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="howitworks_page_verify_device_details">"Lahko izberete shranjevanje potrdila in Xiaomi vas ne bo ponovno spraševal za kodo."</string>
   <string name="howitworks_page_verify_device_title">"Potem ste prijavljeni."</string>
   <string name="install_button">Namesti</string>
-  <string name="install_dialog_message">Za skeniranje QR kod ki vsebujejo ključe, morate namestiti ZXing QR skener.</string>
+  <string name="install_dialog_message">Za skeniranje QR kod ki vsebujejo ključe morate namestiti ZXing QR skener.</string>
   <string name="install_dialog_title">Namestim QR skener?</string>
   <string name="jump_createpattern_tip">Nastavite geslo da zaščitite svoj račun</string>
   <string name="jump_lockpattern_title">Opomba</string>
@@ -78,7 +78,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="lockpattern_need_to_unlock_wrong_footer"/>
   <string name="lockpattern_pattern_confirmed_header">Vaš novi vzorec za odklepanje:</string>
   <string name="lockpattern_pattern_entered_header">Vzorec shranjen.</string>
-  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanj %d točke. Poskusite ponovno:</string>
+  <string name="lockpattern_recording_incorrect_too_short">Povežite najmanj %d točk. Poskusite ponovno:</string>
   <string name="lockpattern_recording_inprogress">Odmaknite prst ko končate.</string>
   <string name="lockpattern_recording_intro_header">Narišite vzorec za odklepanje:</string>
   <string name="lockpattern_redraw_button_text">Narišite ponovno</string>
@@ -132,7 +132,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Pogoji ponudnika storitev</string>
   <string name="timesync_about_feature_preference_title">O tej funkciji</string>
-  <string name="timesync_about_feature_screen_details">"Če kliknete &amp;quot;Sinhroniziraj zdaj&amp;quot;, bo Authenticator enkrat poskusil sinhronizirati svojo ​​notranjo uro z Googleovim strežnikom. Nastavitve datuma in časa se ne bodo spremenile. &lt;p&gt; Authenticator ne bo dajal nobenih osebnih podatkov in podatkove o računu med sinhronizacijo svoje ure z Googleovim strežnikom. &lt;p&gt; &lt;b&gt;Zakaj je to koristno&lt;/b&gt; &lt;p&gt; Authenticator generira preverbo kode v 2 korakih na temelju 1) trenutnega časa, in 2) skrivne številke poznane aplikaciji in strežniku. &lt;p&gt; Če Authenticator in strežnik ne uskladita časa, kode ki jih aplikacija generira ne morejo biti sprejete pri prijavi. &lt;p&gt; Privzeto Authenticator uporablja nastavitve datuma in časa naprave, ponavadi pa boste lahko generirali veljavne kode tako da se zavaruje in pravilno konfigurira vaš čas, datum in časovno cono . Vendar kadar se pojavijo neusklajenosti, se težko odpravijo (še posebej če uporabljate čas dobljen od omrežja ali časovne cone)."</string>
+  <string name="timesync_about_feature_screen_details">"Če kliknete &amp;quot;Sinhroniziraj zdaj&amp;quot;, bo Authenticator enkrat poskusil sinhronizirati svojo ​​notranjo uro z Googleovim strežnikom. Nastavitve datuma in časa se ne bodo spremenile. &lt;p&gt; Authenticator ne bo dajal nobenih osebnih podatkov in podatkov o računu med sinhronizacijo svoje ure z Googleovim strežnikom. &lt;p&gt; &lt;b&gt;Zakaj je to koristno&lt;/b&gt; &lt;p&gt; Authenticator generira preverbo kode v 2 korakih na temelju 1) trenutnega časa, in 2) skrivne številke poznane aplikaciji in strežniku. &lt;p&gt; Če Authenticator in strežnik ne uskladita časa, kode ki jih aplikacija generira ne morejo biti sprejete pri prijavi. &lt;p&gt; Privzeto Authenticator uporablja nastavitve datuma in časa naprave, ponavadi pa boste lahko generirali veljavne kode tako da se zavaruje in pravilno konfigurira vaš čas, datum in časovni pas . Vendar kadar se pojavijo neusklajenosti, se težko odpravijo (še posebej če uporabljate čas dobljen od omrežja ali časovnega pasu)."</string>
   <string name="timesync_about_feature_screen_title">O tej funkciji</string>
   <string name="timesync_preference_screen_summary">"Sinhronizacija interne ure Authenticatorja s strežniki"</string>
   <string name="timesync_preference_screen_title">Korekcija časa za kode</string>
@@ -168,7 +168,7 @@ Lahko: "</string>
   <string name="type_prompt">Vrsta ključa</string>
   <string name="update_pattern_jump">&lt;u&gt;Odstrani geslo&lt;/u&gt;</string>
   <string name="version_preference_title">Verzija</string>
-  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Če izbrišete vaš Mi varnostni Token, se ne boste mogli prijaviti v svoj račun."</string>
+  <string name="welcome_page_alert">"&lt;font color=#fb3500&gt;* &lt;/font&gt;Če izbrišete vaš Mi varnostni Token se ne boste mogli prijaviti v svoj račun."</string>
   <string name="welcome_page_details">"— Pazite na svoj račun!
 — Preprečite nezaželjenim gostom uporabo vaše naprave za prijavo v vaš račun."</string>
   <string name="welcome_page_title">Uporabi za Varno prijavo</string>
