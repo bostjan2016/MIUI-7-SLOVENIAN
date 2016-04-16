@@ -2,7 +2,7 @@
 <resources>
      <string name="click_to_enter_text">Dotaknite se za pregled</string>
      <string name="confirm_pin_msg">Ponovno vnesi PIN</string>
-     <string name="default_lockscreen_unlock_hint_text">Podrsaj za odklep</string>
+     <string name="default_lockscreen_unlock_hint_text">Podrsaj gor za odklep</string>
      <string name="delete">Izbriši</string>
      <string name="emergency_call_string">Klic v sili</string>
      <string name="experimental_try_string">Poskusi</string>
@@ -40,7 +40,9 @@
      <string name="lockscreen_charging_msg">Polnjenje</string>
      <string name="lockscreen_emergency_call">Klic v sili</string>
      <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Nepravilno ste poskušali odkleniti telefon %d krat. Po %d neuspešnih poskusih, bo telefon resetiran na tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
-     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Nepravilno ste vnesli geslo %d krat. Po %d neuspešnih poskusih boste morali odkleniti telefon z vašim računom.     Poskusite znova čez %d sekund.</string>
+     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">Nepravilno ste vnesli geslo %d krat. Po %d neuspešnih poskusih boste morali odkleniti telefon z vašim računom.
+	
+ Poskusite znova čez %d sekund.</string>	
      <string name="lockscreen_failed_attempts_now_wiping">Napačno ste se probali vpisati v telefon %d krat. Telefon se bo sedaj resetiral na tovarniške nastavitve.</string>
      <string name="lockscreen_glogin_checking_password">Preverjam...</string>
      <string name="lockscreen_glogin_invalid_input">Nepravilno uporabniško ime in geslo.</string>

@@ -449,7 +449,7 @@
      <string name="resource_exchange_empty_format">Vnesi darilno kodo</string>
      <string name="resource_exchange_has_bought">To temo ste že kupili.</string>
      <string name="resource_exchange_has_expired">Koda ki ste jo vnesli je potekla.</string>
-     <string name="resource_exchange_has_used">Koda, ki ste jo vnesli je že bila uporabljena.</string>
+     <string name="resource_exchange_has_used">Koda ki ste jo vnesli je že bila uporabljena.</string>
      <string name="resource_exchange_hint">Vnesi svojo darilno kodo</string>
      <string name="resource_exchange_purchase_unkown_error">Ups! Pojavila se je neznana napaka. Vpišite se v http://market.xiaomi.com za ogled statusa plačila.</string>
   <string name="resource_exchange_share_code_content">Dobili ste kodo za %1$s za MIUI Teme trgovino . Vaš MiKredit koda je: %2$s. Tapni %3$s za uporabo kode.</string>
@@ -459,7 +459,7 @@
      <string name="resource_exchange_unavailable">Tema povezana s kodo ki ste jo vnesli ni na voljo.</string>
      <string name="resource_exchange_universal_finish">Uporabite to kodo za prenos tem iz MIUI Teme trgovine.</string>
      <string name="resource_exchange_universal_goon">Ta koda se lahko uporablja za prenos katerekoli teme v trgovini.</string>
-     <string name="resource_exchange_window_title">Naključno</string>
+  <string name="resource_exchange_window_title">Izkoristi kodo</string>
      <string name="resource_exchange_wrong_format_by_local">Oblika kode ki ste jo vnesli je napačna.</string>
      <string name="resource_exchange_wrong_format_by_server">Koda ni bila preverjena. Prepričajte se da ste jo pravilno vnesli.</string>
      <string name="resource_expand_full_text">Razširi</string>
@@ -482,8 +482,8 @@
      <string name="resource_on_trial">Poskus: %1$s</string>
      <string name="resource_online">V omrežju %1$s</string>
      <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponent te teme je še vedno ceneje če kupite celoten paket.</string>
-     <string name="resource_pack_discount_info">%1$s shranjeno</string>
-     <string name="resource_pack_price_info">%1$s Original</string>
+  <string name="resource_pack_discount_info">Prihranjeno %1$s</string>
+  <string name="resource_pack_price_info">Originalna cena %1$s</string>
      <string name="resource_pack_warning">Kupili ste že %1$d komponent v tej temi. Ceneje je če kupite preostale sestavine posebej.</string>
      <string name="resource_present">Darilo</string>
      <string name="resource_price_format">(%1$s)</string>
@@ -501,7 +501,7 @@
      <string name="resource_save_to_note">Shrani v beležko</string>
      <string name="resource_see_more">Preberite več</string>
      <string name="resource_select">Izberi</string>
-     <string name="resource_selected">Oblikovan</string>
+  <string name="resource_selected">Poudarjeno</string>
      <string name="resource_send">Poslano</string>
      <string name="resource_server_alert_dialog_title">Takoj bomo nazaj...</string>
      <string name="resource_server_out_of_service">Na žalost imamo težave s strežnikom. Prosimo poskusite znova pozneje.</string>
@@ -513,7 +513,7 @@
      <string name="resource_title">Podrobnosti vira</string>
      <string name="resource_title_select_ringtone">Izberi ton</string>
      <string name="resource_trial_end_message">Preizkušanje %1$s je poteklo. Če vam je všeč vas prosimo za nakup.</string>
-     <string name="resource_trial_end_purchase">Nakup</string>
+  <string name="resource_trial_end_purchase">Plačanje</string>
      <string name="resource_trial_end_restore">Preskušanje končano</string>
      <string name="resource_trial_end_title">Preizkušanje poteklo</string>
      <string name="resource_trial_fail_cancel">V redu</string>
@@ -529,13 +529,13 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
      <string name="resource_waiting_download">Čakam</string>
      <string name="rmb">RMB</string>
      <string name="scan">Skeniraj</string>
-     <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartico.
-</string>
+     <string name="sdcard_not_mounted_dialog_message">"Vstavite SD kartico.
+"</string>
      <string name="sdcard_not_mounted_dialog_title">Ni SD kartice</string>
      <string name="select_package_before_buy">Izberi paket</string>
      <string name="selected_category_format">Označeno od %2$d ljudi kot %1$s.</string>
      <string name="send_shortcut_failed">Ne morem poslati</string>
-     <string name="send_shortcut_success">Postavljeno na domači zaslon</string>
+     <string name="send_shortcut_success">Postavljeno na začetni zaslon</string>
      <string name="sending_shortcut">Pošiljam...</string>
      <string name="service_unavailiable">Storitev ni na voljo</string>
      <string name="share">Skupna raba</string>
@@ -548,7 +548,7 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
      <string name="sina_share_success">Poslano</string>
      <string name="sina_token_expired_warning">Weibo račun je potekel. Prosimo da ga obnovite</string>
      <string name="sina_token_invalid_warning">Weibo račun je neveljaven. Prosimo da ga obnovite</string>
-     <string name="smart_antispam">Določi neznane številke</string>
+     <string name="smart_antispam">Identificiraj neznane številke</string>
      <string name="to_activate_the_account">Aktivirajte svoj Mi račun</string>
      <string name="toast_finish_delete_call_log">Seznam klicev izbrisan</string>
      <string name="toast_text_copied">Kopirano besedilo</string>
@@ -562,9 +562,9 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
      <string name="turn_on_smart_antispam_hint">"Identificiraj klice iz neznanih številk z uporabo Xiaomijeve podatkovne baze"</string>
      <string name="turn_on_smart_antispam_summary_off">Išči samo iskane številke na tej napravi</string>
      <string name="turn_on_smart_antispam_summary_on">Naloži in določi neznane številke iz dnevnika klicev in besedilnih sporočil</string>
-     <string name="turn_on_smart_antispam_title">Določite neznane številke</string>
+     <string name="turn_on_smart_antispam_title">Identificiraj neznane številke</string>
      <string name="turn_on_yellowpage_service_title">Uporaba imenika storitev</string>
-     <string name="upload_and_verify_fraud_num_off">Ta funkcija je bila zaprta</string>
+  <string name="upload_and_verify_fraud_num_off">Deli blokirane informacije telefonskega marketa izklopljeno</string>
      <string name="upload_and_verify_fraud_num_on">Deli blokirane informacije telefonskega marketa</string>
      <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
      <string name="user_agreement2">Sporazum o uporabniku</string>

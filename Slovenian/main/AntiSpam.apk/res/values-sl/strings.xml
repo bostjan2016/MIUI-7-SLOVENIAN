@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="ACaddnumcontent">&lt;Vpiši območno kodo</string>
+  <string name="ACaddnumcontent">Vnesite klicno številko</string>
      <string name="ACaddnumtitle">Predpono te številke dodaj med izjeme</string>
      <string name="AD_ALLOW">Dovoli oglase</string>
      <string name="AD_APPInfo">Informacije o aplikaciji</string>
@@ -8,9 +8,9 @@
      <string name="AD_BLOCK">Ad blocker</string>
      <string name="AD_BLOCKED">Blokirano</string>
      <string name="AD_BLOCK_ALL">Blokiraj vse</string>
-     <string name="AD_COUNT">%d blokiranih</string>
+  <string name="AD_COUNT">Vsebuje adware: %d</string>
      <string name="AD_Info">Dodaj vtič</string>
-     <string name="AD_Info_Hint">Adware je uporabljen s strani tretjih oseb, ki pošiljajo oglase na vašo napravo.</string>
+     <string name="AD_Info_Hint">Adware je uporabljen s strani tretjih oseb ki pošiljajo oglase na vašo napravo.</string>
      <string name="AD_NOT_BLOCK">Ne blokiraj</string>
      <string name="AD_SCANNING">Skeniram...</string>
      <string name="AD_SCAN_BUTTON">Skeniraj</string>
@@ -30,10 +30,10 @@
      <string name="SMS_BLACKLIST">Seznam blokad sporočil</string>
      <string name="SMS_DEFAULT">Pametni seznam blokad</string>
      <string name="SMS_KEYWORDS">Seznam blokad ključnih besed</string>
-     <string name="SMS_PREFIX">Seznam blokad - prefix</string>
+     <string name="SMS_PREFIX">Seznam blokad - predštevilke</string>
      <string name="SMS_SERVICE">Seznam blokad - storitev</string>
      <string name="SMSpass">Dovoli sporočila</string>
-     <string name="STRANGER_BLOCK">Seznam blokad - tujcev</string>
+     <string name="STRANGER_BLOCK">Seznam blokad - neznane številke</string>
      <string name="action_source_sms_title">Blokirani SMS</string>
      <string name="ad_block_hint">%d blokiranih</string>
      <string name="ad_install_monitor">Preglejte aplikacije za adware</string>
@@ -57,13 +57,13 @@
      <string name="backsound_set_hint">Pošljem k %s?</string>
      <string name="baidu_thanks">Podprto s strani Baidu</string>
      <string name="birthday">Rojstni dan</string>
-     <string name="bl_block_info" formatted="false">Klici: %d | SMS: %d</string>
+     <string name="bl_block_info" formatted="false">Klicev: %d | SMS-ov: %d</string>
      <string name="bl_no_blacklist">Ni blokiranih številk.</string>
      <string name="bl_no_block_call">Ni blokiranih klicev.</string>
      <string name="bl_no_block_sms">Ni blokiranih SMS sporočil.</string>
      <string name="blacklist_prefix_add_hint">Blokiraj vse številke ki se začnejo s to predpono</string>
-     <string name="block_message_number">SMS: %d</string>
-     <string name="block_phone_number">Klici: %d</string>
+  <string name="block_message_number">SMS-ov: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+  <string name="block_phone_number">Klicev: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
      <string name="button_text_delete">Izbriši</string>
      <string name="button_to_setting">Nastavitve</string>
      <string name="call_delete_hint">Izbrišem vse blokirane klice s te številke?</string>
@@ -73,7 +73,7 @@
      <string name="call_transfer_info">Blokiraj posredovane klice iz neznanih številk</string>
      <string name="cancle">Prekini</string>
      <string name="close_callwait">Izklopi</string>
-     <string name="customizer_mode_user_define_name">Moja pravila</string>
+  <string name="customizer_mode_user_define_name">Po meri</string>
      <string name="dlg_add_blacklist">Blokiram to številko?</string>
      <string name="dlg_add_blacklist_warn_conflict_content">%1$s in %2$s so že na vašem seznamu izjem.</string>
      <string name="dlg_add_blacklist_warn_conflict_title">Konflikt izjem</string>
@@ -90,7 +90,7 @@
      <string name="dlg_black_antispam_message">Dodam številko na seznam blokad?</string>
      <string name="dlg_clear_all_call">Izbrišem blokirane klice?</string>
      <string name="dlg_clear_all_ok">Izbriši vse</string>
-     <string name="dlg_clear_all_sms">Izbrišem blokiran SMS?</string>
+     <string name="dlg_clear_all_sms">Izbrišem blokirane SMS?</string>
      <string name="dlg_clear_blacklist">Izbrišem seznam blokad?</string>
      <string name="dlg_clear_blacklist_ok">Izbriši</string>
      <string name="dlg_clear_current_call">Izbrišem vse blokirane klice s te številke?</string>

@@ -119,7 +119,7 @@
   <string name="tip_error_seller_phone">Tel. številka prodajalca ni veljavna</string>
   <string name="tip_error_username">Račun ni veljaven</string>
   <string name="tip_feedback_success">Povratna informacija poslana</string>
-  <string name="tip_help_adults">Navedite svoje podatke, da bo naš team za podporo lahko spremljal to težavo.</string>
+  <string name="tip_help_adults">Navedite svoje podatke da bo naš team za podporo lahko spremljal to težavo.</string>
   <string name="tip_input_complete">Informacije so nepopolne.</string>
   <string name="tip_loading">Nalaganje…</string>
   <string name="tip_name">Ime</string>
@@ -129,11 +129,11 @@
   <string name="tip_seller_msg">"Prodajalec kopij: "</string>
   <string name="tip_seller_name">"Prodajalec: "</string>
   <string name="tip_seller_phone">"Tel. številka: "</string>
-  <string name="tip_set_cpu_modle">Preden nadaljujete, preverite, ali je vaša naprava nastavljena na način Performance. Performance lahko vključite s klikom na bližnjico v plošči za obvestila.</string>
+  <string name="tip_set_cpu_modle">Preden nadaljujete preverite ali je vaša naprava nastavljena na način Performance. Performance lahko vključite s klikom na bližnjico v plošči za obvestila.</string>
   <string name="tip_skip_set_cpu_model">Želite preskočiti?</string>
   <string name="tip_skip_set_cpu_modle">Preskoči ta korak</string>
   <string name="tip_uninstall">Nasveti za odstranitev</string>
-  <string name="tip_uninstall_msg">Preden zaženete to aplikacijo, morate odstraniti beta verzijo Avtentifikatorja.</string>
+  <string name="tip_uninstall_msg">Preden zaženete to aplikacijo morate odstraniti beta verzijo Avtentifikatorja.</string>
   <string name="tip_unsupport_device">"Vaša naprava ni podprta"</string>
   <string name="tip_unsupport_device_mode">"Ta naprava ni podprta"</string>
   <string name="tip_update">Posodobim na najnovejšo verzijo?</string>

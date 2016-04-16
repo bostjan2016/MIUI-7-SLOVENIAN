@@ -175,8 +175,8 @@ ali vnesite geslo"</string>
      <string name="cmcc_app_check_dialog_negative">Kasneje</string>
      <string name="cmcc_app_check_dialog_positive">Ponovno zaženi</string>
      <string name="cmcc_app_check_dialog_title">Sistem je popravljen</string>
-     <string name="confirm_auto_cleaner">V redu</string>
-     <string name="confirm_fingerprint_msg">Postavite prst na bralnik prstnih odtisov</string>
+  <string name="confirm_fingerprint_msg">Nastavite prst na senzor</string>
+  <string name="confirm_auto_cleaner">V redu</string>
      <string name="confirm_reject_all_permission">Omejim vsem aplikacijam uporabo te funkcije?</string>
      <string name="connect_internet_by_mobiledata">Mobilna podatkovna povezava</string>
      <string name="connect_internet_by_usbshare">Internet preko USB-a</string>
@@ -507,7 +507,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="manual_input_traffic">Nastavi porabo podatkov</string>
      <string name="manual_item_white_list_summary">Preprečite optimizacijo izbranim aplikacijam</string>
      <string name="manual_item_white_list_title">Izjeme</string>
-     <string name="manual_white_list_header">%d izjeme</string>
+     <string name="manual_white_list_header">%d izjem</string>
      <string name="megabyteShort">MB</string>
      <string name="megabyte_per_second">Mb/s</string>
      <string name="memory_check_content_none">Prazno</string>
@@ -567,7 +567,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
 
  1. Preverite da niste prekoračili mesečno omejitev uporabe podatkov.
  
- 2.Če ste ravno obnovili svoj račun ponovno zaženite napravo in poskusite ponovno.
+ 2. Če ste ravno obnovili svoj račun ponovno zaženite napravo in poskusite ponovno.
 
  3. Signal omrežja mobilnega operaterja je lahko slab na vaši trenutni lokaciji."</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
@@ -654,7 +654,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="per_month_pkg_traffic_settings">Nastavi omejitev podatkov</string>
      <string name="percentage">%d%%</string>
      <string name="permission_action_accept">Sprejmi</string>
-     <string name="permission_action_prompt">Spodbujati</string>
+  <string name="permission_action_prompt">Obvesti</string>
      <string name="permission_action_reject">Zavrni</string>
      <string name="permission_close_permission_control_dialog_msg">Ko je dovoljenje vodje izklopljeno vas aplikacije ne bodo vprašale pred branjem vaših kontaktov, ogledom zgodovine klicev, spreminjanjem sistemskih nastavitev ali dostopa do kamere in drugih virov, naprava ne bo vprašala za vaše dovoljenje.</string>
      <string name="permission_close_permission_control_dialog_title">Izklopim dovoljenje vodje?</string>
@@ -673,11 +673,11 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="permit_running_network">Podatki v ozadju</string>
      <string name="person_hotpot">Mobilni hospot</string>
      <string name="pkg_traffic">Nastavi omejitev porabe podatkov</string>
-     <string name="pm_auto_start_basic_services_lock">Zakleni</string>
-     <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
-     <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
-     <string name="pm_auto_start_by_other">Aktiviran zagon</string>
-     <string name="pm_auto_start_by_other_app">Dopustiti aplikaciji da je zagnana s strani druge aplikacije	</string>
+  <string name="pm_auto_start_by_other">Aktiviran zagon</string>
+  <string name="pm_auto_start_by_other_app">Dvoli aplikaciji da bo zagnana s strani druge aplikacije</string>
+  <string name="pm_auto_start_basic_services_lock">Zakleni</string>
+  <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
+  <string name="pm_auto_start_by_basic_services">Osnovne usluge</string>
      <string name="pm_auto_start_by_other_services">Poskusite izključiti te storitve</string>
      <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
      <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samod. zagon</string>
@@ -731,7 +731,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="power_consume_rank_title">Uporaba baterije</string>
      <string name="power_consume_total_hardware">Strojna oprema: %1$d%%</string>
      <string name="power_consume_total_software">Aplikacije: %1$d%%</string>
-     <string name="power_customize_giveup_change">Opuščene spremembe?</string>
+     <string name="power_customize_giveup_change">Opustim spremembe?</string>
      <string name="power_customizer_cancel">Prekliči</string>
      <string name="power_customizer_delete">Izbriši</string>
      <string name="power_customizer_my_mode">Po meri</string>
@@ -812,7 +812,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="power_mode_vibration_yes">Vedno</string>
      <string name="power_mode_wifi">WiFi</string>
      <string name="power_new_choose_mode">Izberi profil</string>
-     <string name="power_notify_lowbattery">%1$d%% preostanek baterije</string>
+  <string name="power_notify_lowbattery">%1$d%% preostalo baterije</string>
      <string name="power_phone">Glasovni klici</string>
      <string name="power_recovery_mode">Preklopi baterijo na %1$s</string>
      <string name="power_save_choose_mode">Izberi profil</string>
@@ -847,7 +847,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="power_settings_number">Odstotki</string>
      <string name="power_settings_shape">Grafični</string>
      <string name="power_settings_title">Nastavi</string>
-     <string name="power_settings_top">Top bar</string>
+     <string name="power_settings_top">Črta na vrhu</string>
      <string name="power_subtitle_lowbattery">Preklop profilov baterije za varčevanje z energijo.</string>
      <string name="power_subtitle_ontime">Preklop profilov baterije kot je bilo načrtovano.</string>
      <string name="power_wifi">WiFi</string>
@@ -959,7 +959,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="prompt_input_time_illegal">"Ne morem nastaviti na ta čas, zamenjajte ga in poskusite ponovno"</string>
      <string name="protection_category_dangerous_title">Tveganja (%d)</string>
      <string name="protection_category_recommend_title">Priporočene spremembe (%d)</string>
-     <string name="protection_category_security_title">Počiščeno (%d)</string>
+  <string name="protection_category_security_title">Očisti (%d)</string>
      <string name="protocol_exception_title">Diagnostika protokola omrežja</string>
      <string name="protocol_loop_back_exception_summary">Test Lokalne povratne pentlje ni uspel. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Prijava napak in pošljite poročilo s svoje naprave..</string>
      <string name="reach_daily_limit_value_body">Zmanjšajte svoj mobilni podatkovni promet.</string>
@@ -1071,7 +1071,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="summary_show_notification">"Pin Security Center's nadzor v obvestilni vrstici"</string>
      <string name="summary_telecom_operator">Pridobite svoj mesečni zakup mobilnih podatkov vašega operaterja</string>
      <string name="summary_usb">Izogibajte se virusom ki se širijo iz drugih naprav</string>
-     <string name="summary_virus">Najdenih %2$d virusev</string>
+     <string name="summary_virus">Najdenih %2$d virusov</string>
      <string name="summary_virus_cloudscan">Posodobite podrobnosti in imena aplikacij katera uporabljajo spletne informacije o virusih</string>
      <string name="summary_virus_update">Samodejno posodobite informacije virusov ko je vzpostavljena povezava z WiFi</string>
      <string name="summary_xiaomi_roaming">0.01 yuan za MB za mednarodni omrežni promet.</string>
@@ -1154,7 +1154,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="text_button">V redu</string>
      <string name="text_day" />
      <string name="text_lock_info">Narišite vzorec za odklepanje</string>
-     <string name="third_application">Aplikacije tretjih strani</string>
+  <string name="third_application">Instalirane aplikacije</string>
      <string name="three_percent_total_pkg">%s (3%% od mes. podatkov)</string>
      <string name="timeshow_h">%.1fh</string>
      <string name="timeshow_h_int">%dh</string>
@@ -1341,7 +1341,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="usage_sorted_empty_text">Prazno</string>
      <string name="usage_sorted_loading_text">Samo trenutek…</string>
      <string name="usage_type_audio">Avdio</string>
-     <string name="usage_type_cpu">CUP skupno</string>
+     <string name="usage_type_cpu">CPU skupno</string>
      <string name="usage_type_cpu_foreground">CPU v ospredju</string>
      <string name="usage_type_data_recv">Mobilni podatki prejeti</string>
      <string name="usage_type_data_send">Mobilni podatki poslani</string>
