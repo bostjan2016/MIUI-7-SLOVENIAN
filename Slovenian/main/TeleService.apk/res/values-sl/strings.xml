@@ -1191,7 +1191,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="requesting_sim_unlock">Zahtevam odklep SIM kartice...</string>
      <string name="requesting_sp_unlock">Zahtevam odklep SIM kartice ponudnika storitev...</string>
      <string name="requesting_unlock">Zahtevam odklep omrežja...</string>
-     <string name="reset_my_choice_hint">Spremenite lahko vaš privzeti internetni klicni račun v Telefon &gt > Nastavitve &gt > Internetno klicanje &gt > Računi.</string>
+     <string name="reset_my_choice_hint">Spremenite lahko vaš privzeti internetni klicni račun v Telefon &gt; Nastavitve &gt; Internetno klicanje &gt; Računi.</string>
      <string name="respond_via_sms_canned_response_1">Trenutno ne morem govoriti. Pokličite kasneje!</string>
      <string name="respond_via_sms_canned_response_2">Takoj vas pokličem nazaj.</string>
      <string name="respond_via_sms_canned_response_3">Pokličem vas pozneje.</string>
