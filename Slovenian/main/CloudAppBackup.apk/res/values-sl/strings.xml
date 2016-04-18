@@ -34,7 +34,7 @@
      <string name="cloud_app_current_device">Trenutna naprava</string>
      <string name="cloud_app_delete_data">Izbriši varnostno kopijo</string>
      <string name="cloud_app_dont_restore">Ne obnovi</string>
-     <string name="cloud_app_function_summary">Če varnostno kopirate aplikacije na Mi Cloud, jih lahko obnovite na katerokoli napravi</string>
+     <string name="cloud_app_function_summary">Če varnostno kopirate aplikacije na Mi Cloud, jih lahko obnovite na katerikoli napravi</string>
      <string name="cloud_app_invalid_op_when_removing">Podatkov v oblaku si ne morete ogledati medtem ko se brišejo</string>
      <string name="cloud_app_mine">Izberite aplikacijo za varnostno kopiranje</string>
      <string name="cloud_app_no_data">Ni podatkov</string>
@@ -59,7 +59,7 @@
      <string name="cloud_app_restore_progress">Obnavljam...</string>
      <string name="cloud_app_restore_prompt">Prepiši trenutne aplikacije in uporabniške podatke s podatki varnostne kopije</string>
      <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
-     <string name="cloud_app_restore_wifi_prompt">Za obnovitev vaših aplikacij in uporabniških podatkov se povežite na Wi-Fi omrežje</string>
+     <string name="cloud_app_restore_wifi_prompt">Za obnovitev vaših aplikacij in uporabniških podatkov se povežite na WiFi omrežje</string>
      <string name="cloud_app_total_size">Velikost: %1$s</string>
      <string name="cloud_app_version_size">Verzija %1$s, %2$s</string>
      <string name="cloud_app_wait_wifi">Čakam na Wi-Fi povezavo</string>
