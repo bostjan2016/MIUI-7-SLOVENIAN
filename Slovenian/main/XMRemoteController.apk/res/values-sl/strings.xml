@@ -107,7 +107,7 @@
   <string name="controller_list">Moj daljinec</string>
   <string name="cool_mode">Klima naprava</string>
   <string name="create_shortcut">Dodaj bližnjico na delovno površino</string>
-  <string name="create_shortcut_cancel">Ne, hvala</string>
+  <string name="create_shortcut_cancel">Ne hvala</string>
   <string name="create_shortcut_confirm">Opravi</string>
   <string name="create_shortcut_done">Uspešno opravljeno</string>
   <string name="current_place">Trenutni položaj:</string>
@@ -290,7 +290,7 @@
   <string name="logout_done">已退出登录</string>
   <string name="management_app_management">Programi</string>
   <string name="management_settings">Nastavitve</string>
-  <string name="management_video_favor">Zgodoivna in priljubljeni</string>
+  <string name="management_video_favor">Zgodovina in priljubljeni</string>
   <string name="management_video_recent_watch">Nedavno gledano</string>
   <string name="match_ac_intro_mode">Opustite ko A/C prestavi na hlajenje</string>
   <string name="match_ac_intro_power">Opustite ko se A/C izključi</string>
@@ -321,9 +321,9 @@ Vrnite se za nadaljevanje"</string>
   <string name="match_is_respond">Ali to ustreza?</string>
   <string name="match_main_tip_frame">"Usmerite daljinec na %1$s in pritisnite tipko
 Sprostite ko %1$s odgovori"</string>
-  <string name="match_mibox_first">    Mi TV najdena</string>
+  <string name="match_mibox_first">    Mi TV najden</string>
   <string name="match_mibox_sencond">    ·Kontrolirajte vašo Mi TV s to napravo.</string>
-  <string name="match_mibox_third">    ·Seznani ostale Mi naprave avtomatsko</string>
+  <string name="match_mibox_third">    ·Seznani ostale Mi naprave samodejno</string>
   <string name="match_name_power">Energija</string>
   <string name="match_number_default">Ali delajo tipke številčnice?</string>
   <string name="match_power_confirm_tip_frame">%1$s是否开机?</string>
@@ -352,7 +352,7 @@ Sprostite ko %1$s odgovori"</string>
   <string name="match_tip_stop">Ali tipka stop dela?</string>
   <string name="match_tip_tvav">Ali je spremenil vir vhoda?</string>
   <string name="match_top_tips">"Naprava potrebuje čas za delovanje,
-počakajte trenutak po opravilu"</string>
+počakajte trenutek po opravilu"</string>
   <string name="match_total_frame">%1$d skupno</string>
   <string name="match_tv_intro_ch_inc">Sprostite ko se zamenja kanal</string>
   <string name="match_tv_intro_source">Sprostite ko se zamenja vir</string>
@@ -398,7 +398,7 @@ počakajte trenutak po opravilu"</string>
   <string name="no_backup">没有发现可恢复数据</string>
   <string name="no_brand_service">Ni podatkov o znamki</string>
   <string name="no_current_play">"Predvaja se: - "</string>
-  <string name="no_data">Ni podataka</string>
+  <string name="no_data">Ni podatka</string>
   <string name="no_introduction">Ni opisa</string>
   <string name="no_ir_other_support">Še naprej lahko uporabljate svojo napravo za nadzor Mi TV-a ali Mi Box-a preko WiFi-ja.</string>
   <string name="no_ir_support">Infrardeče ni podprto</string>
@@ -480,7 +480,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_error_unknown">"Ne morem se prijaviti"</string>
   <string name="passport_error_user_name">Neveljavno uporab. ime</string>
   <string name="passport_error_verify_code">Vnešena koda ni pravilna</string>
-  <string name="passport_failed_to_send_activate_email">"Ne morem poslati e-pošto za aktivacijo"</string>
+  <string name="passport_failed_to_send_activate_email">"Ne morem poslati e-pošte za aktivacijo"</string>
   <string name="passport_find_password_on_web_msg">Pojdite na account.mi.com da ponastavite svoje geslo.</string>
   <string name="passport_forget_password">Pozabljeno geslo</string>
   <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
@@ -520,7 +520,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_quick_login_step2_title">Kontrola v 2 fazah</string>
   <string name="passport_quick_login_title">Vnesite vaše geslo</string>
   <string name="passport_re_get_verify_code">Ponovno pridobite kodo</string>
-  <string name="passport_re_register">Prijavite se ponovo</string>
+  <string name="passport_re_register">Prijavite se ponovno</string>
   <string name="passport_recycle_account_prompt">Je to vaš Mi Račun?</string>
   <string name="passport_reg_failed">"Ne morem ustvariti računa"</string>
   <string name="passport_reg_new">Naredi Mi Račun</string>
@@ -543,7 +543,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_register_restricted_title">"Can't use this phone number"</string>
   <string name="passport_reject_recycle_account">Nope</string>
   <string name="passport_relogin">Prijavi se ponovno</string>
-  <string name="passport_relogin_notice">Morate se prijaviti ponovno</string>
+  <string name="passport_relogin_notice">Morate se ponovno prijaviti </string>
   <string name="passport_remove_account_notice">Kako boste upravljali s stiki in beležkami po ukinitvi računa?</string>
   <string name="passport_remove_confirm">Odjava</string>
   <string name="passport_remove_unactivated_account_notice">"Vaš račun še ni aktiviran."</string>
@@ -573,7 +573,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_vcode_prompt_long">Vnesite kontrolno kodo</string>
   <string name="passport_verification_failed">Verifikacija ni uspela</string>
   <string name="passport_verify">Preveri</string>
-  <string name="passport_wait_for_sms_prompt">"Začnem od začetka? Izročanje sporočila lahko traja do 10 minut kadar je telefon v dosegu omrežja vašega operaterja."</string>
+  <string name="passport_wait_for_sms_prompt">"Začnem od začetka? Dostavljanje sporočila lahko traja do 10 minut kadar je telefon v dosegu omrežja vašega operaterja."</string>
   <string name="passport_wrong_captcha">Vnešena koda ni pravilna</string>
   <string name="passport_wrong_password">Geslo ni pravilno</string>
   <string name="passport_wrong_phone_number_format">Oblika številke telefona ki ste jo vnesli ni veljavna</string>
@@ -594,13 +594,13 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="power_on">Vklj.</string>
   <string name="press_to_continue_match">Pritisnite za nadaljevanje</string>
   <string name="press_to_match">Pritisnite za seznanitev</string>
-  <string name="privacy_content">"Preberite Xiaomi Pravila o zasebnosti in Uporabniški Sporazum pred uporabo Mi Remote. Aplikaciji je potreben doisto do interneta in usluga lociranja da dela normalno.</string>
+  <string name="privacy_content">"Preberite Xiaomi Pravila o zasebnosti in Uporabniški Sporazum pred uporabo Mi Remote. Aplikaciji je potreben dostop do interneta in storitev lociranja da dela normalno.</string>
   <string name="privacy_nohit">"Ne prikazuj ponovno"</string>
   <string name="privacy_title">Pravila in pogoji</string>
   <string name="projection_failed_for_disconnect">Ni seznanjeno</string>
   <string name="province">Pokrajina</string>
   <string name="pull_down_refresh">Povlecite dol za osvežitev</string>
-  <string name="pull_up_refresh">Povucite gor za osvežitev</string>
+  <string name="pull_up_refresh">Povlecite gor za osvežitev</string>
   <string name="push_add">Najden deljeni daljinski upravljalnik</string>
   <string name="push_add_desc">Upravljam z %1$s s pomočjo tega daljinca?</string>
   <string name="rc">Upravljalnik</string>
@@ -675,7 +675,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="share_fail">"Ne morem deliti"</string>
   <string name="share_friends_cancel">Prekini</string>
   <string name="share_friends_confirm">V redu</string>
-  <string name="share_friends_none_text">Bez prijatelja.</string>
+  <string name="share_friends_none_text">Brez prijateljev.</string>
   <string name="share_friends_not_find_text">Najdi prijatelje</string>
   <string name="share_friends_search_hint_text">Išči</string>
   <string name="share_friends_title">Deli preko Mi Talk</string>

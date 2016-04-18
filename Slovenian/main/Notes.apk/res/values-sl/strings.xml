@@ -28,7 +28,7 @@
      <string name="dlg_title_confirm_alarm_silent">Utišaj budilke</string>
      <string name="enable_sync">Sinhroniziraj</string>
      <string name="enable_sync_desc">Sinhroniziraj svoje beležke s svojim Mi računom (%1$s)?</string>
-     <string name="error_contact_not_exist">Stiki ne obstaja</string>
+     <string name="error_contact_not_exist">Stik ne obstaja</string>
      <string name="error_note_empty_for_clock">Opomnika ni mogoče nastaviti za prazno opombo</string>
      <string name="error_note_empty_for_send_to_desktop">Prazne opombe ne morete odložiti na domač zaslon</string>
      <string name="error_note_not_exist">Opomba ne obstaja</string>
@@ -84,7 +84,7 @@
      <string name="sina_share_pendding">Pošiljam...</string>
      <string name="sina_share_success">Poslano</string>
      <string name="sina_token_expired_warning">Weibo račun je pretekel: Prosim ponovno povežite</string>
-     <string name="sina_token_invalid_warning">Weibo account is invalid: Prosim ponovno povežite</string>
+     <string name="sina_token_invalid_warning">Weibo račun je neveljaven: Prosim ponovno povežite</string>
      <string name="snippet_image_stub">[Slika]</string>
      <string name="snippet_image_template">[Slika %1$s]</string>
      <string name="sns_action_send">Pošlji</string>
@@ -95,7 +95,7 @@
      <string name="sns_desc_preview_wechat">Predogled WeChat sporočila</string>
      <string name="sns_desc_preview_weibo">Predogled Weibo sporočila</string>
      <string name="sns_footer_text">Narejeno z Mi Notes</string>
-     <string name="sns_hint_content">V čem razmišljaš?</string>
+     <string name="sns_hint_content">O čem razmišljaš?</string>
      <string name="sns_hint_title">Tema (po želji)</string>
      <string name="sns_message_disconnect">Ni se mogoče povezati z omrežjem. Preveri povezavo in poskusi kasneje.</string>
      <string name="sns_title_edit">Spremeni naslov</string>
@@ -105,8 +105,8 @@
      <string name="sync_tips">Dotaknite se za sinhr. beležk z Mi Cloudom.</string>
      <string name="toast_folder_privacy_mode">Ni mogoče spremeniti mape v načinu za goste</string>
      <string name="toast_message_add_image_fail">Ni bilo mogoče dodati slike</string>
-     <string name="toast_message_add_text_warn">"Ta vrsta datoteka ni podprta"</string>
-     <string name="toast_note_privacy_mode">V načinu Gosta opombe ni mogoče ustvariti.</string>
+     <string name="toast_message_add_text_warn">"Ta vrsta datoteke ni podprta"</string>
+     <string name="toast_note_privacy_mode">V načinu Gost opombe ni mogoče ustvariti.</string>
      <string name="toast_reach_text_limit_attachment">Opomba je prevelika, priponke ni mogoče dodati</string>
      <string name="toast_reach_text_limit_truncate">Opomba je predolga. Nekaj besedila je bilo izrezanega.</string>
      <string name="undo">Razveljavi</string>
