@@ -57,6 +57,10 @@
      <string-array name="long_add_menu">
         <item>Dodaj v izjeme</item>
      </string-array>
+     <string-array name="scan_engine">
+        <item>Clean Master</item>
+        <item>Tencent</item>
+     </string-array>
      <string-array name="trash_clean_menu">
         <item>Očisti to datoteko</item>
         <item>"Prikaži lokacijo datoteke"</item>
