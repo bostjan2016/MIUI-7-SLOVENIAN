@@ -11,8 +11,8 @@
      <string name="drawer_close">Skrij korene</string>
      <string name="drawer_open">Pokaži korene</string>
      <string name="empty">Ni elementov</string>
-     <string name="menu_advanced_hide">Skrij notranjo shrambo</string>
-     <string name="menu_advanced_show">Pokaži notranjo shrambo</string>
+     <string name="menu_advanced_hide">Skrij notranji pomnilnik</string>
+     <string name="menu_advanced_show">Pokaži notranji pomnilnik</string>
      <string name="menu_copy">Kopiraj v …</string>
   <string name="menu_create_dir">Napravi mapo</string>
      <string name="menu_delete">Izbriši</string>

@@ -26,9 +26,9 @@
      <string name="find_device_notice_p1">Pojdite na</string>
      <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">" da najdete, zaklenite, ali zbrišete svojo napravo na daljavo.
-Če zamenjate SIM kartice, bo poslano še eno SMS sporočilo za ponovno aktiviranje te funkcije."</string>
+Če zamenjate SIM kartico bo poslano še eno SMS sporočilo za ponovno aktiviranje te funkcije."</string>
      <string name="find_device_stop_noise">Dotaknite se V redu da utišate</string>
-     <string name="find_device_storage_corrupted">Prostor za shrambo Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
+     <string name="find_device_storage_corrupted">Prostor za shranjevanje Najdi napravo je poškodovan. Vaša naprava ni več varna.</string>
      <string name="find_device_success_title">Najdi napravo</string>
      <string name="i_know">V redu</string>
      <string name="lock_msg_phone">Kontakt informacije: %s</string>
@@ -36,7 +36,7 @@
      <string name="login_failed">"Ne morem se prijaviti. %s."</string>
      <string name="passport_checking_vcode">Kontrola gesla…</string>
      <string name="passport_error_empty_vcode">Vnesite kontrolno kodo</string>
-     <string name="passport_notification_need_unlock_again">Poiskusite ponovno odkleniti</string>
+     <string name="passport_notification_need_unlock_again">Poskusite odkleniti ponovno </string>
      <string name="passport_notification_processing">Obdelava…</string>
      <string name="passport_trust_device">Zaupaj tej napravi</string>
      <string name="passport_vcode_prompt_long">Vnesite kontrolno kodo</string>
@@ -45,7 +45,7 @@
      <string name="phone_locked">Ta naprava je morda povezana z obstoječim Mi Računom (%s). Prijavite se da aktivirate to napravo.</string>
      <string name="stop_on_empty_captcha">"Captcha polje ne sme biti prazno"</string>
      <string name="stop_on_empty_password">"Polje geslo ne sme biti prazno"</string>
-     <string name="time_correction_failure">"Ne morem popraviti čas. %s"</string>
+     <string name="time_correction_failure">"Ne morem popraviti časa. %s"</string>
      <string name="time_correction_failure_network">Napaka omrežja</string>
      <string name="time_correction_failure_no_ntp">"NTP strežniki niso dostopni"</string>
      <string name="time_correction_success">Čas je popravljen</string>

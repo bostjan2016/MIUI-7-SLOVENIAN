@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="tags_description">
-        <item quantity="other">aplikacija</item>
+        <item quantity="other">aplikacij</item>
         <item quantity="one">aplikacija</item>
     </plurals>
     <plurals name="play_description">

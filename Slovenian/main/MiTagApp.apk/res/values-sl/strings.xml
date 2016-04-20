@@ -36,7 +36,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="communication">Telefon</string>
   <string name="config_name_hint">Ime</string>
   <string name="connect_to">Poveži na %s</string>
-  <string name="contact">Deli kontakt</string>
+  <string name="contact">Stik v skupni rabi</string>
   <string name="contact_address">Naslov</string>
   <string name="contact_card">Ime stika</string>
   <string name="contact_company">Podjetje</string>
@@ -63,7 +63,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="email_subject">Zadeva</string>
   <string name="email_to">Prejemnik</string>
   <string name="empty_tag">Ta oznaka je prazna</string>
-  <string name="enable_wifi">WLAN</string>
+  <string name="enable_wifi">WiFi</string>
   <string name="erase_pon_pon_tile">Izbriši oznako</string>
   <string name="erase_success">Izbrisano</string>
   <string name="erasing">Brisanje…</string>
@@ -94,11 +94,11 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="hint_input_subject">Predmet</string>
   <string name="hint_input_web_label">Ime spletne strani</string>
   <string name="hint_input_web_url">URL</string>
-  <string name="hint_wifi_password">Vnesite geslo WLAN-a</string>
-  <string name="inconsistent_password">Nedosljedno geslo, poskusite ponovno</string>
-  <string name="input_new_password">Vnesite novo geslo (4 številke)</string>
+  <string name="hint_wifi_password">Vnesite geslo WiFi-ja</string>
+  <string name="inconsistent_password">Netočno geslo, poskusite ponovno</string>
+  <string name="input_new_password">Vnesite novo geslo (4 mestno)</string>
   <string name="input_old_password">Vnesite shranjeno geslo</string>
-  <string name="input_password">Vnesite geslo (4 številke)</string>
+  <string name="input_password">Vnesite geslo (4 mestno)</string>
   <string name="input_password_gain">Ponovno vnesite geslo</string>
   <string name="input_password_warning">"Geslo bo zapisano na oznako"</string>
   <string name="local_app">Prejeto</string>
@@ -112,7 +112,7 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="new_config">Nove naloge</string>
   <string name="new_configures">Nove konfiguracije</string>
   <string name="no_available_networks">Ni dostopnih omrežji</string>
-  <string name="no_available_networks_summary">Poizkušajte ponovno po vzpostavitvi povezave.</string>
+  <string name="no_available_networks_summary">Poskušajte ponovno po vzpostavitvi povezave.</string>
   <string name="no_available_xiaomi_shop">"Ne morem odpreti Mi App Market"</string>
   <string name="not_save_btn">Ne</string>
   <string name="notification_value">Obvestila %s%%</string>
@@ -130,16 +130,16 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="phone_to_tag">Za ureditev oznake,</string>
   <string name="pick_contact">Izberi stik</string>
   <string name="pick_contacts">Izberi stike</string>
-  <string name="play_music_desc">Predvajaj/premor glasbo</string>
+  <string name="play_music_desc">Predvajanje/premor glasbe</string>
   <string name="play_song">Predvajaj pesem</string>
   <string name="preference">Nastavitve</string>
   <string name="pwd_alert">Nastavi geslo</string>
   <string name="pwd_pref">Zaščitite oznako pred prepisovanjem</string>
-  <string name="pwd_pref_desc">Potrebno je geslo predno uporabniki lahko pišejo na oznako NFC 21 serije</string>
-  <string name="read_a_tag">Preberi oznaku</string>
+  <string name="pwd_pref_desc">Potrebno je geslo preden uporabniki lahko pišejo na oznako NFC 21 serije</string>
+  <string name="read_a_tag">Preberi oznako</string>
   <string name="reading">Branje…</string>
   <string name="remote_app">Čakanje na prenos…</string>
-  <string name="remove_alert">Izbrišem izbrano nalogo?</string>
+  <string name="remove_alert">Izbrišem izbrane naloge?</string>
   <string name="ringer_mode">Način zvonenja</string>
   <string name="ringer_normal">Zvonenje</string>
   <string name="ringer_silent">Tiho</string>
@@ -153,16 +153,16 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="select_all">Izberi vse</string>
   <string name="select_app">Izberi aplikacijo</string>
   <string name="select_config">Nova naloga</string>
-  <string name="send_email">Pošlji e-poštu</string>
+  <string name="send_email">Pošlji e-pošto</string>
   <string name="send_sms">Pošlji SMS sporočilo</string>
   <string name="send_sms_to">Prejemniki</string>
   <string name="set_alarm">Nastavi alarm</string>
   <string name="set_now">Nastavi</string>
   <string name="settings">Nastavitve</string>
-  <string name="share">Deli</string>
-  <string name="share_content">"Jaz sem *%1$s* pisal na Mi NFC oznaku. Da preberete, se dotaknite z zadnjo stranjo telefona. Prenesite aplikacijo od tu: http://app.xiaomi.com/detail/56946"</string>
-  <string name="share_subject">Deli aplikacijo: %1$s</string>
-  <string name="share_wifi">Deli WLAN</string>
+  <string name="share">Skupna raba</string>
+  <string name="share_content">"Jaz sem *%1$s* pisal na Mi NFC oznako. Da preberete se dotaknite z zadnjo stranjo telefona. Prenesite aplikacijo od tu: http://app.xiaomi.com/detail/56946"</string>
+  <string name="share_subject">Skupna raba aplikacije: %1$s</string>
+  <string name="share_wifi">Skupna raba WiFi</string>
   <string name="shortcut">Bližnjice</string>
   <string name="sleep_mode">Ne moti</string>
   <string name="sms_content">Sporočilo</string>
@@ -173,21 +173,21 @@ se dotaknite z zadnjo stranjo telefona"</string>
   <string name="sound_ringer">Zvonenje</string>
   <string name="sound_voice">Glasnost klica</string>
   <string name="start_configuration">Oblikuj oznako</string>
-  <string name="sure_to_delete_user_config">Izbriši nalogo?</string>
+  <string name="sure_to_delete_user_config">Izbrišem nalogo?</string>
   <string name="tag_history">Zgodovina</string>
   <string name="tag_history_date_format">M/d</string>
   <string name="task">Naloge bližnjice</string>
   <string name="ten_minutes">10 min.</string>
   <string name="thir_seconds">30 sek.</string>
-  <string name="toast_import_failed">"Kontakta ne morem uvoziti"</string>
+  <string name="toast_import_failed">"Stika ne morem uvoziti"</string>
   <string name="toggle">Bližnjica</string>
   <string name="torch">Svetilka</string>
   <string name="total_read_tag">Prebranih oznak:</string>
   <string name="total_write_tag">Napisano oznak:</string>
   <string name="touch_and_erase_more">"Za brisanje druge kopije,
-se dotaknite z zadnjo stranjo telefona drugo oznako."</string>
+dotaknite drugo oznako z zadnjo stranjo telefona."</string>
   <string name="touch_and_write_more">"Za pisanje druge kopije,
-se dotaknite z zadnjo stranjo telefona drugo oznako."</string>
+dotaknite drugo oznako z zadnjo stranjo telefona."</string>
   <string name="two_minutes">2 min.</string>
   <string name="unavailable_net">"Ne morem se povezati na omrežje"</string>
   <string name="unavailable_storage">"Ne morem uporabljati SD kartice"</string>
@@ -196,12 +196,12 @@ se dotaknite z zadnjo stranjo telefona drugo oznako."</string>
   <string name="user_configs">Moje naloge</string>
   <string name="vibrate_mode">Vibriranje</string>
   <string name="vibrate_off">Vibriranje izključeno</string>
-  <string name="vibrate_on">Vibriranje uključeno</string>
+  <string name="vibrate_on">Vibriranje vključeno</string>
   <string name="voice_call_value">Glasnost klica %s%%</string>
-  <string name="volume">Jakopst</string>
+  <string name="volume">Jakost</string>
   <string name="web_label">Spletni napis (opcija)</string>
   <string name="web_url">URL</string>
-  <string name="wifi">WLAN</string>
+  <string name="wifi">WiFi</string>
   <string name="wireless_network">Bežično &amp; omrežje</string>
   <string name="write_a_tag">Napiši oznako</string>
   <string name="write_pon_pon_tile">Napiši oznake</string>
@@ -209,10 +209,10 @@ se dotaknite z zadnjo stranjo telefona drugo oznako."</string>
   <string name="write_tag">Napiši oznako</string>
   <string name="writing">Zapisovanje</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, prosim preverite SD kartico.</string>
+  <string name="xiaomi_external_storage_unavailable">Pomnilnik ni dostopen, prosim preverite SD kartico.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
-  <string name="xiaomi_update_dialog_message">"Predstavljamo verziju %1$s
+  <string name="xiaomi_update_dialog_message">"Predstavljamo verzijo %1$s
 Velikost: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Predstavljamo verzijo %1$s
 Velikost delta posodobitve: %2$s"</string>
