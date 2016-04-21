@@ -76,8 +76,8 @@
   <string name="clubber_info">Detajli obiskovalcev</string>
      <string name="cnlive">cnlive</string>
      <string name="comment">Komentarji</string>
-     <string name="comment_count_less_tip">Komentar mora biti dolg minimalno %d znakov</string>
-     <string name="comment_count_much_tip">Komentar ne sme presegati %d znakov</string>
+     <string name="comment_count_less_tip">Komentar mora imeti najmanj %1$s znakov</string>
+     <string name="comment_count_much_tip">Komentar ne sme presegati %1$s znakov</string>
      <string name="comment_edit_et_hint">Vnesi komentar</string>
      <string name="comment_edit_start_hint">Če hočeš oceniti se dotakni zvezd</string>
      <string name="connect_error">Napaka povezave</string>
@@ -371,7 +371,7 @@
      <string name="unfavorite">Odstrani zvezdo</string>
      <string name="unknown_source">Neznan vir</string>
      <string name="update">Posodobljeno</string>
-     <string name="update_to_count_ji">Posodobljeno na Ep. %d</string>
+     <string name="update_to_count_ji">Posodobljeno na Ep. %1$s</string>
      <string name="update_to_count_qi">Posodobljeno na %s</string>
      <string name="updatedalready">Posodobljeno</string>
      <string name="upgrade">Nadgradnja</string>
@@ -458,6 +458,7 @@
      <string name="vp_mobile_network_using_warning">Uporaba mobilne podatkovne povezave za gledanje videozapisov bo povečala uporabo podatakov. Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
      <string name="vp_mobile_network_using_warning_line_1">Uporaba mobilne podatkovne povezave za gledanje videozapisov bo povečala uporabo podatakov.</string>
      <string name="vp_mobile_network_using_warning_line_2">Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
+     <string name="vp_more_show_video">Pokaži reklame</string>
      <string name="vp_mplayer_error_io">IO napaka delovanja</string>
      <string name="vp_mplayer_error_malformed">Nedelujoča medijska vsebina</string>
      <string name="vp_mplayer_error_server_died">Napaka strežnika</string>

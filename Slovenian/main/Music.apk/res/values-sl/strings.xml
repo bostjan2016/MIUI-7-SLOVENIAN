@@ -144,7 +144,7 @@
      <string name="dialog_hint_music_error">Ni najdenih skaldb.</string>
 	 <string name="dialog_insufficient_space_on_cache">Ne morem dokončati prenosa. Ni dovolj prostora v notranji shrambi.</string>
      <string name="dialog_insufficient_space_on_external">Ne morem dokončati prenosa. Ni dovolj prostora v zunanji shrambi.</string>
-     <string name="dialog_media_not_found">Ne morem prenesti. zunanji medij ni dostopen.</string>
+     <string name="dialog_media_not_found">Ne morem prenesti. Zunanji medij ni dostopen.</string>
      <string name="dialog_not_show_again">"Ne prikazuj ponovno"</string>
      <string name="dialog_queued_body">Ta datoteka je v čakalni vrsti za prenos.</string>
      <string name="dialog_title_add_playlist">Dodaj seznam predvajanja</string>
@@ -272,7 +272,7 @@
      <string name="error_unauthorized">Sinhronizacija je bila izključena zaradi preveč poskusov prijave.</string>
      <string name="expired">Pretečeno</string>
      <string name="expires">Poteče ta mesec:</string>
-     <string name="fail_to_play">Ne morem predvajati skladbe</string>
+     <string name="fail_to_play">Ne more predvajati skladbe</string>
      <string name="favorite_canceled">Odstrani iz priljubljenih</string>
      <string name="favorite_playlist">Priljubljeno</string>
      <string name="favorite_singer">Priljubljeni pevci</string>
@@ -314,7 +314,7 @@
      <string name="home_tab_online">Otkrijte</string>
      <string name="i_know">V redu</string>
      <string name="i_know_it">V redu</string>
-     <string name="impunity_declaration_content1">"Z dotikom Strinjam se pristajate na pogoje navedene v našem "</string>
+     <string name="impunity_declaration_content1">"Z dotikom Strinjam se, pristajate na pogoje navedene v našem "</string>
      <string name="impunity_declaration_content2">Uporabniškem Sporazumu</string>
      <string name="impunity_declaration_content3">" in "</string>
      <string name="impunity_declaration_content4">Pravilih o zasebnosti</string>
@@ -463,7 +463,7 @@
      <string name="notification_download_failed_more">"Ne morem prenesti %1$d predmetov"</string>
      <string name="notification_download_success_more">%1$d prenešeno</string>
      <string name="notification_headset_custom">Zavrzi</string>
-     <string name="notification_headset_info">Dotaknite se za prikaz postavk.</string>
+     <string name="notification_headset_info">Dotaknite se za prikaz nastavitev.</string>
      <string name="notification_headset_settings">Slušalke priključene</string>
 	 <string name="notification_need_wifi_for_size">Potreben WiFi za velikost prenosa</string>
      <string name="notification_title_no_song">"Preverite kaj drugi poslušajo!"</string>
@@ -506,7 +506,7 @@
 	 <string name="power_save_mode_dialog_msg">Naprava je v varčnem načinu dela. Zaženem prenos?</string>
      <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
      <string name="pref_summary_any_bytes_popup">Vedno počakaj WiFi povezavo za prenos datotek</string>
-     <string name="pref_summary_enable_max_bytes_popup">Prikaži skočno obvestiloko se uporablja mobilna podatkovna povezava za prenos vsebine</string>
+     <string name="pref_summary_enable_max_bytes_popup">Prikaži skočno obvestilo ko se uporablja mobilna podatkovna povezava za prenos vsebine</string>
      <string name="pref_summary_max_bytes_limit_format">Počakaj na WiFi če velikost datoteke preseže %s</string>
      <string name="pref_summary_no_limit_popup">Neomejeno</string>
      <string name="pref_title_enable_max_bytes_popup">Prikaži opozorilo uporabe podatkov</string>
@@ -520,7 +520,7 @@
      <string name="privacy_notif_title">Xunlei Download Accelerator je vključen</string>
      <string name="privacy_tip_cancel">Prekini</string>
      <string name="privacy_tip_content">"Uporabim Xunlei Accelerator za pospešek prenosa? URL lastnika prenosa bo prenešen na Xunlei strežnik. Podrobnosti vašega Mi Računa bodo prenešene zaradi kontrole naročenine na storitev."</string>
-     <string name="privacy_tip_ok">Vredu</string>
+     <string name="privacy_tip_ok">V redu</string>
      <string name="privacy_tip_title">Uporabim Xunlei Accelerator?</string>
      <string name="project_device">Mi Phone</string>
      <string name="project_device_mobile">Mobilna naprava</string>

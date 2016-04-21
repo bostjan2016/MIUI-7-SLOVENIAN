@@ -290,7 +290,7 @@
   <string name="logout_done">已退出登录</string>
   <string name="management_app_management">Programi</string>
   <string name="management_settings">Nastavitve</string>
-  <string name="management_video_favor">Zgodovina in priljubljeni</string>
+  <string name="management_video_favor">Zgodovna in priljubljeni</string>
   <string name="management_video_recent_watch">Nedavno gledano</string>
   <string name="match_ac_intro_mode">Opustite ko A/C prestavi na hlajenje</string>
   <string name="match_ac_intro_power">Opustite ko se A/C izključi</string>
@@ -675,7 +675,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="share_fail">"Ne morem deliti"</string>
   <string name="share_friends_cancel">Prekini</string>
   <string name="share_friends_confirm">V redu</string>
-  <string name="share_friends_none_text">Brez prijateljev.</string>
+  <string name="share_friends_none_text">Bez prijateljev.</string>
   <string name="share_friends_not_find_text">Najdi prijatelje</string>
   <string name="share_friends_search_hint_text">Išči</string>
   <string name="share_friends_title">Deli preko Mi Talk</string>

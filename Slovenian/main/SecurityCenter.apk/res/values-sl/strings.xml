@@ -614,6 +614,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="no_network_btn">Poskusite ponovno</string>
      <string name="none_mi_service_app_detail">Prazno</string>
      <string name="notification_button_text_of_low_memory">Čiščenje</string>
+     <string name="notification_item">Vključite zaklepanje aplikacij</string>
      <string name="notification_summary_cmcc_app_check">Dotakni se za prikaz podrobnosti.</string>
      <string name="notification_title_cmcc_app_check">Dni (%d) od zadnjega pregleda</string>
      <string name="notification_title_firewall_blocked">Blokirano</string>
@@ -677,7 +678,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
   <string name="pm_auto_start_by_other_app">Dvoli aplikaciji da bo zagnana s strani druge aplikacije</string>
   <string name="pm_auto_start_basic_services_lock">Zakleni</string>
   <string name="pm_auto_start_basic_services_unlock">Odkleni</string>
-  <string name="pm_auto_start_by_basic_services">Osnovne usluge</string>
+  <string name="pm_auto_start_by_basic_services">Osnovne storitve</string>
      <string name="pm_auto_start_by_other_services">Poskusite izključiti te storitve</string>
      <string name="pm_auto_start_by_system">Zaženi aplikacije</string>
      <string name="pm_auto_start_by_system_event">Dovoli aplikacijam samod. zagon</string>
@@ -1071,7 +1072,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="summary_show_notification">"Pin Security Center's nadzor v obvestilni vrstici"</string>
      <string name="summary_telecom_operator">Pridobite svoj mesečni zakup mobilnih podatkov vašega operaterja</string>
      <string name="summary_usb">Izogibajte se virusom ki se širijo iz drugih naprav</string>
-     <string name="summary_virus">Najdenih %2$d virusov</string>
+     <string name="summary_virus">Odstranite viruse da naprava ostane varna</string>
      <string name="summary_virus_cloudscan">Posodobite podrobnosti in imena aplikacij katera uporabljajo spletne informacije o virusih</string>
      <string name="summary_virus_update">Samodejno posodobite informacije virusov ko je vzpostavljena povezava z WiFi</string>
      <string name="summary_xiaomi_roaming">0.01 yuan za MB za mednarodni omrežni promet.</string>
@@ -1154,7 +1155,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="text_button">V redu</string>
      <string name="text_day" />
      <string name="text_lock_info">Narišite vzorec za odklepanje</string>
-  <string name="third_application">Instalirane aplikacije</string>
+  <string name="third_application">Nameščene aplikacije</string>
      <string name="three_percent_total_pkg">%s (3%% od mes. podatkov)</string>
      <string name="timeshow_h">%.1fh</string>
      <string name="timeshow_h_int">%dh</string>

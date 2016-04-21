@@ -171,6 +171,11 @@
      <string name="confirm_phone_number_dialog_title">Potrdi številko telefona</string>
   <string name="confirm_unbind">Prekinem povezavo s tem računom?</string>
      <string name="continue_action">Nadaljuj</string>
+	 <string name="cta_declaration_agree_and_continue">Strinjam se</string>
+     <string name="cta_declaration_exit">Izhod</string>
+     <string name="cta_declaration_ignore">Ignoriraj</string>
+     <string name="cta_declaration_message">"Če se hočete povezati s svojim Mi Računom se morate povezati s spletom, locirati svojo napravo in vključiti Mi Cloud. Za izdelavo var. kopije vaših osobnih podatkov, ta aplikacija potrebuje dostop do stikov, SMS in MMS sporočil, zgodovine klicev in zapisov. Podatke ne bomo uporabljali za komercialne namene ali jih delili tretjim osebam. Po prijavi v Mi Račun, Mi VIP in Storitev številk se bo povezal na splet."</string>
+     <string name="cta_declaration_title">Pogoji uporabe</string>
      <string name="current_location_title">Trenutna lokacija</string>
      <string name="data_keep_in_device">Ostani na tej napravi</string>
      <string name="data_wipe_from_device">Izbriši iz te naprave</string>
@@ -212,6 +217,7 @@
      <string name="get_device_list_failed">Ne morem pridobiti naprave</string>
      <string name="get_phone_verifycode_exceed_limit">Preveč poslanih kod za potrjevanje na ta naslov e-pošte. Počakajte 24 ur in poskusite ponovno.</string>
      <string name="ignore">Ne sedaj</string>
+	 <string name="i_know">Vem</string>
   <string name="hide_mibi_info">Podatki Mi Kreditov so skriti</string>
      <string name="input_captcha_hint">Vnesi kodo</string>
      <string name="input_email_address_notice">"Ta naslov e-pošte bo uporabljen za potrjevanje vašega računa"</string>
@@ -271,6 +277,8 @@
      <string name="passport_app_name">Mi Račun</string>
      <string name="passport_area_code_hot">Pogosto se uporablja</string>
      <string name="passport_area_code_title">Koda države</string>
+	 <string name="passport_auto_generate_pwd">Generiraj varnostno geslo</string>
+     <string name="passport_back">Nazaj</string>
      <string name="passport_bad_authentication">Neveljavno uporabniško ime ali geslo</string>
      <string name="passport_btn_return">Nazaj</string>
      <string name="passport_button_cancel">Prekliči</string>
@@ -289,6 +297,7 @@
      <string name="passport_confirm">Potrdi</string>
      <string name="passport_confirm_recycle_account">Da</string>
      <string name="passport_delete_account">Izpiši se</string>
+	 <string name="passport_downlink_reg">Izdelajte račun z uporabo številke telefona</string>
      <string name="passport_dspt_provision">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Theme Store in druge storitve MI od koderkoli.</string>
      <string name="passport_dspt_provision2">Preberite več</string>
      <string name="passport_email">E-poštni naslov</string>
@@ -318,6 +327,7 @@
      <string name="passport_error_user_name">Neveljavno uporabniško ime</string>
      <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
      <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski email</string>
+	 <string name="passport_find_device_activate_account">Aktiviraj račun</string>
      <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
      <string name="passport_forget_password">Pozabljeno geslo</string>
      <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
@@ -338,13 +348,16 @@
      <string name="passport_login">Vpiši se</string>
      <string name="passport_login_check_find_device">Preverjanje statusa Najdi napravo…</string>
      <string name="passport_login_check_find_device_failed">"Ne morem preveriti statusa 'Najdi napravo'. Preverite povezavo."</string>
+	 <string name="passport_login_check_find_device_failed_message">Preverite omrežno povezavo.</string>
      <string name="passport_login_failed">Ne morem se vpisati</string>
      <string name="passport_login_find_device_bind">Ta naprava je povezana z obstoječo ID Mi Računa (%s). Prijavite se za aktivacijo te naprave.</string>
      <string name="passport_login_instead_reg">Uporabi to telefonsko številko</string>
      <string name="passport_login_instead_reg_with_email">Uporabi ta Email</string>
      <string name="passport_login_notice">Vpisujem se...</string>
+	 <string name="passport_login_prompt">En Mi Račun. Vse Mi storitve.</string>
      <string name="passport_login_short">Prijavite se</string>
      <string name="passport_login_title">Prijavite se v svoj Mi račun</string>
+	 <string name="passport_login_using_other_ways">Drugi načini za prijavo</string>
      <string name="passport_login_with_email_or_id">Vpiši se z e-poštnim računom ali Mi Račun ID</string>
      <string name="passport_next">Naslednja</string>
      <string name="passport_notification_title">Napaka pri vpisu v %1$s</string>
@@ -354,6 +367,8 @@
      <string name="passport_prev">Nazaj</string>
      <string name="passport_privacy_policy">Pravilnik o zasebnosti</string>
      <string name="passport_provision_skip_login">Preskoči</string>
+	 <string name="passport_pwd_generate_failure">"Ne morem generirati gesla"</string>
+     <string name="passport_pwd_generating">Generiranje…</string>
      <string name="passport_quick_login_dialog_step2_title">2 stopenjsko preverjanje</string>
      <string name="passport_quick_login_dialog_title">Ponovi geslo</string>
      <string name="passport_quick_login_step2_title">2 stopenjsko preverjanje</string>
@@ -361,8 +376,10 @@
      <string name="passport_re_get_verify_code">Ponovno pridobi kodo</string>
      <string name="passport_re_register">Prijavite se znova</string>
      <string name="passport_recycle_account_prompt">Je to vaš Mi Račun?</string>
+	 <string name="passport_reg_btn_using_other_phone">Uporabi alternativno številko telefona</string>
      <string name="passport_reg_failed">Ne morem nastaviti računa</string>
      <string name="passport_reg_new">Ustvari Mi Račun</string>
+	 <string name="passport_reg_prompt">"Nimate Mi Računa? Kreirajte ga brezplačno."</string>
      <string name="passport_reg_sms_send_prompt">Pošlji potrditveno kodo na %s</string>
      <string name="passport_reg_success">Račun ustvarjen</string>
      <string name="passport_reg_success_summary">%1$s je bil povezan z vašim računom. Lahko ga uporabite da se prijavite ali ponastavite geslo.</string>
@@ -392,6 +409,8 @@
      <string name="passport_restart">Začni ponovno</string>
      <string name="passport_restart_register_prompt">Lahko bo potrebno še eno sporočilo za potrditev da izdelate svoj račun.</string>
      <string name="passport_restart_register_title">Izdelaj Mi Račun</string>
+	 <string name="passport_retry">Poskusi ponovno</string>
+     <string name="passport_select_reg_ways_title">Drugi načini za prijavo</string>
      <string name="passport_send_too_many_code">Preveč kod za preverjanje poslano na to številko. Počakajte 24 ur in poskusite ponovno.</string>
      <string name="passport_setting">Nastavljanje…</string>
      <string name="passport_sim_index_info">SIM kartica %1$d - %2$s</string>
@@ -401,6 +420,11 @@
      <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
      <string name="passport_title_reg">Ustvari račun</string>
      <string name="passport_trust_device">Zaupana naprava</string>
+	 <string name="passport_uplink_reg">Uporabi številko telefona</string>
+     <string name="passport_uplink_slot1_reg">Uporabi SIM 1</string>
+     <string name="passport_uplink_slot2_reg">Uporabi SIM 2</string>
+     <string name="passport_use_generated_pwd_message">Poskrbite da si boste zapomnili svoje geslo. Lahko jo uporabite za prijavo na druge Mi storitve.</string>
+     <string name="passport_use_generated_pwd_title">Zapomnite si vaše geslo!</string>
      <string name="passport_user_agreement">Sporazum o uporabniku</string>
      <string name="passport_user_agreement_p1">Strinjam se z</string>
      <string name="passport_user_agreement_p2">Sporazum o uporabniku</string>
