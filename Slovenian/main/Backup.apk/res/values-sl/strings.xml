@@ -12,8 +12,8 @@
      <string name="auto_backup_choose">Varnostno kopiraj predmete</string>
      <string name="auto_backup_choose_empty">Ni varnostnih kopij.</string>
      <string name="auto_backup_choose_title">Izberite datoteke ki jih želite varnostno kopirati.</string>
-     <string name="auto_backup_date">Dnevi</string>
-     <string name="auto_backup_only_wifi">Samo takrat ko je povezan preko Wi-Fi</string>
+  <string name="auto_backup_date">Dni</string>
+     <string name="auto_backup_only_wifi">Samo takrat ko je povezan preko WiFi</string>
      <string name="auto_backup_open">Avtomatsko naredi varnostno kopijo</string>
      <string name="auto_backup_progress">Varnostno kopiranje...</string>
      <string name="auto_backup_select_user_apps">Izberi aplikacije</string>
@@ -37,7 +37,7 @@ nastavitev in aplikacij"</string>
      <string name="backup_hint">Napravo pustite vklopljeno</string>
      <string name="backup_hint_onpad">Ne izključite naprave</string>
      <string name="backup_is_running">Izdelava var. kopije naprave</string>
-     <string name="backup_items_app_tailer">Datoteke aplikacije</string>
+     <string name="backup_items_app_tailer">Podatki aplikacij</string>
      <string name="backup_items_sysdata_tailer">Sistemski podatki</string>
      <string name="backup_new">Novo:</string>
      <string name="backup_progress">Varnostno kopiranje...</string>
@@ -66,9 +66,9 @@ nastavitev in aplikacij"</string>
      <string name="cloud_item_info_summary">(Lokalno: %1$s | Mi Cloud: %2$s)</string>
      <string name="cloud_last_backup">Nazadnje varnostno kopiran na</string>
      <string name="cloud_no_backup">Ni varnostnih kopij</string>
-     <string name="cloud_restore_guide">Za obnovitev podatkov %s, tapni Obnovi</string>
-     <string name="cloud_restore_title">Obnovi varnostno kopijo</string>
-     <string name="cloud_restore_window_title">Obnovi Mi Cloud</string>
+     <string name="cloud_restore_guide">Za obnovitev podatkov %s tapni Obnovi</string>
+     <string name="cloud_restore_title">Obnovi iz varnostne kopije</string>
+     <string name="cloud_restore_window_title">Obnovi iz Mi Cloud</string>
      <string name="cloud_search">Iščem...</string>
      <string name="compute_backup_info">Pridobivam podatke o varnostni kopiji...</string>
      <string name="compute_delete_contact_info">Pridobivanje podrobnosti...</string>
@@ -83,7 +83,7 @@ nastavitev in aplikacij"</string>
      <string name="date_format">yyyy MM dd HH:mm:ss</string>
      <string name="delete">Odstrani</string>
      <string name="delete_backup_process">Odstranjujem...</string>
-     <string name="delete_backup_title">Izbrisati var. kopijo</string>
+     <string name="delete_backup_title">Izbriši var. kopijo</string>
      <string name="delete_failed_backup_confirm">Ta varnostna kopija ima napake.</string>
      <string name="deselect_all">Odznači vse</string>
      <string name="digit_percent">%</string>
@@ -99,7 +99,7 @@ nastavitev in aplikacij"</string>
      <string name="enable_encrypt_xiaomi_account">Varnostno kopijo je ustvaril %1$s. Za obnovitev izbrišite trenutni račun in se prijavite kot %2$s.</string>
      <string name="err_authentication_failed">Kontrola avtentičnosti ni uspela</string>
      <string name="err_bakfile_broken">"Ne morem uporabiti te var. kopije."</string>
-     <string name="err_filesystem_mount">"Ne morem pristopiti prostoru za hrambo routerja"</string>
+     <string name="err_filesystem_mount">"Ne morem pristopiti prostoru za shranjevanje na routerju"</string>
      <string name="err_low_storage">Premalo prostora</string>
      <string name="err_router_disconnected">"Preverite priključek vašega routerja in poskusite znova."</string>
      <string name="err_router_files_delete">"Ne morem izbrisati var. kopije na routerju"</string>
@@ -113,13 +113,12 @@ nastavitev in aplikacij"</string>
      <string name="feature_title_call_log">Zgodovina klicev</string>
      <string name="feature_title_mms">MMS</string>
      <string name="file_uploading">Osveževanje…</string>
-     <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videozapise, podatke aplikacij, itd.)</string>
+     <string name="files_backup_info">Vse datoteke na SD kartici (vključno fotografije, pesmi, videoposnetke, podatke aplikacij itd.)</string>
      <string name="findlost_contact">Obnovi stike</string>
      <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
      <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
      <string name="guarded_mode_dialog_message">Ta funkcija ni omogočena v načinu Gost</string>
      <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
-	 <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabljati Mi Mover če ste v načinu Gost."</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
   \u0009http://www.miliao.com 
   2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”"</string>
@@ -130,18 +129,18 @@ nastavitev in aplikacij"</string>
      <string name="local_home_title">Lokalno varnostno kopiraj</string>
      <string name="local_no_backup">Ni varnostnih kopij.</string>
      <string name="local_restore_window_title">Lokalno obnovi</string>
-     <string name="local_select_account_contact">Računi in stiki</string>
+  <string name="local_select_account_contact">Računi &amp; stiki</string>
      <string name="local_select_audio">Zvoki</string>
      <string name="local_select_doc">Dokumenti</string>
-     <string name="local_select_files">Shramba</string>
+     <string name="local_select_files">Pomnilnik</string>
      <string name="local_select_image">Slike</string>
      <string name="local_select_sysdata">Sistem</string>
      <string name="local_select_userapp">Aplikacije</string>
-     <string name="local_select_video">Videozapisi</string>
-     <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Theme Store in druge storitve Mi.</string>
-     <string name="miliao_account_login">Vpiši se v Mi Talk</string>
+     <string name="local_select_video">Videoposnetki</string>
+     <string name="miliao_account_guide">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Trgovino Teme in druge storitve Mi.</string>
+     <string name="miliao_account_login">Prijavi se v Mi Talk</string>
      <string name="mms_title">MMS sporočanje</string>
-     <string name="multi_select_title">%1$s izbran</string>
+  <string name="multi_select_title">Izbrano: %1$s</string>
      <string name="multi_user_mode_dialog_message">"Ne morem uporabljati Mi Mover v načinu dela Gost. Izključite Multi-uporabnik način za nadaljevanje.."</string>
      <string name="multi_user_mode_dialog_title">"Vi ste v Multi-uporabnik načinu dela"</string>
      <string name="never">Nikoli</string>
@@ -177,12 +176,12 @@ nastavitev in aplikacij"</string>
      <string name="restore_failed">Obnovitev ni mogoča</string>
      <string name="restore_finished">Obnovitev uspešna</string>
      <string name="restore_is_running">Vračanje naprave</string>
-     <string name="restore_launcher_layout_hit">Obnovi nastavitve vmesnika</string>
+     <string name="restore_launcher_layout_hit">Obnavljam nastavitve zaganjalnika</string>
      <string name="restore_progress">Obnavljam...</string>
      <string name="restore_report">Podrobnosti obnove</string>
      <string name="restore_telephony_hit">Obnovitev ponovno zažene aplikacijo Telefon</string>
      <string name="retry">Poskusite znova</string>
-     <string name="reverse_all">Izbriši vse</string>
+  <string name="reverse_all">Prekliči izbrano</string>
      <string name="router_backup_hint">Ne ugasnite naprave</string>
      <string name="sc_bad_request">Neveljavna zahteva</string>
      <string name="sc_internal_server_error">Napaka strežnika</string>
@@ -191,7 +190,7 @@ nastavitev in aplikacij"</string>
      <string name="sc_precondition_failed">Najprej morate dodati vaš E-poštni naslov v Mi račun.</string>
      <string name="sc_request_timeout">Zahteva je potekla</string>
      <string name="sc_service_unavailable">Mi Cloud ni na voljo</string>
-     <string name="sc_unaccess_password_file">Wi-Fi gesla ni mogoče najti</string>
+     <string name="sc_unaccess_password_file">WiFi gesla ni mogoče najti</string>
      <string name="sc_unauthorized">Ponovno se prijavite</string>
      <string name="sd_not_available">Vstavite SD kartico</string>
      <string name="sdcard_no_enough_space">Ni dovolj prostora</string>
@@ -202,7 +201,7 @@ nastavitev in aplikacij"</string>
      <string name="select_backup_item">Izberi elemente</string>
      <string name="select_storage_location">Izberite lokacijo var. kopije</string>
      <string name="service_stoped">Storitev je zaustavljena</string>
-     <string name="settings_summary">: aparat in nastavitve sporočanja</string>
+  <string name="settings_summary">"Nastavitve telefona in sporočil</string>
      <string name="size_byte">B</string>
      <string name="size_giga_byte">GB</string>
      <string name="size_kilo_byte">KB</string>
@@ -219,7 +218,7 @@ nastavitev in aplikacij"</string>
      <string name="summary_err_restore_encrypting">"Ne morem vrniti. Preverite ali je ta var. kopija napravljena z uporabo vašega Mi Računa."</string>
      <string name="summary_err_restore_no_network">"Ne morem se povezati na omrežje"</string>
      <string name="system_backup">Varnostno kopiraj</string>
-     <string name="system_backup_info">Sistemske nastavitve in postavitev domačega zaslona</string>
+     <string name="system_backup_info">Sistemske nastavitve in nastavitev domačega zaslona</string>
      <string name="task_backup_cancel_progress">Ustavljanje...</string>
      <string name="task_backup_finished_local">Varnostno kopiranje zaključeno</string>
      <string name="task_canceled">Varnostno kopiranje preklicano</string>
@@ -255,29 +254,29 @@ nastavitev in aplikacij"</string>
      <string name="trans_calculating_base_size">"Izračun velikosti baze aplikacije"</string>
      <string name="trans_cancel_confirm">Prenos poteka, ustavim zdaj?</string>
      <string name="trans_cancelling">Nehaj</string>
+  <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_connect_failed_message">"Povezovanje ni uspelo. Poskusite ponovno ali ponovno zaženite napravo. Na drugi napravi pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover, Dotaknite se [Sem pošiljatelj], ali ponovno zaženite Mi Mover po ponovnem zagonu naprave"</string>
      <string name="trans_connect_failed_title">"Povezovanje ni uspelo"</string>
      <string name="trans_connect_failed_toast">"Ne morem se povezati"</string>
      <string name="trans_connecting_toast">Povezovanje…</string>
-     <string name="trans_connection_failed">Naprava ni povezana</string>
      <string name="trans_detail_category_account">Računi in kontakti</string>
      <string name="trans_detail_category_files">Datoteke</string>
      <string name="trans_detail_category_sysdata">Podatki sistema</string>
      <string name="trans_detail_category_userdata">Aplikacije</string>
      <string name="trans_device_disconnected">Naprava ni povezana</string>
      <string name="trans_generate_qr_code_failed">"Ni možno izdelati QR kode"</string>
-     <string name="trans_main_tutor">Premestite kontakte, zgodovino klicev, sporočila, začetni zaslon, aplikacije, nastavitve, itd. na novo napravo</string>
+     <string name="trans_main_tutor">Premestite stike, zgodovino klicev, sporočila, začetni zaslon, aplikacije, nastavitve itd. na novo napravo</string>
      <string name="trans_my_device">Moja naprava</string>
      <string name="trans_native_no_space">"V napravi ni dovolj prostora.
-     Izbrišite najmanj %s"</string>
+  Izbrišite najmanj %s"</string>
      <string name="trans_one_key_migrate">Mi Mover</string>
      <string name="trans_operate_func_one">Metoda A</string>
      <string name="trans_operate_func_two">Metoda B</string>
-     <string name="trans_operate_new_phone_tips">"Skenirajte QR kodo z uporabo nove naprave. Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
+     <string name="trans_operate_new_phone_tips">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
   
      Dotaknite se [Sem prejemnik] da izdelate QR kodo"</string>
      <string name="trans_operate_old_phone_tips1">"1. Instalirajte aplikacijo Mi Mover na vaši drugi napravi 
-     2. Odprite aplikacijo in izberite [Sem pošiljatelj] 
+     2. Odprite aplikacijo in tapnite Start 
      3. Skenirajte QR kodo z vašo drugo napravo"</string>
      <string name="trans_operate_old_phone_tips2">"Pojdite na Nastavitve &gt; Dodatne Nastavitve &gt; Mi Mover.
     Dotaknite se [Sem pošiljatelj]""</string>
@@ -304,8 +303,8 @@ nastavitev in aplikacij"</string>
      <string name="trans_scan_invalid_qrcode">Neveljavna  QR koda</string>
      <string name="trans_scan_qr_code_tips">Skenirajte QR kodo z vašo novo napravo</string>
      <string name="trans_select_data">Izberite podatke</string>
-     <string name="trans_select_data_no_space">"%s dostopno na novi napravi. 
-     Izberite datoteke ponovno ali osvobodite prostor za shrambo"</string>
+  <string name="trans_select_data_no_space">"Premalo prostora na novi napravi.
+ Izberite datoteke ponovno ali osvobodite %s prostora na novi napravi"</string>
      <string name="trans_select_data_tips">"Izberite datoteke za prenos.
     Podobne datoteke na novi napravi bodo presnete"</string>
      <string name="trans_select_device_receive">Izberite napravo za sprejem podatkov.</string>
@@ -336,8 +335,8 @@ nastavitev in aplikacij"</string>
      <string name="unknown_hint">Nepoznan</string>
      <string name="user_notice_declaration_ignore">"Ne prikazuj ponovno"</string>
      <string name="user_notice_message">Nekatere funkcije za normalno delo potrebujejo spletno povezavo.</string>
-     <string name="user_notice_title">Obvesti uporabnika</string>
-     <string name="wifi_title">Wi-Fi nastavitve</string>
+  <string name="user_notice_title">Pozor</string>
+     <string name="wifi_title">WiFi nastavitve</string>
      <string name="xiaomi_account_type">com.xiaomi</string>
      <string name="xiaomi_bytes_unit">%1$sB</string>
      <string name="xiaomi_connect_download_manager_fail">Povezovanje z Upraviteljem prenosov ni uspelo, preverite stanje Upravitelja prenosov v Upravitelju aplikacij.</string>
