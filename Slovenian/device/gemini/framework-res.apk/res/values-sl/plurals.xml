@@ -33,13 +33,13 @@
     <plurals name="wifi_available">
         <item quantity="other">Dostopna so WiFi omrežja</item>
         <item quantity="one">Dostopno je WiFi omrežje</item>
-        <item quantity="few">Dostupni sta WiFi omrežji</item>
+        <item quantity="few">Dostopni sta WiFi omrežji</item>
         <item quantity="many">Dostopna so WiFi omrežja</item>
     </plurals>
     <plurals name="wifi_available_detailed">
         <item quantity="other">Dostopna so odprta WiFi omrežja</item>
         <item quantity="one">Dostopno je odprto WiFi omrežje</item>
-        <item quantity="few">Dostupni sta odprti WiFi omrežji</item>
+        <item quantity="few">Dostopni sta odprti WiFi omrežji</item>
         <item quantity="many">Dostopna so WiFi omrežja</item>
     </plurals>
     <plurals name="matches_found">

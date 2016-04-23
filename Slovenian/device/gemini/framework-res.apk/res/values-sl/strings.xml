@@ -110,8 +110,8 @@ Ali ga želite zapreti?"</string>
 
 Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulatorja naprave."</string>
   <string name="beforeOneMonthDurationPast">Pred več kot 1 mesecem</string>
-  <string name="bluetooth_a2dp_audio_route_name">Zvok prek Bluetootha</string>
-  <string name="bugreport_message">S tem bodo zbrani podatki o trenutnem stanju naprave,ki bodo poslani v e-poštnem sporočilu. Izvedba poročila o napakah in priprava trajata nekaj časa, zato bodite potrpežljivi.</string>
+  <string name="bluetooth_a2dp_audio_route_name">Zvok preko Bluetootha</string>
+  <string name="bugreport_message">S tem bodo zbrani podatki o trenutnem stanju naprave ki bodo poslani v e-poštnem sporočilu. Izvedba poročila o napakah in priprava trajata nekaj časa, zato bodite potrpežljivi.</string>
   <string name="bugreport_status" formatted="false">%s (%s)</string>
   <string name="bugreport_title">Ustvari poročilo o napakah</string>
   <string name="byteShort">B</string>
@@ -121,7 +121,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="capability_desc_canRequestFilterKeyEvents">Vključuje osebne podatke kot so številke kreditnih kartic in gesla.</string>
   <string name="capability_desc_canRequestTouchExploration">Elementi ki se jih dotaknete bodo izrečeni naglas, zaslon pa lahko raziskujete s potezami.</string>
   <string name="capability_desc_canRetrieveWindowContent">Preverjanje vsebine okna, ki ga uporabljate.</string>
-  <string name="capability_title_canRequestEnhancedWebAccessibility">Vklop izboljšano dostopnost spleta za ljudi s posebnimi potrebami</string>
+  <string name="capability_title_canRequestEnhancedWebAccessibility">Vklop izboljšane dostopnosti spleta za ljudi s posebnimi potrebami</string>
   <string name="capability_title_canRequestFilterKeyEvents">Opazovanje besedila ki ga tipkate</string>
   <string name="capability_title_canRequestTouchExploration">Vklopi raziskovanja z dotikom</string>
   <string name="capability_title_canRetrieveWindowContent">Pridobivanje vsebine okna</string>
@@ -276,16 +276,16 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="ext_media_move_success_title">Premik je dokončan</string>
   <string name="ext_media_move_title">Premikanje podatkov</string>
   <string name="ext_media_new_notification_message">Najdena nova naprava %s</string>
-  <string name="ext_media_nofs_notification_message">Zunanji pomnilnik je prazen ali pa iam nepodprt datotečni sustav.</string>
-  <string name="ext_media_nofs_notification_title">Prazen zunanji ponilnik</string>
+  <string name="ext_media_nofs_notification_message">Zunanji pomnilnik je prazen ali pa iam nepodprt datotečni sistem.</string>
+  <string name="ext_media_nofs_notification_title">Prazen zunanji pomnilnik</string>
   <string name="ext_media_nomedia_notification_message">Odstranjena je naprava %s; vstavite novo</string>
   <string name="ext_media_nomedia_notification_title">Pomnilnik %s je bil odstranjen</string>
   <string name="ext_media_ready_notification_message">Za prenos fotografij in predstavnosti</string>
   <string name="ext_media_safe_unmount_notification_message">Zunanji pomnilnik lahko varno odstranite.</string>
   <string name="ext_media_safe_unmount_notification_title">Varno odstranjevanje zunanjega pomnilnika</string>
   <string name="extmedia_format_button_format">Formatiraj</string>
-  <string name="extmedia_format_message">Vse datoteke shranjene v vaši USB shrambi bodo izbrisane. To se ne da povrniti!</string>
-  <string name="extmedia_format_title">Format. USB shrambo?</string>
+  <string name="extmedia_format_message">Vse datoteke shranjene v vašem USB pomnilniku bodo izbrisane. To se ne da povrniti!</string>
+  <string name="extmedia_format_title">Format. USB pomnilnik?</string>
   <string name="ext_media_status_bad_removal">Ni bilo varno odstranjeno</string>
   <string name="ext_media_status_checking">Preverjanje ...</string>
   <string name="ext_media_status_ejecting">Izmet poteka …</string>
@@ -1140,7 +1140,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_accessNetworkState">prikaz omrežnih povezav</string>
   <string name="permlab_accessNotifications">dostop do obvestil</string>
   <string name="permlab_accessSurfaceFlinger">dostop do storitve SurfaceFlinger</string>
-  <string name="permlab_accessWifiState">prikaz povezav Wi-Fi</string>
+  <string name="permlab_accessWifiState">prikaz povezav WiFi</string>
   <string name="permlab_accessWimaxState">vzpostavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
   <string name="permlab_access_keyguard_secure_storage">Dostop do varne shrambe Keyguard.</string>
   <string name="permlab_access_notification_policy">dostop do načina »ne moti«</string>
@@ -1211,11 +1211,11 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_checkinProperties">dostop do lastnosti sprostitve</string>
   <string name="permlab_clearAppCache">brisanje vseh podatkov predpomnilnika programa</string>
   <string name="permlab_clearAppUserData">brisanje podatkov drugih programov</string>
-  <string name="permlab_configureWifiDisplay">konfiguriranje zaslonov Wi-Fi</string>
+  <string name="permlab_configureWifiDisplay">konfiguriranje zaslonov WiFi</string>
   <string name="permlab_confirm_full_backup">potrditev popolnega varnostnega kopiranja ali obnovitve</string>
   <string name="permlab_connection_manager">upravljanje telekomunikacijskih povezav</string>
   <string name="permlab_controlVpn">upravljanje z virtualnimi privatnimi mrežami</string>
-  <string name="permlab_controlWifiDisplay">nadzor zaslonov Wi-Fi</string>
+  <string name="permlab_controlWifiDisplay">nadzor zaslonov WiFi</string>
   <string name="permlab_control_incall_experience">zagotavljanje uporabniške izkušnje med klicem</string>
   <string name="permlab_control_keyguard">Nadzira prikaz in skrivanje zaklepanja tipkovnice</string>
   <string name="permlab_copyProtectedData">kopiranje vsebine</string>
@@ -1784,8 +1784,8 @@ Preostalo poskusov :"</string>
   <string name="wfcRegErrorTitle">Klicanje prek Wi-Fi-ja</string>
   <string name="wfcSpnFormat">%s</string>
   <string name="wfc_mode_cellular_preferred_summary">Prednostno je mobilno omrežje</string>
-  <string name="wfc_mode_wifi_only_summary">Samo Wi-Fi</string>
-  <string name="wfc_mode_wifi_preferred_summary">Prednostno je Wi-Fi</string>
+  <string name="wfc_mode_wifi_only_summary">Samo WiFi</string>
+  <string name="wfc_mode_wifi_preferred_summary">Prednostno je WiFi</string>
   <string name="whichApplication">Dokončanje dejanja z</string>
   <string name="whichApplicationNamed">Dokončanje dejanja s programom %1$s</string>
   <string name="whichEditApplication">Urejanje s programom</string>
@@ -1800,7 +1800,7 @@ Preostalo poskusov :"</string>
   <string name="widget_default_package_name"/>
   <string name="wifi_available_sign_in">Prijavite se v omrežje Wi-Fi</string>
   <string name="wifi_calling_off_summary">Izklopljeno</string>
-  <string name="wifi_connect_alert_message">Program %1$s želi vzpostaviti povezavo z omrežjem Wi-Fi %2$s</string>
+  <string name="wifi_connect_alert_message">Program %1$s želi vzpostaviti povezavo z omrežjem WiFi %2$s</string>
   <string name="wifi_connect_alert_title">Ali dovolite vzpostavitev povezave?</string>
   <string name="wifi_connect_default_application">Program</string>
   <string name="wifi_display_notification_connected_message">Povezan z zaslonom %1$s</string>
@@ -1808,20 +1808,20 @@ Preostalo poskusov :"</string>
   <string name="wifi_display_notification_connecting_message">Povezovanje z zaslonom %1$s</string>
   <string name="wifi_display_notification_connecting_title">Predvajanje zaslona</string>
   <string name="wifi_display_notification_disconnect">Izključi</string>
-  <string name="wifi_no_internet">Omrežje Wi-Fi nima dostopa do spleta</string>
+  <string name="wifi_no_internet">Omrežje WiFi nima dostopa do spleta</string>
   <string name="wifi_no_internet_detailed">Dotaknite se za prikaz možnosti</string>
-  <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
+  <string name="wifi_p2p_dialog_title">WiFi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Dotaknite se za nastavitve</string>
-  <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct je vklopljen</string>
+  <string name="wifi_p2p_enabled_notification_title">WiFi Direct je vklopljen</string>
   <string name="wifi_p2p_enter_pin_message">Vnesite zahtevano kodo PIN:</string>
-  <string name="wifi_p2p_failed_message">Wi-Fi Direct ni bilo mogoče zagnati.</string>
+  <string name="wifi_p2p_failed_message">WiFi Direct ni bilo mogoče zagnati.</string>
   <string name="wifi_p2p_frequency_conflict_message">Telefon bo začasno prekinil povezavo z WiFi-jem ko bo povezan z napravo %1$s</string>
   <string name="wifi_p2p_from_message">Od:</string>
   <string name="wifi_p2p_invitation_sent_title">Povabilo je poslano</string>
   <string name="wifi_p2p_invitation_to_connect_title">Povabilo za povezavo</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Za:</string>
-  <string name="wifi_p2p_turnon_message">Zaženite Wi-Fi Direct. S tem boste izklopili odjemalca/dostopno točko Wi-Fi.</string>
+  <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko WiFi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem Wi-Fi se ni mogoče povezati</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
