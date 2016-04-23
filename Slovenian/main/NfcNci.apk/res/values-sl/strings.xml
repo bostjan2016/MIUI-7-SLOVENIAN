@@ -4,7 +4,7 @@
   <string name="android_beam">Android Beam</string>
   <string name="app_name">Storitev NFC</string>
   <string name="ask_nfc_tap">Dotaknite se druge naprave, če želite dokončati</string>
-  <string name="beam_busy">Android Beam je trenutno zaseden. Poskusite znova, ko se konča prejšnji prenos.</string>
+  <string name="beam_busy">Android Beam je trenutno zaseden. Poskusite znova ko se konča prejšnji prenos.</string>
   <string name="beam_canceled">Prenos je preklican</string>
   <string name="beam_complete">Prenos končan</string>
   <string name="beam_failed">Prenos se ni končal</string>
@@ -26,14 +26,14 @@
   <string name="disconnected_peripheral">Povezava z napravo %1$s je prekinjena</string>
   <string name="disconnecting_peripheral">Prekinjanje povezave z napravo %1$s</string>
   <string name="failed_to_enable_bt">Bluetootha ni mogoče omogočiti</string>
-  <string name="inbound_me_profile_text">Tapnite, če želite dodati to osebo kot stik.</string>
+  <string name="inbound_me_profile_text">Tapnite če želite dodati to osebo kot stik.</string>
   <string name="inbound_me_profile_title">Stik prejet prek NFC-ja</string>
   <string name="nfcUserLabel">NFC</string>
   <string name="nfc_enabled_dialog">"Nfc je trenutno onemogočen. 
 Ga želite omogočiti za NFC storitev"</string>
   <string name="no">Ne</string>
   <string name="ok">V redu</string>
-  <string name="outbound_me_profile_text">Tapnite, če želite tej osebi poslati svoje podatke za stik.</string>
+  <string name="outbound_me_profile_text">Tapnite če želite tej osebi poslati svoje podatke za stik.</string>
   <string name="outbound_me_profile_title">Pošiljanje prek NFC-ja končano</string>
   <string name="pair_no">Ne</string>
   <string name="pair_yes">Da</string>
@@ -46,9 +46,9 @@ Ga želite omogočiti za NFC storitev"</string>
   <string name="status_unable_to_connect">Povezave z omrežjem ni mogoče vzpostaviti</string>
   <string name="status_wifi_connected">Povezava je vzpostavljena</string>
   <string name="tap_again_to_complete">Znova se dotaknite, da dokončate z aplikacijo %1$s</string>
-  <string name="tap_again_to_pay">Znova se dotaknite, da plačate z aplikacijo %1$s</string>
+  <string name="tap_again_to_pay">Znova se dotaknite da plačate z aplikacijo %1$s</string>
   <string name="title_connect_to_network">Vzpostavitev povezave z omrežjem</string>
-  <string name="touch">Dotaknite se, da pošljete</string>
+  <string name="touch">Dotaknite se da pošljete</string>
   <string name="transaction_failure">Transakcije ni bilo mogoče dokončati z aplikacijo %1$s.</string>
   <string name="wifi_connect">Vzpostavi povezavo</string>
 </resources>

@@ -105,7 +105,7 @@
     </string-array>
     <string-array name="question">
         <item>"Telefon ne more odkriti naprave na WiFi omrežju?"</item>
-        <item>"Ne morete mejenjati način dela ali temperaturo na A/C?"</item>
+        <item>"Ne morete menjati načina dela ali temperature na A/C?"</item>
         <item>Ali Mi 3, Mi 2 in Redmi podpirajo infrardeči daljinec za TV, A/C in druge naprave?</item>
     </string-array>
     <string-array name="answer">

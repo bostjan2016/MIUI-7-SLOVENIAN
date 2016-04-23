@@ -29,8 +29,8 @@
      </string-array>
      <string-array name="question_no2">
          <item>Alma mater</item>
-         <item>Ime vašeg predsednika razreda v osnovni šoli?</item>
-         <item>Ime vašeg predsednika razreda v srednji šoli?</item>
+         <item>Ime vašega predsednika razreda v osnovni šoli?</item>
+         <item>Ime vašega predsednika razreda v srednji šoli?</item>
          <item>Vaša študentska ID štev. na faksu?</item>
          <item>"Ime vašega sostanovalca na faksu?"</item>
          <item>"Ime vašega mentorja na faksu?"</item>

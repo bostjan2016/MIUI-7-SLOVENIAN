@@ -31,7 +31,7 @@
   <string name="anion">Ionizator</string>
   <string name="app_clear">Izbriši podatke</string>
   <string name="app_detail_comments">Komentarji</string>
-  <string name="app_detail_info">Podrobnosti programa</string>
+  <string name="app_detail_info">Podrobnosti aplikacije</string>
   <string name="app_detail_no_comments">Ni komentarjev</string>
   <string name="app_detail_title_info">Informacije</string>
   <string name="app_detail_title_recomment">Poudarjeno</string>
@@ -53,7 +53,7 @@
   <string name="app_update">Posodabljanje</string>
   <string name="app_version">Verzija %1$s</string>
   <string name="append_ok_key_after_num">数字键换台后增加确认键</string>
-  <string name="application">Programi</string>
+  <string name="application">Aplikacije</string>
   <string name="back">Nazaj</string>
   <string name="backup">Var. kopija na cloud</string>
   <string name="backup_failed">备份失败，请您重试</string>
@@ -96,7 +96,7 @@
   <string name="comment_good">Všeč mi je</string>
   <string name="commit_done">Končano</string>
   <string name="commit_thanks">Hvala za vašo povratno informacijo</string>
-  <string name="common_use">Pogosto koriščeno</string>
+  <string name="common_use">Pogosto uporabljeno</string>
   <string name="confirm">V redu</string>
   <string name="confirm_on">V redu</string>
   <string name="connect_to_retry">"Ne se morem povezati z omrežjem. Preverite povezavo in poskusite ponovno."</string>
@@ -219,7 +219,7 @@
   <string name="guide">Vodič</string>
   <string name="has_installed">Nameščeno</string>
   <string name="hd_channel_preferred">Preferiraj HD video</string>
-  <string name="history_none">"Niste gledali video zapise."</string>
+  <string name="history_none">"Niste gledali video posnetkov."</string>
   <string name="history_title">Zgodovina</string>
   <string name="home">Začetna</string>
   <string name="home_zhuye">Domov</string>
@@ -267,7 +267,7 @@
   <string name="just_used">Ravnokar uporabljen</string>
   <string name="key_press_vibrate">Vibriraj pri dotiku</string>
   <string name="last_bak_time">Zadnja Var. kopija %1$s</string>
-  <string name="last_use_frame">Zadnja uporaba pred %1$s dan</string>
+  <string name="last_use_frame">Zadnja uporaba pred %1$s dni</string>
   <string name="less_than_10m">&lt;10m</string>
   <string name="living_room">Dnevna soba</string>
   <string name="loading_brand">Pridobivanje podatkov…</string>
@@ -288,12 +288,12 @@
   <string name="logining">登录中</string>
   <string name="logout">退出登录</string>
   <string name="logout_done">已退出登录</string>
-  <string name="management_app_management">Programi</string>
+  <string name="management_app_management">Aplikacije</string>
   <string name="management_settings">Nastavitve</string>
   <string name="management_video_favor">Zgodovna in priljubljeni</string>
   <string name="management_video_recent_watch">Nedavno gledano</string>
-  <string name="match_ac_intro_mode">Opustite ko A/C prestavi na hlajenje</string>
-  <string name="match_ac_intro_power">Opustite ko se A/C izključi</string>
+  <string name="match_ac_intro_mode">Spustite ko A/C prestavi na hlajenje</string>
+  <string name="match_ac_intro_power">Spustite ko se A/C izključi</string>
   <string name="match_ac_name_mode">Klima</string>
   <string name="match_ac_name_power">Izključi</string>
   <string name="match_ch_inc">Ali je prestavljeno na naslednji kanal?</string>
@@ -454,7 +454,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_data_keep_in_device">Shrani geslo</string>
   <string name="passport_data_wipe_from_device">"Ne shrani gesla"</string>
   <string name="passport_delete_account">Odjava</string>
-  <string name="passport_dspt_provision">"Uporabljajte svoj Mi Račun z MiCloud, MIUI Trgovino Tem, ter druge Mi Storitve, od kjer koli. "</string>
+  <string name="passport_dspt_provision">"Uporabljajte svoj Mi Račun z MiCloud, MIUI Trgovino Teme, ter druge Mi Storitve od kjerkoli. "</string>
   <string name="passport_dspt_provision2">Preberi več</string>
   <string name="passport_email">Naslov E-pošte</string>
   <string name="passport_email_or_id_hint_text">Naslov E-pošte ali ID Mi Računa</string>
@@ -552,7 +552,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_resend_active_email">Ponovo pošlji e-pošto za aktivacijo</string>
   <string name="passport_reset_fail_title">"Ne morem resetirati"</string>
   <string name="passport_reset_password_prompt">Napačno geslo</string>
-  <string name="passport_reset_password_title">Resetiraj geslo</string>
+  <string name="passport_reset_password_title">Ponastavi geslo</string>
   <string name="passport_restart">Začnite od začetka</string>
   <string name="passport_restart_register_prompt">Še eno sporočilo bo morda potrebno da izdelate svoj račun.</string>
   <string name="passport_restart_register_title">Izdelajte Mi Račun</string>
@@ -562,7 +562,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_skip_login">Preskoči ta korak</string>
   <string name="passport_skip_register">Preskoči registracijo</string>
   <string name="passport_skip_setup_account_msg">Mi Račun lahko nastavite kasneje v Nastavitvah.</string>
-  <string name="passport_skip_setup_account_title">Preskoči nastavitve</string>
+  <string name="passport_skip_setup_account_title">Preskoči nastavitev</string>
   <string name="passport_title_reg">Ustvari Račun</string>
   <string name="passport_trust_device">Zaupaj tej napravi</string>
   <string name="passport_user_agreement">Uporabniški Sporazum</string>
@@ -580,10 +580,10 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="passport_wrong_password">Geslo ni pravilno</string>
   <string name="passport_wrong_phone_number_format">Oblika številke telefona ki ste jo vnesli ni veljavna</string>
   <string name="passport_wrong_vcode">Vnesena koda ni pravilna</string>
-  <string name="passport_xiaomi_account_dspt">Uporabite svoj Mi Račun za prijavo na MiCloud, MIUI Trgovino Tem, ter druge Mi Storitve od kjerkoli.</string>
+  <string name="passport_xiaomi_account_dspt">Uporabite svoj Mi Račun za prijavo na MiCloud, MIUI Trgovino Teme ter druge Mi Storitve od kjerkoli.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahteva internetno povezavo. Razen tega se dostop lokaciji, Mi Cloud in Mi VIP vključijo samodejno.</string>
-  <string name="passport_xiaomi_account_sec_dspt2_vip">Prijava na vaš Mi Račun zahteva internetno povezavo. Razen tega se dostop lokaciji, Mi Cloud in Mi VIP vključijo samodejno.</string>
+  <string name="passport_xiaomi_account_sec_dspt2">Prijava na vaš Mi Račun zahteva spletno povezavo. Razen tega se dostop lokaciji, Mi Cloud in Mi VIP vključijo samodejno.</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Prijava na vaš Mi Račun zahteva spletno povezavo. Razen tega se dostop lokaciji, Mi Cloud in Mi VIP vključijo samodejno.</string>
   <string name="place_frame">Lokacija:</string>
   <string name="play_in_phone">Predvajaj na telefonu</string>
   <string name="play_on_tv">Predvajaj na TV</string>
@@ -669,7 +669,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="share_content_device_other_to_sina_weibo">Mi naprava</string>
   <string name="share_content_device_tv_to_sina_weibo">Mi TV</string>
   <string name="share_content_to_sina_weibo">%1$s je všeč %2$s, deli s prijatelji.</string>
-  <string name="share_content_type_app_to_sina_weibo">Program</string>
+  <string name="share_content_type_app_to_sina_weibo">Aplikacija</string>
   <string name="share_content_type_other_to_sina_weibo">Ostalo</string>
   <string name="share_content_type_video_to_sina_weibo">Film</string>
   <string name="share_device_name">Delite ime daljinca</string>
@@ -677,7 +677,7 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="share_fail">"Ne morem deliti"</string>
   <string name="share_friends_cancel">Prekini</string>
   <string name="share_friends_confirm">V redu</string>
-  <string name="share_friends_none_text">Bez prijateljev.</string>
+  <string name="share_friends_none_text">Brez prijateljev.</string>
   <string name="share_friends_not_find_text">Najdi prijatelje</string>
   <string name="share_friends_search_hint_text">Išči</string>
   <string name="share_friends_title">Deli preko Mi Talk</string>
@@ -728,8 +728,8 @@ Da aktivirate svoj uporabniški račun sledite
   <string name="stop_diagnosis">Ustavi</string>
   <string name="study_room">Učilnica</string>
   <string name="submit">Pošlji</string>
-  <string name="submit_fail_retry">Pošiljanje ni uspjelo, poskusite ponovno</string>
-  <string name="succeed_content">Seznanjeno %3$s %4$s uspešno.</string>
+  <string name="submit_fail_retry">Pošiljanje ni uspelo, poskusite ponovno</string>
+  <string name="succeed_content">Seznanjanje %3$s %4$s uspešno.</string>
   <string name="succeed_finish">Končano</string>
   <string name="succeed_title">Seznanjeno</string>
   <string name="supported_by_kookong">Tehnična podpora by Youku</string>
@@ -771,12 +771,12 @@ Za menjavo dolg pritisk tipke za vklop TV sprejemnika"</string>
   <string name="vendor_kookong">Kookong</string>
   <string name="vendor_peel">Peel</string>
   <string name="vendor_yaokan">Yaokan</string>
-  <string name="video">Video zapis</string>
+  <string name="video">Videoposnetek</string>
   <string name="video_actor_label">"Igralec: "</string>
   <string name="video_area_label">"Področje: "</string>
   <string name="video_director_label">"Režiser: "</string>
   <string name="video_history_before_yestory">Predvčerajšnim</string>
-  <string name="video_history_earlier">Preje</string>
+  <string name="video_history_earlier">Prej</string>
   <string name="video_history_title">Zgodovina</string>
   <string name="video_history_today">Danes</string>
   <string name="video_history_yestoday">Včeraj</string>
@@ -804,7 +804,7 @@ Za menjavo dolg pritisk tipke za vklop TV sprejemnika"</string>
   <string name="wind_direct_middle">Srednje</string>
   <string name="wind_direct_up">Gor</string>
   <string name="wind_speed">Hitrost</string>
-  <string name="wind_speed_auto">Avto</string>
+  <string name="wind_speed_auto">Samodejno</string>
   <string name="wind_speed_high">Visoka</string>
   <string name="wind_speed_low">Nizka</string>
   <string name="wind_speed_medium">Srednja</string>
