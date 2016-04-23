@@ -9,7 +9,7 @@
         <item quantity="one">1 min</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d ur.</item>
+        <item quantity="other">%d ur</item>
         <item quantity="one">"1 ura"</item>
     </plurals>
     <plurals name="Ndays">

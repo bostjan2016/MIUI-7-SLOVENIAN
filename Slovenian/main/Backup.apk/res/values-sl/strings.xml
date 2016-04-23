@@ -43,7 +43,7 @@ nastavitev in aplikacij"</string>
      <string name="backup_progress">Varnostno kopiranje...</string>
      <string name="backup_report">Poglej podrobnosti</string>
      <string name="backup_update">Posodobi</string>
-     <string name="batch_delete_backup_confirm">Izbrišem %d varnostnih kopij?</string>
+     <string name="batch_delete_backup_confirm">Izbrišem izbrane Var.kopije?</string>
      <string name="button_backup">Varnostno kopiraj</string>
      <string name="button_cancel">Prekliči</string>
      <string name="button_continue">Nadaljuj</string>
@@ -119,6 +119,7 @@ nastavitev in aplikacij"</string>
      <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
      <string name="guarded_mode_dialog_message">Ta funkcija ni omogočena v načinu Gost</string>
      <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
+	 <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabljati Mi Mover če ste v načinu Gost."</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
   \u0009http://www.miliao.com 
   2.\u0009Pojdi na Mi Talk nastavitve in izberi ”Varnostno kopiraj stike na Mi račun”"</string>

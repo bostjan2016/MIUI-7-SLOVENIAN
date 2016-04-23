@@ -17,8 +17,8 @@
      <string name="activity_find_city_dialog_message">Vreme naj uporabi podatke lokacije</string>
      <string name="activity_find_city_dialog_set">Nastavitve</string>
      <string name="activity_find_city_dialog_title">Storitev lokacije</string>
+     <string name="activity_main_alert" />
      <string name="activity_main_clickable">&gt;</string>
-  <string name="activity_main_alert"/>
      <string name="activity_main_one_alert" />
      <string name="activity_main_refresh_fail">"Ne morem se povezati na omrežje"</string>
   <string name="activity_main_time_format">E</string>
@@ -69,7 +69,6 @@
      <string name="daily_forcast_weather_transfer">%1$s. %2$s kasneje</string>
      <string name="daily_forcast_whirl_wind">Vihar</string>
      <string name="daily_forcast_wind_connect">%1$s %2$s</string>
-     <string name="data_source_timezone">GMT %1$s</string>
      <string name="deleting">Brisanje…</string>
      <string name="description_author">Avtor</string>
      <string name="description_designer">Oblikovalec</string>
@@ -79,7 +78,6 @@
      <string name="description_uploadtime">Posodobitev</string>
      <string name="description_version">Verzija</string>
      <string name="description_version_szie">Verzija: %1$s Velikost: %2$s</string>
-     <string name="deselect_all">@miui:string/deselect_all</string>
      <string name="download_failed">Prenos ni uspel</string>
      <string name="download_preview_failed">"Ne morem prebrati prikaza"</string>
 	 <string name="edit_alert_city_title"></string>
@@ -303,7 +301,6 @@
   <string name="sdcard_not_mounted_dialog_message">"Vstavite SD kartico.
 "</string>
      <string name="sdcard_not_mounted_dialog_title">Ne najdem SD kartice</string>
-     <string name="select_all">@miui:string/select_all</string>
      <string name="share">Deli</string>
      <string name="share_btn_cancel">Prekini</string>
      <string name="share_btn_confirm">Podeli</string>

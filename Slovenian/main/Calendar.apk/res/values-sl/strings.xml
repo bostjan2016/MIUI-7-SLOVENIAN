@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在WLAN下同步订阅日历大图”。</string>
-  <string name="data_notice_change_settings">Nastavitve</string>
-  <string name="data_notice_continue_confirm">Nastavi</string>
   <string name="accessbility_suggestion_dropdown_opened">Predlogi stikov odprti</string>
   <string name="accessibility_add_attendee">Dodaj udeležence</string>
   <string name="accessibility_add_reminder">Dodaj opomnik</string>
@@ -103,6 +100,7 @@
 • Dostopajte do njega iz kateregakoli brskalnika.
 • Naredite var. kopijo svojih dogodkov.</string>
   <string name="creating_event">Dogodek ustvarjen</string>
+  <string name="creating_event_with_guest">Vabilo bo poslano</string>
   <string name="credit">信用卡</string>
   <string name="credit_card_amount_label">账单金额：</string>
   <string name="credit_card_date_label">还款日：</string>
@@ -116,7 +114,6 @@
   <string name="credit_event_card_title">信用卡还款</string>
   <string name="credit_event_delete_successfully">信用卡还款事件删除成功</string>
   <string name="credit_event_title">信用卡账单</string>
-  <string name="creating_event_with_guest">Vabilo bo poslano</string>
   <string name="cta_notice_checkbox">"Zapomni si nastavitve"</string>
   <string name="cta_notice_message">"Koledar mora prebrati informacije stikov da lahko nastavi rojstnodnevne opomnike"</string>
   <string name="cta_notice_ok">Dovoli</string>
@@ -124,6 +121,9 @@
   <string name="cta_notify_settings">Najprej vprašaj mene</string>
   <string name="custom">"Po meri (ni mogoče opraviti na telefonu)"</string>
   <string name="daily">Dnevno</string>
+  <string name="data_notice_change_settings">Nastavitve</string>
+  <string name="data_notice_continue_confirm">Nastavi</string>
+  <string name="data_notice_online_large_image">Prenesi fotografije koledarja samo preko WiFi</string>
   <string name="date_pattern_mm_dd">M.d.</string>
   <string name="date_pattern_mm_dd_kk_mm">M.d. HH:mm</string>
   <string name="date_pattern_yyyy_mm_dd_kk_mm">yyyy-M-d HH:mm</string>

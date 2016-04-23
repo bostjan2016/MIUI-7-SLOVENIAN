@@ -349,6 +349,7 @@
      <string name="passport_login_check_find_device">Preverjanje statusa Najdi napravo…</string>
      <string name="passport_login_check_find_device_failed">"Ne morem preveriti statusa 'Najdi napravo'. Preverite povezavo."</string>
 	 <string name="passport_login_check_find_device_failed_message">Preverite omrežno povezavo.</string>
+	 <string name="passport_login_check_find_device_failed_title">"Ne morem preveriti statusa Najdi napravo"</string>
      <string name="passport_login_failed">Ne morem se vpisati</string>
      <string name="passport_login_find_device_bind">Ta naprava je povezana z obstoječo ID Mi Računa (%s). Prijavite se za aktivacijo te naprave.</string>
      <string name="passport_login_instead_reg">Uporabi to telefonsko številko</string>

@@ -285,6 +285,7 @@
      <string name="body_inline_pic_text">[Slika]</string>
      <string name="bottom_bar_more_delete">Izbriši</string>
      <string name="bottom_bar_more_quickreply">Hitri odgovor</string>
+	 <string name="bottom_bar_more_share">Skupna raba</string>
      <string name="bottom_bar_more_unread">Označi kot neprebrano</string>
      <string name="bottom_bar_no_quickreply_toast">Brez hitrega odziva</string>
      <string name="bytes">%s B</string>
@@ -1006,9 +1007,9 @@
     \u0009 (Prepričajte se da je Samodejna sinhronizacija vklopljena v Nastavitvah)"</string>
      <string name="ser_resp_err_map_connect_err">Napaka povezave. Poskusite drugo</string>
      <string name="ser_resp_err_map_nouser">Uporabnik ne obstaja</string>
-     <string name="ser_resp_err_map_or">ali</string>
+     <string name="ser_resp_err_map_or">%1$s ali %2$s</string>
      <string name="ser_resp_err_map_pserr">Napačno uporabniško ime ali geslo</string>
-     <string name="ser_resp_err_map_serclosed">Strežnik je ugasnjen</string>
+     <string name="ser_resp_err_map_serclosed">Strežnik %s je ugasnjen</string>
      <string name="ser_resp_err_map_serclosed_url_tag">Kako to rešiti?</string>
      <string name="ser_resp_err_map_ssl">Izberite SSL/TLS (Sprejmi vse certifikate) v Varnostnih tipih</string>
      <string name="set_network">Nastavi omrežje</string>

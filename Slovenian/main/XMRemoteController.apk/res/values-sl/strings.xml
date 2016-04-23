@@ -321,6 +321,8 @@ Vrnite se za nadaljevanje"</string>
   <string name="match_is_respond">Ali to ustreza?</string>
   <string name="match_main_tip_frame">"Usmerite daljinec na %1$s in pritisnite tipko
 Sprostite ko %1$s odgovori"</string>
+  <string name="match_main_tip_frame_click">"Usmerite daljinec na %1$s in pritisnite tipko
+Nato odgovorite na vprašanje"</string>
   <string name="match_mibox_first">    Mi TV najden</string>
   <string name="match_mibox_sencond">    ·Kontrolirajte vašo Mi TV s to napravo.</string>
   <string name="match_mibox_third">    ·Seznani ostale Mi naprave samodejno</string>
