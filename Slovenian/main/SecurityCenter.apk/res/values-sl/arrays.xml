@@ -88,7 +88,7 @@
         <item>"Prihranjeno podatkov "</item>
      </string-array>
      <string-array name="traffic_setting_sms_template">
-        <item>Nabavite avtomatsko</item>
+        <item>Nabavite samodejno</item>
         <item>Nastavite ročno</item>
      </string-array>
      <string-array name="over_limit_traffic_waring_style">
@@ -115,7 +115,7 @@
         <item>Nikoli</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Visok performanse</item>
+        <item>Visoko udobje</item>
         <item>Uravnoteženo</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">

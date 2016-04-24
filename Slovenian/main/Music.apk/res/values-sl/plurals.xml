@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result">
-        <item quantity="other">Skladbe: %d</item>
+        <item quantity="other">Skladb: %d</item>
         <item quantity="one">%d skladba</item>
     </plurals>
 	<plurals name="Nalert_msg_vip_songs_for_download_upgrade">
@@ -27,7 +27,7 @@
 		<item quantity="one">1 nova</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">Skladbe: %d</item>
+        <item quantity="other">Skladb: %d</item>
         <item quantity="one">%d skladba</item>
     </plurals>
 	<plurals name="Ntracks_similar_count">
@@ -55,8 +55,8 @@
         <item quantity="one">&lt;font color==\"red\">%d pesem&lt;/font> prenešena</item>
      </plurals>
      <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\">%d pesmi se&lt;/font> prenašajo</item>
-        <item quantity="one">&lt;font color==\"red\">%d pesem se&lt;/font> prenaša</item>
+        <item quantity="other">&lt;font color=\"red\">%d pesmi se&lt;/font> se prenaša</item>
+        <item quantity="one">&lt;font color==\"red\">%d pesem se&lt;/font> se prenaša</item>
      </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Na seznam je dodano (%d) skladb</item>

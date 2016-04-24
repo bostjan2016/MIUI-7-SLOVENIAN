@@ -65,11 +65,11 @@
         <item quantity="one">"(%d) aplikacija brez Samodejnega zagona"</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">Dovoljenja: %d</item>
+        <item quantity="other">Dovoljenj: %d</item>
         <item quantity="one">Dovoljenje: %d</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
-        <item quantity="other">Aplikacije: %d</item>
+        <item quantity="other">Aplikacij: %d</item>
         <item quantity="one">Aplikacija: %d</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
@@ -110,7 +110,7 @@
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">Geslo mora vsebovati najmanj %d znakov poleg črk.</item>
-        <item quantity="one">Geslo mora vsebovati najmanj 1 znak poleg črke.</item>
+        <item quantity="one">Geslo mora vsebovati najmanj 1 znak poleg črk.</item>
     </plurals>
     <plurals name="number_locked">
         <item quantity="other">%d aplik. zaklenjenih</item>

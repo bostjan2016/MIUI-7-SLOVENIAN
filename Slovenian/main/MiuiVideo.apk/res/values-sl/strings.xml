@@ -19,8 +19,8 @@
      <string name="ads_control">Kontrola Oglašavanja</string>
      <string name="ads_control_desc">Označeno, prikaži oglašavanje kadar se zažene aplikacija</string>
      <string name="ads_ignore">Ignoriraj</string>
-     <string name="airkan_control_device_des">Za nadzor predvajanja se dotaknite vrstice na dnu</string>
-     <string name="airkan_device_xiaomi_phone">Mi phone</string>
+     <string name="airkan_control_device_des">Za nadzor predvajanja uporabite tipke na dnu</string>
+  <string name="airkan_device_xiaomi_phone">Mi Telefon</string>
      <string name="airkan_playing">Vloge</string>
      <string name="airkan_playing_to">" na "</string>
      <string name="airkan_tips">Tapni za predvajanje videa na TV.</string>
@@ -36,15 +36,15 @@
      <string name="app_charging_wifi_mode">Vključite polnjenje za posodobitev aplikacije</string>
      <string name="app_charging_wifi_mode_summary">Posodobi aplikacijo avtomatsko kadar je povezano na WiFi in priključen polnilec</string>
      <string name="app_latest_version">To je najnovejša verzija</string>
-     <string name="app_name">Video posnetki</string>
+  <string name="app_name">Video</string>
      <string name="app_plugin_ready">%1$s sestavin je pripravljeno</string>
      <string name="app_update_background">Posodobi aplikacijo v ozadju</string>
      <string name="app_upgrade_hint">Kliknite da boste gledali polno polimerizacijo, HD online video.</string>
      <string name="app_upgrade_title">Mi Video je ažuriran na zadnjo verzijo.</string>
      <string name="app_upgrade_version">Nova verzija</string>
      <string name="app_version">Verzija</string>
-     <string name="app_wifi_mode">Avtom. posodobi preko WiFi-ja</string>
-     <string name="app_wifi_mode_summary">Avtom. posodobi aplikacijo ob zagonu in kadar je povezano na WiFi</string>
+     <string name="app_wifi_mode">Samodejno posodobi preko WiFi-ja</string>
+     <string name="app_wifi_mode_summary">Samodejno posodobi aplikacijo ob zagonu in kadar je povezano na WiFi</string>
      <string name="authenticated_failed">Vpis ni bil mogoč</string>
   <string name="authenticating">&lt;CDATA&gt;Preverjanje&amp;#8230;&lt;/CDATA&gt;</string>
      <string name="authenticating_manually">Ne morem potrditi</string>
@@ -92,19 +92,19 @@
      <string name="datastream_alert_download">Uporaba mobilne podatkovne povezave za prenašanje video posnetkov vam lahko poveča uporabo podatkov. Če greste čez mejo uporabe vam bo vaš mobilni operater dodatno zračunal.</string>
      <string name="datastream_alert_hint">Obvestila o uporabi podatkov lahko izklopite v nastavitvah.</string>
      <string name="datastream_alert_negative_button">Prekini</string>
-     <string name="datastream_alert_play">Uporaba mobilne podatkovne povezave za prenos videozapisov bo povečala uporabo podatakov. Vaš operater vam to lahko računa.</string>
+     <string name="datastream_alert_play">Uporaba mobilne podatkovne povezave za prenos video posnetkov bo povečala uporabo podatakov. Vaš operater vam to lahko računa.</string>
      <string name="datastream_alert_positive_button">Prenos</string>
      <string name="datastream_alert_title">Opozorilo uporabe podatkov</string>
      <string name="day">Dan</string>
      <string name="debug_mode">Debug način delovanja</string>
-     <string name="debug_mode_desc">Če je označeno zaženi v debug načinu in pokaži id videozapisa v levem zgornjem kotu.</string>
+     <string name="debug_mode_desc">Če je označeno zaženi v debug načinu in pokaži id videoposnetka v levem zgornjem kotu.</string>
      <string name="declaration">Pogoji uporabe</string>
      <string name="declaration_allow">Strinjam se</string>
-     <string name="declaration_content">"1. Z uporabo te storitve se strinjate z Pogoji uporabe Soho Video, iQiyi in drugih ponudnikov.  
+  <string name="declaration_content">"1.Z uporabo storitve se strinjate s Sohu Video, iQiyi in ostalimi ponudniki video vsebin' "&lt;a href="file:///android_asset/terms.html"&gt;Pogoji uporabe"&lt;/a&gt;".
   2. Pomagajte nam izboljšati ta izdelek s samodejnim pošiljanjem diagnostičnih podatkov in podatkov o uporabi Xiaomi-ju.  
   3. Naš HD Video vtičnik bo nameščen samodejno.  
-    4. Ta storitev potrebuje povezavo do interneta za normalno delovanje."</string>
-     <string name="declaration_content_td_custom">Ta funkcija rabi povezavo z internetom za normalno delovanje.</string>
+    4. Ta storitev potrebuje povezavo s spletom za normalno delovanje."</string>
+     <string name="declaration_content_td_custom">Ta funkcija rabi povezavo s spletom za normalno delovanje.</string>
      <string name="defaults">Privzeto</string>
      <string name="delete">Izbriši</string>
      <string name="delete_action_text">Izbriši (%d)</string>
@@ -130,7 +130,7 @@
      <string name="download_file_fail">Lokalni dostop do datoteke ni uspel.   
     Morda ni prostora na SD kartici</string>
   <string name="download_finished">Končano</string>
-     <string name="download_geturl_fail">Ni bilo mogoče pridobiti URL naslova</string>
+     <string name="download_geturl_fail">Ni bilo mogoče pridobiti poverave</string>
      <string name="download_is_in_tasklist">Prenosna čakalna vrsta</string>
      <string name="download_paused">Pavzirano</string>
      <string name="download_percent_hint">Prenašam %d%%</string>
@@ -139,8 +139,8 @@
      <string name="download_running">V teku</string>
      <string name="download_start_message">%1$s komponent se bo preneslo in namestilo</string>
      <string name="download_task_with">%d nalog</string>
-     <string name="download_url_waiting">Čakam na dobivanje url</string>
-     <string name="download_url_waiting_no_wifi">Čakanje na WiFi za dobivanje url</string>
+     <string name="download_url_waiting">Čakam na dobivanje povezave</string>
+     <string name="download_url_waiting_no_wifi">Čakanje na WiFi za dobivanje povezave</string>
      <string name="download_with">Prenos %1$s/%2$s</string>
      <string name="downloading_app_plugin">Prenos komponenat (%1$s)</string>
      <string name="edit">Spremeni</string>
@@ -194,8 +194,8 @@
      <string name="loading_video_netplay_label_v5">Nalagam...</string>
      <string name="local_favorite_empty_title">Prazno</string>
      <string name="local_media_empty_hint">Prazno</string>
-     <string name="local_media_empty_sub_title">Prevzemite in glejte videozapise izvenmrežno</string>
-  <string name="local_media_empty_title">Ni videozapisov</string>
+     <string name="local_media_empty_sub_title">Prevzemite in glejte videoposnetke izvenmrežno</string>
+  <string name="local_media_empty_title">Ni videoposnetkov</string>
      <string name="local_video">Lokalno</string>
      <string name="login_tip_content">Vpišite se s svojim Mi Računom za sinhronizacijo in posodobitev ki ji trenutno sledite.</string>
      <string name="login_tip_title">Vpiši se</string>
@@ -205,9 +205,9 @@
      <string name="menu_name">Meni</string>
   <string name="mibi">mibi</string>
      <string name="mine_info_account_summary_none">Niste prijavljeni</string>
-     <string name="mine_info_account_title">Detajli o računu</string>
+     <string name="mine_info_account_title">Podrobnosti o računu</string>
      <string name="minute"> Min.</string>
-     <string name="mipush_setting">Obvestila</string>
+  <string name="mipush_setting">Mi push</string>
      <string name="miwifi_app_download_content">Prenos ...</string>
      <string name="miwifi_app_download_title">Xiaomi Router</string>
      <string name="miwifi_app_update_button">Posodobi</string>
@@ -228,13 +228,13 @@
      <string name="no_login_xiaomi_account">Za dodajanje komentarjev se vpišite s svojim Mi Računom.</string>
      <string name="no_longer_tips">Ne kaži več</string>
   <string name="no_pay_record">Ni zapisa plačil</string>
-     <string name="no_sdcard_no_download">Ni dovolj prostora za shrambo, ne morem prenesti.</string>
+     <string name="no_sdcard_no_download">Ni dovolj prostora za shranjevanje, ne morem prenesti.</string>
   <string name="not_buy_vip">Ne VIP</string>
   <string name="not_exist_openid">Dobivanje informacij o računu, počakajte...</string>
      <string name="not_login">Vpiši se</string>
-     <string name="notification_default_title">Izvenmrežni videozapis</string>
+     <string name="notification_default_title">Izvenmrežni videoposnetek</string>
      <string name="notification_sub_title">Končano skupaj %d prenosov</string>
-     <string name="notification_ticker_text">Končan prenos Izvenmrežnega videozapisa</string>
+     <string name="notification_ticker_text">Končan prenos izvenmrežnega videoposnetka</string>
      <string name="notification_title">\"%s\" prenosov končano</string>
      <string name="nowifi_alert_dialog_continue">Razumem</string>
      <string name="nowifi_alert_dialog_exit">Prekini</string>
@@ -246,12 +246,12 @@
      <string name="offline_alert_wifi">Da bi zmanjšali uporabo podatkov so bili vsi prenosi ustavljeni in se bodo nadaljevali ko se boste povezali na WiFi.</string>
      <string name="offline_already_in">\"%1$s\" je že v čakalni vrsti</string>
      <string name="offline_created_order">Dodano \"%1$s\" v čakalno vrsto, naročilo: %2$s</string>
-     <string name="offline_loaded">Izvenmrežni videozapis</string>
+     <string name="offline_loaded">Izvenmrežni videoposnetek</string>
      <string name="offline_loading">Izvenmrežno</string>
      <string name="offline_max_promote">Čakam predpomnilnik, izvajata se lahko le 2 predpomnjeni hkrati.</string>
-     <string name="offline_media_empty_title">&gt;Ni videozapisov.</string>
+     <string name="offline_media_empty_title">&gt;Ni videoposnetkov.</string>
      <string name="offline_no_avail_item_hint">Ni dostopnih epizod za prenos</string>
-     <string name="offline_no_selected_item_hint">Izberi videozapis</string>
+     <string name="offline_no_selected_item_hint">Izberi videoposnetek</string>
      <string name="offline_no_source">V nepovezavnem načinu ni možno pregledovati</string>
      <string name="offline_setting">Podatkovna uporaba</string>
      <string name="offline_status_failed">Ni uspelo</string>
@@ -316,7 +316,7 @@
      <string name="score_douban">Douban Ocena %1$s</string>
      <string name="sdcard_storage">Notranji pomnilnik</string>
      <string name="search">Išči</string>
-     <string name="search_hint">Išči online videozapise</string>
+     <string name="search_hint">Išči online videoposnetke</string>
      <string name="search_result_empty_text">Ničesar ne najdem</string>
      <string name="search_snack_more">Več informacij</string>
      <string name="search_snack_sniff">Sniffing prenos</string>
@@ -378,7 +378,7 @@
      <string name="use_cellular_network">Uporabi mobilno podatkovno povezavo</string>
      <string name="use_cellular_network_summary">Uporabi mobilno podatkovno povezavo za gledanje videa</string>
      <string name="use_cellular_offlinedownload_summary">Prikaži obvestilo ko se uporabljajo mobilni podatki za prenos videa</string>
-     <string name="use_cellular_offlinedownload_title">Prenesi obvestilo</string>
+  <string name="use_cellular_offlinedownload_title">Obvestila prenosa</string>
      <string name="use_cellular_play_summary">Prikaži obvestilo ko se uporabljajo mobilni podatki za gledanje videa</string>
      <string name="use_cellular_play_title">Obvestilo o predvajanju</string>
      <string name="user_tab">Račun</string>
@@ -389,7 +389,7 @@
      <string name="video_app_update">Posodobitev</string>
      <string name="video_bbs">Pridružite se nam</string>
      <string name="video_bbs_url">Pridružite se nam in pomagajte razvijati to aplikacijo</string>
-     <string name="video_count">%d videozapisov</string>
+     <string name="video_count">%d videoposnetkov</string>
      <string name="video_info_audio_bitrate_label">Bitna hitrost avdia</string>
      <string name="video_info_audio_coding_label">Avdio kodiranje:</string>
      <string name="video_info_audio_null">Brez</string>
@@ -430,7 +430,7 @@
      <string name="vp_datastream_alert_title">Opozorilo uporabe podatakov</string>
      <string name="vp_device_list">Naprave</string>
   <string name="vp_download_apk_from_video_ad">Namestite aplikacijo</string>
-     <string name="vp_download_connect_fail">URL ni bil najden. Preverite vašo podatkovno povezavo.</string>
+     <string name="vp_download_connect_fail">Povezava ni bil najdena. Preverite vašo podatkovno povezavo.</string>
      <string name="vp_download_file_fail">Prenos ni uspel. Zagotovite, da je dovolj prostora   
    v vaši napravi.</string>
      <string name="vp_downloading_apk_title">Prenos %1$s</string>
@@ -438,7 +438,7 @@
      <string name="vp_full_high_definition">1080P</string>
      <string name="vp_full_screen">Predvajanje čez cel zaslon</string>
      <string name="vp_function">Nastavitve</string>
-     <string name="vp_get_url_error">Ne morem najti URL za ta video.</string>
+     <string name="vp_get_url_error">Ne morem najti povezave za ta video.</string>
      <string name="vp_hide_media_info">Skrij informacije o videu</string>
      <string name="vp_high_definition">HD</string>
      <string name="vp_hint">Namig</string>
@@ -455,8 +455,8 @@
      <string name="vp_milink_function">Vloge za prikaz</string>
      <string name="vp_mobile_network_using_negative">Prekini</string>
      <string name="vp_mobile_network_using_positive">Nadaljuj</string>
-     <string name="vp_mobile_network_using_warning">Uporaba mobilne podatkovne povezave za gledanje videozapisov bo povečala uporabo podatakov. Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
-     <string name="vp_mobile_network_using_warning_line_1">Uporaba mobilne podatkovne povezave za gledanje videozapisov bo povečala uporabo podatakov.</string>
+     <string name="vp_mobile_network_using_warning">Uporaba mobilne podatkovne povezave za gledanje videoposnetkov bo povečala uporabo podatakov. Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
+     <string name="vp_mobile_network_using_warning_line_1">Uporaba mobilne podatkovne povezave za gledanje videoposnetkov bo povečala uporabo podatakov.</string>
      <string name="vp_mobile_network_using_warning_line_2">Če presežete mesečno kvoto vam vaš mobilni operater to lahko računa.</string>
      <string name="vp_more_show_video">Pokaži reklame</string>
      <string name="vp_mplayer_error_io">IO napaka delovanja</string>
@@ -475,7 +475,7 @@
      <string name="vp_offline_status_wait">Počakaj</string>
      <string name="vp_offline_title">Izvenmrežno</string>
      <string name="vp_offline_title_name">Epizoda %d</string>
-     <string name="vp_play_youku_failed_get_video_info">"Ne morem dobiti informacij o videozapisu"</string>
+     <string name="vp_play_youku_failed_get_video_info">"Ne morem dobiti informacij o videoposnetku"</string>
      <string name="vp_play_youku_time_out">Povezava je pretekla</string>
      <string name="vp_player_plugin_dlg_neg_btn">Zapri</string>
      <string name="vp_player_plugin_dlg_no_content">Ni Video Player dodatkov</string>

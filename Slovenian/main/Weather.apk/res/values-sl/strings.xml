@@ -16,7 +16,7 @@
      <string name="activity_find_city_dialog_cancel">Prekliči</string>
      <string name="activity_find_city_dialog_message">Vreme naj uporabi podatke lokacije</string>
      <string name="activity_find_city_dialog_set">Nastavitve</string>
-     <string name="activity_find_city_dialog_title">Storitev lokacije</string>
+     <string name="activity_find_city_dialog_title">Dostop do lokacije</string>
      <string name="activity_main_alert" />
      <string name="activity_main_clickable">&gt;</string>
      <string name="activity_main_one_alert" />
@@ -84,8 +84,8 @@
      <string name="edit_city">Uredi</string>
      <string name="empty">" "</string>
      <string name="fail_to_add_account">"Ne morem dodati računa"</string>
-     <string name="first_start_network_msg">Da bi dobili vremenske informacije se morate povezati z internetom.</string>
-     <string name="first_start_network_title">Opozorilna povezava</string>
+     <string name="first_start_network_msg">Da bi dobili vremenske informacije se morate povezati s spletom.</string>
+     <string name="first_start_network_title">Povezava s spletom in dostop do lokacije</string>
      <string name="gps_hint">Trenutna lokacija</string>
      <string name="hour_minute_time_format">HH:mm</string>
      <string name="hourly_forcast_now">Zdaj</string>
@@ -110,17 +110,17 @@
      <string name="information_manager_wlan">Preberi ko je povezano na WiFi</string>
      <string name="information_menu_title" />
      <string name="information_time_source">%1$s | %2$s</string>
-     <string name="information_views" />
+     <string name="information_views"></string>
      <string name="international_detail_menu_title">Podrobnosti</string>
      <string name="loading">Nalaganje…</string>
      <string name="loading_resource_detail_fail">"Ne morem prebrati virov"</string>
      <string name="loading_resource_detail_info">Branje…</string>
      <string name="loading_weather">Nalaganje...</string>
      <string name="location_allow_err">Ne morem najti vaše lokacije</string>
-     <string name="location_management">Lokacija</string>
-     <string name="location_tag">Locirati</string>
+     <string name="location_management">Lokacije</string>
+     <string name="location_tag">Lociraj</string>
      <string name="menu_add">Dodaj lokacijo</string>
-     <string name="menu_location">Lokacija</string>
+     <string name="menu_location">Lokacije</string>
      <string name="menu_more">Podrobnosti</string>
      <string name="network_not_available">"Ne morem se povezati z omrežjem"</string>
      <string name="network_unavailable">Ne morem se povezati z omrežjem.</string>
@@ -129,7 +129,7 @@
      <string name="open_browser">Odpri v brskalniku</string>
      <string name="realtime_aqi_connection">%1$s</string>
      <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve in poskusite ponovno.</string>
-     <string name="resource_account_fail_to_add">"Ne morem dodati račun"</string>
+     <string name="resource_account_fail_to_add">"Ne morem dodati računa"</string>
      <string name="resource_account_login">Prijavite se</string>
      <string name="resource_account_login_before_action">Prijavite se v vaš Mi Račun.</string>
      <string name="resource_account_login_title">Prijavite se</string>
@@ -149,7 +149,7 @@
      <string name="resource_comment_4_star">****</string>
      <string name="resource_comment_5_star">*****</string>
      <string name="resource_comment_all_comments">Vsi komentarji</string>
-     <string name="resource_comment_average_score">Poprečna ocena</string>
+     <string name="resource_comment_average_score">Povprečna ocena</string>
      <string name="resource_comment_bad_comments">Negativni</string>
      <string name="resource_comment_current_version">Trenutna verzija</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
@@ -296,7 +296,7 @@
      <string name="resource_trial_time">(poskusna doba: %1$d min.)</string>
      <string name="resource_unknow_error">Neznana napaka</string>
      <string name="resource_update">Posodobi</string>
-     <string name="resource_user_know">Vredu</string>
+     <string name="resource_user_know">V redu</string>
      <string name="resource_waiting_download">Čakam…</string>
   <string name="sdcard_not_mounted_dialog_message">"Vstavite SD kartico.
 "</string>
@@ -314,7 +314,7 @@
      <string name="share_weather_save_pic_fail">"Ne morem narediti posnetek zaslona"</string>
      <string name="sunrise">Sončni vzhod</string>
      <string name="sunset">Sončni zahod</string>
-     <string name="title_share_link">Podeli URL</string>
+     <string name="title_share_link">Podeli povezavo</string>
      <string name="to_activate_the_account">Aktivirajte vaš Mi Račun</string>
 	 <string name="tts_report_aqi"></string>
      <string name="tts_report_city_name"></string>
