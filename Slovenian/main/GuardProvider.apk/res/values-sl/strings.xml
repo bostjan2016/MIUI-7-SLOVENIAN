@@ -16,8 +16,8 @@
   <string name="default_sdcard_volume_path"/>
   <string name="hello_world">Hello world!</string>
   <string name="menu_settings">Nastavitve</string>
-  <string name="tencent_dialog_cloudscan">Pošlji imena in detajle aplikacij in skeniraj s pomočjo online definicije virusov.</string>
-  <string name="tencent_dialog_dbupdate">Posodobi definicije virusov automatsko</string>
+  <string name="tencent_dialog_cloudscan">Pošlji imena in podrobnosti aplikacij in skeniraj s pomočjo online definicije virusov.</string>
+  <string name="tencent_dialog_dbupdate">Samodejno posodobi definicije virusov</string>
   <string name="tencent_dialog_header">"Ta funkcija šifrira in pošilja ID vaše naprave Tencent strežnikom (%s)."</string>
   <string name="tencent_dialog_policy">Prikaz Pravila o zasebnosti</string>
   <string name="tencent_dialog_title">Tencent Pravila o zasebnosti</string>

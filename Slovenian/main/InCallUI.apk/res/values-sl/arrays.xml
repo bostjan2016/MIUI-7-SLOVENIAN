@@ -6,7 +6,7 @@
      </string-array>
      <string-array name="cdma_system_select_choices">
         <item>Samo domače</item>
-        <item>Avtomatsko</item>
+        <item>Samodejno</item>
      </string-array>
      <string-array name="dtmf_tone_entries">
         <item>Normalno</item>
