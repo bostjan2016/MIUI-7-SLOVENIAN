@@ -1483,7 +1483,7 @@ Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
      <string name="wifi_calling_call_assistant_configure_no_selection">Asistent klicev izključen</string>
      <string name="wifi_calling_call_assistant_none">Nič</string>
      <string name="wifi_calling_do_not_use">Ne uporabljajte WiFi klica</string>
-     <string name="wifi_calling_do_not_use_call_assistant">Ne uporabljajt Asistenta klicev</string>
+     <string name="wifi_calling_do_not_use_call_assistant">Ne uporabljaj Asistenta klicev</string>
      <string name="wifi_calling_preference_dialog_title">Nastavitev WiFi klica</string>
      <string name="wifi_calling_preference_summary">Spremeni WiFi klicne nastavitve</string>
   <string name="wifi_calling_preference_title">Nastavitev WiFi klica</string>
