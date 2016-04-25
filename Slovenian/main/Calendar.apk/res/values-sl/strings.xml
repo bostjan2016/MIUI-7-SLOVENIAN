@@ -42,9 +42,9 @@
   <string name="alert_reminder_expired">Pretečeno</string>
   <string name="alert_title">Obvestila koledarja</string>
   <string name="anniversary_metric"/>
-  <string name="anniversary_term">Obletnica</string>
+  <string name="anniversary_term">obletnico</string>
   <string name="app_label">Koledar</string>
-  <string name="attendees_label">Gostje</string>
+  <string name="attendees_label">Gosti</string>
   <string name="birthday_calendar_display_name">Rojstni dnevi</string>
   <string name="birthday_event_description">"Danes %1$s ima %4$s!"</string>
   <string name="birthday_event_description_a_week_ago">Pred tednom</string>
@@ -208,7 +208,7 @@
   <string name="goto_today">Danes</string>
   <string name="guide_card_hint_text">Dotaknite se da odprete Mi Cloud</string>
   <string name="hide_controls">Skrij kontrole</string>
-  <string name="hint_attendees">Gostje</string>
+  <string name="hint_attendees">Gosti</string>
   <string name="hint_description">Opis</string>
   <string name="hint_what">Ime dogodka</string>
   <string name="hint_where">Lokacija</string>
@@ -239,7 +239,7 @@
   <string name="menu_select_visible_calendars">Koledarji za prikaz</string>
   <string name="miui_chinese_week_range_double"/>
   <string name="miui_chinese_week_range_single"/>
-  <string name="miui_menu_create_event">Nov</string>
+  <string name="miui_menu_create_event">Novo</string>
   <string name="modify_all">Spremeni vse dogodke v seriji</string>
   <string name="modify_all_following">Spremeni ta dogodek in vse nadaljnje</string>
   <string name="modify_event">Spremeni samo ta dogodek</string>
@@ -305,8 +305,8 @@
   <string name="preferences_use_home_tz_descrip">Med potovanji prikaži koledarje in čas dogodkov v domačem časovnem pasu</string>
   <string name="preferences_use_home_tz_title">Uporabi domači časovni pas</string>
   <string name="preferences_week_start_day_default"/>
-  <string name="preferences_week_start_day_dialog">Teden se začne na</string>
-  <string name="preferences_week_start_day_title">Teden se začne na</string>
+  <string name="preferences_week_start_day_dialog">Teden se začne v</string>
+  <string name="preferences_week_start_day_title">Teden se začne v</string>
   <string name="presence_label">Prikaži me kot</string>
   <string name="privacy_label">"Zasebnost"</string>
   <string name="quick_response_custom_msg">Moj odgovor…</string>
@@ -434,14 +434,14 @@
   <string name="travel_loaded">Powered by Veryzhun</string>
   <string name="travel_loading">Samo trenutek…</string>
   <string name="travel_local">Destinacija</string>
-  <string name="travel_notice_message">Koledar potrebuje povezavo z internetom in pristop lokaciji za prikaz informacij o potovanju.</string>
+  <string name="travel_notice_message">Koledar potrebuje povezavo s spletom in dostop do lokacije za prikaz informacij o potovanju.</string>
   <string name="travel_seat_number_text">Sedež</string>
   <string name="travel_train_number_text">Vlak</string>
   <string name="travel_train_station">Žel. postaja</string>
   <string name="user_notice_button_exit">Izhod</string>
   <string name="user_notice_button_ok">V redu</string>
   <string name="user_notice_declaration_ignore">"Ne prikaži ponovno"</string>
-  <string name="user_notice_message">"Z uporabo tega proizvoda pristajate na Xiaomi %1$s in %2$s. Nekatere funkcije potrebujejo povezavo z internetom, pristop lokaciji in kontaktom za normalno delovanje."</string>
+  <string name="user_notice_message">"Z uporabo tega proizvoda pristajate na Xiaomi %1$s in %2$s. Nekatere funkcije potrebujejo povezavo s spletom, dostop do lokacije in stikov za normalno delovanje."</string>
   <string name="user_notice_title">Obvestila uporabniku</string>
   <string name="user_notification">Obvestila </string>
   <string name="user_notification_descrip">Prikaži obvestila uporabniku vsakič ko odprete Koledar</string>

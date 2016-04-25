@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="bootup_mode">
-        <item>Dve SIM kartice</item>
+        <item>Dve SIM kartici</item>
         <item>SIM1</item>
         <item>SIM2</item>
     </string-array>

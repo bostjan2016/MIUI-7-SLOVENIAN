@@ -29,8 +29,8 @@
      <string name="cta_cancel">Prekliči</string>
      <string name="cta_confirm">V redu</string>
      <string name="cta_dialog_content">Aplikacija mora imeti spletno povezavo da bi delovala pravilno</string>
-     <string name="cta_dialog_title">Internetna povezava</string>
-     <string name="cta_not_show_again">Zapomni si nastavitev</string>
+     <string name="cta_dialog_title">Spletna povezava</string>
+     <string name="cta_not_show_again">Zapomni si nastavitve</string>
      <string name="description">Če vaše napake ne vidite med pogostimi napakami jo opišite tukaj</string>
   <string name="discard_draft_dialog_button_cancel">Prekliči</string>
      <string name="discard_draft_dialog_button_discard">Zavrzi</string>
@@ -46,7 +46,7 @@
      <string name="err_type_nonsystemapp">Ostale aplikacije</string>
   <string name="err_type_power_consuming">Baterija</string>
      <string name="err_type_reboot">Ponovni zagon</string>
-     <string name="err_type_signal">Težave z omrežjem</string>
+  <string name="err_type_signal">Omrežje</string>
      <string name="err_type_suggestion">Predlogi</string>
      <string name="err_type_system">Sistem</string>
      <string name="err_type_system_summary">Spomin, zmogljivost, itd.</string>
@@ -94,7 +94,7 @@
      <string name="signal_problem1">Ni signala</string>
      <string name="signal_problem2">Šibek signal</string>
      <string name="submit_dialog_cancel">Prekliči</string>
-     <string name="submit_dialog_confirm">Predloži</string>
+  <string name="submit_dialog_confirm">Pošlji</string>
      <string name="submit_dialog_content">Vaše povratne informacije bodo skupaj s poročili o napakah in priloženimi slikami poslane na Xiaomi strežnike.</string>
      <string name="submit_dialog_not_wifi_content">"Vaše povratne informacije bodo skupaj s poročilom o napakah in priloženimi slikami poslane na Mi strežnike ko bo vaša naprava povezana z WiFi omrežjem."</string>
      <string name="submit_dialog_title">Pošlji poročilo o napaki Xiaomi strežnikom</string>
@@ -126,6 +126,6 @@
      <string name="wifi_problem4">Povezave ni mogoče vzpostaviti</string>
      <string name="wlan_unavailable_dialog_button_ok">Čakaj</string>
      <string name="wlan_unavailable_dialog_button_sent">Pošlji</string>
-     <string name="wlan_unavailable_dialog_content">"Pošiljanje vašega poročila bo porabilo %s podatkov. Lahko ga pošljete zdaj ali počakate na WLAN omrežje "</string>
+     <string name="wlan_unavailable_dialog_content">"Pošiljanje vašega poročila bo porabilo %s podatkov. Lahko ga pošljete zdaj ali počakate na WiFi omrežje "</string>
      <string name="wlan_unavailable_dialog_title">Uporaba podatkov</string>
 </resources>

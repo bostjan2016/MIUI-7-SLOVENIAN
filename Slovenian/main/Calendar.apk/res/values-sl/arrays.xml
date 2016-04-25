@@ -203,7 +203,7 @@
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Samo ta dogodek</item>
-        <item>Ta in bodoči dogodek</item>
+        <item>Ta in bodoči dogodki</item>
         <item>Vsi dogodki</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">

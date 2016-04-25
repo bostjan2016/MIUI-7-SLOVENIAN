@@ -10,7 +10,7 @@
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
-  <string name="auto_start_warning_title">Dovolim %s avtomatski zagon?</string>
+  <string name="auto_start_warning_title">Dovolim %s samodejni zagon?</string>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
   <string name="call_record_or">" Ali "</string>
@@ -58,7 +58,7 @@
   <string name="lockscreen_access_pattern_cell_added">"Dodan je mobitel"</string>
   <string name="lockscreen_access_pattern_cleared">"Vzorec je pobrisan"</string>
   <string name="lockscreen_access_pattern_detected">"Vzorec je končan"</string>
-  <string name="lockscreen_access_pattern_start">"Vzorec start"</string>
+  <string name="lockscreen_access_pattern_start">"Vzorec se je začel"</string>
   <string name="lunar_ba">" "</string>
   <string name="lunar_calendar">Mesečev koledar</string>
   <string name="lunar_chu">" "</string>
@@ -82,7 +82,7 @@
   <string name="lunar_yi">" "</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">I</string>
-  <string name="memory_clear_nothing_result">Uporaba spomina že optimirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba pomnilnika že optimirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$s Dostopno: %2$s"</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
