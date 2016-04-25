@@ -22,7 +22,7 @@
      <string name="Dashboard_Perm_SU_Desc">Nadzor %1$d aplikacij z ROOT dovoljenjem</string>
      <string name="Dashboard_Perm_SU_Disabled">ROOT dovoljenje je izključeno</string>
      <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT dovoljenje ni dostopno v "stable" različici MIUI</string>
-     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"odobritev ROOT dostopa neznanim aplikacijam lahko povzroči nedelovanje sistema ali celo poškodbo strojne opreme.</string>
+     <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"odobritev ROOT dostopa neznanim aplikacijam lahko povzroči nedelovanje sistema ali celo poškodbo strojne opreme.
 
 Morate namestiti MIUI Developer verzijo da bi imeli ROOT dovoljenje."</string>
      <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Prenesi MIUI</string>
