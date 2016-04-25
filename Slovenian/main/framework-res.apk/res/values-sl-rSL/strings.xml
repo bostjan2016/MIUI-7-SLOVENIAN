@@ -166,7 +166,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="data_usage_warning_title">Opozorilo o uporabi podatkov</string>
   <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke Wi-Fi</string>
   <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za Wi-Fi</string>
-  <string name="date_and_time" formatted="false">%H:%M:%S %-e.%b.%Y.</string>
+  <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
   <string name="date_picker_decrement_year_button">Zmanjšanje vrednosti za leto</string>
@@ -176,7 +176,7 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="date_picker_increment_year_button">Povečanje vrednosti za leto</string>
   <string name="date_picker_next_month_button">Naslednji mesec</string>
   <string name="date_picker_prev_month_button">Prejšnji mesec</string>
-  <string name="date_time">%2$s %1$s</string>
+  <string name="date_time">%1$s, %2$s</string>
   <string name="date_time_done">Končano</string>
   <string name="date_time_set">Nastavi</string>
   <string name="day">dan</string>
@@ -444,7 +444,7 @@ Ali res želite zapustiti to stran?"</string>
   <string name="keyboard_password_character_no_headset">Pika.</string>
   <string name="keyboardview_keycode_alt">Tipka Alt</string>
   <string name="keyboardview_keycode_cancel">Prekliči</string>
-  <string name="keyboardview_keycode_delete">Tipka Delete</string>
+  <string name="keyboardview_keycode_delete">Izbriši</string>
   <string name="keyboardview_keycode_done">Končano</string>
   <string name="keyboardview_keycode_enter">Tipka Enter</string>
   <string name="keyboardview_keycode_mode_change">Sprememba načina</string>
@@ -739,7 +739,7 @@ Znova poskusite čez %d s."</string>
   <string name="mmiComplete">MMI dokončan.</string>
   <string name="mmiError">Težava s povezavo ali neveljavna koda MMI.</string>
   <string name="mmiFdnError">Operacija je omejena samo na številke s fiksnim izbiranjem.</string>
-  <string name="month_day_year" formatted="false">%-e. %B %Y.</string>
+  <string name="month_day_year" formatted="false">%B %-e, %Y</string>
   <string name="more_item_label">Več</string>
   <string name="muted_by">Izklop zvoka od %1$s</string>
   <string name="needPuk">Kartica SIM je zaklenjena s kodo PUK. Če jo želite odkleniti vnesite kodo PUK.</string>
@@ -1215,7 +1215,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_confirm_full_backup">potrditev popolnega varnostnega kopiranja ali obnovitve</string>
   <string name="permlab_connection_manager">upravljanje telekomunikacijskih povezav</string>
   <string name="permlab_controlVpn">upravljanje z virtualnimi privatnimi mrežami</string>
-  <string name="permlab_controlWifiDisplay">nadzor zaslonov Wi-Fi</string>
+  <string name="permlab_controlWifiDisplay">nadzor zaslonov WiFi</string>
   <string name="permlab_control_incall_experience">zagotavljanje uporabniške izkušnje med klicem</string>
   <string name="permlab_control_keyguard">Nadzira prikaz in skrivanje zaklepanja tipkovnice</string>
   <string name="permlab_copyProtectedData">kopiranje vsebine</string>
@@ -1585,7 +1585,7 @@ Preostalo poskusov :"</string>
   <string name="sim_added_message">Za dostop do mobilnega omrežja znova zaženite napravo.</string>
   <string name="sim_added_title">Kartica SIM dodana</string>
   <string name="sim_done_button">Dokončano</string>
-  <string name="sim_removed_message">Mobilno omrežje ne bo na voljo, dokler znova ne zaženete naprave z vstavljeno veljavno kartico SIM.</string>
+  <string name="sim_removed_message">Mobilno omrežje ne bo na voljo dokler znova ne zaženete naprave z vstavljeno veljavno kartico SIM.</string>
   <string name="sim_removed_title">Kartica SIM odstranjena</string>
   <string name="sim_restart_button">Ponovni zagon</string>
   <string name="sipAddressTypeCustom">Po meri</string>
@@ -1781,11 +1781,11 @@ Preostalo poskusov :"</string>
   <string name="week">teden</string>
   <string name="weeks">tednov</string>
   <string name="wfcDataSpnFormat">%s</string>
-  <string name="wfcRegErrorTitle">Klicanje prek Wi-Fi-ja</string>
+  <string name="wfcRegErrorTitle">Klicanje prek WiFi-ja</string>
   <string name="wfcSpnFormat">%s</string>
   <string name="wfc_mode_cellular_preferred_summary">Prednostno je mobilno omrežje</string>
-  <string name="wfc_mode_wifi_only_summary">Samo Wi-Fi</string>
-  <string name="wfc_mode_wifi_preferred_summary">Prednostno je Wi-Fi</string>
+  <string name="wfc_mode_wifi_only_summary">Samo WiFi</string>
+  <string name="wfc_mode_wifi_preferred_summary">Prednostno je WiFi</string>
   <string name="whichApplication">Dokončanje dejanja z</string>
   <string name="whichApplicationNamed">Dokončanje dejanja s programom %1$s</string>
   <string name="whichEditApplication">Urejanje s programom</string>
@@ -1808,20 +1808,20 @@ Preostalo poskusov :"</string>
   <string name="wifi_display_notification_connecting_message">Povezovanje z zaslonom %1$s</string>
   <string name="wifi_display_notification_connecting_title">Predvajanje zaslona</string>
   <string name="wifi_display_notification_disconnect">Izključi</string>
-  <string name="wifi_no_internet">Omrežje Wi-Fi nima dostopa do spleta</string>
+  <string name="wifi_no_internet">Omrežje WiFi nima dostopa do spleta</string>
   <string name="wifi_no_internet_detailed">Dotaknite se za prikaz možnosti</string>
   <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_enabled_notification_message">Dotaknite se za nastavitve</string>
-  <string name="wifi_p2p_enabled_notification_title">Wi-Fi Direct je vklopljen</string>
+  <string name="wifi_p2p_enabled_notification_title">WiFi Direct je vklopljen</string>
   <string name="wifi_p2p_enter_pin_message">Vnesite zahtevano kodo PIN:</string>
-  <string name="wifi_p2p_failed_message">Wi-Fi Direct ni bilo mogoče zagnati.</string>
+  <string name="wifi_p2p_failed_message">WiFi Direct ni bilo mogoče zagnati.</string>
   <string name="wifi_p2p_frequency_conflict_message">Telefon bo začasno prekinil povezavo z WiFi-jem ko bo povezan z napravo %1$s</string>
   <string name="wifi_p2p_from_message">Od:</string>
   <string name="wifi_p2p_invitation_sent_title">Povabilo je poslano</string>
   <string name="wifi_p2p_invitation_to_connect_title">Povabilo za povezavo</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Za:</string>
-  <string name="wifi_p2p_turnon_message">Zaženite Wi-Fi Direct. S tem boste izklopili odjemalca/dostopno točko Wi-Fi.</string>
+  <string name="wifi_p2p_turnon_message">Zaženite WiFi Direct. S tem boste izklopili odjemalca/dostopno točko Wi-Fi.</string>
   <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Z omrežjem Wi-Fi se ni mogoče povezati</string>
   <string name="wifi_watchdog_network_disabled_detailed">" ima slabo internetno povezavo."</string>
