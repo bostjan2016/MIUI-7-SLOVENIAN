@@ -117,7 +117,7 @@ nastavitev in aplikacij"</string>
      <string name="findlost_contact">Obnovi stike</string>
      <string name="findlost_contact_online">Obnovi stike iz Mi oblaka</string>
      <string name="guarded_mode_dialog_backup_message">Izdelava var.kopije ni dovoljena v načinu dela Gost.</string>
-     <string name="guarded_mode_dialog_message">Ta funkcija ni omogočena v načinu Gost</string>
+  <string name="guarded_mode_dialog_transfer_message">"Ne morem uporabiti Mi Mover v načinu Gost."</string>
      <string name="guarded_mode_dialog_title">Ste v načinu Gosta</string>
      <string name="import_from_xiaomi_account_hint1">"1.\u0009Prenesi Mi Talk in se prijavi.
   \u0009http://www.miliao.com 
