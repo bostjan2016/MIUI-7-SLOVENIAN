@@ -12,12 +12,12 @@
         <item>Najhitreje</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>Noben</item>
+        <item>Nič</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>Noben</item>
+        <item>Nič</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
