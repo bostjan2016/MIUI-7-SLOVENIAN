@@ -10,7 +10,7 @@
      </plurals>
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">pred %d urami</item>
-        <item quantity="one">prede %d uro</item>
+        <item quantity="one">pred %d uro</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">pred %d dnevi</item>

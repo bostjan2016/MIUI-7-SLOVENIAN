@@ -69,9 +69,9 @@
      <string name="category_type_other">Ostalo</string>
      <string name="category_video">Video posnetki</string>
      <string name="category_zip">Arhivi</string>
-     <string name="change_sticker">Izberite drugo</string>
+     <string name="change_sticker">Izberite drugo nalepko</string>
      <string name="choose_report_reason">Zakaj to prijavljate?</string>
-     <string name="choose_send_type">Izberite metodo</string>
+  <string name="choose_send_type">Pošlji z…</string>
      <string name="choose_upload_location">Prenesi na KuaiPan mapo</string>
      <string name="clean_hint">Dotaknite se da osvobodite prostor</string>
      <string name="clean_message">%1$s prostora sproščenega.</string>
@@ -108,7 +108,7 @@
      <string name="decompress_confirm">Razširi</string>
      <string name="decompress_destination_error">"Ne morem razširiti datotek na tem mestu."</string>
      <string name="decompress_encrypted_rar_not_supported">Šifrirana RAR datoteka ni podprta.</string>
-     <string name="decompress_fail">Razširitev spodletela: datoteka z istim imenom obstaja ali pa je arhiv pokvarjen.</string>
+  <string name="decompress_fail">"Ne morem razširiti datoteke. Prostor za shranjevanje je poln ali pa je prišlo do neznane napake."</string>
      <string name="decompress_input_password">Vnesite geslo</string>
      <string name="decompress_password_error">Napačno geslo. Poskusite ponovno…</string>
      <string name="decompress_success">Razširitev končana</string>
@@ -154,7 +154,7 @@
      <string name="encrypt_error">"Ne morem skriti datotek, poskusite ponovno"</string>
      <string name="encrypt_prefix">SKRITO</string>
      <string name="encrypt_success">Uspešno skrito</string>
-     <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrtite datoteke lahko vidite s potegom dol na začetni strani aplik. Datoteke."</string>
+     <string name="encrypt_success_first_five">"Šifrirano in datoteka skrita. Skrtite datoteke lahko vidite s potegom dol na začetni strani aplik. Raziskovalec."</string>
   <string name="error_contains_sharer_path">"Ne morem dešifrirati datotek v mapi /MIUI/Gallery/cloud/sharer. Premestite datoteke na drugo mesto in poskusite ponovno.."</string>
   <string name="encrypting">Šifriranje…</string>
      <string name="error_filename_too_long">Ime datoteke je predolgo.</string>
@@ -192,7 +192,7 @@
      <string name="ftp_account_req_notice">4-16 znakov, črk in številk, male in velike črke</string>
      <string name="ftp_anonymous_login">Anonimna prijava</string>
      <string name="ftp_invalid_username_or_password">Nepravilno uporabniško ime ali geslo.</string>
-     <string name="ftp_open_port_error">Napaka pri odpiranju vrat: preverite vašo povezavo ali resetirajte številko vrat.</string>
+     <string name="ftp_open_port_error">Napaka pri odpiranju vrat: preverite vašo povezavo ali ponastavite številko vrat.</string>
      <string name="ftp_password_hint">Geslo</string>
      <string name="ftp_port_number">Številka vrat</string>
      <string name="ftp_transfer_secure">Varnost</string>
@@ -209,7 +209,7 @@
      <string name="group_title_extra_new">Novo</string>
      <string name="has_installed">Nameščeno</string>
      <string name="homepage_tab_category">Kategorije</string>
-     <string name="homepage_tab_file_view">Telefon</string>
+  <string name="homepage_tab_file_view">Pomnilnik</string>
      <string name="homepage_tab_recent">Nedavno</string>
      <string name="hot_sticker">Popularne nalepke</string>
      <string name="hot_video">Popularni videoposnetki</string>
@@ -218,7 +218,7 @@
      <string name="image_loading_error">"Ne morem prebrati slike"</string>
      <string name="input_memo_hint">Vnesite dodatne razloge (po izbiri)</string>
      <string name="installing">Nameščanje…</string>
-     <string name="instruction">Vpišite naslednje naslove v FTP strežnik:</string>
+     <string name="instruction">Vpišite naslov v FTP strežnik:</string>
      <string name="instruction_pre">Tapnite za zagon FTP strežnika</string>
      <string name="just_now">Prav zdaj</string>
      <string name="kilobyteShort">KB</string>
@@ -227,7 +227,7 @@
      <string name="kp_category_excel">Excel</string>
      <string name="kp_category_pdf">PDF</string>
      <string name="kp_category_ppt">PowerPoint</string>
-     <string name="kp_category_txt">Tekst</string>
+     <string name="kp_category_txt">Besedilo</string>
      <string name="kuaipan_cloud_photo">KuaiPan slike</string>
      <string name="kuaipan_create_shortcut_success">Bližnjica napravljena</string>
   <string name="kuaipan_data_formater_with_year">dd.MM.yyyy</string>
@@ -242,7 +242,7 @@
      <string name="kuaipan_photo_folder_divider">,</string>
      <string name="kuaipan_photo_locate">Lokacija %1$s</string>
      <string name="kuaipan_photo_more_folder_count">%1$s</string>
-     <string name="kuaipan_prompt">Obvestilo</string>
+  <string name="kuaipan_prompt">Strežnik ni dostopen</string>
   <string name="kuaipan_prompt_message">"
  Naš strežnik trenutno ni dostopen. Poskusite kasneje…
 "</string>
@@ -250,12 +250,12 @@
      <string name="kuaipan_tech_support">Vpis na kuaipan.cn</string>
      <string name="load_err">Ni mogoče naložiti</string>
      <string name="load_more">Prikaži več</string>
-     <string name="load_sticker_fail">"Ne morem naložiti, poskusite ponovno"</string>
+     <string name="load_sticker_fail">"Ne morem naložiti nalepke"</string>
      <string name="loading">Nalaganje...</string>
      <string name="local_image">Slike</string>
      <string name="local_music">Glasba</string>
      <string name="local_sticker_str">Izvenmrežno</string>
-     <string name="local_video">Videozapisi</string>
+     <string name="local_video">Videoposnetki</string>
      <string name="local_video_empty">Ni videoposnetkov. Preverite popularne.</string>
      <string name="login_reg_content">Shrani datoteke in sinhroniziraj na vse naprave.</string>
      <string name="login_reg_content0">Uporabljaj KuaiPan kjerkoli.</string>
@@ -288,14 +288,14 @@
      <string name="mobile_network_dialog_confirm">V redu</string>
      <string name="mobile_network_dialog_tip">Uporaba mobilnih podatkov za gledanje videoposnetkov lahko povzroči dodatne stroške.</string>
      <string name="mobile_network_dialog_tip2">"Uporaba mobilnih podatkov za gledanje videoposnetkov na spletu. To lahko povzroči dodatne stroške."</string>
-     <string name="mobile_network_dialog_title">Niste povezani z WiFi</string>
+  <string name="mobile_network_dialog_title">Opozorilo mob. podatkov</string>
      <string name="mobile_network_upload_tip">Uporaba mobilnih podatkov za deljenje videoposnetkov lahko povzroči dodatne stroške.</string>
      <string name="mobile_photo">Slike telefona</string>
      <string name="mobile_photo_desc" />
      <string name="month_day_format">dd MMM</string>
      <string name="move_failed">Ni mogoče izrezati</string>
-     <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Datoteke na zač. zaslonu za učinkovitejše upravljanje datotek.</string>
-     <string name="move_icon_to_desktop_success">Sedaj imate bližnjico aplik. Datoteke na zač. zaslonu</string>
+     <string name="move_icon_to_desktop_hint">Napravi bližnjico aplik. Raziskovalec na zač. zaslonu za učinkovitejše upravljanje datotek.</string>
+     <string name="move_icon_to_desktop_success">Sedaj imate bližnjico aplik. Raziskovalec na zač. zaslonu</string>
      <string name="move_to">Premesti v…</string>
      <string name="msg_set_password">Nastavite geslo</string>
   <string name="multi_select_title">Izbrano: %1$s</string>
@@ -327,15 +327,15 @@
      <string name="my_video">Video posnetki</string>
      <string name="my_video_desc" />
      <string name="name_empty">Morate vnesti ime.</string>
-     <string name="need_read_storage_permission">"Aplikacija Datoteke  potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
+     <string name="need_read_storage_permission">"Aplikacija Raziskovalec potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
      <string name="net_lose_connected">Povezava izgubljena.</string>
      <string name="networkView_notConnected">"Ne morem se povezati na omrežje"</string>
-     <string name="network_connect_confirm_des">Aplikacija Datoteke potrebuje povezavo s spletom</string>
+     <string name="network_connect_confirm_des">Aplikacija Raziskovalec potrebuje povezavo s spletom</string>
      <string name="network_dialog_checkbox_tip">"Ne prikaži več"</string>
      <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
      <string name="network_spent_reminding">Odpiranje te strani bo porabilo nekaj vašega mobilnega prometa.</string>
      <string name="network_spent_reminding_title">Obvestilo uporabe podatkov</string>
-     <string name="never_notify_network_connect">Ne kaži več</string>
+  <string name="never_notify_network_connect">Zapomni si nastavitve</string>
      <string name="new_folder_name">Neimenovana mapa</string>
      <string name="new_function">Skrite mape</string>
      <string name="new_function_info">"Da napravite skrito mapo potegnite s prstom navzdol od vrha zaslona do prve vrste ikon na začetni strani."</string>
@@ -380,16 +380,16 @@
      <string name="notification_wechat_title">Obvesti kdaj bodo WeChat videoposnetki potekli</string>
      <string name="notify_private_folder_msg">Dotaknite se da boste zvedeli več.</string>
      <string name="notify_private_folder_title">Napravite skrite mape</string>
-     <string name="online_not_support">"Ne morem prikazati te datoteke online zdaj."</string>
+     <string name="online_not_support">"Ne morem prikazati te datoteke zdaj."</string>
      <string name="open_changed_file_message">Datoteka ki jo poskušate odpreti se je spremenila. Prosimo da:     
     1. Ponovno prenesite datoteko da jo posodobite.     
     2. Prenesite jo na vaš KuaiPan račun.</string>
      <string name="open_changed_file_title">Sprememba shranjena.</string>
      <string name="open_file_failed">Odpiranje spodletelo</string>
-     <string name="open_private_folder">Izdelava skrite mape…</string>
+  <string name="open_private_folder">Spustite za prikaz skritih map…</string>
      <string name="operate_confirm_in_3g">Uporabim podatkovno povezavo za prenos te datoteke? To bo povzročilo stroške.</string>
      <string name="operating">Obdelujem...</string>
-     <string name="operation_add_fav">Dodajanje med favorite…</string>
+     <string name="operation_add_fav">Dodajanje med priljubljene…</string>
   <string name="operation_agree">Dovoli</string>
      <string name="operation_cancel">Prekliči</string>
      <string name="operation_compress">Stisni</string>
@@ -468,9 +468,9 @@
      <string name="qq_platform">QQ</string>
      <string name="qzone_platform">Qzone</string>
      <string name="release_to_signin">Spustite za prijavo</string>
-     <string name="remote_video_no_network">"Ne morem se povezati na omrežje. Poskusite ponovno."</string>
+     <string name="remote_video_no_network">"Ne morem se povezati na omrežje."</string>
      <string name="remote_video_report_success">"Hvala vam za povratne informacije! Pregledali jih bomo čimprej."</string>
-     <string name="remote_video_server_error">"Ne morem se povezati s strežnikom. Poskusite ponovno"</string>
+     <string name="remote_video_server_error">"Ne morem se povezati s strežnikom."</string>
      <string name="remote_video_update">Najdeno %1$s novih videoposnetkov</string>
      <string name="rename_alert">"Če spremenite končnico datoteke je morda ne boste mogli odpreti."</string>
      <string name="rename_description">Preimenujem...</string>
@@ -478,7 +478,7 @@
      <string name="repair_done">Obnovljeno</string>
      <string name="repair_error">"Ne morem obnoviti"</string>
      <string name="repair_file">Obnovi šifrirane datoteke</string>
-     <string name="repeat_upload_video">Zapis je že podeljen, izberite drugega.</string>
+     <string name="repeat_upload_video">Video je že podeljen, izberite drugega.</string>
      <string name="report_abuse">Zloraba</string>
      <string name="report_advertisement">Oglasi</string>
      <string name="report_other">Ostalo</string>
@@ -492,8 +492,8 @@
      <string name="rlv_last_refreshing_time">Posodobljeno %1$s</string>
      <string name="rlv_loading_more">Samo trenutek…</string>
      <string name="rlv_pull_to_refresh">Potegni za osveževanje</string>
-     <string name="rlv_refreshing">Skeniranje datotek…</string>
-     <string name="rlv_release_to_refresh">Izpusti za osvježavanje</string>
+  <string name="rlv_refreshing">Osvežavanje…</string>
+     <string name="rlv_release_to_refresh">Izpusti za osvežavanje</string>
      <string name="save_to_local">Prevzeto</string>
      <string name="sd_card_available">Na voljo: %1$s</string>
      <string name="sd_card_size">SD kartica: %1$s</string>
@@ -540,8 +540,8 @@
      <string name="search_title_hint">Išči</string>
      <string name="select_dest_folder">Izberi mapo</string>
      <string name="select_image">Slike</string>
-     <string name="select_music">Glazba</string>
-     <string name="select_video">Videozapisi</string>
+     <string name="select_music">Glasba</string>
+     <string name="select_video">Videoposnetki</string>
      <string name="send_sticker">Pošlji nalepko</string>
      <string name="send_to_midrive">KuaiPan</string>
      <string name="send_to_midrive_failed_message">Ta tip datotek ni podprt.</string>
@@ -562,9 +562,9 @@
      <string name="share_to">Podeli z…</string>
      <string name="shared_sticker_network_permission_tip">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno."</string>
      <string name="shared_sticker_page_no_file">"Ne morem se povezati na omrežje. Preverite povezavo in poskusite ponovno.."</string>
-     <string name="shared_sticker_str">Podeljeno od Mi oboževalcev</string>
-     <string name="shared_sticker_suffix">Nalepka na %s</string>
-     <string name="shared_sticker_use_tip">"Lahko pošljete nalepke shranjene v WeChat razgovorih - isto kot da pošiljate slike. 
+  <string name="shared_sticker_str">Nedavno</string>
+     <string name="shared_sticker_suffix">Nalepk na %s</string>
+     <string name="shared_sticker_use_tip">"Lahko pošljete nalepke shranjene v WeChat razgovorih - enako kot da pošiljate slike. 
   (GIF-i so lahko dodani v Lastno v WeChat Nalepkah)."</string>
      <string name="shared_sticker_use_tip_title">Kako uporabiti nalepke</string>
      <string name="shared_str">Podelil %s</string>
@@ -597,9 +597,9 @@
      <string name="sys_size_enable">na voljo</string>
      <string name="system_alert">Spletno povezovanje</string>
 	 <string name="system_sticker_control">Prikaži popularne videoposnetke</string>
-     <string name="system_sticker_control_tip">Prikaži popularne nalepke v Datotekah</string>
+     <string name="system_sticker_control_tip">Prikaži popularne nalepke v Raziskovalcu</string>
      <string name="system_video_control">Prikaži popularne videoposnetke</string>
-     <string name="system_video_control_tip">Prikaži popularne videoposnetke v Datotekah</string>
+     <string name="system_video_control_tip">Prikaži popularne videoposnetke v Raziskovalcu</string>
      <string name="tab_category">Kategorije</string>
   <string name="tab_common_app">Aplik. &amp; mape</string>
      <string name="tab_expand">Razširi</string>
@@ -649,7 +649,7 @@
      <string name="upload_video_dialog_title">Videoposnetek uspešno deljen</string>
      <string name="upload_video_failed">"Deljenje videoposnetka ni uspelo, poskusite ponovno."</string>
      <string name="upload_video_success">Videoposnetek je podeljen, preverjam…</string>
-     <string name="upload_video_tip">Samo en videoposneteks naenkrat!</string>
+     <string name="upload_video_tip">Samo en videoposnetek naenkrat!</string>
      <string name="uploading">Nalagam</string>
      <string name="usb_label">USB</string>
      <string name="used">Uporabljeno</string>
@@ -658,10 +658,10 @@
      <string name="user_guide_continue_use">V redu</string>
      <string name="user_guide_download_other_version">Naloži datoteke z računalnika</string>
      <string name="user_guide_kuaipan_copy">Kopiraj datoteke s telefona in jih prilepi na KuaiPan</string>
-     <string name="user_guide_kuaipan_lable">KuaiPan pripada vam</string>
-     <string name="user_guide_other_version">Vpišite se v vaš Mi račun (%1$s) in prenesite mi.kuaipan.cn.</string>
+  <string name="user_guide_kuaipan_lable">Praktična in varna cloud shramba</string>
+     <string name="user_guide_other_version">Vpišite se v vaš Mi račun (%1$s) in prenesite na mi.kuaipan.cn.</string>
      <string name="user_guide_save_file">Shranite datoteke s pomočjo KuaiPan</string>
-     <string name="user_guide_summary">Kratek pregled</string>
+  <string name="user_guide_summary">Praktična in varna cloud shramba</string>
      <string name="user_guide_upload_to_kuaipan">Shranite datoteke na KuaiPan iz vašega telefona</string>
      <string name="user_not_login">Najprej se prijavite</string>
      <string name="utf8_summary">Sistemsko FTP privzeto kodiranje</string>
@@ -675,7 +675,7 @@
      <string name="wait_sdcard">Čakam na SD kartico...</string>
      <string name="wait_wifi">Čakam na WiFi omrežje</string>
      <string name="waiting">Čakam</string>
-     <string name="wangpan_root_path">Moj pogon</string>
+  <string name="wangpan_root_path">Moj Drive</string>
      <string name="wechat_platform">WeChat</string>
      <string name="wechat_video">Video na %s</string>
      <string name="weixin_not_installed">"WeChat ni nameščen"</string>

@@ -1086,18 +1086,18 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="tc_diagnostic_all_error_notification_title">"Ne morem dokončati diagnostike"</string>
      <string name="tc_diagnostic_brand_error_notification_summary">Dotaknite za nastavitev tipa omrežja</string>
      <string name="tc_diagnostic_brand_error_notification_title">Napačen tip omrežja</string>
-     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong carrier brand&lt;br/&gt;&lt;br/&gt;Set brand: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual brand: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+  <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'&gt;Rezultat: Napačna znamka operaterja&lt;br/&gt;&lt;br/&gt;Nastavite znamko: &lt;xliff:g id=brand example=UNICOM 3G&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Trenutna znamka: &lt;xliff:g id=location example=UNICOM 4G&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
      <string name="tc_diagnostic_complete">Končano</string>
-     <string name="tc_diagnostic_fragment_default">"About diagnostics
-1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
-2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
+  <string name="tc_diagnostic_fragment_default">"O diagnostiki
+1. Naprava se bo povezala na operaterjevo omrežje, poslala sporočilo in čakala na odgovor. To lahko traja do 5 minut.
+2. Med diagnostiko lahko zaprete to stran. Z delom bo nadaljevala v ozadju."</string>
      <string name="tc_diagnostic_location_error_notification_summary">Dotaknite se za nastavitev lokacije</string>
      <string name="tc_diagnostic_location_error_notification_title">Napačna lokacija</string>
      <string name="tc_diagnostic_notification_sumarry">Dotaknite se za prikaz rezultatov</string>
      <string name="tc_diagnostic_notification_summary">"Ni bilo mogoče prilagoditi 5-krat zapored. Dotaknite se za zagon diagnostike."</string>
      <string name="tc_diagnostic_notification_title">Diagnostika operaterja</string>
      <string name="tc_diagnostic_onekey_repair_botton">Popravi</string>
-     <string name="tc_diagnostic_operator_error_notification_summary">Dotakni za spremembo nastavitev operaterja</string>
+     <string name="tc_diagnostic_operator_error_notification_summary">Dotakni se za spremembo nastavitev operaterja</string>
      <string name="tc_diagnostic_operator_error_notification_title">Napačen operater</string>
      <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'&gt;Rezultat: Napačen operater&lt;br/&gt;&lt;br/&gt;Set carrier: &lt;xliff:g id=operator example=CMCC&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual carrier: &lt;xliff:g id=location example=UNICOM&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
      <string name="tc_diagnostic_repair_and_continue">Popravi in nadaljuj</string>
@@ -1105,7 +1105,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'&gt;Diagnostics complete, fixed location and carrier issues.&lt;/font&gt;"</string>
      <string name="tc_diagnostic_repair_success_toast">Changed successfully</string>
      <string name="tc_diagnostic_result">"&lt;font color='#CC0000'&gt;Rezultat: Couldn't complete diagnostics&lt;br/&gt;&lt;br/&gt;Report this issue to help MIUI improve diagnostic tools&lt;/font&gt;"</string>
-     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Wrong location&lt;br/&gt;&lt;br/&gt;Set location: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Actual location: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
+     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'&gt;Rezultat: Napačna lokacija&lt;br/&gt;&lt;br/&gt;Nastavi lokacijo: &lt;xliff:g id=location example=BeiJing&gt;%1$s&lt;/xliff:g&gt;&lt;br/&gt;Trenutna lokacija: &lt;xliff:g id=location example=ShangHai&gt;%2$s&lt;/xliff:g&gt;&lt;/font&gt;"</string>
      <string name="tc_diagnostic_status_error_brand">Carrier network not found</string>
      <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'&gt;Error&lt;/font&gt;"</string>
      <string name="tc_diagnostic_status_no_network">"&lt;font color='#ED9523'&gt;No network connection&lt;/font&gt;"</string>

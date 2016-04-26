@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="backup_message_wechat_video">
-        <item quantity="other">%1$d datotek od WeChat začasnih videozapisov bo izbrisano. Napravim kopijo?</item>
-        <item quantity="zero">%1$d datotek od WeChat začasnih videozapisov bo izbrisano. Napravim kopijo?</item>
-        <item quantity="one">%1$d datoteka od WeChat začasnih videozapisov bo izbrisano. Napravim kopijo?</item>
-        <item quantity="two">%1$d datoteki od WeChat začasnih videozapisov bo izbrisano. Napravim kopijo?</item>
-        <item quantity="few">%1$d datotek od WeChat začasnih videozapisov bo izbrisano. Napravim kopijo?</item>
-        <item quantity="many">%1$d datotek od WeChat začasnih videozapisov bo izbrisano. Napravim kopijo?</item>
+        <item quantity="other">%1$d datotek od WeChat začasnih videoposnetkov bo izbrisano. Napravim kopijo?</item>
+        <item quantity="zero">%1$d datotek od WeChat začasnih videoposnetkov bo izbrisano. Napravim kopijo?</item>
+        <item quantity="one">%1$d datoteka od WeChat začasnih videoposnetkov bo izbrisana. Napravim kopijo?</item>
+        <item quantity="two">%1$d datoteki od WeChat začasnih videoposnetkov bosta izbrisani. Napravim kopijo?</item>
+        <item quantity="few">%1$d datotek od WeChat začasnih videoposnetkov bo izbrisano. Napravim kopijo?</item>
+        <item quantity="many">%1$d datotek od WeChat začasnih videoposnetkov bo izbrisano. Napravim kopijo?</item>
      </plurals>
      <plurals name="days_ago">
         <item quantity="other">Pred %1$d d</item>
@@ -73,26 +73,26 @@
         <item quantity="many">Prejeto (%1$d) datotek od WeChat</item>
      </plurals>
      <plurals name="file_notify_title_wechat_video_auto_backup">
-        <item quantity="other">Shranjeno %1$d WeChat videozapisov.</item>
-        <item quantity="zero">Shranjeno %1$d WeChat videozapisov.</item>
-        <item quantity="one">Shranjen 1 WeChat videozapis.</item>
-        <item quantity="two">Shranjeno %1$d WeChat videozapisa.</item>
-        <item quantity="few">Shranjeno %1$d WeChat videozapisov.</item>
-        <item quantity="many">Shranjeno %1$d WeChat videozapisov.</item>
+        <item quantity="other">Shranjeno %1$d WeChat videoposnetkov.</item>
+        <item quantity="zero">Shranjeno %1$d WeChat videoposnetkov.</item>
+        <item quantity="one">Shranjen 1 WeChat videoposnetek.</item>
+        <item quantity="two">Shranjeno %1$d WeChat videoposnetka.</item>
+        <item quantity="few">Shranjeno %1$d WeChat videoposnetkov.</item>
+        <item quantity="many">Shranjeno %1$d WeChat videoposnetkov.</item>
      </plurals>
      <plurals name="file_notify_title_wechat_video_expire">
-        <item quantity="other">%1$d datotek od WeChat videozapisov bo poteklo</item>
-        <item quantity="zero">%1$d datotek od WeChat videozapisov bo poteklo</item>
-        <item quantity="one">%1$d datoteka od WeChat videozapisov bo poteklo</item>
-        <item quantity="two">%1$d datoteki od WeChat videozapisov bo poteklo</item>
-        <item quantity="few">%1$d datotek od WeChat videozapisov bo poteklo</item>
-        <item quantity="many">%1$d datotek od WeChat videozapisov bo poteklo</item>
+        <item quantity="other">%1$d datotek od WeChat videoposnetkov bo poteklo</item>
+        <item quantity="zero">%1$d datotek od WeChat videoposnetkov bo poteklo</item>
+        <item quantity="one">%1$d datoteka od WeChat videoposnetka bo potekla</item>
+        <item quantity="two">%1$d datoteki od WeChat videoposnetkov bosta potekli</item>
+        <item quantity="few">%1$d datotek od WeChat videoposnetkov bo poteklo</item>
+        <item quantity="many">%1$d datotek od WeChat videoposnetkov bo poteklo</item>
      </plurals>
      <plurals name="found_new_files">
         <item quantity="other">Najdeno (%1$d) novih datotek</item>
         <item quantity="zero">Najdeno (%1$d) novih datotek</item>
-        <item quantity="one">Najdeno (%1$d) nova datoteka</item>
-        <item quantity="two">Najdeno (%1$d) nove datoteki</item>
+        <item quantity="one">Najdeno (%1$d) novih datotek</item>
+        <item quantity="two">Najdeno (%1$d) novi datoteki</item>
         <item quantity="few">Najdeno (%1$d) novih datotek</item>
         <item quantity="many">Najdeno (%1$d) novih datotek</item>
      </plurals>
@@ -137,12 +137,12 @@
         <item quantity="many">Izbrano (%1$d)</item>
      </plurals>
      <plurals name="remote_video_update">
-        <item quantity="other">Najdeno %1$d novih videozapisov</item>
-        <item quantity="zero">Najdeno %1$d novih videozapisov</item>
-        <item quantity="one">Najdeno%1$d nov videozapis</item>
-        <item quantity="two">Najdena %1$d nova videozapisa</item>
-        <item quantity="few">Najdeno %1$d novih videozapisov</item>
-        <item quantity="many">Najdeno %1$d novih videozapisov</item>
+        <item quantity="other">Najdeno %1$d novih videoposnetkov</item>
+        <item quantity="zero">Najdeno %1$d novih videoposnetkov</item>
+        <item quantity="one">Najdeno%1$d nov videoposnetek</item>
+        <item quantity="two">Najdena %1$d nova videoposnetka</item>
+        <item quantity="few">Najdeno %1$d novih videoposnetkov</item>
+        <item quantity="many">Najdeno %1$d novih videoposnetkov</item>
      </plurals>
      <plurals name="search_head_hint_app">
         <item quantity="other">Datotek (%2$d) apl. %1$s</item>
@@ -172,7 +172,7 @@
         <item quantity="other">Preostalo (%1$d) datotek za prenos</item>
         <item quantity="zero">Preostalo (%1$d) datotek za prenos</item>
         <item quantity="one">Preostala (%1$d) datoteka za prenos</item>
-        <item quantity="two">Preostale (%1$d) datoteki za prenos</item>
+        <item quantity="two">Preostali (%1$d) datoteki za prenos</item>
         <item quantity="few">Preostalo (%1$d) datotek za prenos</item>
         <item quantity="many">Preostalo (%1$d) datotek za prenos</item>
      </plurals>
@@ -180,7 +180,7 @@
         <item quantity="other">Preostalo (%1$d) datotek za nalaganje</item>
         <item quantity="zero">Preostalo (%1$d) datotek za nalaganje</item>
         <item quantity="one">Preostala (%1$d) datoteka za nalaganje</item>
-        <item quantity="two">Preostale (%1$d) datoteki za nalaganje</item>
+        <item quantity="two">Preostali (%1$d) datoteki za nalaganje</item>
         <item quantity="few">Preostalo (%1$d) datotek za nalaganje</item>
         <item quantity="many">Preostalo (%1$d) datotek za nalaganje</item>
      </plurals>
