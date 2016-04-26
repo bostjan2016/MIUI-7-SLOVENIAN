@@ -146,6 +146,7 @@
      <string name="call_record_auto_whitelist_no_item">Dodaj številko s pritiskom na dodaj (+) tipka</string>
      <string name="call_record_auto_whitelist_summary">%d številk</string>
      <string name="call_record_auto_whitelist_summary_for_one">1 številka</string>
+  <string name="call_record_loading_content">Nalagam…</string>
      <string name="call_record_off_summary">Snemanje klicev je izklopljeno</string>
      <string name="call_record_on_summary">Klici se bodo snemali samodejno</string>
      <string name="call_record_setting">Nastavitve snemanja klicev</string>

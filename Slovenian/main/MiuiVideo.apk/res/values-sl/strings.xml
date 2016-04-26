@@ -319,7 +319,7 @@
      <string name="search_hint">Išči online videoposnetke</string>
      <string name="search_result_empty_text">Ničesar ne najdem</string>
      <string name="search_snack_more">Več informacij</string>
-     <string name="search_snack_sniff">Sniffing prenos</string>
+  <string name="search_snack_sniff">Celo omrežje</string>
      <string name="second"> Drugo</string>
      <string name="see_all_count_comment">%d več komentarjev</string>
      <string name="select_all">Izberi vse</string>
@@ -336,7 +336,7 @@
      <string name="share_device">Deljena naprava</string>
      <string name="similar">Podobno</string>
      <string name="sina">Sina</string>
-  <string name="sniff">Sniff</string>
+  <string name="sniff">Vir</string>
      <string name="souhu">Souhu</string>
      <string name="source_error">Ne najdem vira</string>
      <string name="star1">*</string>

@@ -34,6 +34,7 @@
      <string name="add_to_secret_failed_with_reason">"Ne more biti dodano v skriti album. %1$s."</string>
      <string name="add_to_secret_failed_with_reason_and_count">"%2$s predmetov ne more biti dodano v skriti album. %1$s."</string>
      <string name="add_to_secret_successful">Dodano v skriti album</string>
+  <string name="adding">Dodajanje</string>
      <string name="add_to_cloud_album">Dodaj v album</string>
      <string name="add_to_cloud_exceeded_the_size_message">Datoteka je prevelika</string>
      <string name="add_to_cloud_failed_message_with_count">"%2$s elementov ni bilo mogoče dodati v Mi Cloud : %1$s."</string>
@@ -310,7 +311,8 @@
      <string name="delete_other_shared_images">"Žal ne morete brisati fotografij deljenih od drugih"</string>
      <string name="delete_owner_and_other_shared_images_format">%1$d izbrisano, %2$d ohranjeno</string>
   <string name="delete_third_party_photo">Izbrišem to fotografijo?</string>
-  <string name="delete_third_party_video">Izbrišem ta videozapis?</string>
+  <string name="delete_third_party_video">Izbrišem ta videoposnetek?</string>
+  <string name="delete_to_trash_tips">Lahko pregledate sinhronizirane fotografije nedavno izbrisane iz smeti v nastavitvah</string>
   <string name="delete_file">Izbrišem (%1$d) datotek?</string>
      <string name="delete_files_and_folders">Izbrišem datoteke (%1$d) in mape (%2$d)?</string>
   <string name="delete_folder">Izbrišem (%1$d) map ?</string>
@@ -974,8 +976,9 @@ naprave"</string>
      <string name="user_alias_self">Jaz</string>
      <string name="user_notice_identify_summary_format">"Z uporabo te storitve se strinjate z Xiaomi %1$s in %2$s."</string>
      <string name="user_notice_title">Pozor</string>
+  <string name="video_edit_file_not_exits_tip">Najprej prenesite videoposnetek</string>
      <string name="user_policy">Pravila o zasebnosti</string>
-     <string name="video_err">"Ne morem predvajati video posnetka"</string>
+     <string name="video_err">"Ne morem predvajati videoposnetka"</string>
      <string name="video_not_exist">Video posnetek ne obstaja</string>
      <string name="videos">" Videozapisov"</string>
      <string name="view_baby_album">Prikaži otroški album</string>

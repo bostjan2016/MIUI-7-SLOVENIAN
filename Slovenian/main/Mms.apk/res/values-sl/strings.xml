@@ -19,6 +19,8 @@
      <string name="add_slide_hint">Dotakni se, da ustvarite nov diapozitiv</string>
      <string name="add_smiley">Smejko</string>
      <string name="add_timing">Meritev</string>
+  <string name="add_to_browser_favorite_failed">Ni uspelo</string>
+  <string name="add_to_browser_favorite_success">Uspelo</string>
      <string name="add_video">Dodaj video posnetek</string>
      <string name="adding_attachments">Počakajte medtem, ko se predmeti dodajajo v diaprojekcijo</string>
      <string name="adding_attachments_title">Dodajanje priponk</string>
@@ -345,7 +347,7 @@
      <string name="non_english_subject_limit">Meja 13 znakov</string>
      <string name="nosend_message">Ne pošlji</string>
      <string name="notification_failed_multiple">%s sporočil ni bilo možno poslati</string>
-     <string name="notification_failed_multiple_title">Sporočila nisto poslana</string>
+     <string name="notification_failed_multiple_title">Sporočila niso poslana</string>
      <string name="notification_multiple">%s neprebranih sporočil</string>
      <string name="notification_multiple_title">Novo sporočilo</string>
      <string name="number_add_hint">Vnesi telefonsko številko</string>
@@ -574,8 +576,8 @@
      <string name="subject_label">Tema:</string>
      <string name="text_in_popup_saved_to_clipboard">Kopirano na odlagališče</string>
      <string name="text_message">Sporočilo</string>
-     <string name="timed_message_expired_title">%d časovna sporočila niso bila poslana</string>
-     <string name="timed_message_expired_title_2">Pošlji jih sedaj?</string>
+     <string name="timed_message_expired_title">%d časovnih sporočil ni bilo poslano</string>
+     <string name="timed_message_expired_title_2">Pošljem zdaj?</string>
      <string name="timed_message_in_total">(%d sporočila)</string>
      <string name="timed_message_to">za</string>
      <string name="title_allow_network_access">Posodobi podatke avtomatsko</string>
@@ -604,7 +606,8 @@
      <string name="type_to_compose_text_or_leave_blank">Vnesi sporočilo ali pusti prazno</string>
      <string name="type_vcard">vKartica</string>
      <string name="type_video">video</string>
-     <string name="undelivered_msg_dialog_body">Tega sporočila ni bilo možno poslati.      Poskus: %s.</string>
+     <string name="undelivered_msg_dialog_body">Tega sporočila ni bilo možno poslati.  
+    Poskus: %s.</string>
      <string name="undelivered_msg_dialog_title">Neposlano sporočilo</string>
      <string name="undelivered_sms_dialog_body">Tega sporočila ni mogoče poslati</string>
      <string name="unknown_num">Neznana številka</string>
