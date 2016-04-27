@@ -164,8 +164,8 @@ Varčevanje z energijo akumulatorja se samodejno izklopi med polnjenjem akumulat
   <string name="data_usage_restricted_title">Podatki v ozadju so omejeni</string>
   <string name="data_usage_warning_body">Dotaknite se za uporabo in nast.</string>
   <string name="data_usage_warning_title">Opozorilo o uporabi podatkov</string>
-  <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke Wi-Fi</string>
-  <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za Wi-Fi</string>
+  <string name="data_usage_wifi_limit_snoozed_title">Presež. omej. za podatke WiFi</string>
+  <string name="data_usage_wifi_limit_title">Dosežena pod. omejitev za WiFi</string>
   <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Zmanjšanje vrednosti za dan</string>
   <string name="date_picker_decrement_month_button">Zmanjšanje vrednosti za mesec</string>
@@ -1055,7 +1055,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_accessibilityFeatures">Funkcije ki jih lahko zahteva tehnologija za ljudi s posebnimi potrebami.</string>
   <string name="permgroupdesc_accounts">Dostop do razpoložljivih računov.</string>
   <string name="permgroupdesc_affectsBattery">Uporaba funkcij ki lahko hitro izpraznijo baterijo.</string>
-  <string name="permgroupdesc_appInfo">Zmožnost vpliva na delovanje drugih aplikacijaov v napravi.</string>
+  <string name="permgroupdesc_appInfo">Zmožnost vpliva na delovanje drugih aplikacij v napravi.</string>
   <string name="permgroupdesc_audioSettings">Spreminjanje nastavitev zvoka.</string>
   <string name="permgroupdesc_bluetoothNetwork">Dostopanje do naprav in omrežij prek povezave Bluetooth.</string>
   <string name="permgroupdesc_bookmarks">Neposreden dostop do zaznamkov in zgodovine brskalnika.</string>
@@ -1163,7 +1163,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_bindDreamService">povezovanje na Dream</string>
   <string name="permlab_bindGadget">izbiranje pripomočkov</string>
   <string name="permlab_bindInputMethod">povezovanje z načinom vnosa</string>
-  <string name="permlab_bindJobService">povezava s planiranim delom aplikacijaa v ozadju</string>
+  <string name="permlab_bindJobService">povezava s planiranim delom aplikacij v ozadju</string>
   <string name="permlab_bindNfcService">povezava s storitvijo NFC</string>
   <string name="permlab_bindNotificationListenerService">poveži se s storitvijo poslušalca obvestil</string>
   <string name="permlab_bindPackageVerifier">povezava s preverjanjem paketov</string>
@@ -1232,7 +1232,7 @@ Znova poskusite čez %d s."</string>
   <string name="permlab_filter_events">filtriranje dogodkov</string>
   <string name="permlab_flashlight">nadzor svetilke</string>
   <string name="permlab_fm">dostop do FM radia</string>
-  <string name="permlab_forceBack">vsiljeno zapiranje aplikacijaa</string>
+  <string name="permlab_forceBack">vsiljeno zapiranje aplikacij</string>
   <string name="permlab_forceStopPackages">vsiljena zaustavitev drugih aplikacij</string>
   <string name="permlab_frameStats">branje statističnih kazalcev okvira</string>
   <string name="permlab_freezeScreen">zamrznitev zaslona</string>
@@ -1621,11 +1621,11 @@ Preostalo poskusov :"</string>
   <string name="stk_cc_ussd_to_dial">Zahteva USSD je spremenjena v zahtevo DIAL.</string>
   <string name="stk_cc_ussd_to_ss">Zahteva USSD je spremenjena v zahtevo SS.</string>
   <string name="stk_cc_ussd_to_ussd">Zahteva USSD je spremenjena v novo zahtevo USSD.</string>
-  <string name="storage_external_usb">Zunanja USB shramba</string>
-  <string name="storage_ic_usb1">Zunanja IC-USB shramba1</string>
-  <string name="storage_ic_usb2">Zunanja IC-USB shramba2</string>
-  <string name="storage_internal">Notranja shramba</string>
-  <string name="storage_phone">Shramba telefona</string>
+  <string name="storage_external_usb">Zunanji USB pomnilnik</string>
+  <string name="storage_ic_usb1">Zunanji IC-USB pomnilnik1</string>
+  <string name="storage_ic_usb2">Zunanji IC-USB pomnilnik2</string>
+  <string name="storage_internal">Notranji shramba</string>
+  <string name="storage_phone">Pomnilnik telefona</string>
   <string name="storage_sd_card">Kartica SD</string>
   <string name="storage_sd_card_label">Kartica SD %s</string>
   <string name="storage_uicc">UICC shramba</string>
@@ -1671,7 +1671,7 @@ Preostalo poskusov :"</string>
   <string name="untitled">&lt;Brez naslova&gt;</string>
   <string name="upload_file">Izberi datoteko</string>
   <string name="usb_accessory_notification_title">Priključen na dodatek USB</string>
-  <string name="usb_cd_installer_notification_title">Priključen kot instalacijski aplikacija</string>
+  <string name="usb_cd_installer_notification_title">Priključen kot instalacijska aplikacija</string>
   <string name="usb_charging_notification_title">USB za polnjenje</string>
   <string name="usb_choose_notification_title">Dotaknite se za izbiro USB opcije.</string>
   <string name="usb_midi_notification_title">USB za MIDI</string>
