@@ -11,6 +11,7 @@
      <string name="activate_feature_mx">Mi Sporočila</string>
      <string name="activate_feature_mx_and_voip">Mi sporočila in zvok</string>
      <string name="activate_feature_register_xiaomi_account">Nastavitve Mi Računa</string>
+  <string name="activate_feature_remote_assist">Pomočnik na daljavo</string>
      <string name="activate_feature_verify_mx_token">Preverjanje Mi Računa</string>
      <string name="activate_history_cancelled">Preklicano</string>
      <string name="activate_history_multisim_overview">Aktiviranje za SIM kartico %3$d %1$s. Aktivirano s funkcijo \"%2$s\".</string>

@@ -3945,10 +3945,13 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
      <string name="vibrate_on_touch_title">Vibriranje ob dotiku</string>
      <string name="vibrate_when_ringing_title">Vibriranje tudi za klice</string>
      <string name="view_install_log">Prikaži zapis</string>
-     <string name="virtual_sim_category_title">Virtualna SIM</string>
+     <string name="virtual_sim_category_title">MI Gostovanje</string>
      <string name="virtual_sim_description">Preverjena mednarodna storitev ostovanja</string>
+  <string name="virtual_sim_global_category_title">Mi SIM</string>
+  <string name="virtual_sim_global_description">SIM kartica ni potrebna za povezovanje z podatkovnim omrežjem</string>
+  <string name="virtual_sim_global_title">Usluga prometa podatkov</string>
      <string name="virtual_sim_search_title">Virtualna SIM</string>
-     <string name="virtual_sim_title">Gostovanje omrežje podatakov</string>
+     <string name="virtual_sim_title">Gostovanje omrežja podatakov</string>
      <string name="virus_scan">Iskanje virusov</string>
      <string name="virus_scan_app_continue">Nadaljuj iskanje</string>
   <string name="virus_scan_app_find_risk">Najdeno tveganj: %d</string>

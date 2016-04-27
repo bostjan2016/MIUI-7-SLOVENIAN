@@ -405,6 +405,7 @@ Kartice stikov so izključene"</string>
      <string name="export_to_sim1">Izvozi na SIM kartico 1</string>
      <string name="export_to_sim2">Izvozi na SIM kartico 2</string>
      <string name="export_to_sim_title">Izvažam...</string>
+  <string name="export_to_storage">Izvoz v pomnilnik</string>
      <string name="export_vcard_description">Izvozi vCard na notranji pomnilnik telefona</string>
      <string name="exporting_contact_failed_message">Podatki o stiku niso bili izvoženi.      
 Razlog: \"%s\"</string>
@@ -1253,6 +1254,10 @@ Napravite varnostno kopijo stikov.</string>
      <string name="status_available">Na voljo</string>
      <string name="status_away">Proč</string>
      <string name="status_busy">Zaposlen</string>
+  <string name="storage_internal_description">Notranji pomnilnik</string>
+  <string name="storage_sd_card">SD kartica</string>
+  <string name="storage_sd_card_description">SD kartica</string>
+  <string name="storage_usb_description">USB pomnilnik</string>
      <string name="strequentList">Priljubljene</string>
      <string name="success_message_import_from_account">Stik uvožen</string>
      <string name="summary_kind_title">Povzetek</string>

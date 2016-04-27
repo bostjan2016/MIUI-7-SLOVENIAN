@@ -146,9 +146,9 @@ pojdite na %s"</string>
   <string name="user_agreement">Pravila o Zasebnosti</string>
   <string name="voip_about">Mi Voice</string>
   <string name="voip_about_gif_desc">"Klicanje s pomočjo Mi Voice iz številčnice ali stikov."</string>
-  <string name="voip_about_net_desc">Klicanje s pomočjo Mi Voice porabi manjkot 400KB na minuto.</string>
+  <string name="voip_about_net_desc">Klicanje s pomočjo Mi Voice porabi manj kot 400KB na minuto.</string>
   <string name="voip_about_net_title">Poraba podatkov</string>
-  <string name="voip_about_support_desc">"Če oseba ki jo kličete uporablja Mi napravo, se prepričajte da je vključila Mi Voice. Če oseba uporablja drugo napravo lahko uporablja Mi Voice s pomočjo aplikacije Weihui Internet Calling iz Mi App Store."</string>
+  <string name="voip_about_support_desc">"Če oseba ki jo kličete uporablja Mi napravo se prepričajte da je vključila Mi Voice. Če oseba uporablja drugo napravo lahko uporablja Mi Voice s pomočjo aplikacije Weihui Internet Calling iz Mi App Store."</string>
   <string name="voip_about_support_title">Pokličite katero koli Android napravo</string>
   <string name="voip_btn_mute">Tiho</string>
   <string name="voip_btn_speaker">Zvočnik</string>
