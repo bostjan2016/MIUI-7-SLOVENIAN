@@ -4,7 +4,7 @@
         <item>Začetna</item>
         <item>Delo</item>
         <item>Ostalo</item>
-        <item>Prilagojeno</item>
+        <item>Po meri</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -62,21 +62,21 @@
         <item>Objavljanje obvestil</item>
         <item>Lokacija</item>
         <item>Klic na telefon</item>
-        <item>Branje SMS-a/MMS-a</item>
-        <item>Pisanje SMS-a/MMS-a</item>
-        <item>Prejemanje SMS-a/MMS-a</item>
-        <item>Prejemanje SMS-a/MMS-a</item>
-        <item>Prejemanje SMS-a/MMS-a</item>
-        <item>Prejemanje SMS-a/MMS-a</item>
-        <item>Pošiljanje SMS-a/MMS-a</item>
-        <item>Branje SMS-a/MMS-a</item>
-        <item>Pisanje SMS-a/MMS-a</item>
+        <item>Branje SMS-ov/MMS-ov</item>
+        <item>Pisanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Prejemanje SMS-ov/MMS-ov</item>
+        <item>Pošiljanje SMS-ov/MMS-ov</item>
+        <item>Branje SMS-ov/MMS-ov</item>
+        <item>Pisanje SMS-ov/MMS-ov</item>
         <item>Spreminjanje nastavitev</item>
         <item>Umik na vrh</item>
         <item>Dostop do obvestil</item>
         <item>Kamera</item>
-        <item>Snemanje zvuka</item>
-        <item>Predvajanje audiozapisa</item>
+        <item>Snemanje zvoka</item>
+        <item>Predvajanje avdioposnetkov</item>
         <item>Beri odložišče</item>
         <item>Spreminjanje dohodne pošte</item>
         <item>Spremeni odložišče</item>
@@ -92,9 +92,9 @@
         <item>Zadrži v aktivnem stanju</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
-        <item>Vklj./izklj WLAN</item>
+        <item>Vklj./izklj WiFi</item>
         <item>Vklj./izklj Bluetooth</item>
-        <item>Vklj./izklj. podatkov</item>
+        <item>Vklj./izklj. podatke</item>
         <item>Lokacija</item>
         <item>Lokacija</item>
         <item>Zaženi kodo zagona</item>
