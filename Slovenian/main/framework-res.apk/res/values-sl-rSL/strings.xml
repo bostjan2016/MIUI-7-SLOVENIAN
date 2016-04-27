@@ -993,7 +993,7 @@ Znova poskusite čez %d s."</string>
   <string name="permdesc_runSetActivityWatcher">Aplikaciji omogoča spremljanje in nadziranje načina kako sistem zažene dejavnosti. Zlonamerne aplikacije lahko v celoti ogrozijo varnost sistema. To dovoljenje je potrebno samo za razvoj, vendar nikoli za običajno uporabo.</string>
   <string name="permdesc_scoreNetworks">Aplikaciji omogoča rangiranje omrežij in vplivanje na izbiro priljubljenih omrežij na telefonu.</string>
   <string name="permdesc_sdcardAccessAll">Aplikaciji omogoča dostop do zunanje naprave za shranjevanje za vse uporabnike.</string>
-  <string name="permdesc_sdcardRead">Aplikaciji omogoča branje vsebine shrambe USB.</string>
+  <string name="permdesc_sdcardRead">Aplikaciji omogoča branje vsebine pomnilnika USB.</string>
   <string name="permdesc_sdcardWrite">Aplikaciji omogoča zapisovanje v pomnilnik USB.</string>
   <string name="permdesc_sendRespondViaMessageRequest">Aplikaciji dovoli da pošilja zahteve drugim aplikacijam za sporočila za obravnavanje dogodkov z odgovori prek sporočil za dohodne klice.</string>
   <string name="permdesc_sendSms">Aplikaciji omogoča pošiljanje SMS-ov. Zaradi tega lahko pride do nepričakovanih stroškov. Zlonamerne aplikacije lahko pošiljajo sporočila brez vaše potrditve, kar vas lahko drago stane.</string>
