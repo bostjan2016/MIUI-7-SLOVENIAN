@@ -11,8 +11,8 @@
   <string name="app_name">MIUI 6 Toggles arrange</string>
   <string name="data_access">Dostop</string>
   <string name="data_airplane">Način za letalo</string>
-  <string name="data_autolight">Avto. svet.</string>
-  <string name="data_block">Zakle.</string>
+  <string name="data_autolight">Samod. svet.</string>
+  <string name="data_block">Zakl.</string>
   <string name="data_bluetooth">Bluetooth</string>
   <string name="data_buttons">Onemogoči</string>
   <string name="data_gps">GPS</string>

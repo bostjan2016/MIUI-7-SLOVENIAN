@@ -15,7 +15,7 @@
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Dovoli</string>
   <string name="auto_start_warning_deny">Zavrni</string>
-  <string name="auto_start_warning_title">Dovolim %s avtom. zagon?</string>
+  <string name="auto_start_warning_title">Dovolim %s samod. zagon?</string>
   <string name="autumn_begins"/>
   <string name="autumn_equinox"/>
   <string name="call_record_or">" Ali "</string>
@@ -100,7 +100,7 @@ pojdite na: %s."</string>
   <string name="lunar_yue">" "</string>
   <string name="lunar_zheng">" "</string>
   <string name="maml_component_customization_title">Nastavitve</string>
-  <string name="memory_clear_nothing_result">Uporaba spomina je že optimirana.</string>
+  <string name="memory_clear_nothing_result">Uporaba pomnilnika je že optimirana.</string>
   <string name="memory_clear_result">"Izbrisano: %1$sB Dostopno: %2$sB"</string>
   <string name="mibi_license">Mi Krediti Pogoji ponudbe storitev</string>
   <string name="miui_device_name">Android</string>
@@ -113,7 +113,7 @@ pojdite na: %s."</string>
   <string name="peace_day"/>
   <string name="policy_name">Zasebnost: %s</string>
   <string name="presentation_payphone">Telefonska govorilnica</string>
-  <string name="presentation_private">Privatna številka</string>
+  <string name="presentation_private">Zasebna številka</string>
   <string name="presentation_unknown">Neznana številka</string>
   <string name="reboot_confirm_title">Vaša naprava se bo ponovno zagnala</string>
   <string name="reboot_progress">Ponovni zagon…</string>
@@ -128,7 +128,7 @@ pojdite na: %s."</string>
   <string name="screen_on_proximity_sensor_summary">Ne pokrijte oranžnega dela zaslona.</string>
   <string name="screen_on_proximity_sensor_title">Prepreči slučajno izbiranje v žepu</string>
   <string name="screen_paper_mode_enter_toast">Način branja je vključen. To lahko vključite/izključite kadarkoli v Dodatne nastavitve &gt; Način branja.</string>
-  <string name="screen_rotation_freeze_message">Avto. rotacija onemogočena.</string>
+  <string name="screen_rotation_freeze_message">Samod. rotacija onemogočena.</string>
   <string name="select">Izberi</string>
   <string name="select_all">Izberi vse</string>
   <string name="shutdown_confirm_title">"Vaš telefon se bo izključil."</string>
@@ -163,8 +163,8 @@ pojdite na: %s."</string>
   <string name="status_bar_toggle_screenshot">Posnetek zaslona</string>
   <string name="status_bar_toggle_shutdown">Izklop</string>
   <string name="status_bar_toggle_sync">Sinhr.</string>
-  <string name="status_bar_toggle_sync_auto">Avto Sinhr.</string>
-  <string name="status_bar_toggle_sync_manual">Ročna Sinhr.</string>
+  <string name="status_bar_toggle_sync_auto">Samod. sinhr.</string>
+  <string name="status_bar_toggle_sync_manual">Ročna sinhr.</string>
   <string name="status_bar_toggle_syncing">Sinhronizacija</string>
   <string name="status_bar_toggle_torch">Svetilka</string>
   <string name="status_bar_toggle_vibrate">Vibracija</string>
