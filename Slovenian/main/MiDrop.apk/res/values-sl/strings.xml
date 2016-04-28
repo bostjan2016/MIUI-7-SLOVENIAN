@@ -14,7 +14,7 @@
   <string name="cancel_receive_stop">Nadaljuj sprejem</string>
   <string name="cancel_stop">Nadaljuj pošiljanje</string>
   <string name="file_not_support">"Ta vrsta datoteke ni podprta"</string>
-  <string name="help">N pomoč</string>
+  <string name="help">Na pomoč</string>
   <string name="i_know">V redu</string>
   <string name="intro_midrop">Mi Drop</string>
   <string name="intro_page1_text1">Podelite datoteke z napravami v bližini</string>
@@ -25,7 +25,7 @@
   <string name="intro_page3_choose_midrop2">Datoteke se pošljejo takoj!</string>
   <string name="newText">Novo sporočilo</string>
   <string name="notif_receive_cancel">Neposlanih datotek: %1$s</string>
-  <string name="notif_receive_lockscreen">Dotaknite se za prikaz detajlov</string>
+  <string name="notif_receive_lockscreen">Dotaknite se za prikaz podrobnosti</string>
   <string name="notif_receive_progress">Prejemanje: %1$s…</string>
   <string name="notif_receive_success">Prejeto: %1$s</string>
   <string name="notif_send_cancel">Prenos pri %1$s prekinjen</string>

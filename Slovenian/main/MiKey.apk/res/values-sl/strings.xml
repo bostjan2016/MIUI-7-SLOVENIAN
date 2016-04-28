@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_baidusearch">Baidu iskanje</string>
-  <string name="action_capture_video">Video zapis</string>
+  <string name="action_capture_video">Videoposnetek</string>
   <string name="action_clear_call_list">Izbriši zgodovino klicev</string>
   <string name="action_clear_memory">Sprosti RAM</string>
   <string name="action_clear_sms_inbox">Izbriši SMS sporočila</string>
@@ -62,7 +62,7 @@
   <string name="category_1">Nastavitve sistema</string>
   <string name="category_2">Gumbi</string>
   <string name="chooser_dust_cap">MiKey (Zaščita pred prahom)</string>
-  <string name="clean_memory">Shramba pobrisana</string>
+  <string name="clean_memory">Pomnilnik očiščen</string>
   <string name="click_count_union">Krat</string>
   <string name="click_to_open">Odpri</string>
   <string name="click_type_0">0</string>
@@ -110,7 +110,7 @@ na dnu seznama"</string>
   <string name="combo_standard_text">Ta paket je primeren za osnovno vsakodnevno uporabo.</string>
   <string name="combo_standard_title">Standardni paket</string>
   <string name="company">Podjetje:</string>
-  <string name="confirm">Vredu</string>
+  <string name="confirm">V redu</string>
   <string name="copy">Kopiraj</string>
   <string name="copy_succeed">Kopiranje uspešno</string>
   <string name="default_action_title">Privzeto opravilo</string>
@@ -133,7 +133,7 @@ na dnu seznama"</string>
   <string name="faq_focus_title">Počasno fotografiranje?</string>
   <string name="faq_misreq_text">Če kontrole glasbe ne reagirajo na zaklenjenem zaslonu, zapustite aplikacijo Glasba, izbrišite jo iz RAM-a, ponovno priključite Mikey in v Meniju izberite "Mikey". Zavedamo se te napake in delamo vse da jo odpravimo!</string>
   <string name="faq_misreq_title">Kako rešiti težave?</string>
-  <string name="faq_plug_text">Ta metoda vključevanja MiKey bo pomagala preprečiti mogoče težave. Ne pritikajte gumbov v času povezovanja MiKey.</string>
+  <string name="faq_plug_text">Ta metoda vključevanja MiKey bo pomagala preprečiti mogoče težave. Ne pritiskajte gumbov v času povezovanja MiKey.</string>
   <string name="faq_plug_title">Kako priključiti MiKey?</string>
   <string name="faq_quni_text">Gumb bo zdržal več kot 30.000 pritiskov</string>
   <string name="faq_quni_title">Koliko dolgo bo zdržal?</string>
@@ -141,30 +141,30 @@ na dnu seznama"</string>
   <string name="faq_slow_title">Počasna reakcija?</string>
   <string name="faq_speed_text">Razlike med napravami povzročijo različen reakcijski čas. Nastavite čas med pritiski Mikey po svoji potrebi.</string>
   <string name="faq_speed_title">Neopaženo opravilo?</string>
-  <string name="faq_stat_text">Gumb se resetira na začetku vsakega dne</string>
+  <string name="faq_stat_text">Gumb se ponastavi na začetku vsakega dne</string>
   <string name="faq_stat_title">Zjutraj imam "0" klikov?</string>
   <string name="faq_title">MiKey FAQ</string>
-  <string name="faq_voice_text">Ponovo priključite MiKey in poiskusite ponovno</string>
+  <string name="faq_voice_text">Ponovo priključite MiKey in poskusite ponovno</string>
   <string name="faq_voice_title">Pri klicu ni zvoka?</string>
   <string name="faq_vsm_text">Preverite da ste odklopili svoj ​​Mikey pred odstranitvijo zadnjega pokrova!</string>
   <string name="faq_vsm_title">Opozorilo!</string>
   <string name="file_delimiter">/</string>
   <string name="flash_lable">Bliskavica</string>
-  <string name="front_camera">Prednja kamera</string>
+  <string name="front_camera">Sprednja kamera</string>
   <string name="goto_update">Posodabljanje</string>
-  <string name="hint_long_press_del">Dolgi pritisk za odstranitev</string>
+  <string name="hint_long_press_del">Dolg pritisk za odstranitev</string>
   <string name="hint_mikey_after_link">Pritisnite tu da vidite program MiKey</string>
   <string name="hint_mikey_before_link">Ne morete uporabljati</string>
   <string name="hint_mikey_during_link">MiKey v okviru programa</string>
   <string name="hint_mikey_sprite">"Nastavite MiKey Čarovnik kjer koli
 S pritiskom na MiKey simulirate dotik na izbranem mestu.
-Ob uporabi so ostale funkcije MiKey nedodtopne."</string>
+Ob uporabi so ostale funkcije MiKey nedostopne."</string>
   <string name="input_phone">Vnesi številko telefona</string>
   <string name="key_direction_down">Dol</string>
   <string name="key_direction_left">Levo</string>
   <string name="key_direction_right">Desno</string>
   <string name="key_direction_up">Gor</string>
-  <string name="know_it">Vredu</string>
+  <string name="know_it">V redu</string>
   <string name="long_click">Dolg pritisk</string>
   <string name="madclick_toast_illigal">Vnesite številke</string>
   <string name="madclick_toast_max">Manj od 10000</string>
@@ -172,11 +172,11 @@ Ob uporabi so ostale funkcije MiKey nedodtopne."</string>
   <string name="message_photo_end">Slika shranjena</string>
   <string name="mikey_sprite_toggle_title">MiKey Čarovnik je odprt</string>
   <string name="name">Ime:</string>
-  <string name="nickname">Nadimek:</string>
+  <string name="nickname">Vzdevek:</string>
   <string name="no_usage">…</string>
   <string name="not_support_android_m">"Android 6.0 
 ni podprt!"</string>
-  <string name="note">Beleška:</string>
+  <string name="note">Beležka:</string>
   <string name="notification_control_play">Predvajaj</string>
   <string name="notification_control_stop">Ustavi</string>
   <string name="notification_recorder_file_location">Shranjeno v:</string>
@@ -187,7 +187,7 @@ ni podprt!"</string>
   <string name="open_flash_error">Vključitev bliskavice ni uspela</string>
   <string name="phone">Telefon:</string>
   <string name="picker_lable">Galerija</string>
-  <string name="place_barcode_into_rectangle">Postavite QR kodo ali barkodo znotraj pravokotnega iskala</string>
+  <string name="place_barcode_into_rectangle">Postavite QR kodo ali kodo znotraj pravokotnega iskala</string>
   <string name="privacy_mode_end">Zaseben način onemogočen</string>
   <string name="privacy_mode_first_hint">Za obiskovalce je Zaseben način omogočen</string>
   <string name="privacy_mode_started">Zaseben način omogočen</string>
@@ -217,7 +217,7 @@ ni podprt!"</string>
   <string name="select_camera">Izberi kamero</string>
   <string name="select_device">Izberi napravo</string>
   <string name="select_direction">Smeri</string>
-  <string name="select_vol">Izberite gumb za glasnost</string>
+  <string name="select_vol">Izberite gumbe za glasnost</string>
   <string name="setting_buy">Kupite MiKey</string>
   <string name="setting_feedback">Pov. informacija</string>
   <string name="setting_inner_call_desc">Klik: Javljanje / prekinitev klica</string>
@@ -239,22 +239,22 @@ Daljši klik: Video"</string>
   <string name="setting_inner_sprite_title">程序内米键</string>
   <string name="setting_instant_photo_desc">"Pred fotografiranjem bo kamera ostrila"</string>
   <string name="setting_instant_photo_text">Izostri pred fotografiranjem</string>
-  <string name="setting_keeplive_desc">"Ta možnost omogoča, da aplikacija deluje v ozadju in hitro reagira na vaše ukaze.
+  <string name="setting_keeplive_desc">"Ta možnost omogoča da aplikacija deluje v ozadju in hitro reagira na vaše ukaze.
 To lahko povzroči večjo porabo baterije"</string>
   <string name="setting_keeplive_text">Delo v ozadju</string>
   <string name="setting_proximity_desc">Uporablja senzor bližine da preprečite nenamerno uporabo MiKey v žepu.</string>
   <string name="setting_proximity_text">Uporabi senzor bližine</string>
   <string name="setting_silent_mode">Tihi način dela</string>
   <string name="setting_silent_mode_default">Način dela slušalka (izberite MiKey)</string>
-  <string name="setting_silent_mode_desc">"Za vključitev slušalk, izberite način dela slušalke in odklopite MiKey. V nasprotnem avdio izhod ne bo delal pravilno."</string>
+  <string name="setting_silent_mode_desc">"Za vključitev slušalk izberite način dela slušalke in odklopite MiKey. V nasprotnem avdio izhod ne bo delal pravilno."</string>
   <string name="setting_silent_mode_dust_cap">Način dela protiprašni pokrov</string>
-  <string name="setting_speed_desc">Hitrost klikanja gumba</string>
   <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_desc">Hitrost klikanja tipk</string>
   <string name="setting_speed_quick">Hitro</string>
   <string name="setting_speed_slow">Počasi</string>
   <string name="setting_speed_text">Hitrost</string>
   <string name="setting_toolbar">Orodna vrstica</string>
-  <string name="setting_toolbar_desc">"Da bi bilo bolj praktično, lahko do funkcij Orodne vrstice dostopate iz vrstice obvestil "</string>
+  <string name="setting_toolbar_desc">"Da bi bilo bolj praktično lahko do funkcij Orodne vrstice dostopate iz vrstice obvestil "</string>
   <string name="setting_toolbar_tip">"Pritisnite gumb "+" za dodajanje novih funkcij.
 Dolg pritisk za brisanje.
 Napravite lastno orodno vrstico!
@@ -265,13 +265,13 @@ Z vrha zaslona povlecite dol za uporabo."</string>
   <string name="setting_vibrate_desc">"Telefon bo vibriral ko bo opravilo končano"</string>
   <string name="setting_vibrate_text">Odziv vibracije</string>
   <string name="settings">Nastavitve</string>
-  <string name="showSlip">Prikaži v pojavnem okencu</string>
+  <string name="showSlip">Prikaži v pojavnem oknu</string>
   <string name="silent_mode_tip_main">Tihi način dela je omogočen</string>
   <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS poslan</string>
   <string name="sms_template">SMS sporočilo</string>
   <string name="sms_to">SMS</string>
-  <string name="splash_mikey_sprite">"Postavite MiKey Čarovnik kamorkoli
+  <string name="splash_mikey_sprite">"Postavite MiKey Čarovnik kamorkoli. 
 S pritiskom na MiKey simulirajte dotik na izbranem mestu"</string>
   <string name="splash_tip">Poveži MiKey</string>
   <string name="super_difficult_click">"Odpornost klika"</string>
@@ -300,18 +300,18 @@ S pritiskom na MiKey simulirajte dotik na izbranem mestu"</string>
   <string name="unsupport_content">Posodobite na najnovejšo verzijo MIUI da lahko uporabljate to funkcijo!!!!</string>
   <string name="unsupport_title">Ta funkcija ni podprta</string>
   <string name="update_message">Posodabljanje!</string>
-  <string name="vcard_prompt">Stika ni mogoče dodati, ker ni imena</string>
+  <string name="vcard_prompt">Stika ni mogoče dodati ker ni imena</string>
   <string name="wallpaper_action">Sprememba ozadja</string>
-  <string name="wallpaper_change_both">Začetni zaslon + Zaklj. zaslon</string>
+  <string name="wallpaper_change_both">Začetni zaslon + Zakl. zaslon</string>
   <string name="wallpaper_change_desktop">Ozadje začetnega zaslona</string>
   <string name="wallpaper_change_failed">Zamenjava ni uspela</string>
-  <string name="wallpaper_change_home">Ozadje Zaklj. zaslona</string>
+  <string name="wallpaper_change_home">Ozadje Zakl. zaslona</string>
   <string name="wallpaper_change_home_failed">Zamenjava ni uspela</string>
   <string name="wallpaper_change_ok">Ozadje zamenjano</string>
   <string name="wallpaper_changing">Zamenjava ozadja…</string>
   <string name="wallpaper_no_more">Ne menjaj ozadja</string>
   <string name="web">Spletna stran:</string>
-  <string name="webpage_input_title">Vnesi URL</string>
+  <string name="webpage_input_title">Vnesi povezavo</string>
   <string name="webpage_title">Odpri spletno stran</string>
   <string name="write_pic_fail">Neuspelo shranjevanje slike!</string>
 </resources>
