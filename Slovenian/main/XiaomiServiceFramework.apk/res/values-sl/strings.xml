@@ -33,8 +33,8 @@
      <string name="activate_popup_confirm_failed_receive_sms">Poskusite znova</string>
      <string name="activate_popup_confirm_failed_send_sms">Ponovno pošlji</string>
      <string name="activate_popup_confirm_failed_server">Poskusite znova</string>
-     <string name="activate_popup_desc_2_intl_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 2 mednarodni SMS-sporočili, ki se uporabljata za aktiviranje %s.</string>
-     <string name="activate_popup_desc_2_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 2 SMS-sporočili, ki se uporabljata za aktiviranje %s.</string>
+     <string name="activate_popup_desc_2_intl_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 2 mednarodni SMS-sporočili uporabljeni za aktiviranje %s.</string>
+     <string name="activate_popup_desc_2_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 2 SMS-sporočili uporabljeni za aktiviranje %s.</string>
      <string name="activate_popup_desc_all_gateway_failed_query_info">"Ne morem najti vaše telefonske številke. Preverite ali je vaša SIM kartica aktivirana. 
 Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivirate %s"</string>
      <string name="activate_popup_desc_all_gateway_failed_send_sms">"Ne morem poslati SMS aktivacije. Preverite ali je vaša SIM kartica aktivirana. 
@@ -46,18 +46,18 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
      <string name="activate_popup_desc_failed_send_sms">Ne morem poslati aktivacijskega sporočila. Prepričajte se da je bila vaša kartica SIM aktivirana.</string>
      <string name="activate_popup_desc_failed_server">Preverite svojo podatkovno povezavo in poskusite znova.</string>
      <string name="activate_popup_desc_find_device_postfix">SMS aktivacija bo poslana po zamenjavi SIM kartice.</string>
-     <string name="activate_popup_desc_intl_sim_card">Vaš ponudnik storitev vam lahko zaračuna mednarodna sporočila SMS, ki se uporabljajo za aktiviranje %s.</string>
-     <string name="activate_popup_desc_mixed_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 1 domače in 1 mednarodno sporočilo SMS, ki se uporabljata za aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_2_intl_sim_cards">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 mednarodnimi SMS-sporočili ki se uporabljata za ponovno aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_2_sim_cards">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 SMS-sporočili ki se uporabljata za ponovno aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_intl_sim_card">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna mednarodna sporočila SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_mixed_sim_cards">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 1 domače in 1 mednarodno sporočilo SMS ki se uporabljata za ponovno aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_sim_card">Izgleda da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna sporočila SMS, ki se uporabljajo za ponovno aktiviranje %s.</string>
-     <string name="activate_popup_desc_new_sim_card_downlink">Izgleda da ste zamenjali SIM kartico. Vnesite telefonsko številko, povezano z vašo novo kartico SIM za ponovno aktiviranje %s</string>
-     <string name="activate_popup_desc_register_account">Vaš ponudnik storitev vam lahko zaračuna sporočila SMS, ki se uporabljajo za ustvarjanje vašega Mi računa.</string>
+     <string name="activate_popup_desc_intl_sim_card">Vaš ponudnik storitev vam lahko zaračuna mednarodno sporočilo SMS uporabljeno za aktiviranje %s.</string>
+     <string name="activate_popup_desc_mixed_sim_cards">Vaš ponudnik storitev vam lahko zaračuna 1 domače in 1 mednarodno sporočilo SMS uporabljeni za aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_2_intl_sim_cards">Kaže da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 mednarodni SMS-sporočili uporabljeni za ponovno aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_2_sim_cards">Kaže da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 SMS-sporočili uporabljeni za ponovno aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_intl_sim_card">Kaže da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 2 mednarodni sporočili SMS uporabljeni za ponovno aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_mixed_sim_cards">Kaže da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna 1 domače in 1 mednarodno sporočilo SMS uporabljeni za ponovno aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_sim_card">Kaže da ste zamenjali SIM kartico. Vaš ponudnik storitev vam lahko zaračuna sporočilo SMS uporabljeno za ponovno aktiviranje %s.</string>
+     <string name="activate_popup_desc_new_sim_card_downlink">Kaže da ste zamenjali SIM kartico. Vnesite telefonsko številko povezano z vašo novo kartico SIM za ponovno aktiviranje %s</string>
+     <string name="activate_popup_desc_register_account">Vaš ponudnik storitev vam lahko zaračuna sporočilo SMS uporabljeno za ustvarjanje vašega Mi računa.</string>
      <string name="activate_popup_desc_register_account_downlink">Vnesi svojo telefonsko številko</string>
-     <string name="activate_popup_desc_register_account_intl">Vaš ponudnik storitev vam lahko zaračuna za mednarodna sporočila SMS, ki se uporabljajo za ustvarjanje vašega Mi računa.</string>
-     <string name="activate_popup_desc_sim_card">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS, ki se uporabljajo za aktiviranje %s.</string>
+     <string name="activate_popup_desc_register_account_intl">Vaš ponudnik storitev vam lahko zaračuna za mednarodno sporočilo SMS uporabljeno za ustvarjanje vašega Mi računa.</string>
+     <string name="activate_popup_desc_sim_card">Vaš ponudnik storitev vam lahko zaračuna za sporočila SMS ki se uporabljajo za aktiviranje %s.</string>
      <string name="activate_popup_desc_sim_card_downlink">Če želite omogočiti %s vnesite svojo telefonsko številko</string>
      <string name="activate_popup_desc_voip_privacy">Varnostna pravila</string>
      <string name="activate_popup_desc_voip_privacy_prefix">"VOIP storitev podpira Wei Hui. Prikaži Wei Hui"</string>
@@ -79,10 +79,10 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
      <string name="activate_status_desc_checking_xiaomi_account_server_error">Med preverjanjem Mi računa je prišlo do napake v strežniku</string>
      <string name="activate_status_desc_completed_with_sms_sent">SMS za aktiviranje SIM-a poslan</string>
      <string name="activate_status_desc_device_id_error">Neveljaven IMEI</string>
-     <string name="activate_status_desc_failed_getting_gateway">Nisem uspel pridobiti SMS od gateway</string>
-     <string name="activate_status_desc_getting_gateway">Pridobivam SMS od gateway</string>
-     <string name="activate_status_desc_prepare_sending_sms">Priprava na pošiljanje aktivacijskega SMS sporočila na gateway</string>
-     <string name="activate_status_desc_query_activation_info">Poizvedovanje aktivacijskih informacij na strežniku</string>
+     <string name="activate_status_desc_failed_getting_gateway">Nisem uspel pridobiti SMS</string>
+     <string name="activate_status_desc_getting_gateway">Pridobivam SMS...</string>
+     <string name="activate_status_desc_prepare_sending_sms">Priprava na pošiljanje aktivacijskega SMS sporočila</string>
+     <string name="activate_status_desc_query_activation_info">Poizvedovanje za aktivacijskimi informacijami na strežniku</string>
      <string name="activate_status_desc_query_activation_info_downlink_sms_error">Strežniku ni uspelo poslati aktivacijskega SMS sporočila na vaš telefon</string>
      <string name="activate_status_desc_query_activation_info_no_info">Ni aktivacijskih informacij na strežniku</string>
      <string name="activate_status_desc_query_activation_info_server_error">Med poizvedovanjem aktivacijskih podatkov je prišlo do napake v strežniku.</string>
@@ -92,8 +92,8 @@ Vnesite številko telefona povezanega z vašo novo SIM kartico da ponovno aktivi
      <string name="activate_status_desc_registering_xiaomi_account_server_error">Pri registraciji Mi računa je prišlo do napake v strežniku</string>
      <string name="activate_status_desc_request_activation_sms">Zahtevek aktivacijskega SMS sporočila od strežnika do telefona.</string>
      <string name="activate_status_desc_request_activation_sms_server_error">Pojavila se je napaka na strežniku pri zahtevku aktivacijskega SMS sporočila od strežnika do telefona.</string>
-     <string name="activate_status_desc_sending_sms">Pošlji aktivacijski SMS do vrat</string>
-     <string name="activate_status_desc_sending_sms_fail">Ne morem poslati aktivacijskega SMS do vrat</string>
+     <string name="activate_status_desc_sending_sms">Pošlji aktivacijski SMS</string>
+     <string name="activate_status_desc_sending_sms_fail">Ne morem poslati aktivacijskega SMS</string>
      <string name="activate_status_desc_sms_sent">Aktivacijski SMS poslan</string>
      <string name="activate_status_desc_wait_for_sms">Čakam na aktivacijski SMS iz strežnika</string>
      <string name="activate_status_desc_wait_for_sms_fail">Neuspešno prejet aktivacijski SMS iz strežnika</string>
@@ -107,5 +107,5 @@ ID naprave mora biti veljaven IMEI ali MAC naslov. Brez ID naprave nekateri rač
      <string name="sim_unactivated_title">Vaša kartica SIM je neaktivna</string>
      <string name="sync_notification_title_format">Sinh.: %1$s</string>
      <string name="xiaomi_cloud_service">MiCloud</string>
-     <string name="xmsf_activate_info">XMSF aktivne informacije</string>
+  <string name="xmsf_activate_info">XMSF podrobnosti aktivacije</string>
 </resources>

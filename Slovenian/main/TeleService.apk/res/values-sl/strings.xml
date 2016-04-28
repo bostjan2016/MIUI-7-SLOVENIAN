@@ -21,8 +21,8 @@
      <string name="administrative_disable">Administrativni način je izklopljen</string>
      <string name="administrative_enable">Administrativni način je vklopljen</string>
      <string name="advanced_settings">Izbirne nastavitve</string>
-     <string name="advanced_settings_hide">▽ Dotaknite se, da skrijete vse</string>
-     <string name="advanced_settings_show">▷ Dotaknite se, da prikažete vse</string>
+     <string name="advanced_settings_hide">▽ Dotaknite se da skrijete vse</string>
+     <string name="advanced_settings_show">▷ Dotaknite se da prikažete vse</string>
      <string name="advertisements_disable">Oglasi so izklopljeni</string>
      <string name="advertisements_enable">Oglasi so vklopljeni</string>
      <string name="agree_provision">Strinjam se in nadaljuj</string>
@@ -39,12 +39,12 @@
      <string name="always_enable_mms">Vedno prejmi MMS</string>
      <string name="always_enable_mms_summary">Pridobi MMS tudi ko so mobilni podatki izklopljeni</string>
      <string name="answer_features_setting_category">Odgovor</string>
-     <string name="answer_state_setting_summary">Dodatne možnosti za dohodne klicne</string>
+     <string name="answer_state_setting_summary">Dodatne možnosti za dohodne klice</string>
      <string name="answer_state_setting_title">Nastavitve dohodnih klicev</string>
      <string name="antispam_notification_title">Neznana številka</string>
      <string name="apn_settings">Imena dostopnih točk (APN)</string>
      <string name="area_code_preference_be_set_summary">Trenutna lokacija: %s</string>
-     <string name="area_code_preference_summary">Avtom. izberi klicno številko</string>
+     <string name="area_code_preference_summary">Samod. izberi klicno številko</string>
      <string name="areacode_set_default">Privzeto</string>
      <string name="atr_disable">Prometna poročila so izklopljena</string>
      <string name="atr_enable">Prometna poročila so vklopljena</string>
@@ -81,7 +81,7 @@
      <string name="autoip_areacode_required_for_emergency_number">Lokalna območna koda je potrebna za klice v sili</string>
      <string name="autoip_autoip_current_areacode_summary">Trenutna območna koda je %s</string>
      <string name="autoip_current_areacode">Trenutna območna koda</string>
-     <string name="autoip_current_areacode_summary">Območna koda od vaše trenutne lokacije</string>
+     <string name="autoip_current_areacode_summary">Območna koda vaše trenutne lokacije</string>
      <string name="autoip_exception">Številke ki ne rabijo IP predpone</string>
      <string name="autoip_exception_summary">%d vseh skupaj</string>
      <string name="autoip_exception_summary_more">, %d vseh skupaj</string>
@@ -101,7 +101,7 @@
      <string name="bad_puk2">PUK2 ki ste jo vnesli je nepravilna</string>
      <string name="bf_news_settings">Poslovne in finančne novice</string>
      <string name="callFailed_cb_enabled">Med aktivno zaporo klicev ni mogoče opravljati odhodnih klicev.</string>
-     <string name="callFailed_cdma_activation">Kartica SIM je aktivirala vašo storitev in posodobila zmožnosti telefona za gostovanje.</string>
+     <string name="callFailed_cdma_activation">Kartica SIM je aktivirala vašo storitev in posodobila možnosti telefona za gostovanje.</string>
      <string name="callFailed_congestion">Omrežje je zasedeno</string>
      <string name="callFailed_destination_out_of_order" />
      <string name="callFailed_dialToDial">DIAL zahtevek modificiran za DIAL z različno številko.</string>
@@ -143,7 +143,7 @@
      <string name="call_record_auto_title">Samodejno snemaj klice</string>
      <string name="call_record_auto_unknown_number">Neznane številke</string>
      <string name="call_record_auto_whitelist">Seznam po meri</string>
-     <string name="call_record_auto_whitelist_no_item">Dodaj številko s pritiskom na dodaj (+) tipka</string>
+     <string name="call_record_auto_whitelist_no_item">Dodaj številko s pritiskom na (+) tipko</string>
      <string name="call_record_auto_whitelist_summary">%d številk</string>
      <string name="call_record_auto_whitelist_summary_for_one">1 številka</string>
   <string name="call_record_loading_content">Nalagam…</string>
@@ -192,7 +192,7 @@
      <string name="card_title_callonhold">Zadrži</string>
      <string name="card_title_callonhold_released">Izpuščen klic</string>
   <string name="card_title_callretrieved">Klic prevzet</string>
-     <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
+     <string name="card_title_clir_suppression_rejected">CLIR zatiranje zavrnjeno</string>
      <string name="card_title_conditionalCF">Pogojno posredovanja klica je vklopljeno</string>
      <string name="card_title_conf_call">Konferenčni klic</string>
      <string name="card_title_cugcall">CUG klic</string>
@@ -217,7 +217,7 @@
      <string name="cb_psw_dont_match">Gesla se ne ujemajo</string>
   <string name="cb_sms_settings">Nastavitve SMS-a iz mobilnega omrežja</string>
      <string name="cdma_activate_device">Aktiviraj napravo</string>
-     <string name="cdma_alert_message">"Če izberete drugo kartico kot privzeto za mobilne podatke ne boste mogli uporabljati vaše China Telecom SIM kartice (razen v roamingu)."</string>
+     <string name="cdma_alert_message">"Če izberete drugo kartico kot privzeto za mobilne podatke ne boste mogli uporabljati vaše SIM kartice (razen v gostovanju)."</string>
      <string name="cdma_alert_title">UIM kartica mora biti privzeta</string>
      <string name="cdma_display_precise_call_state_message">Če vaš omrežni ponudnik ne podpira te funkcije je lahko status klicev nepravilen.</string>
      <string name="cdma_display_precise_call_state_summary">Prepričajte se da vaš operater podpira to funkcijo</string>
@@ -237,9 +237,9 @@
      <string name="cellular_only">Samo omrežje</string>
      <string name="cellular_preferred">Preferirano omrežje</string>
      <string name="cf_mobile_date">Prosim vključite mobilne podatke in izključite WiFi</string>
-     <string name="cfb_title">Posreduj ko ste zasedeni</string>
-     <string name="cfnrc_title">Posreduj ko ste nedosegljivi</string>
-     <string name="cfnrc_title_cta">Posreduj ko ste nedosegljivi</string>
+     <string name="cfb_title">Posreduj ko je zasedeno</string>
+     <string name="cfnrc_title">Posreduj ko je nedosegljivo</string>
+     <string name="cfnrc_title_cta">Posreduj ko je nedosegljivo</string>
      <string name="cfnry_title">Posreduj ko je neodgovorjeno</string>
      <string name="cfu_title">Vedno posreduj klice</string>
      <string name="change">Nastavi</string>
@@ -253,7 +253,7 @@
      <string name="china_telecom">China Telecom</string>
      <string name="china_unicom">China Unicom</string>
      <string name="chose_product_summary">Kličite ceneje</string>
-     <string name="chose_product_title">Paket doplačil</string>
+     <string name="chose_product_title">Paket naročnin</string>
      <string name="clir_choices_hide_number">Skrij številko</string>
      <string name="clir_choices_network_default">Privzeto omrežje</string>
      <string name="clir_choices_show_number">Prikaži številko</string>
@@ -284,13 +284,13 @@
      <string name="contactAddSuccess">Dodan stik na SIM</string>
      <string name="contactPhoto">fotografija stika</string>
      <string name="contactScreen">Dodaj/Spremeni SIM stik</string>
-     <string name="contactUpdateFailed">Posodobi stik na SIM</string>
+  <string name="contactUpdateFailed">Ne morem posodobiti stika na SIM kartici</string>
      <string name="contactUpdateSuccess">Posodobljen stik na SIM</string>
      <string name="contactdeleteFailed">Izbris stika iz SIM ni mogoč</string>
      <string name="contactdeleteSuccess">Izbrisan stik iz SIM</string>
      <string name="corporate_unlock_failed">SIM odklepanje je bilo neuspešno.</string>
      <string name="corporate_unlock_success">SIM odklepanje je bilo uspešno.</string>
-     <string name="creat_account_error">"Ne morem izdelati račun. Poskusim ponovno?"</string>
+     <string name="creat_account_error">"Ne morem izdelati računa. Poskusim ponovno?"</string>
      <string name="creating_account">Izdelava računa…</string>
      <string name="cursorError">Napaka kazalca</string>
      <string name="data_enable_summary">Omogoči podatkovni dostop preko mobilnega omrežja</string>
@@ -335,7 +335,7 @@
      <string name="dialog_hang_up">Konec klica</string>
      <string name="dialog_network_priority_title">Prioriteta</string>
      <string name="dialog_no">Ne</string>
-     <string name="dialog_purchase">Doplačilo</string>
+     <string name="dialog_purchase">Nakup</string>
      <string name="dialog_yes">Da</string>
      <string name="dialpad_0_labels" />
      <string name="dialpad_0_letters">+</string>
@@ -455,7 +455,7 @@
   <string name="enter_input" formatted="false">USSD sporočilo imati toliko znakov: %d – %d. Poskusite ponovno.</string>
      <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">PIN za SIM:</string>
-     <string name="entertainment_news_settings">Zabavne novice</string>
+     <string name="entertainment_news_settings">Zabava</string>
      <string name="eo_disable">Zaposlitvene priložnosti so izklopljene</string>
      <string name="eo_enable">Zaposlitvene priložnosti so vklopljene</string>
      <string name="error_type_account_201">Premalo sredstev</string>
@@ -469,7 +469,7 @@
      <string name="error_type_unknown">Neznana napaka</string>
      <string name="error_updating_title">Napaka v nastavitvah klicev</string>
      <string name="exception_error">Napaka omrežja ali SIM kartice.</string>
-     <string name="expected_avaiable_minute">Preostalo še minut</string>
+     <string name="expected_avaiable_minute">Preostalo minut</string>
      <string name="expected_avaiable_minute_summary">Cene mednarodnih klicev se lahko razlikujejo</string>
   <string name="exportAllcontatsFailed">Izvoz vseh stikov na SIM kartico ni uspel</string>
      <string name="exportAllcontatsNoContacts">Ni najdenih stikov</string>
@@ -477,7 +477,7 @@
   <string name="exportContactScreen">Izvoz telefonskih stikov na SIM kartico</string>
      <string name="exportContacts">Izvažam...</string>
      <string name="fake_phone_activity_infoText_text">Dohodna telefonska številka</string>
-     <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
+  <string name="fake_phone_activity_phoneNumber_text">(386) 123-4567</string>
      <string name="fake_phone_activity_placeCall_text">Ponarejen dohoden klic</string>
      <string name="fdn">Fiksne klicne številke</string>
      <string name="fdnListLabel">FDN seznam</string>
@@ -495,7 +495,7 @@
      <string name="fdn_invalid_number">FDN ni bil posodobljen ker število ne sme presegati 20 mest.</string>
      <string name="fdn_list_with_label">Seznam FDN (%s)</string>
      <string name="fdn_service_unavailable">FDN usluga ni dostopna.</string>
-     <string name="fdn_summary">Omejite odhodne klice navedene na FDN-jih ali na številke z določenimi predponami</string>
+     <string name="fdn_summary">Omejite odhodne klice navedene na FDN ali na številke z določenimi predponami</string>
      <string name="fdn_with_label">Številke za preusmeritev (%s)</string>
      <string name="feedback">Povratna informacija</string>
      <string name="flash_when_ring_summary">Obvestilo z bliskavico o dohodnih klicih</string>
@@ -512,7 +512,7 @@
      <string name="get_smsc_address_error">Povezava do omrežja ni mogoča.</string>
      <string name="get_smsc_address_timeout">Povezava prekinjana</string>
      <string name="get_use_history_failed">"Ne morem dobiti zgodovine"</string>
-     <string name="goPrivate">Zasebno</string>
+     <string name="goPrivate">Na zasebno</string>
   <string name="go_to_virtual_sim_title">Virtualna SIM</string>
      <string name="got_it">V redu</string>
      <string name="gsm_umts_network_preferences_dialogtitle">Omrežne nastavitve</string>
@@ -529,7 +529,7 @@
      <string name="importSimEntry">Uvozi</string>
      <string name="importToFDNfromContacts">Uvozi iz stikov</string>
      <string name="important_attention">Pozor</string>
-     <string name="importingSimContacts">Uvozi SIM stike</string>
+  <string name="importingSimContacts">Uvoz SIM stikov</string>
      <string name="ims_accounts_title">IMS račun</string>
      <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
   <string name="ims_edit_title">Detajli IMS računa</string>
@@ -577,8 +577,8 @@
      <string name="international_dial_complete_yes">Uporabi Mi Voice</string>
      <string name="international_disable">Mednarodne novice so izključene</string>
      <string name="international_enable">Mednarodne novice so vklopljene</string>
-     <string name="international_roaming_setting">Mednarodni roaming</string>
-     <string name="internet_phone">Internetni klici</string>
+     <string name="international_gostovanje_setting">Mednarodno gostovanje</string>
+     <string name="internet_phone">Spletni klici</string>
      <string name="invalidPin">Vnesite PIN ki ima od 4 do 8 številk.</string>
      <string name="invalidPin2">Vnesite PIN2 ki ima 4-8 številk.</string>
      <string name="invalidPsw">Vnesite vaše geslo (od 4 do 8 številk)</string>
@@ -604,7 +604,7 @@
      <string name="labelCDMAMore">CDMA klicne nastavitve</string>
      <string name="labelCF">Posredovanje klica</string>
      <string name="labelCFB">Posreduj ko je zasedeno</string>
-     <string name="labelCFNRc">Posreduj ko ste nedosegljivi</string>
+     <string name="labelCFNRc">Posreduj ko je nedosegljivo</string>
      <string name="labelCFNRy">Posreduj ko je neodgovorjeno</string>
      <string name="labelCFU">Vedno posreduj klice</string>
      <string name="labelCW">Čakajoči klic</string>
@@ -621,12 +621,12 @@
      <string name="label_nsdp">SIM omrežje za odklep PIN</string>
      <string name="label_puk">Vnesi PUK</string>
      <string name="label_puk2_code">Vtipkaj PUK2 kodo</string>
-     <string name="label_rcdp">RUIM corporate odklep PIN</string>
-     <string name="label_rdp">PIN za odklepanje RUIM</string>
-     <string name="label_rhrpd">PIN za odklepanje RUIM hrpd</string>
-     <string name="label_rn1dp">PIN za odklepanje RUIM omrežja1</string>
-     <string name="label_rn2dp">PIN za odklepanje RUIM omrežja2</string>
-     <string name="label_rspdp">PIN za odklepanje RUIM ponudnika storitev</string>
+  <string name="label_rcdp">RUIM korporativni PIN odklepa</string>
+  <string name="label_rdp">RUIM PIN odklepa</string>
+  <string name="label_rhrpd">RUIM hrpd PIN odklepa</string>
+  <string name="label_rn1dp">RUIM omrežje1 PIN odklepa</string>
+  <string name="label_rn2dp">RUIM omrežje2 PIN odklepa</string>
+  <string name="label_rspdp">RUIM operater PIN odklepa</string>
      <string name="label_sdp">PIN za odklep SIM</string>
      <string name="label_spdp">PIN za odklep SIM ponudnika storitev</string>
      <string name="lable_all_incoming">Vsi dohodni klici</string>
@@ -644,12 +644,12 @@
      <string name="list_language_summary">Izberite jezik novic</string>
      <string name="list_language_title">Jezik</string>
      <string name="livetalk_about_info">O</string>
-     <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na internet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te usluge, drugače vam operater lahko zaračuna dokler ste v roamingu.)"</string>
+     <string name="livetalk_about_info_content">"V0.9 beta (Kratke številke niso podprte. Morate se povezati na internet za uporabo te funkcije. Vsak klic porabi 1KB mobilnih podatkov. Vključite Brezplačno poslušanje za uporabo te usluge, drugače vam operater lahko zaračuna dokler ste v gostovanjeu.)"</string>
      <string name="livetalk_activate">Activacija top-up package</string>
      <string name="livetalk_activate_number">Preverjanje SIM kartice</string>
      <string name="livetalk_activate_number_1">Preverjanje SIM 1</string>
      <string name="livetalk_activate_number_2">Preverjanje SIM 2</string>
-     <string name="livetalk_activate_sim_card">Activiraj</string>
+     <string name="livetalk_activate_sim_card">Aktiviraj</string>
      <string name="livetalk_activate_summary">Vaš operater vam lahko zaračuna SMS uporabljen za aktivacijo.</string>
      <string name="livetalk_add_white_list_info">Dodaj št. telefona za direktni klic.</string>
      <string name="livetalk_avaiable_minute">%1$s minut preostalo</string>
@@ -664,10 +664,10 @@
      <string name="livetalk_continue_button">Nadaljuj</string>
      <string name="livetalk_continue_button_creat_account">Izdelava računa</string>
      <string name="livetalk_creat_account_fialed">Napaka računa</string>
-     <string name="livetalk_dial_direct">Izbiraj direktno</string>
+     <string name="livetalk_dial_direct">Kliči direktno</string>
      <string name="livetalk_experience_button">Poskusite sedaj</string>
      <string name="livetalk_introduction_text">"Nizka poraba, nizki stroški in visoka kakovost
-    Super poceni mednarodnih klicv preko spleta"</string>
+    Super poceni mednarodnih klici preko spleta"</string>
      <string name="livetalk_last_step">Nazaj</string>
   <string name="livetalk_login_message">"Vpiši se z Mi računom
 za uporabo top-up package"</string>
@@ -682,7 +682,7 @@ za uporabo top-up package"</string>
      <string name="livetalk_niece_price_title">V zaprtih beta preferencah</string>
      <string name="livetalk_nsufficient_balance">Premalo sredstev.</string>
      <string name="livetalk_package_introduction_text">Ekskluzivni popust za uporabnike MIUI. Manj porabe podatkov in nižje cene.</string>
-     <string name="livetalk_package_name">Top up strošek</string>
+     <string name="livetalk_package_name">Top up stanje</string>
      <string name="livetalk_provider">operater %1$s</string>
      <string name="livetalk_provision">Pogoji storitve</string>
      <string name="livetalk_provision_checkbox">Sprejmi pogoje storitve</string>
@@ -695,7 +695,7 @@ za uporabo top-up package"</string>
      <string name="livetalk_user_config_title">Potrdi številko telefona</string>
      <string name="livetalk_version">Top-up Package Version 0.9 | Beta</string>
      <string name="livetalk_welcome_description_text">"• Prihranite 70% vaših klicnih stroškov.• pokličite katerokoli številko na svetu brez omejitve ponudnikov.• Top up in začnite klicati brez kompliciranih nastavitev."</string>
-     <string name="livetalk_welcome_notes_text">"Opomba: Vsak klic potrebuje 1KB mobilnih podatkov; Storitve in kratke številke niso podprte. Če ste plačali za dohodne klice boste morali plačati operaterju v roamingu. Vaš operater vam lahko zaračuna SMS za preverjanje telefonske številke."</string>
+     <string name="livetalk_welcome_notes_text">"Opomba: Vsak klic potrebuje 1KB mobilnih podatkov; Storitve in kratke številke niso podprte. Če ste plačali za dohodne klice boste morali plačati operaterju v gostovanju. Vaš operater vam lahko zaračuna SMS za preverjanje telefonske številke."</string>
      <string name="livetalk_white_list_number_title">Pokličite brez uporabe Top-up package</string>
      <string name="load_networks_progress">Iščem...</string>
      <string name="load_rates_failed">"Ne morem prebrati"</string>
@@ -722,14 +722,14 @@ za uporabo top-up package"</string>
      <string name="maintenance_enable">Vzdrževanje je vklopljeno</string>
      <string name="manageConferenceLabel">Upravljanje konferenčnih klicev</string>
      <string name="manage_fdn_list">Seznam FDN</string>
-  <string name="managed_roaming_dialog_cancel_button">Prekliči</string>
-     <string name="managed_roaming_dialog_content">Najdeno omrežje z omejenimi storitvami. Ogled razpoložljivih omrežij?</string>
-  <string name="managed_roaming_dialog_ok_button">V redu</string>
-     <string name="managed_roaming_title">Upravljalec gostovanja</string>
-     <string name="managed_roaming_title_sub">Upravljalec gostovanja (SUB%d)</string>
-     <string name="managed_roaming_title_sub1">Upravljalec gostovanja (SUB1)</string>
-     <string name="managed_roaming_title_sub2">Upravljalec gostovanja (SUB2)</string>
-     <string name="managed_roaming_title_sub3">Upravljalec gostovanja (SUB3)</string>
+  <string name="managed_gostovanje_dialog_cancel_button">Prekliči</string>
+     <string name="managed_gostovanje_dialog_content">Najdeno omrežje z omejenimi storitvami. Ogled razpoložljivih omrežij?</string>
+  <string name="managed_gostovanje_dialog_ok_button">V redu</string>
+     <string name="managed_gostovanje_title">Upravljalec gostovanja</string>
+     <string name="managed_gostovanje_title_sub">Upravljalec gostovanja (SUB%d)</string>
+     <string name="managed_gostovanje_title_sub1">Upravljalec gostovanja (SUB1)</string>
+     <string name="managed_gostovanje_title_sub2">Upravljalec gostovanja (SUB2)</string>
+     <string name="managed_gostovanje_title_sub3">Upravljalec gostovanja (SUB3)</string>
      <string name="menu_add">Dodaj stik</string>
      <string name="menu_delete">Izbriši stik</string>
      <string name="menu_edit">Uredi stik</string>
@@ -738,8 +738,8 @@ za uporabo top-up package"</string>
   <string name="messageCFNRy">Številka v primeru če ni odgovora</string>
   <string name="messageCFU">Zmeraj uporabi to številko</string>
      <string name="message_decode_error">Napaka pri dekodiranju sporočila.</string>
-     <string name="mhh_disable">Zdravstvo, Zdravje in Bolnišnica je izklopljena</string>
-     <string name="mhh_enable">Zdravstvo, Zdravje in Bolnišnica je vklopljena</string>
+     <string name="mhh_disable">Zdravstvo, Zdravje in Bolnišnica je izklopljeno</string>
+     <string name="mhh_enable">Zdravstvo, Zdravje in Bolnišnica je vklopljeno</string>
      <string name="mismatchPin">Kodi PIN ki ste ju vnesli se ne ujemata. Poskusite znova.</string>
      <string name="mismatchPin2">Koda PIN 2 se ne ujema. Poskusite znova.</string>
      <string name="mismatch_password">Gesli ki ste ju vnesli se ne ujemata</string>
@@ -764,7 +764,7 @@ za uporabo top-up package"</string>
      <string name="msim_apn_not_set">Ni nastavljeno</string>
      <string name="msim_default_setting">Privzete nastavitve</string>
      <string name="msim_disable_sim_card_btn_text">V redu</string>
-     <string name="msim_disable_sim_card_summary_default_card">"Ta kartica je trenutno nastavljena kot privzeta SIM kartica. Če jo nehate uporabljati ne boste mogli klicati in uporabljati mobilne podatke. To SIM kartico lahko ustavite ko boste nastavili drugo kot privzeto."</string>
+     <string name="msim_disable_sim_card_summary_default_card">"Ta kartica je trenutno nastavljena kot privzeta SIM kartica. Če jo nehate uporabljati ne boste mogli klicati in uporabljati mobilne podatke. To SIM kartico lahko izklopite ko boste nastavili drugo kot privzeto."</string>
      <string name="msim_disable_sim_card_summary_non_default_card">Ne boste mogli klicati in uporabljati mobilne podatke. Neham uporabljati %s SIM kartico?</string>
      <string name="msim_disable_sim_card_title">Prenehaj uporabljati SIM kartico</string>
      <string name="msim_enable_sim">Vklopi</string>
@@ -776,7 +776,7 @@ za uporabo top-up package"</string>
      <string name="msim_mode_progress_activating_message">Vklop</string>
      <string name="msim_mode_progress_deactivating_message">Izklop</string>
      <string name="msim_not_set_summary">Ni nastavljeno</string>
-     <string name="msim_pref_title_data">Internet</string>
+     <string name="msim_pref_title_data">Splet</string>
      <string name="msim_pref_title_voice">Kliči</string>
      <string name="msim_select_default_time_left">(%d s)</string>
      <string name="msim_set_icc_card_error">Napaka ICC kartice</string>
@@ -820,9 +820,9 @@ za uporabo top-up package"</string>
      <string name="network_settings_forbidden">%s (prepovedano)</string>
   <string name="network_settings_information">Izključim mobilne podatke?</string>
      <string name="network_settings_next">Naprej</string>
-     <string name="network_settings_query_failed_message">Ni bilo mogoče iskati mobilnega omrežja</string>
+     <string name="network_settings_query_failed_message">Ne morem iskati mobilnega omrežja</string>
      <string name="network_settings_sel_sub">Nastavitve SUBS</string>
-     <string name="network_settings_select_automatic_hint">Registracija na omrežju ki ste ga izbrali ni možna. 
+     <string name="network_settings_select_automatic_hint">Registracija v omrežje ki ste ga izbrali ni možna. 
   Uporabljeno bo prednostno omrežje.</string>
      <string name="network_settings_turn_off">Izklop</string>
      <string name="network_settings_warn_message">Vaša naprava se bo povezala samo z omrežjem ki ga boste izbrali ročno.</string>
@@ -844,21 +844,21 @@ za uporabo top-up package"</string>
      <string name="no_call_barring">Ni prepovedi klicev</string>
      <string name="no_change">Ni bilo nobenih sprememb</string>
      <string name="no_data">Ni podatkov</string>
-     <string name="no_internet_available">Za vzpostavitev internetnega klica rabite internetno povezavo</string>
-     <string name="no_internet_available_title">Ni internetne povezave</string>
+     <string name="no_internet_available">Za vzpostavitev spletnega klica rabite spletno povezavo</string>
+     <string name="no_internet_available_title">Ni spletne povezave</string>
      <string name="no_more">Ne več</string>
      <string name="no_product_list">Prazno</string>
      <string name="no_sim_card">Vstavite SIM kartico</string>
-     <string name="no_sip_account_found">Na tem telefonu ni internetnih klicnih računov. Želite dodati enega?</string>
-     <string name="no_sip_account_found_title">Ni internetnih klicnih računov.</string>
+     <string name="no_sip_account_found">Na tem telefonu ni spletnih klicnih računov. Želite dodati enega?</string>
+     <string name="no_sip_account_found_title">Ni spletnih klicnih računov.</string>
      <string name="no_vm_number">Manjkajoča številka glasovne pošte</string>
      <string name="no_vm_number_msg">Na SIM kartici ni shranjene številke glasovne pošte.</string>
-     <string name="no_voip">Internetno klicanje ni podprto</string>
+     <string name="no_voip">Spletno klicanje ni podprto</string>
      <string name="no_volte">Ne morem izvesti IMS klicev</string>
      <string name="no_vt_allowed">Za vzpostavitev video klica izklopite način TTY</string>
-     <string name="no_wifi_available">Morate biti povezani z omrežjem WiFi za internetne klice (uporabite nastavitve brezžične povezave in omrežij).</string>
+     <string name="no_wifi_available">Morate biti povezani z omrežjem WiFi za spletne klice (uporabite nastavitve brezžične povezave in omrežij).</string>
      <string name="no_wifi_available_title">Ni povezave WiFi</string>
-     <string name="not_a_valid_port">Številka porta mora biti med 1000 in 65534.</string>
+     <string name="not_a_valid_port">Številka vrat mora biti med 1000 in 65534.</string>
      <string name="not_activate_sim_card_content">"Paket doplačila ni potrjen za SIM kartico ki ste jo izbrali. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
      <string name="not_activate_sim_card_content_title">"Telefon ni potrjen"</string>
      <string name="not_activate_sim_card_content_with_operator">"Paket doplačila ni potrjen za SIM kartico  %1$s(%2$s) ki ste jo izbrali. Namesto tega uporabite navadno SIM za klicanje. Stroški klica so vaš problem."</string>
@@ -893,7 +893,7 @@ za uporabo top-up package"</string>
      <string name="ok">V redu</string>
      <string name="oldPin2Label">Stara PIN2</string>
      <string name="oldPinLabel">Stara PIN</string>
-     <string name="old_password_label">Trenutno 4 številčno geslo</string>
+     <string name="old_password_label">Trenutno 4 mestno geslo</string>
      <string name="old_pin2_label">Staro PIN2 geslo</string>
      <string name="old_pin_label">Staro PIN geslo</string>
      <string name="onHold">Zadržano</string>
@@ -904,7 +904,7 @@ za uporabo top-up package"</string>
      <string name="onscreenManageCallsText">Upravljanje klicev</string>
      <string name="onscreenManageConferenceText">Upravljanje konference</string>
      <string name="onscreenMergeCallsText">Združi klice</string>
-     <string name="onscreenMuteText">Nemo</string>
+     <string name="onscreenMuteText">Tiho</string>
      <string name="onscreenShowDialpadText">Številčnica</string>
      <string name="onscreenSwapCallsText">Zamenjaj</string>
      <string name="onscreenVideoCallText">Videoklic</string>
@@ -915,7 +915,7 @@ za uporabo top-up package"</string>
      <string name="operator_first_mins_none_title">Vse minute porabljene</string>
      <string name="operator_first_no_set">Nima vrednosti</string>
      <string name="operator_first_set_failed">Ni uspelo</string>
-     <string name="operator_first_sim_card_changed_summary">Resetiraj paket minut</string>
+     <string name="operator_first_sim_card_changed_summary">Ponastavi paket minut</string>
      <string name="operator_first_sim_card_changed_title">Menjava SIM kartice</string>
      <string name="operator_first_title">Najprej operater</string>
      <string name="operator_mins_first">"Načrt operaterja ima prednost"</string>
@@ -942,7 +942,7 @@ To lahko traja do 5 minut."</string>
      <string name="ota_listen">Sledite glasovnim navodilom do konca aktivacije.</string>
      <string name="ota_next">Naprej</string>
   <string name="ota_progress">Programiranje vašega telefona…</string>
-     <string name="ota_skip_activation_dialog_message">Če preskočite aktivacijo ne morate vzpostavljati klicev ali se povezati na mobilno podatkovno omrežje (čeprav se lahko povežete na WiFi omrežje). Dokler ne boste aktivirali vašega telefona boste vsakič ko ga prižgete vprašani za aktivacijo.</string>
+     <string name="ota_skip_activation_dialog_message">Če preskočite aktivacijo ne boste mogli vzpostavljati klicev ali se povezati na mobilno podatkovno omrežje (čeprav se lahko povežete na WiFi omrežje). Dokler ne boste aktivirali vašega telefona boste vsakič ko ga prižgete vprašani za aktivacijo.</string>
      <string name="ota_skip_activation_dialog_skip_label">Preskoči</string>
      <string name="ota_skip_activation_dialog_title">Preskočim aktivacijo?</string>
   <string name="ota_spc_failure">OKVARA PRETIRANEGA SPC-a</string>
@@ -963,7 +963,7 @@ Poskusite ponovno ali pokličite podoporo</string>
      <string name="other_countries_and_regions">Ostale države</string>
      <string name="other_settings">Druge klicne nastavitve</string>
      <string name="other_settings_category">Drugo</string>
-     <string name="overseas_roaming_setting">Mednarodni roaming</string>
+     <string name="overseas_gostovanje_setting">Mednarodno gostovanje</string>
      <string name="password_changed">Geslo spremenjeno</string>
      <string name="password_title">Geslo</string>
      <string name="pause_prompt_no">Ne</string>
@@ -993,7 +993,7 @@ Poskusite ponovno ali pokličite podoporo</string>
      <string name="phone_number_hint_text">Telefonska številka</string>
      <string name="phone_numbers">Vnesi telefonsko številko</string>
      <string name="pick_outgoing_call_phone_type">Vzpostavi klic</string>
-     <string name="pick_outgoing_sip_phone">Uporabi internetni klicni račun</string>
+     <string name="pick_outgoing_sip_phone">Uporabi spletni klicni račun</string>
      <string name="pin2_attempts">"
 Imate še toliko preostalih poskusov: %d."</string>
      <string name="pin2_changed">Koda PIN 2 je posodobljena</string>
@@ -1022,22 +1022,22 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="please_choose_the_refueling_package">Izberite paket doplačila</string>
      <string name="pocket_mode_summary">Samodejni zaklep ko gre aparat v žep</string>
      <string name="pocket_mode_title">Prepreči žepne klice</string>
-     <string name="port_title">Številka Porta</string>
+     <string name="port_title">Številka vrat</string>
   <string name="preference_auto_ip_summary_disable">Izključeno</string>
      <string name="preference_auto_ip_summary_on">"IP ponudnik: %s"</string>
   <string name="preference_category_ringtone">Melodija zvonjenja</string>
      <string name="preference_dial_pad_touch_tone_default">Privzeto</string>
      <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
      <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>
-     <string name="preference_telocation_summary_countrycode_off">Kodo države ne vpiši samodejno</string>
+     <string name="preference_telocation_summary_countrycode_off">Kode države ne vpiši samodejno</string>
      <string name="preference_telocation_summary_countrycode_on">Samodejno vpiši kodo države</string>
      <string name="preference_telocation_summary_teloc_off">Skrij lokacijo stika</string>
      <string name="preference_telocation_summary_teloc_on">Prikaži lokacijo stika</string>
      <string name="preference_telocation_title">Lokacija</string>
      <string name="preferred_duration_title">Trajanje prikaza</string>
-     <string name="preferred_network_mode_3g_2g_auto">3G/2G (avto)</string>
-     <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (avto)</string>
-     <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo avto</string>
+     <string name="preferred_network_mode_3g_2g_auto">3G/2G (samod.)</string>
+     <string name="preferred_network_mode_4g_3g_2g_auto">4G/3G/2G (samod.)</string>
+     <string name="preferred_network_mode_cdma_evdo_auto_choice">CDMA/EvDo samod.</string>
      <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_choice">CDMA/EvDo/GSM/WCDMA</string>
      <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferirani omrežni način: CDMA/EvDo/GSM/WCDMA</string>
      <string name="preferred_network_mode_cdma_evdo_summary">Način željenega omrežja: CDMA / EvDo</string>
@@ -1053,7 +1053,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="preferred_network_mode_global_summary">Preferirani omrežni način: Globalno</string>
      <string name="preferred_network_mode_gsm_only_choice">Samo GSM</string>
      <string name="preferred_network_mode_gsm_only_summary">Preferirani omrežni način: Samo GSM</string>
-     <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA avto</string>
+     <string name="preferred_network_mode_gsm_wcdma_auto_choice">GSM/WCDMA samod.</string>
      <string name="preferred_network_mode_gsm_wcdma_lte_choice">GSM/WCDMA/LTE</string>
      <string name="preferred_network_mode_gsm_wcdma_preferred_choice">Preferirani GSM/WCDMA</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Preferirani omrežni način: GSM / WCDMA</string>
@@ -1097,7 +1097,7 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
      <string name="preferred_network_type_pref_entries_3g_preferred">Prednostno omrežje 3G</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_cdma">Prednostno omrežje 3G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_4g_preferred">Prednostno omrežje LTE</string>
-     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferirani 4G (CDMA)</string>
+     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Prednostno omrežje 4G (CDMA)</string>
      <string name="preferred_network_type_pref_entries_auto">Samodejno</string>
      <string name="preferred_network_type_pref_entries_global">Globalno</string>
      <string name="preferred_network_type_pref_entries_only_2g">Samo 2G (hrani baterijo)</string>
@@ -1110,8 +1110,8 @@ Vaš telefon bo samodejno zaklenjen po ponovnem napačnem vnosu"</string>
   <string name="product_reflash_button">Osveži…</string>
   <string name="proceed">Nadaljuj</string>
      <string name="progress_dialog_exiting_ecm">Izhod iz načina povratnega klica v sili</string>
-     <string name="provision_content">Ta funkcija potrebuje internet za normalno delovanje.</string>
-     <string name="provision_title">Povezovanje z internetom</string>
+     <string name="provision_content">Ta funkcija potrebuje splet za normalno delovanje.</string>
+     <string name="provision_title">Povezovanje z spletom</string>
      <string name="proxy_address_title">Naslov strežnika proxy za odhodne klice</string>
      <string name="pstn_connection_service_label">Vgrajene kartice SIM</string>
      <string name="pstn_phone">Mobilni telefonski klic</string>
@@ -1137,7 +1137,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="purchase_notes">Opomba: Lahko se uporablja za mednarodne klice. Znesek plačila za 1 min mednarodnega klica je enak znesek za 6 min v domačem omrežju.</string>
   <string name="purchase_primary">Purchase</string>
   <string name="purchase_summary">Save up to 70% on your calling charges</string>
-     <string name="purchase_notification">"Zgoraj navedene cene su za domače klice. Za mednarodne klice preverite "</string>
+     <string name="purchase_notification">"Zgoraj navedene cene so za domače klice. Za mednarodne klice preverite "</string>
      <string name="purchase_notification_title">Preverite podprte regije</string>
      <string name="purchase_rates_title">Cenik</string>
      <string name="query">Povpraševanje</string>
@@ -1176,7 +1176,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
   <string name="remain_mins_domestic">Domači</string>
   <string name="remain_mins_international">Mednarodni</string>
      <string name="remain_mins_unit">min</string>
-     <string name="remember_my_choice">Vedno uporabi za vzpostavitev internetnih klicev</string>
+     <string name="remember_my_choice">Vedno uporabi za vzpostavitev spletnih klicev</string>
      <string name="remove">Izbriši</string>
      <string name="remove_ims_account">Odstrani račun</string>
      <string name="remove_sip_account">Odstrani račun</string>
@@ -1193,7 +1193,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="requesting_sim_unlock">Zahtevam odklep SIM kartice...</string>
      <string name="requesting_sp_unlock">Zahtevam odklep SIM kartice ponudnika storitev...</string>
      <string name="requesting_unlock">Zahtevam odklep omrežja...</string>
-     <string name="reset_my_choice_hint">Spremenite lahko vaš privzeti internetni klicni račun v Telefon &gt; Nastavitve &gt; Internetno klicanje &gt; Računi.</string>
+     <string name="reset_my_choice_hint">Spremenite lahko vaš privzeti spletni klicni račun v Telefon &gt; Nastavitve &gt; Spletno klicanje &gt; Računi.</string>
      <string name="respond_via_sms_canned_response_1">Trenutno ne morem govoriti. Pokličite kasneje!</string>
      <string name="respond_via_sms_canned_response_2">Takoj vas pokličem nazaj.</string>
      <string name="respond_via_sms_canned_response_3">Pokličem vas pozneje.</string>
@@ -1220,14 +1220,14 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="rnw1_unlock_success">RUIM Omrežje1 odklep uspešen</string>
      <string name="rnw2_unlock_failed">RUIM Omrežje2 zahtevek odklepa neuspešen</string>
      <string name="rnw2_unlock_success">RUIM Omrežje2 odklep uspešen</string>
-     <string name="roaming">Podatkovno gostovanje</string>
-     <string name="roaming_alert_title">Želite dovoliti podatkovno gostovanje?</string>
-     <string name="roaming_disable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
-     <string name="roaming_enable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
-  <string name="roaming_notification_content">Lahko dodate klicno številko države avtomatsko da napravite izbiranje klicev hitrejše.</string>
-  <string name="roaming_notification_title">Kaže da je roaming aktiviran</string>
-     <string name="roaming_reenable_message">Izgubili ste podatkovno povezavo ker ste zapustili domače omrežje z izklopljenim podatkovnim gostovanjem.</string>
-     <string name="roaming_warning">Dovolim podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
+     <string name="gostovanje">Podatkovno gostovanje</string>
+     <string name="gostovanje_alert_title">Želite dovoliti podatkovno gostovanje?</string>
+     <string name="gostovanje_disable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
+     <string name="gostovanje_enable">Povežite se z podatkovnimi storitvami med gostovanjem</string>
+  <string name="gostovanje_notification_content">Lahko dodate klicno številko države samodejno da napravite izbiranje klicev hitrejše.</string>
+  <string name="gostovanje_notification_title">Kaže da je gostovanje aktivirano</string>
+     <string name="gostovanje_reenable_message">Izgubili ste podatkovno povezavo ker ste zapustili domače omrežje z izklopljenim podatkovnim gostovanjem.</string>
+     <string name="gostovanje_warning">Dovolim podatkovno gostovanje? Morda boste ustvarili precejšnje stroške gostovanja!</string>
      <string name="rsp_unlock_failed">RUIM zahtevek odklepa ponudnika storitev neuspešen.</string>
      <string name="rsp_unlock_success">RUIM odklep ponudnika storitev uspešen.</string>
      <string name="ruim_unlock_failed">RUIM zahtevek odklepa neuspešen.</string>
@@ -1287,14 +1287,14 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="sip_account_list">SIP računi</string>
   <string name="sip_accounts">SIP računi</string>
   <string name="sip_accounts_title">Računi</string>
-     <string name="sip_add_account_tip_text">Za uporabo internetnega klicanja dodaj SIP račun</string>
+     <string name="sip_add_account_tip_text">Za uporabo spletnega klicanja dodaj SIP račun</string>
      <string name="sip_always_send_keepalive">Vedno pošlji</string>
      <string name="sip_call_options_entry_1">Za vse klice ko so mobilni podatki na voljo</string>
-     <string name="sip_call_options_entry_2">Samo za internetne klice</string>
+     <string name="sip_call_options_entry_2">Samo za spletne klice</string>
      <string name="sip_call_options_entry_3">Vprašaj za vsak klic</string>
-     <string name="sip_call_options_title">Uporabi internetno klicanje</string>
+     <string name="sip_call_options_title">Uporabi spletno klicanje</string>
      <string name="sip_call_options_wifi_only_entry_1">Za vse klice</string>
-     <string name="sip_call_options_wifi_only_title">Uporabi internetno klicanje (samo WiFi)</string>
+     <string name="sip_call_options_wifi_only_title">Uporabi spletno klicanje (samo WiFi)</string>
      <string name="sip_connection_service_label">Vgrajeno klicanje SIP</string>
      <string name="sip_edit_new_title">Podatki o računu SIP</string>
      <string name="sip_edit_title">Podatki o računu SIP</string>
@@ -1361,7 +1361,7 @@ Vaša SIM kartica bo zbrisana po ponovnem napačnem poskusu.</string>
      <string name="telocation_contacts_countrycode">Privzeta koda države</string>
      <string name="telocation_contacts_countrycode_hint">Vnesi kodo države</string>
      <string name="telocation_contacts_countrycode_summary">Privzeta koda države za stike je %s</string>
-  <string name="telocation_country_code_enabled_message">Dodaj klicno številko države avtomatsko da napravite izbiranje klicev v roamingu lažje.</string>
+  <string name="telocation_country_code_enabled_message">Dodaj klicno številko države samodejno da napravite izbiranje klicev v gostovanjeu lažje.</string>
   <string name="telocation_country_code_enabled_title">Dodaj klicno številko države pri izbiranju</string>
      <string name="telocation_countrycode_alert_message">Vnesi telefonsko številko brez kode države</string>
      <string name="telocation_countrycode_alert_message_warning">Koda države ki ste jo vnesli je lahko napačna.</string>
@@ -1450,7 +1450,7 @@ Uporabim za doplačilo paketa?"</string>
      <string name="vibrate_after_connected_summary">Vibriraj pri odgovoru</string>
      <string name="vibrate_after_connected_title">Vibriraj po vzpostavitvi</string>
      <string name="vibrate_on_ring_title">Vibriraj ko zvoni</string>
-     <string name="vm_change_failed">Številko glasovne pošte ni mogoče spremeniti. 
+     <string name="vm_change_failed">Številke glasovne pošte ni mogoče spremeniti. 
 Kontaktirajte vašega operaterja če se bo problem ponavljal.</string>
      <string name="vm_changed">Številka glasovne pošte je spremenjena.</string>
      <string name="voice_privacy">Glasovna zasebnost</string>

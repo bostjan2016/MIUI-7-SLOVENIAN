@@ -28,7 +28,7 @@
   <string name="check_code_menu_item">Preverite vrednost ključa</string>
   <string name="check_code_title">Vrednost preverbe celovitosti</string>
   <string name="continue_btn">Nadaljuj</string>
-  <string name="copy_to_clipboard">Kopiraj v  međpomnilnik</string>
+  <string name="copy_to_clipboard">Kopiraj v odložišče</string>
   <string name="correct_enter_password">Geslo ki ste ga vnesli je pravilno</string>
   <string name="correct_enter_update_password">Geslo ki ste ga vnesli je pravilno</string>
   <string name="counter_pin">Pridobite kodo</string>
@@ -44,7 +44,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="enter_key_page_add_button">Dodaj</string>
   <string name="enter_key_title">Ročno nastavljanje računa</string>
   <string name="enter_key_too_short">Vrednost ključa je prekratka</string>
-  <string name="enter_pin">Vnesite kodo za kontrolo, če bo zahtevano med prijavo v račun:</string>
+  <string name="enter_pin">Vnesite kodo za kontrolo če bo zahtevano med prijavo v račun:</string>
   <string name="error_empty_secret">Ne morem shraniti prazno skrivnost ključa</string>
   <string name="error_exists">Na žalost, to ime je že v uporabi.</string>
   <string name="error_qr">Ne morem prebrati QR kode.</string>
@@ -52,12 +52,12 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="error_uri">Ključ ni prepoznan.</string>
   <string name="forget_password">"Pozabljeno geslo"</string>
   <string name="general_security_exception">Izjeme splošne varnosti</string>
-  <string name="gif_not_support_camera_msg">Vaša naprava ne podpira snemanje videozapisov.</string>
+  <string name="gif_not_support_camera_msg">Vaša naprava ne podpira snemanja videoposnetkov.</string>
   <string name="how_it_works_menu_item">Kako to deluje</string>
   <string name="howitworks_page_enter_code_details">Ta aplikacija bo generirala kodo potrebno za nadaljevanje prijave.</string>
-  <string name="howitworks_page_enter_code_title">"Če ste na novi napravi, vnesite kodo iz svojega telefona."</string>
-  <string name="howitworks_page_enter_password_details">"Če ste na novi napravi, bo Xiaomi vprašal za posebno kodo da bi bil siguren da ste to res vi."</string>
-  <string name="howitworks_page_enter_password_title">"Da se prijavite, vnesite svoje geslo."</string>
+  <string name="howitworks_page_enter_code_title">"Če ste na novi napravi vnesite kodo iz svojega telefona."</string>
+  <string name="howitworks_page_enter_password_details">"Če ste na novi napravi bo Xiaomi vprašal za posebno kodo da bi bil siguren da ste to res vi."</string>
+  <string name="howitworks_page_enter_password_title">"Da se prijavite vnesite svoje geslo."</string>
   <string name="howitworks_page_verify_device_details">"Lahko izberete shranjevanje potrdila in Xiaomi vas ne bo ponovno spraševal za kodo."</string>
   <string name="howitworks_page_verify_device_title">"Potem ste prijavljeni."</string>
   <string name="install_button">Namesti</string>
@@ -113,7 +113,7 @@ Prijavite se v account.xiaomi.com, in kliknite na Aktiviraj ponovno"</string>
   <string name="remove_account_dialog_message">"Pri odstranitvi tega računa boste izgubili možnost generiranja kod. To vam lahko onemogoči prijavo v svoj ​​račun.
 
 Pred odstranitvijo:
-  —Izključite autentifikacijo v 2 korakih za ta račun, ali 
+  —Izključite preverjanje v 2 korakih za ta račun, ali 
   Preskrbite si alternativni mehanizem za generiranje kod."</string>
   <string name="remove_account_dialog_title">Odstranim račun?</string>
   <string name="rename">Preimenuj</string>
@@ -150,7 +150,7 @@ Pred odstranitvijo:
 Nastavitve datuma in časa na tej napravi niso bile spremenjene."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Čas je popravljen</string>
   <string name="tip1_patternforgotten">Odstrani in ponovno namesti zaščito</string>
-  <string name="tip2_patternforgotten">Dotaknite se Reset za brisanje podatkov o računu in ponovno aktiviranje.</string>
+  <string name="tip2_patternforgotten">Dotaknite se Ponastavi za brisanje podatkov o računu in ponovno aktiviranje.</string>
   <string name="tip_lockpattern">Vaše geslo mora biti daljše od 4 znakov</string>
   <string name="title_change_lockpattern">Konfiguracija vzorca za zaklepanje</string>
   <string name="title_createpattern">Nariši vzorec</string>

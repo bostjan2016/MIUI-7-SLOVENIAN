@@ -2,12 +2,12 @@
 <resources>
      <string-array name="call_barring_incoming_display_values">
         <item>Izključeno</item>
-        <item>Roaming</item>
+        <item>Gostovanje</item>
         <item>Vse</item>
      </string-array>
      <string-array name="call_barring_outgoing_display_values">
         <item>Izključeno</item>
-        <item>Mednarodni roaming klic</item>
+        <item>Mednarodno gostovanje klic</item>
         <item>Mednarodni klic</item>
         <item>Odhodni klic</item>
      </string-array>
@@ -25,13 +25,13 @@
         <item>LTE/WCDMA</item>
         <item>LTE samo</item>
         <item>LTE/GSM/CDMA avto (PRL)</item>
-        <item>LTE/GSM avto (PRL)</item>
-        <item>LTE/CDMA avto (PRL)</item>
-        <item>GSM/CDMA avto (PRL)</item>
+        <item>LTE/GSM samod. (PRL)</item>
+        <item>LTE/CDMA samod. (PRL)</item>
+        <item>GSM/CDMA samod. (PRL)</item>
         <item>EvDo samo</item>
         <item>CDMA samo</item>
-        <item>CDMA avto (PRL)</item>
-        <item>GSM avto (PRL)</item>
+        <item>CDMA samod. (PRL)</item>
+        <item>GSM samod. (PRL)</item>
         <item>WCDMA samo</item>
         <item>GSM samo</item>
         <item>WCDMA preferirano</item>
@@ -55,7 +55,7 @@
     </string-array>
     <string-array name="cdma_system_select_choices">
         <item>Samo osnovno</item>
-        <item>Avtomatsko</item>
+        <item>Samodejno</item>
     </string-array>
 	<string-array name="clir_display_values">
         <item>Privzeta nastavitev omrežja</item>
@@ -68,9 +68,9 @@
     </string-array>
 	<string-array name="livetalk_about_info_array">
         <item>- Podpira domače in mednarodne številke telefona.</item>
-        <item>"- Vsak klic porabi 1Kb mobilnih podatkov (uporabljaj redno mobilno omrežje kadar nimate mobilne podatkovne povezave)."</item>
-        <item>- Vaš operater vam lahko računa roaming za uporabo te usluge.</item>
-        <item>- Morate vključiti Brezplačno poslušanje za uporabo te usluge, drugače vam vaš operater lahko računa stroške roaminga.</item>
+        <item>"- Vsak klic porabi 1Kb mobilnih podatkov (uporabljajte redno mobilno omrežje kadar nimate mobilne podatkovne povezave)."</item>
+        <item>- Vaš operater vam lahko računa gostovanje za uporabo te usluge.</item>
+        <item>- Morate vključiti Brezplačno poslušanje za uporabo te usluge, drugače vam vaš operater lahko računa stroške gostovanja.</item>
         <item>- Služba za podporo: YunZhiXun, RonLianYunTongXun, LTSC</item>
     </string-array>
 </resources>
