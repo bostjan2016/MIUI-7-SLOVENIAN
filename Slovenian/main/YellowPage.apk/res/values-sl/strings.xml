@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="about_fraud_num_online_identification">O blokadi telefonskih ponudnikov</string>
+     <string name="about_fraud_num_online_identification">O tej funkciji</string>
      <string name="about_phone_event">O lastnostih Service Info</string>
      <string name="about_smart_antispam_summary">O funkciji</string>
      <string name="about_telephone_fraud">Pazi na goljufije</string>
@@ -11,10 +11,10 @@
      <string name="account_unactivated">Račun ni aktiviran</string>
      <string name="account_updating_device">Posodabljanje...</string>
      <string name="account_updating_device_failed">Ne morem se prijaviti</string>
-     <string name="account_verify_password">Uporabljate to storitev na drugi napravi. Za varnost boste morali preveriti vaš Mi račun na tej napravi.</string>
+     <string name="account_verify_password">Uporabljate to storitev na drugi napravi. Za varnost boste morali potrditi vaš Mi račun na tej napravi.</string>
      <string name="account_yellowpage_favorite">Priljubljene</string>
      <string name="account_yellowpage_followed">Preverjeni računi</string>
-     <string name="account_yellowpage_recent">Poglej zgodovino</string>
+     <string name="account_yellowpage_recent">Pokaži zgodovino</string>
      <string name="agree">Se strinjam</string>
      <string name="agree_to_continue">Nadaljuj</string>
      <string name="agree_to_turn_on">Strinjam se</string>
@@ -26,14 +26,14 @@
      <string name="average_price">Povprečno %d RMB</string>
      <string name="back">Nazaj</string>
      <string name="balance_inquiry_send_sms_fail_hint">Ne morem poslati SMS</string>
-     <string name="balance_inquiry_send_sms_hint">SMS bo poslan vašemu ponudniku storitev, da preverite svoje stanje.</string>
+     <string name="balance_inquiry_send_sms_hint">SMS bo poslan vašemu ponudniku storitev da preverite svoje stanje.</string>
      <string name="balance_inquiry_send_sms_summmary">Preverite stanje</string>
      <string name="balance_inquiry_title">Ravnovesje analize</string>
      <string name="call">Klici</string>
   <string name="callNoAnswerTimeFormat">Zvonilo je %s krat</string>
      <string name="callrecordview_item_newcontact">Nov stik</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
-     <string name="callrecordview_item_op_time_missed">Ni povezan</string>
+     <string name="callrecordview_item_op_time_missed">Ni povezano</string>
      <string name="callrecordview_item_op_time_only_minutes">%d min</string>
      <string name="callrecordview_item_op_time_only_seconds">%d sec</string>
      <string name="callrecordview_item_op_time_rejected">Zavrnjeno</string>
@@ -79,7 +79,7 @@
      <string name="download_failed_storage">Prenos ni uspel. Preverite kartico SD.</string>
      <string name="downloading">Nalaganje...</string>
      <string name="enable_now">Omogoči</string>
-     <string name="exapress_save_address_to_contact">Shranite naslov v stiku</string>
+     <string name="exapress_save_address_to_contact">Shranite naslov k stiku</string>
      <string name="express_add_new_address">Dodaj naslov</string>
   <string name="express_address_delete_warning">Ste prepričani?</string>
      <string name="express_address_deleted">Naslov izbrisan</string>
@@ -90,7 +90,7 @@
      <string name="express_address_warning_no_full_address">Potreben je naslov</string>
      <string name="express_address_warning_no_name">Potrebno je ime</string>
      <string name="express_address_warning_no_phone">Potrebna je telefonska številka</string>
-  <string name="express_addressee_info">Detajli naslovnika</string>
+  <string name="express_addressee_info">Podrobnosti naslovnika</string>
      <string name="express_addressee_name">Ime naslovnika</string>
   <string name="express_addressee_region">Mesto naslovnika</string>
      <string name="express_banner_header">%1$s / Številka za sledenje</string>
@@ -116,7 +116,7 @@
      <string name="express_inquiry">Sledenje</string>
      <string name="express_inquiry_button_text">Sledi</string>
   <string name="express_inquiry_clipboard_number_message">Sledim številko sledenja?</string>
-     <string name="express_inquiry_data_owner_prefix">Sledilne informacije od</string>
+     <string name="express_inquiry_data_owner_prefix">Sledilne informacije vam omogoča:</string>
      <string name="express_inquiry_data_owner_suffix" />
      <string name="express_inquiry_delete_warning_multiple">Izbrišem %d vnosov?</string>
      <string name="express_inquiry_delete_warning_single">Izbrišem ta vnos?</string>
@@ -138,7 +138,7 @@
      <string name="express_inquiry_provider_info">Podprto s strani</string>
      <string name="express_inquiry_serial_number_indication">Številka sledenja</string>
   <string name="express_inquiry_serial_number_prefix">Številka: %s</string>
-     <string name="express_inquiry_trace">Sled</string>
+     <string name="express_inquiry_trace">Sledi</string>
   <string name="express_inquiry_trace_device_login_notice">"Če želite dobiti status naročila v tej napravi morate potrditi svoj Mi Račun."</string>
      <string name="express_inquiry_trace_success">Sledenje</string>
      <string name="express_inquiry_trace_user_notice_content">Obvestili vas bomo ko bo status vašega naročila spremenjen.</string>
@@ -154,17 +154,17 @@
      <string name="express_order_result">Rezultat</string>
      <string name="express_order_state">%1$s / %2$s</string>
      <string name="express_order_state_accepted">Sprejeto</string>
-     <string name="express_order_state_allograph">Vpisan</string>
+  <string name="express_order_state_allograph">Podpisano</string>
      <string name="express_order_state_cancelled">Preklicano</string>
      <string name="express_order_state_dispatching">Dostavljati</string>
      <string name="express_order_state_dispatching_failed">Ni uspelo</string>
      <string name="express_order_state_failed">Ni uspelo</string>
-     <string name="express_order_state_ordered">Naročilo</string>
-     <string name="express_order_state_picked">Izbrati</string>
-     <string name="express_order_state_picking_failed">Izbira ni uspela</string>
-     <string name="express_order_state_processing">Predelava</string>
+  <string name="express_order_state_ordered">Naročeno</string>
+     <string name="express_order_state_picked">Prevzeto</string>
+     <string name="express_order_state_picking_failed">Prevzem ni uspel</string>
+     <string name="express_order_state_processing">Obdelava</string>
   <string name="express_order_state_signed">Podpisano</string>
-     <string name="express_order_state_transporting">Prevažanje</string>
+  <string name="express_order_state_transporting">Transport</string>
      <string name="express_order_state_unknown">Neznano</string>
   <string name="express_order_state_wait_picking">Čaka na prevzem</string>
   <string name="express_order_succeeded">Uspešno</string>
@@ -199,10 +199,10 @@
      <string name="gallery">Galerija</string>
   <string name="general_btn_follow">Spremljaj</string>
   <string name="general_btn_follow_ok">Spremlja se</string>
-     <string name="general_cancel_favorite_ok">Odstrani priljubljeno</string>
+     <string name="general_cancel_favorite_ok">Odstranjeno iz priljubljenih</string>
   <string name="general_cancel_followed_ok">Ne spremlja se</string>
      <string name="general_delete_recent_ok">Nedavno izbrisano</string>
-  <string name="general_favorite_ok">Favorit dodan</string>
+  <string name="general_favorite_ok">Dodano v priljubljene</string>
      <string name="general_favorite_title">Priljubljene</string>
      <string name="general_follow_hint">Sledi %1$s za prejemanje ustreznih posodobitev</string>
   <string name="general_follow_hint_title">Nasvet</string>
@@ -219,7 +219,7 @@
      <string name="group_name_enroll" />
      <string name="group_name_gallery">Galerija</string>
      <string name="group_name_management">Upravljanje</string>
-     <string name="group_name_more">Razno</string>
+  <string name="group_name_more">Ostalo</string>
      <string name="group_name_service">Storitev</string>
      <string name="group_name_shop_info">Informacije</string>
      <string name="group_name_shop_recommendation">V bližini</string>
@@ -253,7 +253,7 @@
      <string name="menu_correct_yellow_page">Popravek</string>
      <string name="menu_delete_call_log">Izbriši dnevnik klicev</string>
      <string name="menu_delete_one">Odstrani iz dnevnika klicev</string>
-     <string name="menu_enroll_in_yellow_page">Vpiši se v Mi Yellow Pages</string>
+     <string name="menu_enroll_in_yellow_page">Vpiši se v Yellow Pages</string>
      <string name="menu_follow_yellow_page">Sledi</string>
      <string name="menu_remove_black_list">Odstrani iz črne liste</string>
      <string name="menu_remove_from_favorite">Odstrani iz priljubljenih</string>
@@ -266,8 +266,8 @@
      <string name="miuishare_account_login_cancel">Prekliči</string>
      <string name="miuishare_account_login_confirmation">Potrebna je prijava</string>
      <string name="miuishare_account_login_ok">Prijava</string>
-     <string name="miuishare_account_need_activate">Dodajte svoj Weibo račun trenutnemu Mi Računu za deljenje. Izgleda da vaš Mi Račun ni bil aktiviran. Ga želite aktivirati sedaj?</string>
-     <string name="miuishare_account_need_login">Dodajte svoj Weibo račun trenutnemu Mi Računu za deljenje. Prijavim sedaj?</string>
+     <string name="miuishare_account_need_activate">Dodajte svoj Weibo račun trenutnemu Mi Računu za deljenje. Kaže da vaš Mi Račun ni bil aktiviran. Ga želite aktivirati sedaj?</string>
+     <string name="miuishare_account_need_login">Dodajte svoj Weibo račun trenutnemu Mi Računu za deljenje. Vas prijavim sedaj?</string>
      <string name="miuishare_app_name">MiuiShare</string>
      <string name="miuishare_no_network">Omrežna povezava ni na voljo</string>
      <string name="miuishare_publish">Pošlji</string>
@@ -280,7 +280,7 @@
      <string name="more_coupons">Vsi kuponi</string>
      <string name="navigation_search_all_cities">Vsa mesta</string>
      <string name="navigation_search_automatically_positioned_city">Trenutno mesto</string>
-     <string name="navigation_search_default_hint">Iskanje lokacij</string>
+     <string name="navigation_search_default_hint">Vnesite iskani pojem</string>
      <string name="navigation_search_hot_cities">Popularno</string>
      <string name="navigation_search_no_city_list">Nisem našel ničesar</string>
      <string name="navigation_search_positioning">Lociram...</string>
@@ -295,8 +295,8 @@
      <string name="no_evaluation">Ni ocen</string>
      <string name="no_more_result">Ni rezultatov</string>
      <string name="no_price">Ni informacij o ceni</string>
-     <string name="notify_connect_summary">Prikaži obvestilo pri povezovanju z internetom</string>
-     <string name="notify_connect_title">Obvestilo internetne povezave</string>
+     <string name="notify_connect_summary">Prikaži obvestilo pri povezovanju s spletom</string>
+     <string name="notify_connect_title">Obvestilo spletne povezave</string>
      <string name="online_no_network">Ne morem se povezati v omrežje</string>
      <string name="online_search_hint">Iskanje spletnih virov</string>
      <string name="open_installed_app">Odpri</string>
@@ -320,7 +320,7 @@
      <string name="packages_select_sim_cards_summmary">Prebrskaj priporočene podatkovne pakete</string>
      <string name="packages_select_sim_cards_title">Izberite SIM kartico</string>
      <string name="packages_select_to_buy_title">Izberite paket</string>
-     <string name="packages_title">Nakup mobilnih podatkov</string>
+  <string name="packages_title">Mobilni podatkovni paketi</string>
      <string name="packages_wait_for_op_reply">Počakajte na potrditveno sporočilo vašega ponudnika storitev</string>
      <string name="payment_back">Nazaj</string>
      <string name="payment_failed_common_problems">Prišlo je do napake pri plačilu</string>
@@ -345,9 +345,9 @@
      <string name="recharge_order_actual_price">¥%s</string>
   <string name="recharge_order_id">Naročilo #:</string>
      <string name="recharge_order_original_price">RMB %s</string>
-     <string name="recharge_order_pay">Odjava</string>
+  <string name="recharge_order_pay">Plačanje</string>
      <string name="recharge_pay">Napolni sedaj</string>
-     <string name="recharge_pay_hint">Podpora je podprta z Xiaomi Inc.</string>
+     <string name="recharge_pay_hint">Podpora s strani Xiaomi Inc.</string>
   <string name="recharge_pay_hint_license">Obvestila doplačila</string>
      <string name="recharge_payment_error">Rezervacija zaprta ali pa je prišlo do napake</string>
      <string name="recharge_payment_result_failed_summary">Poskusi ponovno</string>
@@ -359,7 +359,7 @@
      <string name="recharge_phone_format">%1$s / %2$s</string>
      <string name="recharge_phone_number_empty">Telefonska številka ki ste jo vnesli mora biti pravilna</string>
      <string name="recharge_phone_number_error">Telefonska številka ki ste jo vnesli je nepravilna</string>
-  <string name="recharge_select_money_title">Izberite znesk doplačila</string>
+  <string name="recharge_select_money_title">Izberite znesek doplačila</string>
      <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Največ</string>
      <string name="recharge_unknown_number">Neznano</string>
@@ -368,7 +368,7 @@
      Skupaj: RMB %3$s</string>
      <string name="recharge_user_confirm_title">Potrdi</string>
      <string name="refresh">Osveži</string>
-     <string name="remember_preference">Zapomni prednosti</string>
+     <string name="remember_preference">Zapomni si prednosti</string>
      <string name="remind_another_time">Ne kaži ponovno</string>
      <string name="remind_user_confirm">V redu</string>
      <string name="remind_user_suspect_number_message">Bodite previdni: Vedno morate preveriti identiteto stikov v telefonu ali videu preden se odzovete na vsa sporočila ki vključujejo vaše osebne podatke.</string>
@@ -380,7 +380,7 @@
      <string name="resource_account_login_title">Prijavite se</string>
      <string name="resource_account_switch">Zamenjaj</string>
      <string name="resource_alarm_default">Alarm</string>
-     <string name="resource_app_name">Brskalnik virov</string>
+  <string name="resource_app_name">Vir brskalnika</string>
      <string name="resource_apply">Potrdi</string>
      <string name="resource_apply_trial">Preizkusite zdaj</string>
      <string name="resource_buy">Kupi</string>
@@ -395,7 +395,7 @@
   <string name="resource_comment_5_star">*****</string>
      <string name="resource_comment_all_comments">Vse</string>
      <string name="resource_comment_average_score">Ocene</string>
-     <string name="resource_comment_bad_comments">Negativen</string>
+  <string name="resource_comment_bad_comments">Negativno</string>
      <string name="resource_comment_current_version">Trenutna verzija</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
      <string name="resource_comment_edit_comment">Dodaj komentar</string>
@@ -430,7 +430,7 @@
      <string name="resource_delete_confirm">Izbrišem izbrano?</string>
      <string name="resource_delta_update_failed">Posodobitev ni uspela: ponovno prenašanje teme...</string>
      <string name="resource_delta_update_successful">Posodobitev uspešna</string>
-     <string name="resource_delta_update_total">%1$d delta posodobitev shranjena %2$s</string>
+     <string name="resource_delta_update_total">%1$d delta posodobitev shranjeno %2$s</string>
      <string name="resource_detail">Podrobnosti</string>
      <string name="resource_detail_comment_title">Komentarji</string>
   <string name="resource_detail_jump_to_online_title">Omrežno</string>
@@ -439,7 +439,7 @@
      <string name="resource_detail_recommend_desiner_themes">%1$s tem</string>
      <string name="resource_detail_recommend_other_themes">Uporabnikom je tudi všeč</string>
      <string name="resource_detail_update_log_title">Posodobitve</string>
-  <string name="resource_detail_window_title">Detajli %1$s</string>
+  <string name="resource_detail_window_title">Podrobnosti %1$s</string>
      <string name="resource_download">Nalaganje</string>
      <string name="resource_download_trial">Poskusite brezplačno</string>
   <string name="resource_downloaded_title">Prevzeti elementi</string>
@@ -506,7 +506,7 @@
      <string name="resource_server_alert_dialog_title">Takoj bomo nazaj...</string>
      <string name="resource_server_out_of_service">Na žalost imamo težave s strežnikom. Prosimo poskusite znova pozneje.</string>
      <string name="resource_share_subject">Deli temo: %1$s</string>
-     <string name="resource_share_text">Tukaj je tema ki ti bo mogoče všeč: %1$s! Link: %2$s</string>
+     <string name="resource_share_text">Tukaj je tema ki ti bo mogoče všeč: %1$s! Povezava: %2$s</string>
      <string name="resource_share_title">Deli</string>
      <string name="resource_system_title">Sistemski viri</string>
      <string name="resource_tip_select_ringtone">Nič ni izbrano</string>
@@ -519,7 +519,7 @@
      <string name="resource_trial_fail_cancel">V redu</string>
      <string name="resource_trial_fail_go_settings">Nastavitve</string>
      <string name="resource_trial_fail_message">Poskrbite da je vaša sistemska ura nastavljena na točen čas.</string>
-     <string name="resource_trial_fail_title">Ni uspelo nastaviti poskusne seje</string>
+     <string name="resource_trial_fail_title">Nisem uspel nastaviti poskusne seje</string>
      <string name="resource_trial_time">（čas za testiranje: %1$d minut）</string>
   <string name="resource_unable_to_access">"Na žalost 
 vsebina ki jo iščete ni na voljo v vaši regiji."</string>
@@ -533,7 +533,7 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
 "</string>
      <string name="sdcard_not_mounted_dialog_title">Ni SD kartice</string>
      <string name="select_package_before_buy">Izberi paket</string>
-     <string name="selected_category_format">Označeno od %2$d ljudi kot %1$s.</string>
+     <string name="selected_category_format">Označeno od %2$d oseb kot %1$s.</string>
      <string name="send_shortcut_failed">Ne morem poslati</string>
      <string name="send_shortcut_success">Postavljeno na začetni zaslon</string>
      <string name="sending_shortcut">Pošiljam...</string>
@@ -560,12 +560,12 @@ vsebina ki jo iščete ni na voljo v vaši regiji."</string>
      <string name="turn_on_phone_event_summary">Pošlji telefonski status z številom uslug</string>
      <string name="turn_on_phone_event_title">Prejemanje informacij o storitvi</string>
      <string name="turn_on_smart_antispam_hint">"Identificiraj klice iz neznanih številk z uporabo Xiaomijeve podatkovne baze"</string>
-     <string name="turn_on_smart_antispam_summary_off">Išči samo iskane številke na tej napravi</string>
+     <string name="turn_on_smart_antispam_summary_off">Išči samo številke shranjene na tej napravi</string>
      <string name="turn_on_smart_antispam_summary_on">Naloži in določi neznane številke iz dnevnika klicev in besedilnih sporočil</string>
      <string name="turn_on_smart_antispam_title">Identificiraj neznane številke</string>
      <string name="turn_on_yellowpage_service_title">Uporaba imenika storitev</string>
-  <string name="upload_and_verify_fraud_num_off">Deli blokirane informacije telefonskega marketa izklopljeno</string>
-     <string name="upload_and_verify_fraud_num_on">Deli blokirane informacije telefonskega marketa</string>
+  <string name="upload_and_verify_fraud_num_off">Ne deli informacij o neželjenih klicih</string>
+  <string name="upload_and_verify_fraud_num_on">Deli informacije o neželjenih klicih</string>
      <string name="uploads_disabled">Nalaganje datotek je onemogočeno</string>
      <string name="user_agreement2">Sporazum o uporabniku</string>
      <string name="user_agreement4">Politiko zasebnosti</string>

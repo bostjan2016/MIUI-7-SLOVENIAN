@@ -17,15 +17,15 @@
   <string name="browse">Pregled</string>
   <string name="buff_enable">[ omogoči ]</string>
   <string name="copy_and_use">Odkupi</string>
-  <string name="cube_ptr_hours_ago">ur preje</string>
+  <string name="cube_ptr_hours_ago">ur prej</string>
   <string name="cube_ptr_last_update">Zadnja posodobitev: </string>
-  <string name="cube_ptr_minutes_ago"> min. preje</string>
+  <string name="cube_ptr_minutes_ago"> min. prej</string>
   <string name="cube_ptr_pull_down">Povleci dol</string>
   <string name="cube_ptr_pull_down_to_refresh">Povleci dol za osvežitev</string>
   <string name="cube_ptr_refresh_complete">Posodobljeno.</string>
   <string name="cube_ptr_refreshing">Posodabljam…</string>
   <string name="cube_ptr_release_to_refresh">Sprosti za osvežitev</string>
-  <string name="cube_ptr_seconds_ago"> sek. preje</string>
+  <string name="cube_ptr_seconds_ago"> sek. prej</string>
   <string name="daily_task">Dnevna naloga</string>
   <string name="days">%d d</string>
   <string name="device_answer_phone_times">Odgovorjenih klicev</string>
@@ -50,7 +50,7 @@
   <string name="in_progress">Pošiljanje zahteve…</string>
   <string name="invalid_json">Nekaj ni v redu</string>
   <string name="level">Stopnja</string>
-  <string name="level_detail">Omejitev dnevno nalog: %d</string>
+  <string name="level_detail">Omejitev dnevne naloge: %d</string>
   <string name="level_exp_value" formatted="false">Točk: %d/%d</string>
   <string name="level_info_format" formatted="false">"Nivo %d %d/%d
 %s"</string>
@@ -63,8 +63,8 @@
   <string name="miuishare_account_login_cancel">Prekliči</string>
   <string name="miuishare_account_login_confirmation">Potrebna je prijava</string>
   <string name="miuishare_account_login_ok">Prijavite se</string>
-  <string name="miuishare_account_need_activate">"Dodajte svoj Weibo račun trenutnemu Mi Računu za izmenjavo. Vaš Mi Račun ni aktiviran. Ga vključim sedaj"</string>
-  <string name="miuishare_account_need_login">"Dodajte svoj Weibo račun trenutnemu Mi Računu za izmenjavo. Prijavite se sedaj?"</string>
+  <string name="miuishare_account_need_activate">"Dodajte svoj Weibo račun trenutnemu Mi Računu za izmenjavo. Vaš Mi Račun ni aktiviran. Ga vključim zdaj?"</string>
+  <string name="miuishare_account_need_login">"Dodajte svoj Weibo račun trenutnemu Mi Računu za izmenjavo. Se boste prijavili zdaj?"</string>
   <string name="miuishare_app_name">MIUI Share</string>
   <string name="miuishare_no_network">"Ne morem se povezati na omrežje."</string>
   <string name="miuishare_publish">Pošlji</string>
@@ -90,7 +90,7 @@
   <string name="privilege_eligibility">Sprejemljivost</string>
   <string name="privilege_prize">Nagrade</string>
   <string name="promote">Naloge posodobitve</string>
-  <string name="query_level_fail">"Ne morem dobiti informacije"</string>
+  <string name="query_level_fail">"Ne morem dobiti informacij"</string>
   <string name="query_user_tasks_fail">"Ne morem dobiti podrobnosti naloge"</string>
   <string name="rank">Uvrstitev</string>
   <string name="rank_keeps">Ista</string>
@@ -110,12 +110,12 @@
   <string name="task_score">Točk %d</string>
   <string name="task_select_title">Izberi nalogo</string>
   <string name="task_start">Prični</string>
-  <string name="task_take_award">Prejete nagrade</string>
+  <string name="task_take_award">Prejmite nagrade</string>
   <string name="unachieved">DOSTOPNO</string>
   <string name="unlimited_task">Račun nadgrajen!</string>
   <string name="upgraded">Stopnja višje!</string>
   <string name="use">Uporabi</string>
-  <string name="use_immediately">Uporabi sedaj</string>
+  <string name="use_immediately">Uporabi zdaj</string>
   <string name="validity">Poteče %s</string>
   <string name="validity_unknown">Potek veljavnosti neznan</string>
 </resources>
