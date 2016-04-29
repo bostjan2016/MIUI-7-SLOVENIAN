@@ -300,7 +300,7 @@
      <string name="delete_from_album">iz \"%s\" albumov vseh naprav</string>
      <string name="delete_from_album_no_account">iz \"%s\" albumov</string>
      <string name="delete_from_all_devices">z vseh naprav</string>
-     <string name="delete_from_devices">Z vseh naprav, ki so samodejno sinhronizirane</string>
+     <string name="delete_from_devices">Z vseh naprav ki so samodejno sinhronizirane</string>
      <string name="delete_from_devices_album">Z vseh naprav ki so sinhr. ta  album</string>
      <string name="delete_from_homepage_album">Iz albumov, ki su prikazani na začetni strani</string>
      <string name="delete_from_web">Spletni albumi</string>
