@@ -27,18 +27,18 @@
      <string name="add_new_account">Dodaj nov račun</string>
      <string name="add_new_entry_for_section">Dodaj novo</string>
      <string name="add_organization">Dodaj organizacijo</string>
-     <string name="add_to_my_contacts">Dodam med moje stike</string>
+     <string name="add_to_my_contacts">Dodaj med moje stike</string>
      <string name="add_wait">Dodaj čakanje</string>
      <string name="add_xiaomi_account_dialog_btn">Uporabi Mi račun</string>
      <string name="add_xiaomi_account_dialog_msg">Varnostno kopiraj stike na vaš Mi račun za dostop do njih kjerkoli!</string>
      <string name="add_xiaomi_account_dialog_title">Izberi račun</string>
      <string name="aggregation_suggestion_edit_dialog_message">Preklopim na urejanje stika istega imena? Informacije ki ste jih vnesli se bodo shranile.</string>
      <string name="aggregation_suggestion_edit_dialog_title">Isto ime</string>
-     <string name="aggregation_suggestion_join_dialog_message">Pridružim trenutni stik z novim stikom?</string>
+     <string name="aggregation_suggestion_join_dialog_message">Pridružim trenutni stik novemu stiku?</string>
      <string name="all_list_empty">Ni stikov</string>
      <string name="all_resources">Vse</string>
      <string name="antispam_mark_my_contribution">Prikaži ostalim uporabnikom da sem prijavil to številko.</string>
-     <string name="antispam_provider_format">Prijavljena kot neželjena od %s</string>
+     <string name="antispam_provider_format">Prijavljena kot nezaželjeno od %s</string>
      <string name="attach_photo_dialog_title">Slika stika</string>
      <string name="audio_chat">Glasovni klepet</string>
      <string name="auto_nickname">Samodejno</string>
@@ -53,7 +53,7 @@
      <string name="button_cancel_scan">Ustavi</string>
      <string name="button_scan">Znova preveri</string>
      <string name="caching_vcard_message">Shranjevanje vCard v odložišče. Uvoz se bo začel kmalu...</string>
-     <string name="caching_vcard_title">Predpomnenje</string>
+     <string name="caching_vcard_title">Shranjevanje v odložišče</string>
      <string name="callAgain">Ponovno pokliči</string>
      <string name="callBack">Pokliči nazaj</string>
      <string name="callDetailTitle">Podrobnosti klica</string>
@@ -69,7 +69,7 @@
      <string name="call_fax_work">Pokliči službeni faks</string>
      <string name="call_home">Pokliči domov</string>
      <string name="call_isdn">Pokliči ISDN</string>
-     <string name="call_log_empty_gecode">-</string>
+  <string name="call_log_empty_gecode"/>
      <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
      <string name="call_log_new_header">Novo</string>
      <string name="call_log_old_header">Starejši</string>
@@ -80,7 +80,7 @@
      <string name="call_other_fax">Pokliči faks</string>
      <string name="call_pager">Pokliči pozivnik</string>
      <string name="call_radio">Pokliči radio</string>
-     <string name="call_record_setting_miui">Shrani nastavitve</string>
+  <string name="call_record_setting_miui">Nastavitve snemanja zvoka</string>
      <string name="call_settings">Nastavitve</string>
      <string name="call_sim1_menu_title">Klic iz SIM1</string>
      <string name="call_sim2_menu_title">Klic iz SIM2</string>
@@ -89,7 +89,7 @@
   <string name="call_type_and_date"/>
      <string name="call_work">Pokliči službo</string>
      <string name="call_work_mobile">Pokliči službo (mobilno)</string>
-     <string name="call_work_pager">Pokliči služben pozivnik</string>
+     <string name="call_work_pager">Pokliči službeni pozivnik</string>
      <string name="calllog_menu_blacklist">Blokiraj</string>
      <string name="calllog_menu_edit_before_call">Uredi</string>
      <string name="calllog_menu_send_sms">Pošlji sporočilo</string>
@@ -98,11 +98,11 @@
      <string name="callrecordview_item_op_time_missed">Klic ni uspel</string>
      <string name="callrecordview_item_op_time_only_minutes">%d minut</string>
      <string name="callrecordview_item_op_time_only_seconds">%d sekund</string>
-     <string name="callrecordview_item_op_time_rejected">Zavrnjen</string>
+     <string name="callrecordview_item_op_time_rejected">Zavrnjeno</string>
      <string name="callrecordview_item_op_time_short_incoming">Dohodni:</string>
      <string name="callrecordview_item_op_time_short_outgoing">Odhodni:</string>
      <string name="callrecordview_item_op_video">Video</string>
-     <string name="callrecordview_menu_add_call_note">Dodaj opombo klica</string>
+     <string name="callrecordview_menu_add_call_note">Dodaj beležko klica</string>
      <string name="callrecordview_menu_batch_delete">Izbriši serijo</string>
      <string name="callrecordview_menu_conference">Konferenčni klic</string>
      <string name="callrecordview_menu_delete">Počisti zgodovino klicev</string>
@@ -115,7 +115,7 @@
      <string name="callrecordview_menu_delete_one">Odstrani iz zgodovine klicev</string>
      <string name="callrecordview_menu_delete_sim">Počisti %s zgodovine klicev</string>
      <string name="callrecordview_menu_delete_stranger">Počisti neznane številke</string>
-     <string name="callrecordview_menu_edit_call_note">Uredi opombe klica</string>
+     <string name="callrecordview_menu_edit_call_note">Uredi beležko klica</string>
      <string name="callrecordview_menu_paste">Prilepi</string>
      <string name="callrecordview_menu_settings">Nastavitve</string>
      <string name="callrecordview_menu_show">Filtriraj</string>
@@ -145,7 +145,7 @@
      <string name="chat_skype">Klepet preko SKype</string>
      <string name="chat_yahoo">Klepet preko Yahoo</string>
      <string name="checkhint">Preveri ciljno napravo</string>
-     <string name="clearCallLogConfirmation">Vsi vaši zapisi bodo izbrisani.</string>
+     <string name="clearCallLogConfirmation">Vsi vaši dnevniki klicev bodo izbrisani.</string>
      <string name="clearCallLogConfirmation_title">Počisti dnevnike vseh klicev?</string>
      <string name="clearCallLogProgress_title">Čistim dnevnike klicev...</string>
      <string name="clearFrequentsConfirmation">Počisti seznam pogostih stikov v Stikih in Telefonu ter prisili E-poštne aplikacije da si zapomnijo vašo izbiro.</string>
@@ -156,9 +156,9 @@
      <string name="click_close">Tapni za zapiranje</string>
      <string name="clip_dialog_title">Pokličem kopirano številko?</string>
      <string name="close_dial_pad">Zapri številčnico</string>
-     <string name="cloud_antispam_mark">Poročilo</string>
+  <string name="cloud_antispam_mark">Prijavi</string>
      <string name="cloud_antispam_title">Prepoznaj neznane številke</string>
-     <string name="cloud_recommend_msg">Dotaknite se za sinhr. kontaktov z Mi Cloud.</string>
+     <string name="cloud_recommend_msg">Dotaknite se za sinhr. stikov z Mi Cloud.</string>
      <string name="cloud_state_disabled">Sinhronizacija z Mi Cloud je izključena</string>
      <string name="cloud_state_loading">Samo trenutek…</string>
      <string name="cloud_state_sync_finished">Sinhronizirano z Mi Cloud</string>
@@ -166,8 +166,8 @@
      <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
   <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
-     <string name="composer_failed_to_get_database_infomation">Ni bilo mogoče pridobiti informacije o podatkovni bazi.</string>
-     <string name="composer_has_no_exportable_contact">Ni stikov za izvoz. Če imate stike v telefonu, nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov s telefona.</string>
+     <string name="composer_failed_to_get_database_infomation">Ni bilo mogoče pridobiti informacij iz podatkovne baze.</string>
+     <string name="composer_has_no_exportable_contact">Ni stikov za izvoz. Če imate stike v telefonu nekateri ponudniki podatkov ne dovoljujejo izvoza podatkov iz telefona.</string>
      <string name="composer_not_initialized">vCard se ni zagnala pravilno.</string>
      <string name="config_export_extensions_to_consider" />
      <string name="config_export_file_prefix" />
@@ -189,43 +189,43 @@
      <string name="contact_delete_toast">Stik izbrisan</string>
      <string name="contact_detail_calllog_call_note_tips">Beležke</string>
      <string name="contact_detail_calllog_call_record_tips">Zapis klica</string>
-     <string name="contact_detail_menu_delete_miprofile">Izbriši kartico</string>
-     <string name="contact_detail_miprofile_accept">Menjava Kartice stikov</string>
-     <string name="contact_detail_miprofile_accept_fail_toast">"Ne morem zamenjati Kartice stikov"</string>
-     <string name="contact_detail_miprofile_accept_success_toast">Kartice stikov so zamenjane</string>
+     <string name="contact_detail_menu_delete_miprofile">Izbriši vizitko</string>
+     <string name="contact_detail_miprofile_accept">Menjava vizitke</string>
+     <string name="contact_detail_miprofile_accept_fail_toast">"Ne morem zamenjati vizitke"</string>
+     <string name="contact_detail_miprofile_accept_success_toast">Vizitke so zamenjane</string>
      <string name="contact_detail_miprofile_binded_label">Dodano</string>
      <string name="contact_detail_miprofile_exchange_closed">"Ni številke telefona povezane s tem Mi Računom.      
 Kartice stikov so izključene"</string>
      <string name="contact_detail_miprofile_privacy_settings">Potrebno je dovoljenje za pregled</string>
-     <string name="contact_detail_miprofile_request">Zamenjaj Kartice stikov</string>
+     <string name="contact_detail_miprofile_request">Zamenjaj vizitke</string>
      <string name="contact_detail_miprofile_request_fail_toast">"Ne morem poslati zahteve"</string>
      <string name="contact_detail_miprofile_request_subtitle">"Avtomatsko ažuriraj podatke o tem stiku"</string>
      <string name="contact_detail_miprofile_request_success_toast">Zahteva je poslana</string>
-     <string name="contact_detail_miprofile_save">Dotaknite se za dobivanje kartice stikov</string>
-     <string name="contact_detail_miprofile_save_fail_toast">"Ne morem dobiti kartice stikov"</string>
-     <string name="contact_detail_miprofile_save_success_toast">Kartica stikov je prejeta</string>
+     <string name="contact_detail_miprofile_save">Dotaknite se za dobivanje vizitke</string>
+     <string name="contact_detail_miprofile_save_fail_toast">"Ne morem dobiti vizitke"</string>
+     <string name="contact_detail_miprofile_save_success_toast">Vizitka stikov je prejeta</string>
      <string name="contact_detail_miprofile_settings_header">Dodatne nastavitve</string>
-     <string name="contact_detail_miprofile_subtitle">Kartice ste že zamenjali</string>
+     <string name="contact_detail_miprofile_subtitle">Vizitke ste že zamenjali</string>
      <string name="contact_detail_profile_switch_fail_network_toast">"Ne morem se povezati na omrežje"</string>
      <string name="contact_detail_profile_switch_fail_toast">Napaka našega strežnika</string>
-     <string name="contact_detail_profile_switch_off">Izključi Kartice stikov</string>
-     <string name="contact_detail_profile_switch_off_fail_toast">"Ne morem izključiti kartice"</string>
-     <string name="contact_detail_profile_switch_off_success_toast">Kartice stikov so izključene</string>
+     <string name="contact_detail_profile_switch_off">Izključi vizitke</string>
+     <string name="contact_detail_profile_switch_off_fail_toast">"Ne morem izključiti vizitke"</string>
+     <string name="contact_detail_profile_switch_off_success_toast">Vizitke so izključene</string>
      <string name="contact_detail_profile_switch_on">"Prikaži fotografije profila stikov"</string>
-     <string name="contact_detail_profile_switch_on_fail_toast">"Ne morem izključiti kartice</string>
-     <string name="contact_detail_profile_switch_on_subtitle">Dotaknite se da vključite kartice stikov</string>
-     <string name="contact_detail_profile_switch_on_success_toast">Kartice stikov so vključene</string>
+     <string name="contact_detail_profile_switch_on_fail_toast">"Ne morem izključiti vizitke</string>
+     <string name="contact_detail_profile_switch_on_subtitle">Dotaknite se da vključite vizitke</string>
+     <string name="contact_detail_profile_switch_on_success_toast">Vizitke so vključene</string>
      <string name="contact_directory_description">Mapa %1$s</string>
      <string name="contact_edit_save_error_empty">Stik je prazen</string>
      <string name="contact_edit_title_edit">Uredi stik</string>
-     <string name="contact_edit_title_insert">Dodaj %s stikov</string>
+  <string name="contact_edit_title_insert">"Shrani v %s"</string>
      <string name="contact_edit_title_readonly">Stik samo za branje</string>
-     <string name="contact_editor_prompt_multiple_accounts">Izberi račun za shranitev</string>
+     <string name="contact_editor_prompt_multiple_accounts">Izberi račun za shranjevanje</string>
      <string name="contact_editor_prompt_one_account">Novi stik bo sinhroniziran z %1$s </string>
      <string name="contact_editor_prompt_zero_accounts">Shrani v napravo ali na nov račun</string>
      <string name="contact_is_readOnly">Ne morem urediti stika ki je samo za branje</string>
      <string name="contact_list_loading">Nalagam...</string>
-     <string name="contact_pick_photo">Slika</string>
+  <string name="contact_pick_photo">"Fotografija"</string>
      <string name="contact_read_only">Ni mogoče urejati iz te aplikacije.</string>
      <string name="contact_status_update_attribution">preko %1$s</string>
      <string name="contact_status_update_attribution_with_date">%1$s preko %2$s</string>
@@ -253,8 +253,8 @@ Kartice stikov so izključene"</string>
      <string name="date_year_toggle">Preklopi leto</string>
      <string name="default_ringtone">Privzeto zvonenje</string>
      <string name="deleteConfirmation">Ta stik bo izbrisan</string>
-     <string name="deleteConfirmationDetail">Izbrišem %s?</string>
-     <string name="deleteConfirmation_title">Izbriši</string>
+  <string name="deleteConfirmationDetail">Izbrišem \"%s\"?</string>
+  <string name="deleteConfirmation_title">"Izbrišem ta stik?"</string>
      <string name="delete_call_log_message">Izbrišem zgodovino klicev?</string>
      <string name="delete_call_log_selected_title">Izbrišem izbrano zgodovino klicev?</string>
      <string name="delete_call_log_title">Izberi zgodovino klicev</string>
@@ -262,7 +262,7 @@ Kartice stikov so izključene"</string>
      <string name="delete_dial_input">Izbriši</string>
      <string name="delete_duplicate">Združi</string>
      <string name="delete_duplicate_message">Združevanje stikov...</string>
-     <string name="delete_group_dialog_message">Izbriši skupino %1$s, stiki ne bodo izbrisani.</string>
+     <string name="delete_group_dialog_message">Izbrišem skupino %1$s? Stiki ne bodo izbrisani.</string>
      <string name="delete_group_dialog_title">Izbriši skupino</string>
      <string name="delete_selected_sim_entry_miui">Izbriši izbrane stike</string>
      <string name="delete_sim_entries_finish">Stiki na SIM kartici izbrisani</string>
@@ -307,8 +307,8 @@ Kartice stikov so izključene"</string>
      <string name="description_plus_button">Plus</string>
      <string name="description_quick_contact_for">Hitri stik za %1$s</string>
      <string name="description_search_button">Išči</string>
-     <string name="description_send_message">Pošlji sporočilo na %1$s</string>
-     <string name="description_send_text_message">Pošlji SMS sporočilo na %1$s</string>
+     <string name="description_send_message">Pošlji sporočilo stiku %1$s</string>
+     <string name="description_send_text_message">Pošiljanje SMS sporočila: %1$s</string>
      <string name="description_size">Velikost</string>
      <string name="description_star">Priljubljeno</string>
      <string name="description_summary">Povzetek</string>
@@ -352,7 +352,7 @@ Kartice stikov so izključene"</string>
      <string name="dialer_empty_text_loading">Nalagam...</string>
      <string name="dialer_empty_text_no_call_log">Ni nedavnih stikov</string>
      <string name="dialer_empty_text_no_search_result">Najdenih ni nobenih stikov</string>
-     <string name="dialer_menu_description">Dotaknite se za odpiranje imenika</string>
+  <string name="dialer_menu_description">Prikaži tipkovnice</string>
      <string name="dialer_returnToInCallScreen">Vrni se na klic v teku</string>
      <string name="dialer_useDtmfDialpad">Uporabi tonsko tipkovnico</string>
      <string name="dialog_import">Uvozi stike</string>
@@ -369,13 +369,13 @@ Kartice stikov so izključene"</string>
      <string name="display_only_phones">Skrij nepopolne številke</string>
      <string name="display_options_sort_by_family_name">Priimek</string>
      <string name="display_options_sort_by_given_name">Ime</string>
-     <string name="display_options_sort_list_by">Razvrsti</string>
+     <string name="display_options_sort_list_by">Razvrsti po</string>
      <string name="display_options_view_family_name_first">Priimek najprej</string>
      <string name="display_options_view_given_name_first">Ime najprej</string>
      <string name="display_options_view_names_as">Prikaži imena stikov kot</string>
      <string name="display_sim_contacts">Pokaži SIM stike</string>
      <string name="display_ungrouped">Vsi ostali stiki</string>
-     <string name="display_warn_remove_ungrouped">Odstranjevanje %s iz sinhronizacije bo prav tako izbrisalo vse nerazporejene stike.</string>
+     <string name="display_warn_remove_ungrouped">Odstranjevanje skupine %s iz sinhronizacije bo prav tako izbrisalo vse nerazporejene stike iz sinhronizacije.</string>
      <string name="download_failed">Prenos ni uspel</string>
      <string name="download_preview_failed">Predogleda ni mogoče naložiti</string>
      <string name="duplicate_group_name">Skupina s tem imenom že obstaja</string>
@@ -387,7 +387,7 @@ Kartice stikov so izključene"</string>
      <string name="email">E-pošta</string>
      <string name="emailLabelsGroup">E-pošta</string>
      <string name="email_custom">E-pošta %s</string>
-     <string name="email_home">E-pošta doma</string>
+  <string name="email_home">E-pošta - Začetna stran</string>
      <string name="email_mobile">E-pošta telefon</string>
      <string name="email_other">E-pošta</string>
      <string name="email_work">E-pošta v službi</string>
@@ -445,13 +445,13 @@ Razlog: \"%s\"</string>
      <string name="ghostData_title">Naslov</string>
      <string name="groupSavedErrorToast">Spremembe skupin ni bilo mogoče shraniti</string>
      <string name="groupSavedToast">Skupina shranjena</string>
-     <string name="group_add_fail_toast">Stikov ni bilo mogoče dodati</string>
+     <string name="group_add_fail_toast">Prejemnikov ni bilo mogoče dodati</string>
      <string name="group_create_fail_toast">Skupine ni bilo mogoče ustvariti</string>
      <string name="group_create_success_toast">Skupina ustvarjena</string>
      <string name="group_delete_success_toast">Skupina izbrisana</string>
      <string name="group_detail_label_placeholder"> </string>
      <string name="group_edit_field_hint_text">Ime skupine</string>
-     <string name="group_member_remove_toast">Odstranjen iz skupine</string>
+     <string name="group_member_remove_toast">Odstranjeno iz skupine</string>
      <string name="group_name">Moje skupine</string>
      <string name="group_name_hint">Ime skupine</string>
      <string name="group_read_only">Urejanje na tej napravi ni mogoče.</string>
@@ -478,7 +478,7 @@ Razlog: \"%s\"</string>
      <string name="import_contact_card_button">Uvozi stik</string>
      <string name="import_failure_no_vcard_file">V pomnilniku ni nobene vCard datoteke</string>
      <string name="import_from_onekey_migrate">Uvozi z MiMover</string>
-     <string name="import_from_other_phone">Uvozi z drugega telefona</string>
+     <string name="import_from_other_phone">Uvozi iz drugega telefona</string>
      <string name="import_from_sdcard">Uvozi iz pomnilnika</string>
      <string name="import_from_sim">Uvozi iz SIM kartice</string>
      <string name="import_from_sim1">Uvozi iz SIM kartice 1</string>
@@ -495,7 +495,7 @@ Razlog: \"%s\"</string>
      <string name="import_to_xiaomi_account_progress_message">Uvažam...</string>
      <string name="import_to_xiaomi_account_progress_title">Uvozi stike na Mi račun</string>
      <string name="import_to_xiaomi_account_title">Uvozim izbrane stike na vaš Mi račun?</string>
-     <string name="import_vcard_description">Uvozi stike s pomnilnika vašega telefona</string>
+     <string name="import_vcard_description">Uvozi stike iz pomnilnika vašega telefona</string>
      <string name="import_vcard_dialog_message">Uvozim vCard?</string>
      <string name="import_weibo_dialog_title">Uvozi Weibo stike</string>
      <string name="import_weibo_error_no_matched_contacts">Ni ujemajočih stikov</string>
@@ -507,15 +507,15 @@ Razlog: \"%s\"</string>
      <string name="import_weibo_notification_title_done">Posodobljeno %s stikov</string>
   <string name="import_weibo_progress_name">Usklajevanje \"%1$s\"…</string>
      <string name="import_weibo_progress_percent">%1$d%%</string>
-     <string name="importing_sim_contacts_miui">Uvoz stikov s SIM kartice...</string>
+     <string name="importing_sim_contacts_miui">Uvoz stikov iz SIM kartice...</string>
      <string name="importing_sim_contacts_miui_prepare">Priprava stikov…</string>
      <string name="importing_vcard_canceled_title">Uvoz %s preklican</string>
      <string name="importing_vcard_description">Uvažanje %s</string>
      <string name="importing_vcard_finished_title">Končan uvoz vCard %s</string>
      <string name="in_call_show">Videozapis</string>
      <string name="in_call_show_camera_open_error">"Ne morem odpreti kamere"</string>
-     <string name="in_call_show_delete_message">Izbrišem vaš videozapis?</string>
-     <string name="in_call_show_delete_title">Izbrišem videozapis?</string>
+     <string name="in_call_show_delete_message">Izbrišem vaš videoposnetek?</string>
+     <string name="in_call_show_delete_title">Izbrišem videoposnetek?</string>
      <string name="in_call_show_demo_present">Pregled</string>
      <string name="in_call_show_filter_brannan">Zora</string>
      <string name="in_call_show_filter_earlybird">Jesen</string>
@@ -526,22 +526,22 @@ Razlog: \"%s\"</string>
      <string name="in_call_show_filter_process_error">Napaka, poskusite ponovno.</string>
      <string name="in_call_show_filter_processing">v obdelavi…</string>
      <string name="in_call_show_filter_vivid">Vivid</string>
-     <string name="in_call_show_guide_intro">"Posnemite videozapis profila ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"</string>
+     <string name="in_call_show_guide_intro">"Posnemite videoposnetek profila ki bo prikazan drugim MIUI uporabnikom na njihovih napravah kadar jih kličete"</string>
      <string name="in_call_show_guide_start_recording">Posnemi zdaj</string>
-     <string name="in_call_show_guide_title">Videozapis profila</string>
+     <string name="in_call_show_guide_title">Videoposnetek profila</string>
      <string name="in_call_show_long_press_to_record">Pritisni &amp; drži za snemanje</string>
-     <string name="in_call_show_pick_video">Izberi videozapis</string>
+     <string name="in_call_show_pick_video">Izberi videoposnetek</string>
      <string name="in_call_show_preview">Pregled</string>
      <string name="in_call_show_preview_reshoot">Poskusi ponovno</string>
      <string name="in_call_show_recording">Snemanje…</string>
      <string name="in_call_show_reshoot">Posnemi ponovno</string>
-     <string name="in_call_show_save_completed">Videozapis profila je shranjen</string>
-     <string name="in_call_show_save_failed">"Ne morem shraniti videozapisa"</string>
+     <string name="in_call_show_save_completed">Videoposnetek profila je shranjen</string>
+     <string name="in_call_show_save_failed">"Ne morem shraniti videoposneteka"</string>
      <string name="in_call_show_tap_to_show_demo">Dotaknite se zaslona za pregled</string>
-     <string name="in_call_show_too_short">Prekratko. Poskusite posneti daljši videozapis.</string>
+     <string name="in_call_show_too_short">Prekratko. Poskusite posneti daljši videoposnetek.</string>
      <string name="in_call_show_video_pick">Izberi</string>
-     <string name="in_call_show_video_pick_filter">"Videozapis mora biti manjši od 3 MB i krajši od 20 sekund."</string>
-     <string name="in_call_show_view_play_error">"Ne morem predvajati videozapisa"</string>
+     <string name="in_call_show_video_pick_filter">"Videoposnetek mora biti manjši od 3 MB in krajši od 20 sekund."</string>
+     <string name="in_call_show_view_play_error">"Ne morem predvajati videoposneteka"</string>
      <string name="insertContactDescription">Ustvari stik</string>
      <string name="insertGroupDescription">Ustvari skupino</string>
      <string name="invalidContactMessage">Stik ne obstaja</string>
@@ -551,7 +551,7 @@ Razlog: \"%s\"</string>
      <string name="label_duplicate_count">(%1$d)</string>
      <string name="label_no_duplicate_contacts">Ni najdenih podvojenih stikov</string>
      <string name="label_notes">Beležke</string>
-     <string name="label_sip_address">Internetni klic</string>
+     <string name="label_sip_address">Spletni klic</string>
      <string name="launcherDialer">Telefon</string>
      <string name="listCustomView">Stiki v ogledu po meri</string>
      <string name="listFoundAllContactsZero">Ni stikov</string>
@@ -569,13 +569,13 @@ Razlog: \"%s\"</string>
      <string name="list_filter_single">Stik</string>
      <string name="loading">Nalagam...</string>
      <string name="loading_accounts">Samo trenutek…</string>
-     <string name="loading_group_members">Nalagam člana skupine...</string>
-     <string name="loading_groups">Nalagam skupine...</string>
-     <string name="loading_recent">Nalagam nedavne stike...</string>
+  <string name="loading_group_members">Samo trenutek…</string>
+  <string name="loading_groups">Samo trenutek…</string>
+  <string name="loading_recent">Samo trenutek…</string>
      <string name="loading_resource_detail_fail">Vira ni bilo mogoče naložiti</string>
      <string name="loading_resource_detail_info">Nalagam...</string>
      <string name="local_invisible_directory">Ostalo</string>
-     <string name="local_profile_title">Moj lokalni profil</string>
+  <string name="local_profile_title">Moj profil</string>
      <string name="local_search_label">Vsi stiki</string>
      <string name="locale_change_in_progress">Seznam stikov je bil posodobljen da se upošteva sprememba jezika.</string>
      <string name="login_ok">Vpis</string>
@@ -584,8 +584,8 @@ Razlog: \"%s\"</string>
      <string name="lunar_leap">Zaženi</string>
      <string name="lunar_yue">Mesec</string>
      <string name="make_primary">Zapomni si to odločitev</string>
-     <string name="map_custom">Ogled %s naslovov</string>
-     <string name="map_home">Ogled domačih naslovov</string>
+     <string name="map_custom">Ogled %s naslova</string>
+     <string name="map_home">Ogled domačega naslova</string>
      <string name="map_other">Ogled naslova</string>
      <string name="map_work">Ogled službenega naslova</string>
      <string name="meid">MEID</string>
@@ -605,7 +605,7 @@ Razlog: \"%s\"</string>
      <string name="menu_contacts_filter">Stiki za ogled</string>
      <string name="menu_copy">Kopiraj</string>
      <string name="menu_copyContact">Kopiraj med moje stike</string>
-     <string name="menu_create_contact_shortcut">Postavi na domači zaslon</string>
+     <string name="menu_create_contact_shortcut">Postavi na začetni zaslon</string>
      <string name="menu_deleteContact">Izbriši stik</string>
      <string name="menu_deleteGroup">Izbriši</string>
      <string name="menu_dial_ip_number">Kliči</string>
@@ -617,14 +617,14 @@ Razlog: \"%s\"</string>
      <string name="menu_done">V redu</string>
      <string name="menu_editContact">Uredi</string>
      <string name="menu_editGroup">Uredi</string>
-     <string name="menu_edit_mode">Urejevalni način</string>
+  <string name="menu_edit_mode">"Uredi pred klicanjem"</string>
      <string name="menu_help">Pomoč</string>
      <string name="menu_import_export">Uvoz/izvoz</string>
-     <string name="menu_joinAggregate">Združi</string>
+  <string name="menu_joinAggregate">Pridruži se</string>
      <string name="menu_newContact">Nov stik</string>
      <string name="menu_newContactButton">Dodaj</string>
      <string name="menu_new_contact_action_bar">Novo</string>
-     <string name="menu_new_favorite_action_bar">Novo</string>
+  <string name="menu_new_favorite_action_bar">"Dodaj v priljubljene"</string>
      <string name="menu_new_group_action_bar">Novo</string>
      <string name="menu_not_redirect_calls_to_vm">Glasovna pošta ni v uporabi</string>
      <string name="menu_redirect_calls_to_vm">Vse klice v glasovno pošto</string>
@@ -646,21 +646,21 @@ Razlog: \"%s\"</string>
      <string name="messageShortcutActivityTitle">Izberi številko za pošiljanje</string>
      <string name="miprofile_account_type">Mi Račun</string>
      <string name="miprofile_alertdialog_edit">Vnesite ime</string>
-     <string name="miprofile_alertdialog_message">Prikaži to ime stikom kadar zahtevajo menjavo kartic.</string>
+     <string name="miprofile_alertdialog_message">Prikaži to ime stikom kadar zahtevajo menjavo vizitk.</string>
      <string name="miprofile_alertdialog_title">Vnesite ime</string>
      <string name="miprofile_bind_account_alertdialog_message">"Morate dodati številko telefona te naprave na vaš Mi Račun za uporabo te funkcije."</string>
      <string name="miprofile_bind_account_alertdialog_positive">Dodaj številko</string>
      <string name="miprofile_bind_account_alertdialog_title">Dodaj številko telefona</string>
      <string name="miprofile_contact_add">Dodaj</string>
      <string name="miprofile_contact_added">Dodano</string>
-     <string name="miprofile_contact_header">Stiki s karticami stikov</string>
+     <string name="miprofile_contact_header">Stiki z vizitkami</string>
      <string name="miprofile_contact_meaasge">Lokalni stiki</string>
      <string name="miprofile_contact_verifying">Preverjam…</string>
      <string name="miprofile_edit_title">Uredi profil</string>
-     <string name="miprofile_error_accept_self">"Lastna kartica se ne more menjati"</string>
+     <string name="miprofile_error_accept_self">"Lastna vizitka se ne more menjati"</string>
      <string name="miprofile_error_no_miaccount">Prijavite se v vaš Mi Račun</string>
-     <string name="miprofile_error_not_opened">Izključite Kartice stikov</string>
-     <string name="miprofile_error_not_set">"Vaša Kartica stikov ni sinhronizirana z strežnikom"</string>
+     <string name="miprofile_error_not_opened">Izključite vizitke</string>
+     <string name="miprofile_error_not_set">"Vaša vizitka ni sinhronizirana z strežnikom"</string>
      <string name="miprofile_error_unknown">Neznana napaka</string>
      <string name="miprofile_find_miprofile_title">Dodaj profil</string>
      <string name="miprofile_find_profile_batch_add">Dodaj vse profile</string>
@@ -669,41 +669,41 @@ Razlog: \"%s\"</string>
      <string name="miprofile_find_profile_loading">Samo trenutek…</string>
      <string name="miprofile_find_profile_no_recommend">Ni profilov za priporočilo</string>
      <string name="miprofile_find_profile_subtitle">Dodaj za prikaz fotografij in več informacij</string>
-     <string name="miprofile_finding_label">Najdi kartice stikov</string>
+     <string name="miprofile_finding_label">Najdi vizitke</string>
      <string name="miprofile_name">Moj profil</string>
      <string name="miprofile_nick_name_divider">"  |  "</string>
      <string name="miprofile_nick_name_edit_dialog_hint">Vnesite vzdevek</string>
      <string name="miprofile_nick_name_edit_dialog_message">Vzdevek bo prikazan v zgodovini klicev in inform. o profilu</string>
      <string name="miprofile_nick_name_edit_dialog_title">Uredite vzdevek</string>
      <string name="miprofile_notice_text">"Dotaknite se za prikaz fotografije profila stikov"</string>
-     <string name="miprofile_request_agenda_date">Ta oseba želi menjati Kartice stikov [%1$s]</string>
-     <string name="miprofile_request_agenda_today">Ta oseba želi menjati Kartice stikov [Danes %1$s]</string>
-     <string name="miprofile_request_agenda_yesterday">Ta oseba želi menjati Kartice stikov [Včeraj %1$s]</string>
+     <string name="miprofile_request_agenda_date">Ta oseba želi menjati vizitke [%1$s]</string>
+     <string name="miprofile_request_agenda_today">Ta oseba želi menjati vizitke [Danes %1$s]</string>
+     <string name="miprofile_request_agenda_yesterday">Ta oseba želi menjati vizitke [Včeraj %1$s]</string>
      <string name="miprofile_request_agree">Sprejmi</string>
-     <string name="miprofile_request_agree_exchange_profile">Kartice stikov so zamenjane</string>
-     <string name="miprofile_request_agreed">%1$s pristaja na menjavo Kartic stikov</string>
-     <string name="miprofile_request_alertdialog_message">Vaša kartica bo avtomatsko poslana ko ta oseba to sprejme.</string>
-     <string name="miprofile_request_alertdialog_title">Menjava Kartic stikov</string>
-     <string name="miprofile_request_deleted">Kartica izbrisana</string>
-     <string name="miprofile_request_deleted_or_not_added">Kartica izbrisana ali ni dodana</string>
+     <string name="miprofile_request_agree_exchange_profile">Vizitke so zamenjane</string>
+     <string name="miprofile_request_agreed">%1$s pristaja na menjavo vizitk</string>
+     <string name="miprofile_request_alertdialog_message">Vaša vizitka bo samodejno poslana ko ta oseba to sprejme.</string>
+     <string name="miprofile_request_alertdialog_title">Menjava vizitk</string>
+     <string name="miprofile_request_deleted">Vizitka izbrisana</string>
+     <string name="miprofile_request_deleted_or_not_added">Vizitke izbrisana ali ni dodana</string>
      <string name="miprofile_request_empty_request">Ni zahtev za menjavo</string>
-     <string name="miprofile_request_exchange_title">Najdi Kartice stikov</string>
-     <string name="miprofile_request_header">Zateva za menjavo (avtom. poteče čez teden dni)</string>
+     <string name="miprofile_request_exchange_title">Najdi vizitke</string>
+     <string name="miprofile_request_header">Zateva za menjavo (samod. poteče čez teden dni)</string>
      <string name="miprofile_request_menu_clear_request">Izbriši zgodovino</string>
-     <string name="miprofile_request_message">%1$s oseb želi menjati Kartice stikov</string>
+     <string name="miprofile_request_message">%1$s oseb želi menjati vizitke</string>
      <string name="miprofile_request_notification_message">Sprejmite da boste videli fotografije profilov in več informacij</string>
-     <string name="miprofile_request_notification_title">%1$s oseb želi menjati Kartice stikov</string>
-     <string name="miprofile_request_notification_title_name">%1$s želi menjati Kartice stikov</string>
-     <string name="miprofile_save_alertdialog_message">Vaša kartica bo poslana temu stiku avtomatsko.</string>
-     <string name="miprofile_save_alertdialog_title">Kartica stikov je sprejeta</string>
-     <string name="miprofile_switch_off_alertdialog_message">"Ne boste mogli menjati Kartice stikov z drugimi osebami. Vaši stiki ne bodo mogli videti vaš videozapis profila."</string>
-     <string name="miprofile_switch_on_alertdialog_message">Zamenjajte Kartice stikov da boste videli ažurirane slike profila.</string>
+     <string name="miprofile_request_notification_title">%1$s oseb želi menjati vizitke</string>
+     <string name="miprofile_request_notification_title_name">%1$s želi menjati vizitke</string>
+     <string name="miprofile_save_alertdialog_message">Vaša vizitka bo poslana temu stiku samodejno.</string>
+     <string name="miprofile_save_alertdialog_title">Vizitka je sprejeta</string>
+     <string name="miprofile_switch_off_alertdialog_message">"Ne boste mogli menjati vizitk z drugimi osebami. Vaši stiki ne bodo mogli videti vaš videoposnetek profila."</string>
+     <string name="miprofile_switch_on_alertdialog_message">Zamenjajte vizitke da boste videli posodobljene slike profilov.</string>
      <string name="miprofile_switch_on_alertdialog_positive">Vključi</string>
-     <string name="miprofile_switch_on_alertdialog_title">Ažuriranje slike profila</string>
+     <string name="miprofile_switch_on_alertdialog_title">Posodabljanje slike profila</string>
      <string name="missing_name">(Brez imena)</string>
-     <string name="missing_required_permission">Onemogočili ste potrebno dovoljenje.</string>
      <string name="mobile_equipment_identification">Identifikacija mobilne opreme</string>
-     <string name="more_call_logs">Poglejte detajlno zgodovino klicev na i.mi.com</string>
+  <string name="missing_required_permission">Onemogočili ste potrebno dovoljenje.</string>
+     <string name="more_call_logs">Poglejte podrobno zgodovino klicev na i.mi.com</string>
      <string name="move_and_resize">Premakni in spremeni velikost</string>
      <string name="multi_number_menu_call">Klic</string>
      <string name="multi_number_menu_delete">Izbriši</string>
@@ -712,16 +712,16 @@ Razlog: \"%s\"</string>
      <string name="multi_number_title">Konferenčni klic</string>
      <string name="multipleContactDeleteConfirmation">Izbris tega stika bo izbrisal podatke iz večih računov.</string>
      <string name="multipleContactDeleteConfirmationDetail">Izbris %s bo izbrisal podatke iz večih računov.</string>
-     <string name="my_in_call_show">Moj videozapis</string>
+     <string name="my_in_call_show">Moj videoposnetek</string>
      <string name="my_phone_not_provider_bluetooth">Moj telefon nima Bluetooth-a</string>
      <string name="my_phone_provider_bluetooth">Moj telefon ima Bluetooth</string>
      <string name="nameLabelsGroup">Ime</string>
      <string name="name_family">Priimek</string>
-     <string name="name_given">Dano ime</string>
+  <string name="name_given">"Ime"</string>
      <string name="name_middle">Srednje ime</string>
      <string name="name_phonetic">Fonetično ime</string>
      <string name="name_phonetic_family">Fonetični priimek</string>
-     <string name="name_phonetic_given">Fonetično dano ime</string>
+     <string name="name_phonetic_given">Fonetično ime</string>
      <string name="name_phonetic_middle">Fonetično srednje ime</string>
      <string name="name_prefix">Predpona imena</string>
      <string name="name_suffix">Pripona imena</string>
@@ -732,7 +732,7 @@ Razlog: \"%s\"</string>
      <string name="nickname_editor_title">Uredi vzdevek</string>
      <string name="nickname_picker_name_column">Ime stika</string>
      <string name="nickname_picker_nickname_column">Naslov</string>
-     <string name="noAccounts">Za ustavarjanje skupine morate imeti račun</string>
+     <string name="noAccounts">Za ustvarjanje skupine morate imeti račun</string>
      <string name="noContactHelpTextAccountsInfo" />
      <string name="noContactHelpTextImportXiaomiAccountInfo">Obnovi stike s pomočjo Mi računa</string>
      <string name="noContacts">Ni stikov</string>
@@ -746,7 +746,7 @@ Razlog: \"%s\"</string>
 
      Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD kartice</string>
      <string name="noContactsHelpTextForCreateShortcut">Nimate stikov za prikaz</string>
-  <string name="noContactsHelpTextWithSync">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo kontaktov.)
+  <string name="noContactsHelpTextWithSync">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo stikov.)
   
 Za dodajanje stikov pritisnite Meni, nato pritisnite: 
 
@@ -754,11 +754,11 @@ Za dodajanje stikov pritisnite Meni, nato pritisnite:
 
 "Opcije prikaza za spremembo vidnosti stikov" 
 
-"Nov stik za dodajanje novega stika od začetk" 
+"Nov stik za dodajanje novega stika od začetka" 
 
 "Uvozi/Izvozi za uvoz stikov iz vaše SIM ali SD kartice"
 "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo kontaktov.)"</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo stikov.)"</string>
   <string name="noContactsNoSimHelpText">"Nimate stikov za prikaz.
   
 Za dodajanje stikov tapnite "&gt;Meni", potem pa:
@@ -769,7 +769,7 @@ Za dodajanje stikov tapnite "&gt;Meni", potem pa:
 
 "Uvozi/Izvozi za uvoz stikov iz vaše SD kartice"
 "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo kontaktov.)
+  <string name="noContactsNoSimHelpTextWithSync">"Nimate stikov za prikaz. (Če ste šele dodali račun, lahko traja nekaj minut za sinhronizacijo stikov.)
 Za dodajanje stikov tapnite "Meni", potem pa:
 
 "Računi za dodajanje ali nastavljanje računa s stiki ki jih lahko sinhronizirate s telefonom"
@@ -789,7 +789,7 @@ Za dodajanje stikov v priljubljene :
 
 "Tapnite stik ki ga želite dodati" 
 
-"Klik na zvezdo poleg imena stika"
+"Kliknite na zvezdo poleg imena stika"
 </string>
      <string name="noGroups">Ni skupin</string>
      <string name="noMatchingContacts">Ni ujemajočega stika</string>
@@ -803,7 +803,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="no_contacts_dialog_message">Stiki so lahko shranjeni na vaši SIM kartici. Poskusite uvoziti stike iz vaše SIM kartice na pomnilnik vašega telefona in poskusite ponovno.</string>
      <string name="no_contacts_dialog_title">Stikov ni mogoče najti</string>
      <string name="no_contacts_selected">Izbran ni noben stik.</string>
-     <string name="no_sdcard_message">Najden ni nobena sd kartica.</string>
+     <string name="no_sdcard_message">Zunanji pomnilnik ni najden.</string>
      <string name="no_voip_contacts">Ni Mi Voice kontaktov</string>
      <string name="non_phone_add_to_contacts">Dodaj med stike</string>
      <string name="non_phone_caption">Telefonska številka</string>
@@ -823,7 +823,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="option_not_in_group">Odstrani</string>
      <string name="option_not_star">Odstrani iz priljubljenih</string>
      <string name="option_rename_group">Preimenuj</string>
-     <string name="option_send_to_desktop">Postavi na domači zaslon</string>
+     <string name="option_send_to_desktop">Postavi na začetni zaslon</string>
      <string name="option_send_to_others">Posreduj</string>
      <string name="option_view_contact">Ogled</string>
      <string name="option_view_group">Ogled</string>
@@ -837,7 +837,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="percentage">%s%%</string>
      <string name="phoneLabelsGroup">Telefon</string>
      <string name="phone_call_type_voip">Mi Voice</string>
-     <string name="phone_info_divider">|</string>
+  <string name="phone_info_divider">" ｜ "</string>
      <string name="phone_number_too_long_toast">Številka je predolga</string>
      <string name="phone_primary">Primarni</string>
      <string name="photoPickerNotFoundText">Na telefonu ni slik.</string>
@@ -858,7 +858,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="picker_postal_title">Izberi poštno številko</string>
      <string name="picker_recent_list_empty">Ni nedavnih stikov</string>
   <string name="pkgLabel">Stiki in izbira številk</string>
-     <string name="play_incall_show_entry">Predvajaj videozapis</string>
+     <string name="play_incall_show_entry">Predvajaj videoposnetek</string>
      <string name="postalLabelsGroup">Naslov</string>
      <string name="postal_address">Naslov</string>
      <string name="postal_city">Mesto</string>
@@ -876,9 +876,9 @@ Napravite varnostno kopijo stikov.</string>
      <string name="pref_key_sim_manage">SIM kartice</string>
      <string name="pref_key_sim_manage1">Nastavi SIM kartico 1</string>
      <string name="pref_key_sim_manage2">Nastavi SIM kartico 2</string>
-     <string name="pref_summary_import_from_account">Prenesi stike iz Google in Exchange računa na moj Mi račun</string>
+     <string name="pref_summary_import_from_account">Prenesi stike iz Google in Exchange računa v moj Mi račun</string>
      <string name="pref_title_account_import">Uvozi iz računa</string>
-     <string name="pref_title_import_from_account">Uvozi iz mojega Mi računa</string>
+     <string name="pref_title_import_from_account">Uvozi v moj Mi račun</string>
      <string name="preference_auto_ip_summary_disable">Onemogočeno</string>
      <string name="preference_auto_ip_summary_on">Operaterjeva IP predpona: %s</string>
      <string name="preference_auto_ip_title">Samodejna IP predpona</string>
@@ -892,7 +892,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="preference_dial_pad_touch_tone_piano">Tipke klavirja</string>
      <string name="preference_dial_pad_touch_tone_switch">Zvoki številčnice</string>
      <string name="preference_dial_pad_touch_tone_title">Zvoki številčnice</string>
-     <string name="preference_display">Zaslon</string>
+  <string name="preference_display">Prikaz</string>
      <string name="preference_displayOptions">Nastavitve zaslona</string>
      <string name="preference_export">Izvozi</string>
      <string name="preference_import">Uvozi</string>
@@ -919,7 +919,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="preference_tone_title">Zvoki</string>
      <string name="prepare_import">Uvozi stike</string>
      <string name="preview_contact_card_title">Uvažam stike...</string>
-     <string name="preview_incall_show_entry">Pregled videozapisa</string>
+     <string name="preview_incall_show_entry">Pregled videoposnetka</string>
      <string name="previous">Prejšnja</string>
      <string name="private_num">Zasebna številka</string>
      <string name="profile_display_name">Nastavi moj profil</string>
@@ -932,17 +932,17 @@ Napravite varnostno kopijo stikov.</string>
      <string name="qrcode_card_title">QR koda</string>
      <string name="quickcontact_missing_app">Ni aplikacije ki bi upravljaja to funkcijo</string>
      <string name="quit_dialog_confirm_message">"Niste dodali nobenega stika"</string>
-     <string name="quit_dialog_confirm_title">Niste še združili nobenih stikov</string>
-     <string name="readOnlyContactDeleteConfirmation">Ta stik vsebuje podatke večih računov. Podatki stikov iz računov samo za branje bodo skriti med prikazom na seznamu, ne bodo pa izbrisani.</string>
-     <string name="readOnlyContactDeleteConfirmationDetail">%s vsebuje podatke iz večih računov. Podatki stikov iz računov samo za branje bodo skriti med prikazom na seznamu, ne bodo pa izbrisani.</string>
+  <string name="quit_dialog_confirm_title">Opusti dodajanje</string>
+     <string name="readOnlyContactDeleteConfirmation">Ta stik vsebuje podatke iz večih računov. Podatki stikov iz računov samo za branje bodo skriti na seznamu, ne bodo pa izbrisani.</string>
+     <string name="readOnlyContactDeleteConfirmationDetail">%s vsebuje podatke iz večih računov. Podatki ki se ne morejo brisati bodo skriti na seznamu, ne bodo pa izbrisani.</string>
      <string name="readOnlyContactWarning">Stikov iz računov samo za branje ni mogoče izbrisati, lahko se jih samo skrije.</string>
      <string name="readingSimContacts">Berem SIM kartico...</string>
      <string name="reading_vcard_canceled_title">Branje vCard podatkov preklicano</string>
      <string name="reading_vcard_failed_title">Branje vCard podatkov ni mogoče</string>
-     <string name="rebuild_t9_index_dialog_message">Obnavljam...</string>
+     <string name="rebuild_t9_index_dialog_message">Obnavljam indeks...</string>
      <string name="recent">Nedavni</string>
      <string name="recentCallsIconLabel">Dnevnik klicev</string>
-     <string name="recentCalls_addToContact">Dodaj med stike</string>
+     <string name="recentCalls_addToContact">Dodaj obstoječemu stiku</string>
      <string name="recentCalls_callNumber">Pokliči %s</string>
      <string name="recentCalls_deleteAll">Pobriši dnevnik klicev</string>
      <string name="recentCalls_editNumberBeforeCall">Uredi številko pred klicem</string>
@@ -950,7 +950,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="recentCalls_removeFromRecentList">Odstrani iz dnevnika klicev</string>
      <string name="recentCalls_shareVoicemail">Deli glasovno pošto</string>
      <string name="recentCalls_trashVoicemail">Izbriši glasovno pošto</string>
-     <string name="recent_contacts_label">Nedavni</string>
+  <string name="recent_contacts_label">"Nedavno"</string>
      <string name="recent_number">Nedavno</string>
      <string name="recent_updates">Nedavne posodobitve</string>
      <string name="redirect_calls_to_vm_confirm_message">Pred nastavitvijo vaše glasovne pošte si preberite pravila in pogoje vašega operaterja.</string>
@@ -965,43 +965,43 @@ Napravite varnostno kopijo stikov.</string>
 
   Za začetek tapnite ikono Združi na dnu zaslona.</string>
      <string name="resource_account_abnormal_state">Napaka računa. Počakajte minuto ali dve ter poskusite ponovno.</string>
-     <string name="resource_account_fail_to_add">Računa ni mogoče dodati</string>
+     <string name="resource_account_fail_to_add">Stika ni mogoče dodati</string>
      <string name="resource_account_login">Vpis</string>
      <string name="resource_account_login_before_action">Vpiši se v Mi račun</string>
      <string name="resource_account_login_title">Vpis</string>
      <string name="resource_account_switch">Preklopi</string>
-     <string name="resource_alarm_default">Budilka</string>
-     <string name="resource_app_name">Brskalnik virov</string>
+  <string name="resource_alarm_default">Alarm</string>
+  <string name="resource_app_name">Vir brskalnika</string>
      <string name="resource_apply">Uporabi</string>
      <string name="resource_apply_trial">Poskusi zdaj</string>
      <string name="resource_buy">Kupi</string>
      <string name="resource_can_not_selected">%1$s ne more biti izbran</string>
      <string name="resource_category">Kategorija</string>
      <string name="resource_clear_search_history">Počisti zgodovino iskanja</string>
-     <string name="resource_clear_search_history_dialog">Počisti vso zgodovino iskanja?</string>
-     <string name="resource_comment_1_star">1 Zvezdica</string>
-     <string name="resource_comment_2_star">2 Zvezdici</string>
-     <string name="resource_comment_3_star">3 Zvezdice</string>
-     <string name="resource_comment_4_star">4 Zvezdice</string>
-     <string name="resource_comment_5_star">5 Zvezdice</string>
-     <string name="resource_comment_all_comments">Vse</string>
-     <string name="resource_comment_average_score">Ocene</string>
+     <string name="resource_clear_search_history_dialog">Počistim vso zgodovino iskanja?</string>
+  <string name="resource_comment_1_star">*</string>
+  <string name="resource_comment_2_star">**</string>
+  <string name="resource_comment_3_star">***</string>
+  <string name="resource_comment_4_star">****</string>
+  <string name="resource_comment_5_star">*****</string>
+  <string name="resource_comment_all_comments">Vsi komentarji</string>
+  <string name="resource_comment_average_score">Povprečna ocena</string>
      <string name="resource_comment_bad_comments">Negativni</string>
      <string name="resource_comment_current_version">Trenutna verzija</string>
      <string name="resource_comment_date">%1$02d-%2$02d</string>
-     <string name="resource_comment_edit_comment">Dodaj komentarje</string>
+  <string name="resource_comment_edit_comment">Dodaj komentar</string>
      <string name="resource_comment_edit_comment_waiting">Preverjam zgodovino uporabnika...</string>
-     <string name="resource_comment_edit_text_default">Napiši komentar</string>
+  <string name="resource_comment_edit_text_default">Dodaj komentar</string>
      <string name="resource_comment_edit_title">Uredi komentar: %1$s</string>
-     <string name="resource_comment_entry_tips">Ogled komentarjev</string>
+  <string name="resource_comment_entry_tips">Komentarji (%1$s)</string>
      <string name="resource_comment_expand_full_text">Razširi celotno besedilo▼</string>
      <string name="resource_comment_footer">Prazni komentarji niso prikazani.</string>
-     <string name="resource_comment_good_comments">Pozitivni</string>
+  <string name="resource_comment_good_comments">Pozitivni komentarji</string>
      <string name="resource_comment_invalid">Tapnite zvezdice za ocenitev teme</string>
      <string name="resource_comment_loading_list">Nalagam...</string>
      <string name="resource_comment_name_default">Uporabnik %1$s</string>
      <string name="resource_comment_no_average_score">N/A</string>
-     <string name="resource_comment_no_comment">Brez komentarja</string>
+     <string name="resource_comment_no_comment">Ni komentarjev</string>
      <string name="resource_comment_publish">Oddaj</string>
      <string name="resource_comment_rate">Ocena:</string>
      <string name="resource_comment_rating_star_tips">Tapnite zvezdice za oceno:</string>
@@ -1039,19 +1039,19 @@ Napravite varnostno kopijo stikov.</string>
      <string name="resource_downloaded_title">Prenešeni viri</string>
      <string name="resource_downloading">Prenašam</string>
      <string name="resource_exchange">Odkupi</string>
-     <string name="resource_exchange_confirm">Potrdi</string>
+  <string name="resource_exchange_confirm">V redu</string>
      <string name="resource_exchange_empty_format">Vpiši darilno kodo</string>
      <string name="resource_exchange_has_bought">To temo ste že kupili</string>
      <string name="resource_exchange_has_expired">Darilna koda je potekla</string>
      <string name="resource_exchange_has_used">Darilna koda je že bila uporabljena</string>
      <string name="resource_exchange_hint">Vpiši darilno kodo</string>
      <string name="resource_exchange_purchase_unkown_error">Zlomka! Prišlo je do napake. Pojdite na http://market.xiaomi.com za ogled statusa vašega plačila.</string>
-     <string name="resource_exchange_share_code_content">Prejeli ste darilno kodo (%2$s) za temo %1$s v MIUI trgovini tem. Tapni %3$s da jo uporabite sedaj.</string>
+     <string name="resource_exchange_share_code_content">Prejeli ste darilno kodo (%2$s) za temo %1$s v MIUI Trgovini teme. Tapni %3$s da jo uporabite sedaj.</string>
      <string name="resource_exchange_share_code_dlg_content">Darilna koda za %1$s je: %2$s. Če jo pošljete drugemu MIUI uporabniku jo lahko uporabi za prenos te teme.</string>
-     <string name="resource_exchange_share_code_dlg_title">Pošiljam</string>
+  <string name="resource_exchange_share_code_dlg_title">Pošlji kodo</string>
   <string name="resource_exchange_success">Uživajte !</string>
      <string name="resource_exchange_unavailable">Tema povezana s to darilno kodo ni na voljo.</string>
-     <string name="resource_exchange_universal_finish">Uporabite to kodo za prenos teme iz Trgovine tem.</string>
+     <string name="resource_exchange_universal_finish">Uporabite to kodo za prenos teme iz Trgovine teme.</string>
      <string name="resource_exchange_universal_goon">Ta koda se lahko uporabi za prenos katerekoli teme v trgovini.</string>
      <string name="resource_exchange_window_title">Odkupi</string>
      <string name="resource_exchange_wrong_format_by_local">Format kode ni pravilen.</string>
@@ -1060,7 +1060,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="resource_failed_to_load_list">"Ne morem prebrati teme"</string>
      <string name="resource_get_auth_checking">Preveri avtorizacijo...</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Na tem računu je že prijavljenih maksimalno število naprav</string>
-     <string name="resource_get_auth_exceed_max_limit_title">Število prijavljenih naprav v račun je preseženo</string>
+     <string name="resource_get_auth_exceed_max_limit_title">Število dovoljenih naprav v računu je preseženo</string>
      <string name="resource_get_auth_has_been_undercarriaged">Ta tema ni več dostopna.</string>
      <string name="resource_get_auth_not_official">Teme iz nepreverjenih virov niso podprte</string>
      <string name="resource_get_auth_retrieving">Pridobivam avtorizacijo...</string>
@@ -1069,7 +1069,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="resource_import_failed">Uvoz ni uspel</string>
      <string name="resource_import_successful">Prenos končan</string>
      <string name="resource_importing">Uvažam...</string>
-     <string name="resource_list_title">Nazadnje izbran</string>
+     <string name="resource_list_title">Nazadnje izbrano</string>
      <string name="resource_local">Lokalno %1$s</string>
      <string name="resource_menu_refresh">Osveži</string>
      <string name="resource_mute">Brez</string>
@@ -1079,16 +1079,16 @@ Napravite varnostno kopijo stikov.</string>
      <string name="resource_no_result">Ni mogoče najti ničesar</string>
      <string name="resource_notification_default">Obvestila</string>
      <string name="resource_on_trial">Preizkušam: %1$s</string>
-     <string name="resource_online">Povezan %1$s</string>
+  <string name="resource_online">Omrežno %1$s</string>
      <string name="resource_pack_confirm">Čeprav ste že kupili %1$d komponent v tej temi je še vedno ceneje če kupite celoten paket.</string>
-     <string name="resource_pack_discount_info">%1$s shranjen</string>
+     <string name="resource_pack_discount_info">%1$s prihranjeno</string>
      <string name="resource_pack_get_auth_has_been_undercarriaged">Ta tema ni več dostopna.</string>
   <string name="resource_pack_price_info">Originalna cena: %1$s</string>
      <string name="resource_pack_warning">Čeprav ste že kupili %1$d komponent v tej temi je še vedno dražje če kupujete posamezne komponente.</string>
      <string name="resource_present">Darilo</string>
      <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Zastonj</string>
-     <string name="resource_price_unit">Mi kredit</string>
+     <string name="resource_price_unit">Mi kreditov</string>
      <string name="resource_purchase_getting_order">Pridobivam podrobnosti naročila...</string>
      <string name="resource_purchase_verifying_payment">Preverjam podrobnosti plačila...</string>
      <string name="resource_purchase_waiting_payment">Čakam na podrobnosti plačila...</string>
@@ -1109,7 +1109,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="resource_server_alert_dialog_title">Kmalu bomo nazaj...</string>
      <string name="resource_server_out_of_service">Na žalost je naš strežnik v okvari. Prosimo, poskusite kasneje.</string>
      <string name="resource_share_subject">Deli temo: %1$s</string>
-     <string name="resource_share_text">Tukaj je tema, ki bi vam lahko bila všeč: %1$s! Link: %2$s</string>
+     <string name="resource_share_text">Tukaj je tema ki bi vam lahko bila všeč: %1$s! Povezava: %2$s</string>
      <string name="resource_share_title">Deli</string>
      <string name="resource_system_title">Sistemski viri</string>
      <string name="resource_tab_to_view">Dotaknite se za pregled.</string>
@@ -1119,7 +1119,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="resource_title_hot_subject">Popularno</string>
      <string name="resource_title_local">Lokalno</string>
      <string name="resource_title_rank">Najboljše</string>
-     <string name="resource_title_select_ringtone">Izberi ton</string>
+     <string name="resource_title_select_ringtone">Izberi ton zvonjenja</string>
      <string name="resource_title_subject">Poudarjeno</string>
      <string name="resource_trial_end_message">Poskusna doba %1$s je potekla. Če želite lahko to temo kupite.</string>
      <string name="resource_trial_end_purchase">Nakup</string>
@@ -1164,7 +1164,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="select_photo_from_photo_package">Izberi sliko iz paketa slik</string>
      <string name="select_show_contacts">Seznam stikov</string>
      <string name="select_vcard_title">Izberi vCard datoteko</string>
-     <string name="send_contact_shortcut_todesktop_success">Dodano na domači zaslon</string>
+     <string name="send_contact_shortcut_todesktop_success">Dodano na začetni zaslon</string>
      <string name="send_to_voicemail_checkbox">Pošlji klice direktno na glasovno pošto</string>
      <string name="separatorJoinAggregateAll">Vsi stiki</string>
      <string name="separatorJoinAggregateSuggestions">Predlagani stiki</string>
@@ -1185,7 +1185,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="simContacts_emptyLoading">Nalagam stike s SIM kartice...</string>
      <string name="simContacts_title">Stiki SIM kartice</string>
      <string name="sim_account_name">SIM</string>
-     <string name="sim_capacity">Ogled velikosti SIM kartice</string>
+  <string name="sim_capacity">Prikaži prostor SIM kartice</string>
   <string name="sim_capacity_content" formatted="false">Skupaj %d | Izkoriščeno %d</string>
      <string name="sim_card_no_free_space_message">Ni dovolj prostora</string>
      <string name="sim_card_no_free_space_title">SIM kartica je polna</string>
@@ -1226,12 +1226,12 @@ Napravite varnostno kopijo stikov.</string>
      <string name="sms_callback">Povratno SMS sporočilo</string>
      <string name="sms_car">Pošlji sporočilo avtu</string>
      <string name="sms_company_main">Pošlji sporočilo podjetju</string>
-     <string name="sms_custom">Sporočilo %s</string>
+     <string name="sms_custom">Sporočilo za %s</string>
      <string name="sms_disambig_title">Izberi številko</string>
      <string name="sms_fax_home">Pošlji sporočilo domačemu faksu</string>
      <string name="sms_fax_work">Pošlji sporočilo službenemu faksu</string>
      <string name="sms_home">Pošlji sporočilo domov</string>
-     <string name="sms_isdn">Pošlji sporočilo ISDN</string>
+     <string name="sms_isdn">Pošlji sporočilo na ISDN</string>
      <string name="sms_main">Pošlji sporočilo glavnemu</string>
      <string name="sms_mms">Pošlji sporočilo MMS</string>
      <string name="sms_mobile">Pošlji sporočilo telefonu</string>
@@ -1249,7 +1249,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="solar_calendar">Sončni koledar</string>
      <string name="splitConfirmation">Ta stik bo razdeljen v več stikov.</string>
      <string name="splitConfirmation_title">Razdelim stik?</string>
-     <string name="starredList">Ogledan</string>
+  <string name="starredList">"Z zvezdo"</string>
      <string name="starred_contacts">Priljubljen</string>
      <string name="status_available">Na voljo</string>
      <string name="status_away">Proč</string>
@@ -1322,7 +1322,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="voicemail_speed_faster">Hitro</string>
      <string name="voicemail_speed_fastest">Hitreje</string>
      <string name="voicemail_speed_normal">Normalno</string>
-     <string name="voicemail_speed_slower">Počasni</string>
+     <string name="voicemail_speed_slower">Počasi</string>
      <string name="voicemail_speed_slowest">Počasneje</string>
      <string name="voicemail_status_action_call_server">Pokliči glasovni predal</string>
      <string name="voicemail_status_action_configure">Nastavi</string>
@@ -1330,7 +1330,7 @@ Napravite varnostno kopijo stikov.</string>
      <string name="voicemail_status_configure_voicemail">Nastavite si glasovno pošto.</string>
      <string name="voicemail_status_messages_waiting">Ni se možno povezati s strežnikom glasovne pošte. Nova glasovna sporočila čakajo.</string>
      <string name="voicemail_status_voicemail_not_available">Ni se možno povezati s strežnikom glasovne pošte.</string>
-     <string name="voip_audio_description">Dotaknite se za pošiljanje glasovnega sporočila</string>
+  <string name="voip_audio_description">VoIP klic</string>
      <string name="voip_contact_label">Mi Voice</string>
      <string name="voip_contacts_entry">Mi Voice</string>
      <string name="voip_contacts_entry_header">Mi Sporočilo in Voice</string>
