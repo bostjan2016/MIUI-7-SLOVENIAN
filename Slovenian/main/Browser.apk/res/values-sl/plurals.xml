@@ -21,12 +21,12 @@
        <item quantity="one">%d postavka blokirana</item>
     </plurals>    
 	<plurals name="video_download_clear_prompt">
-        <item quantity="other">Izbrišem %1$d videozapisov?</item>
-        <item quantity="one">Izbrišem %1$d videozapis?</item>
+        <item quantity="other">Izbrišem %1$d videoposnetkov?</item>
+        <item quantity="one">Izbrišem %1$d videoposnetek?</item>
     </plurals>
     <plurals name="video_download_clear_info">
-        <item quantity="other">Uspešno odstranjeno %1$d videozapisov.</item>
-        <item quantity="one">Uspešno odstranjen %1$d videozapis.</item>
+        <item quantity="other">Uspešno odstranjeno %1$d videoposnetkov.</item>
+        <item quantity="one">Uspešno odstranjen %1$d videoposnetek.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">Izbrišem %1$d postavk iz zgodovine?</item>

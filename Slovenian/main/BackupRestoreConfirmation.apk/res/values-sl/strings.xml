@@ -2,7 +2,7 @@
 <resources>
   <string name="allow_backup_button_label">Varnostno kopiraj moje podatke</string>
   <string name="allow_restore_button_label">Obnovi moje podatke</string>
-  <string name="backup_confirm_text">"Zahtevano je popolno varnostno kopiranje vseh podatkov v povezanem računalniku. Ali želite to dovoliti?
+  <string name="backup_confirm_text">"Zahtevano je popolno varnostno kopiranje vseh podatkov v povezani računalnik. Ali želite to dovoliti?
 Če varnostnega kopiranja niste zahtevali ne dovolite nadaljevanja postopka."</string>
   <string name="backup_confirm_title">Popolna varnostna kopija</string>
   <string name="backup_enc_password_optional">Če želite šifrirati vse varnostno kopirane podatke vnesite geslo:</string>

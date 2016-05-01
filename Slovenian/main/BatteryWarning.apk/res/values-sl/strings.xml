@@ -12,6 +12,6 @@
   <string name="title_battery_over_temperature">Previsoka temperatura baterije</string>
   <string name="title_battery_over_voltage">Previsoka napetost baterije</string>
   <string name="title_charger_over_voltage">Previsoka napetost polnilca</string>
-  <string name="title_over_current_protection">Zaščita od previsokega toka</string>
+  <string name="title_over_current_protection">Zaščita od premočnega toka</string>
   <string name="title_safety_timer_timeout">Prevelik čas polnjenja</string>
 </resources>
