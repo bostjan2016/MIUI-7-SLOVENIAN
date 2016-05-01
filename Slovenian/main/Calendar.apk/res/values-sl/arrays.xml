@@ -87,7 +87,7 @@
         <item>20160</item>
     </string-array>
     <string-array name="preferences_week_start_day_labels">
-        <item>Zadnja oznaka države</item>
+        <item>Privzeta oznaka države</item>
         <item>Sob</item>
         <item>Ned</item>
         <item>Pon</item>

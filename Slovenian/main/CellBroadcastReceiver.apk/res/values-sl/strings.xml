@@ -10,11 +10,11 @@
   <string name="button_dismiss">V redu</string>
   <string name="category_brazil_settings_title">Nastavitve za Brazilijo</string>
   <string name="category_dev_settings_title">Možnosti za razvijalce</string>
-  <string name="category_etws_settings_title">Nastavitve ETWS</string>
+  <string name="category_etws_settings_title">Nastavitve za ETWS</string>
   <string name="category_india_settings_title">Nastavitev za Indijo</string>
   <string name="cb_other_message_identifiers">Oddaje v celici</string>
   <string name="cell_broadcast_settings_not_available">Nastavitve sporočil o trenutni lokaciji niso na voljo za tega uporabnika</string>
-  <string name="cmas_amber_alert">Ugrabitev otroka (oranžno opozorilo)</string>
+  <string name="cmas_amber_alert">Ugrabitev otroka (amber opozorilo)</string>
   <string name="cmas_category_cbrne">Kemična/biološka/jedrska/eksplozija</string>
   <string name="cmas_category_env">Okoljska</string>
   <string name="cmas_category_fire">Požar</string>
@@ -27,7 +27,7 @@
   <string name="cmas_category_rescue">Reševanje</string>
   <string name="cmas_category_safety">Varnost</string>
   <string name="cmas_category_security">Varovanje</string>
-  <string name="cmas_category_transport">Prevoz</string>
+  <string name="cmas_category_transport">Promet</string>
   <string name="cmas_certainty_heading">Zanesljivost:</string>
   <string name="cmas_certainty_likely">Verjetno</string>
   <string name="cmas_certainty_observed">Zaznano</string>
@@ -93,7 +93,7 @@
   <string name="notification_multiple">Št. neprebranih opozoril: %s.</string>
   <string name="notification_multiple_title">Nova opozorila</string>
   <string name="pws_other_message_identifiers">Opozorilo v sili</string>
-  <string name="show_cmas_opt_out_summary">Po prikazu prvega opozorila CMAS (ki ni za predsednika) pokaži pogovorno okno za onemogočenje.</string>
+  <string name="show_cmas_opt_out_summary">Po prikazu prvega opozorila CMAS (razen predsedniškega) pokaži pogovorno okno za onemogočenje.</string>
   <string name="show_cmas_opt_out_title">Pokaži pogovorno okno za onemogočenje</string>
   <string name="sms_cb_settings">Nastavitve oddaje v celici</string>
   <string name="view_details_title">Podrobnosti opozorila</string>

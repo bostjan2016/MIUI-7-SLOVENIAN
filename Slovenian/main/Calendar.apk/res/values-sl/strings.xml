@@ -276,7 +276,7 @@
   <string name="network_not_available">"Ne morem se povezati na omrežje"</string>
   <string name="new_event_dialog_label">Nov dogodek</string>
   <string name="new_event_dialog_option">Nov dogodek</string>
-  <string name="no_calendars_found">Preden lahko dodate dogodek morate dodati vsaj en Koledar račun vaši napravi. Tapni Dodaj račun za dodajanje računa (če ste to že naredili, počakajte da se sinhronizira do konca in nato poskusite znova). Ali pa tapnite Prekliči in omogočite da je viden vsaj en koledar.</string>
+  <string name="no_calendars_found">Preden lahko dodate dogodek morate dodati vsaj en Koledar račun vaši napravi. Tapni Dodaj račun za dodajanje računa (če ste to že naredili počakajte da se sinhronizira do konca in nato poskusite znova). Ali pa tapnite Prekliči in omogočite da je viden vsaj en koledar.</string>
   <string name="no_local_calendar">Ni koledarja :)</string>
   <string name="no_network">Ni omrežja :)</string>
   <string name="no_network_btn">Poskusite ponovno</string>
