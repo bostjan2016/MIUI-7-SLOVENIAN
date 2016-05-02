@@ -25,7 +25,7 @@
   <string name="alert_enable">Vključeno</string>
   <string name="alert_list_title">Obvestila Mi Fita</string>
   <string name="alert_msg_unable_start_camera">"Dovolite uporabo kamere če ste jo omejili.
-Če niste, ponovno zaženite telefon."</string>
+Če niste ponovno zaženite telefon."</string>
   <string name="alert_title_unable_start_camera">"Ne morem dostopati do kamere"</string>
   <string name="am">AM</string>
   <string name="ampm_format">hh:mm a</string>
@@ -136,7 +136,7 @@ znova dodajte WeChat"</string>
   <string name="bind_weixin_new_tips_not_bound">"Zastareli podatki v WeChat?
 Poskusite sinhronizirati na začetni strani."</string>
   <string name="bind_weixin_now">Izdelava QR kode……</string>
-  <string name="bind_weixin_tips_1">Pritisnite Izdelaj QR kodo» za shranjevanje QR kode v Galerijo</string>
+  <string name="bind_weixin_tips_1">Pritisnite "Izdelaj QR kodo" za shranjevanje QR kode v Galerijo</string>
   <string name="bind_weixin_tips_2">Skeniraj QR kodo iz Galerije z WeChat</string>
   <string name="bind_weixin_title">Zabavajte se s svojimi WeChat prijatelji</string>
   <string name="birthday">Datum rojstva</string>
@@ -201,13 +201,13 @@ Naslov: %2$s"</string>
   <string name="choose_weight_manual">Izberite težo</string>
   <string name="clear_weight_goal">Izbriši cilj</string>
   <string name="click_to_bind_device">Pritisnite za seznannitev naprave</string>
-  <string name="click_to_measure_heartrate">Pritisnite za merenje števila utripov srca</string>
+  <string name="click_to_measure_heartrate">Pritisnite za merjenje števila utripov srca</string>
   <string name="click_tolook_for_help">Pritisnite za pomoč</string>
   <string name="close_hr_check">Število utripov srca je izključeno</string>
   <string name="cm">cm</string>
   <string name="common_google_play_services_api_unavailable_text">%1$s zahteva eno ali več storitev Google Play ki trenutno niso dostopne. Za pomoč se obrnite na razvojnega programerja.</string>
   <string name="common_google_play_services_enable_button">Omogoči storitve Google Play</string>
-  <string name="common_google_play_services_enable_text">%1$s nebo deloval če ne omogočite storitve Google Play.</string>
+  <string name="common_google_play_services_enable_text">%1$s ne bo deloval če ne omogočite storitve Google Play.</string>
   <string name="common_google_play_services_enable_title">Omogočanje storitve Google Play</string>
   <string name="common_google_play_services_install_button">Prenesi storitev Google Play</string>
   <string name="common_google_play_services_install_text_phone">%1$s ne deluje brez storitve Google Play ki niso nameščene na vašem telefonu.</string>
@@ -218,7 +218,7 @@ Naslov: %2$s"</string>
   <string name="common_google_play_services_network_error_text">Potrebna je podatkovna povezava za storitve Google Play.</string>
   <string name="common_google_play_services_network_error_title">Omrežna napaka</string>
   <string name="common_google_play_services_notification_ticker">Napaka storitve Google Play</string>
-  <string name="common_google_play_services_restricted_profile_text">Dostop do računov iz omejenega profila ni dovoljeno.</string>
+  <string name="common_google_play_services_restricted_profile_text">Dostop do računov iz omejenega profila ni dovoljen.</string>
   <string name="common_google_play_services_restricted_profile_title">Omeji profil</string>
   <string name="common_google_play_services_sign_in_failed_text">Napaka pri prijavi na navedeni račun. Izberite drug račun.</string>
   <string name="common_google_play_services_sign_in_failed_title">Prijava ni uspela</string>
@@ -228,7 +228,7 @@ Naslov: %2$s"</string>
   <string name="common_google_play_services_update_button">Posodobi</string>
   <string name="common_google_play_services_update_text">%1$s ne bo deloval če ne posodobite storitev Google Play.</string>
   <string name="common_google_play_services_update_title">Posodobitev storitve Google Play</string>
-  <string name="common_google_play_services_updating_text">%1$s se ne bo zagnal brez storitve Google Play ki se posodabljajo.</string>
+  <string name="common_google_play_services_updating_text">%1$s se ne bo zagnal brez storitev Google Play ki se posodabljajo.</string>
   <string name="common_google_play_services_updating_title">Posodabljanje storitev Google Play se izvaja</string>
   <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija storitev Google Play. Kmalu se bo posodobila.</string>
   <string name="common_open_on_phone">Odpri na telefonu</string>
@@ -249,10 +249,10 @@ Naslov: %2$s"</string>
   <string name="cube_ptr_last_update">zadnja posodobitev: </string>
   <string name="cube_ptr_minutes_ago"> pred min.</string>
   <string name="cube_ptr_pull_down">Povleci navzdol</string>
-  <string name="cube_ptr_pull_down_to_refresh">Povleci navzdol za Osvežitev</string>
+  <string name="cube_ptr_pull_down_to_refresh">Povleci navzdol za osvežitev</string>
   <string name="cube_ptr_refresh_complete">Posodobljeno.</string>
   <string name="cube_ptr_refreshing">Posodabljam…</string>
-  <string name="cube_ptr_release_to_refresh">Spusti za Osvežitev</string>
+  <string name="cube_ptr_release_to_refresh">Spusti za osvežitev</string>
   <string name="cube_ptr_seconds_ago"> pred sek.</string>
   <string name="customize">Po meri</string>
   <string name="data_loading">Samo trenutek…</string>
@@ -297,7 +297,7 @@ Naslov: %2$s"</string>
   <string name="device_unbind_confirm">Prekličem seznanitev %s?</string>
   <string name="device_unbind_continue">Prekliči seznanitev</string>
   <string name="device_unbind_failed">"Ne morem preklicati seznanitev"</string>
-  <string name="device_unbind_success">Ni seznanjen</string>
+  <string name="device_unbind_success">Ni seznanjeno</string>
   <string name="device_unbind_sync_failed_confirm">"Ne morem sinhr. %s, nesinhronizirani podatki se lahko izgubijo. Vseeno nadaljujem?"</string>
   <string name="device_unbinding">Prekinitev seznanjanja…</string>
   <string name="dialog_confirm">Razumem</string>
@@ -316,8 +316,8 @@ Naslov: %2$s"</string>
   <string name="email_alert">E-pošta</string>
   <string name="empty_value">--</string>
   <string name="enable_app_alert">Vključi obvestila aplikacij</string>
-  <string name="enable_broadcast">Vključi način dela otkrivanja</string>
-  <string name="enable_id_broadcast_comments">Vključite da je vidljiv napravam v bližini in da se lahko poveže z njimi</string>
+  <string name="enable_broadcast">Vključi način dela odkrivanja</string>
+  <string name="enable_id_broadcast_comments">Vključite vidljivost napravam v bližini in da se lahko poveže z njimi</string>
   <string name="enable_id_broadcast_query">Vključim način dela odkrivanja?</string>
   <string name="enable_id_broadcast_query_msg">Izključitev te funkcije lahko malo zmanjša trajanje baterije</string>
   <string name="enable_id_broadcast_tips">Vključite da bo viden napravam v bližini</string>
@@ -335,7 +335,7 @@ Naslov: %2$s"</string>
   <string name="every_week">Vsak teden</string>
   <string name="exit">Odjava</string>
   <string name="exit_app">Odjava</string>
-  <string name="family_info_key_nickname">Nadimek</string>
+  <string name="family_info_key_nickname">Vzdevek</string>
   <string name="family_manager">Upravljaj s člani</string>
   <string name="family_member">Družinski člani</string>
   <string name="feedback_abandon">Zavrni</string>
@@ -349,10 +349,10 @@ Naslov: %2$s"</string>
   <string name="feedback_detail_problem">Podrobnosti o težavi</string>
   <string name="feedback_empty">Vpišite pov. informacijo v zgornje polje</string>
   <string name="feedback_failed">"Ne morem poslati pov. informacije, poskusite ponovno"</string>
-  <string name="feedback_input_correct_contact_info">Vaš broj telefona</string>
+  <string name="feedback_input_correct_contact_info">Vaša številka telefona</string>
   <string name="feedback_knew">Razumem</string>
   <string name="feedback_ok">Pov. informacija je poslana</string>
-  <string name="feedback_submit_failed">"Ne morem poslati Pov. informacijo, preverite omrežje in poskusite ponovno"</string>
+  <string name="feedback_submit_failed">"Ne morem poslati Pov. informacije, preverite omrežje in poskusite ponovno"</string>
   <string name="feedback_submit_logfile_failed">"Ne morem poslati zapisa"</string>
   <string name="feedback_submit_success">Pov. informacija je poslana</string>
   <string name="feedback_title">Pov. informacija</string>
@@ -371,7 +371,7 @@ Naslov: %2$s"</string>
   <string name="friend_new_user_guide_ok_toast">Dodan prijatelj</string>
   <string name="friend_running_btn_confirm">V redu</string>
   <string name="friend_running_btn_continue">Prekini</string>
-  <string name="friend_set_nick_name_failed">"Ne morem nastaviti nadimek"</string>
+  <string name="friend_set_nick_name_failed">"Ne morem nastaviti vzdevka"</string>
   <string name="friend_unfollow_confirm_body">"Ne boste imeli možnosti videti aktivnosti in podrobnosti te osobe.
 Vseeno nadaljujem?"</string>
   <string name="friend_unfollow_confirm_no">Ne</string>
@@ -414,8 +414,8 @@ Vseeno nadaljujem?"</string>
   <string name="help">Pritisnite za pomoč</string>
   <string name="help_info_0">Mi Band je povezan s telefonom preko Bluetootha. Bližje je naprava, lažje je najti Mi Band.</string>
   <string name="help_info_1">"Če telefon ne najde Mi Band tudi ko je blizu je mogoče baterija Mi Banda prazna. Napolnite baterijo in poskusite ponovno."</string>
-  <string name="help_info_2">"Če je baterija polna telefon pa še vedno ne najde\u0009, poskusite izkl/vkl. Bluetooth."</string>
-  <string name="help_info_3">Če je vaš Mi Band seznanjen z drugim telefonom v bližini, izključite Bluetooth na tistem telefonu, nato pa poiščite Mi Band na tej napravi.</string>
+  <string name="help_info_2">"Če je baterija polna, telefon pa še vedno ne najde\u0009, poskusite izkl/vkl. Bluetooth."</string>
+  <string name="help_info_3">Če je vaš Mi Band seznanjen z drugim telefonom v bližini izključite Bluetooth na tistem telefonu, nato pa poiščite Mi Band na tej napravi.</string>
   <string name="help_info_4">Zaženite Mi Fit po tem ko ponovno zaženete vaš telefon</string>
   <string name="help_title_0">Ali je vaš Mi Band predaleč?</string>
   <string name="help_title_1">"Preverite baterijo Mi Banda"</string>
@@ -458,19 +458,19 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="hr_tips12" formatted="false">"Idealno število utripov srca med vadbo:
 60%-80% od maksim. števila utripov srca (220-starost)"</string>
   <string name="hr_tips2">Povežite Mi Band Pulse da zmerite število utripov srca.</string>
-  <string name="hr_tips3">Na primer: Marko ima 20 let, njegovo idealano število utripov srca med vadbo je 120-160 bpm (60%-80% od 200=220-20).</string>
+  <string name="hr_tips3">Na primer: Marko ima 20 let, njegovo idealano število utripov srca med vadbo je 120-160 utr/min (60%-80% od 200=220-20).</string>
   <string name="hr_tips_180">180 korakov/min</string>
   <string name="hr_tips_age">Leta</string>
   <string name="hr_tips_arrange">Idealno število utripov srca med vadbo (BPM)</string>
   <string name="hr_unit">BPM</string>
   <string name="hr_unit_label">Število utripov srca (BPM)</string>
   <string name="id_broadcast">Vidljiv</string>
-  <string name="id_broadcast_not_bound">Seznanite Mi Band za vklop načina dela otkrivanja</string>
+  <string name="id_broadcast_not_bound">Seznanite Mi Band za vklop načina dela odkrivanja</string>
   <string name="idbroadcast_logo_tips">Vključite da bo vidljiv napravam v bližini</string>
   <string name="identify">Vidljiv</string>
   <string name="identify_broadcast">Vidljiv</string>
   <string name="incoming_call_alert">Dohodni klici</string>
-  <string name="incoming_call_alert_logo_tips">Imejte Mi Band povezan s telefonom preko Bluetooth</string>
+  <string name="incoming_call_alert_logo_tips">Imejte Mi Band povezan s telefonom preko Bluetootha</string>
   <string name="incoming_call_alert_tips">"Obvesti če se ne javim v %ss"</string>
   <string name="incoming_call_delay_alert_tips">Zavibriraj %s sek. po prvem zvonenju</string>
   <string name="incoming_call_delay_dialog_alert_tips">Obvesti me %s sek. po prvem zvonenju</string>
@@ -478,7 +478,7 @@ Imejte Bluetooth vključen dokler tečete."</string>
   <string name="incoming_call_whitelist_tips">"Če uporabljate pomočnika telefona,"</string>
   <string name="incoming_call_whitelist_tips1">dodajte Mi Fit v izjeme</string>
   <string name="input_family_member_name">"Vnesite ime"</string>
-  <string name="input_person_name">Izmisli si cool nadimek zase</string>
+  <string name="input_person_name">Izmisli si cool vzdevek zase</string>
   <string name="input_precise_person_info">Vnesite resnične podatke da dobite koristne nasvete in točne podatke</string>
   <string name="input_precise_user_info">Mi Fit uporablja te informacije za izračunavanje statistike in nudenje nasvetov</string>
   <string name="install_google_fit_tips">Namestite najprej Google Fit</string>
@@ -504,8 +504,8 @@ napolnite svojo napravo"</string>
 čvrsto na sredino tehtnice"</string>
   <string name="instruction_weight_page6_t3">Postavite na ravno površino</string>
   <string name="instruction_weight_tips1_1">Vašo Mi Tehtnico lahko seznanite z več napravami</string>
-  <string name="instruction_weight_tips1_2">Po seznanitvi naprave, bo Mi Tehtnica samodejno sinhronizirala vašo zgodovino</string>
-  <string name="instruction_weight_tips1_3">Izberite enoto teže, ki se bo uporabljala za izračun vaše teže</string>
+  <string name="instruction_weight_tips1_2">Po seznanitvi naprave bo Mi Tehtnica samodejno sinhronizirala vašo zgodovino</string>
+  <string name="instruction_weight_tips1_3">Izberite enoto teže ki se bo uporabljala za izračun vaše teže</string>
   <string name="instruction_weight_tips1_4">"Ko je potrebno zamenjati baterijo vaše Mi Tehtnice se bo spodaj pokazal simbol."</string>
   <string name="instruction_weight_tips1_5">"Ko LED utripa kot na spodnjem obrazcu je presežena maksimalna teža za Mi Tehtnico."</string>
   <string name="instruction_weight_tips1_6">Postavite Mi Tehtnico na suho površino</string>
@@ -553,7 +553,7 @@ napolnite svojo napravo"</string>
   <string name="label_no_update">"še ni posodobljen"</string>
   <string name="label_preparing_share_image">Samo trenutek…</string>
   <string name="label_pull_to_load">Povlecite navzgor za več</string>
-  <string name="label_pull_to_refresh">Povlecite navzdol za Osveži</string>
+  <string name="label_pull_to_refresh">Povlecite navzdol za osvežitev</string>
   <string name="label_qrcode_error">"Ne morem prebrati QR kode"</string>
   <string name="label_refreshing">Osvežujem…</string>
   <string name="label_refuse">Zavrni</string>
@@ -600,7 +600,7 @@ napolnite svojo napravo"</string>
   <string name="lock_screen_first_step">Nastavite odklepanje zaslona</string>
   <string name="lock_screen_second_step">Nastavite Bluetooth odklepanje</string>
   <string name="login">Prijavite se</string>
-  <string name="login_failed">"Ne morem  se prijaviti, poskusite ponovno"</string>
+  <string name="login_failed">"Ne morem se prijaviti, poskusite ponovno"</string>
   <string name="login_success">Prijavljeno</string>
   <string name="logining">Prijava…</string>
   <string name="logout">Odjavite se</string>
@@ -624,7 +624,7 @@ napolnite svojo napravo"</string>
   <string name="love_fail">"Ne morem dregniti"</string>
   <string name="love_success">Dregnjeno</string>
   <string name="main_over_max_range_weight">"Teža je večja od
-raspona merjenja (%s)"</string>
+razpona merjenja (%s)"</string>
   <string name="male">Moški</string>
   <string name="max_five">Lahko dodate do 5 aplikacij</string>
   <string name="max_hr">Maks. število utripov srca</string>
@@ -634,7 +634,7 @@ raspona merjenja (%s)"</string>
   <string name="measure_heart_rate_title">"Pritrdite Mi Band in se ne premikajte"</string>
   <string name="measure_tips">Pritisnite za pomoč</string>
   <string name="measuring">Merjenje…</string>
-  <string name="message_title_care">Spremljanje osobe</string>
+  <string name="message_title_care">Spremljanje osebe</string>
   <string name="message_title_friend">Sporočila</string>
   <string name="mi_band">Mi Band</string>
   <string name="mi_band_alarm">Alarm</string>
@@ -707,12 +707,12 @@ raspona merjenja (%s)"</string>
   <string name="mine_sport_goal">%s korakov</string>
   <string name="mine_status_notify">Obvestila Statusa</string>
   <string name="mine_step_unit">" kor."</string>
-  <string name="modify_family_nickname">Uredi nadimek</string>
-  <string name="modify_family_nickname_hint">Vnesi nadimek</string>
+  <string name="modify_family_nickname">Uredi vzdevek</string>
+  <string name="modify_family_nickname_hint">Vnesi vzdevek</string>
   <string name="modify_gender">Spol</string>
   <string name="modify_height">Višina</string>
-  <string name="modify_nickname">Uredi nadimek</string>
-  <string name="modify_nickname_hint">Vnesi nadimek</string>
+  <string name="modify_nickname">Uredi vzdevek</string>
+  <string name="modify_nickname_hint">Vnesi vzdevek</string>
   <string name="modify_weight">Teža</string>
   <string name="monday">Ponedeljek</string>
   <string name="monday_to_friday">Pon- Pet</string>
@@ -725,20 +725,20 @@ raspona merjenja (%s)"</string>
   <string name="mutex_login_logout">Odjavi se</string>
   <string name="mutex_login_relogin">Prijavite se zopet</string>
   <string name="mutex_login_title">Offline obvestila</string>
-  <string name="name">Nadimek</string>
+  <string name="name">Vzdevek</string>
   <string name="network_error">Najprej se povežite na omrežje</string>
   <string name="never_reminder">"Ne prikazuj ponovno"</string>
   <string name="new_user">Nov profil</string>
   <string name="next_step">Nazaj</string>
   <string name="no_bind_canot_analy">"Ne morem analizirati spanja dokler Mi Band ni seznanjen"</string>
   <string name="no_bmi_for_age">"Ne morem izračunati BMI za osebe mlajše od 7 let"</string>
-  <string name="no_bmi_for_height">"Ne morem izračunati BMI za ljudi nižje od 100cm"</string>
+  <string name="no_bmi_for_height">"Ne morem izračunati BMI za ljudi nižje od 100 cm"</string>
   <string name="no_bmi_for_not_adult">"Ne morem izračunati BMI za osobe mlajše od 18 let"</string>
   <string name="no_device_bind">Ni seznanjenih naprav</string>
   <string name="no_measure">"Število utripov srca ni izmerjeno"</string>
   <string name="no_network">Povežite se na omrežje</string>
   <string name="no_network_connection">"Ne morem se povezati na omrežje"</string>
-  <string name="no_network_connection_retry">Pritisnite za Osveži</string>
+  <string name="no_network_connection_retry">Pritisnite za osveži</string>
   <string name="no_sleep_data">Ni podatkov spanja</string>
   <string name="no_tip">&lt;u&gt;"Ne prikazuj ponovno"&lt;/u&gt;</string>
   <string name="not_connect_network">Niste povezani z omrežjem</string>
@@ -779,7 +779,7 @@ raspona merjenja (%s)"</string>
   <string name="person_info_key_gender">Spol</string>
   <string name="person_info_key_height">Višina</string>
   <string name="person_info_key_height_unit_metric">%s cm</string>
-  <string name="person_info_key_nickname">Nadimek</string>
+  <string name="person_info_key_nickname">Vzdevek</string>
   <string name="person_info_key_weight">Teža</string>
   <string name="person_info_set_gender_female">Ženska</string>
   <string name="person_info_set_gender_male">Moški</string>
@@ -815,7 +815,7 @@ raspona merjenja (%s)"</string>
   <string name="pull_to_refresh_tip">Povleci navzdol za Osvežitev</string>
   <string name="query_weixin_btn_text">Prikaži WeChats</string>
   <string name="quite_heart_rate">Odmor</string>
-  <string name="quite_heart_rate_tip">Število utripov srca v mirovanju običajno niha med 60 in 100 BPM</string>
+  <string name="quite_heart_rate_tip">Število utripov srca v mirovanju običajno niha med 60 in 100 utr/min</string>
   <string name="radio_day">D</string>
   <string name="radio_month">M</string>
   <string name="radio_week">T</string>
@@ -848,7 +848,7 @@ raspona merjenja (%s)"</string>
   <string name="running_auto_pause">Premor</string>
   <string name="running_auto_pause_desc">Zaustavi samodejno ko je opravilo prekinjeno</string>
   <string name="running_average_speed">Povprečna hitrost</string>
-  <string name="running_backgroud_notification">Tečite… Nadaljujte tako!</string>
+  <string name="running_backgroud_notification">Tecite… Nadaljujte tako!</string>
   <string name="running_bracelet_not_connect">"Mi Band ni povezan!"</string>
   <string name="running_btn_confirm">Da</string>
   <string name="running_btn_continue">Nazaj</string>
@@ -889,7 +889,7 @@ raspona merjenja (%s)"</string>
   <string name="running_end_time">Končano ob</string>
   <string name="running_failed_to_get_history_neterror">Slab signal omrežja</string>
   <string name="running_gallery">Galerija</string>
-  <string name="running_get_history_no_more_data">Ni podataka</string>
+  <string name="running_get_history_no_more_data">Ni podatkov</string>
   <string name="running_gps_cancel">Prekini</string>
   <string name="running_gps_locating">GPS položaj…</string>
   <string name="running_gps_main_continue_btn_text">Nadaljuj</string>
@@ -901,32 +901,32 @@ raspona merjenja (%s)"</string>
   <string name="running_gps_poor_signal">Za nadaljevanje pojdite na mesto z boljšim sprejemom GPS signala .</string>
   <string name="running_gps_turnon">Vključi</string>
   <string name="running_help">Pomoč</string>
-  <string name="running_help_foot_people">Kdo ne more poskusiti stopati na prste pri teku?</string>
+  <string name="running_help_foot_people">Kdo ne more stopati na sprednji del stopala pri teku?</string>
   <string name="running_help_foot_suggest1">Držite se svoje navade pri teku</string>
-  <string name="running_help_foot_suggest2">"Ne priporočamo spremembo navade pri teku. če se odločite na stopanje na sredniji del stopala in na peto, nosite superge z boljšim podplatom da ublažite udarec."</string>
+  <string name="running_help_foot_suggest2">"Ne priporočamo spremembo navad pri teku. Če se odločite na stopanje na sprednji del stopala in na peto, nosite superge z boljšim podplatom da ublažite udarec."</string>
   <string name="running_help_foot_suggest3">Ko vaša kolena zahtevajo več zaščite, lahko poskusite stopati na prste na spodnji način.</string>
   <string name="running_help_foot_suggest4">Poskusite teči takole</string>
   <string name="running_help_foot_suggest5">Stopajte na tla takoj pred vami, kolena imejte rahlo pokrčena, telo nagnite naprej.</string>
-  <string name="running_help_foot_suggest6">Tečite kot da obračate kolo s svojimi stopali.</string>
-  <string name="running_help_foot_suggest7">Delajte majnše korake ko povečujete hitrost teka.</string>
+  <string name="running_help_foot_suggest6">Tecite kot da obračate kolo s svojimi stopali.</string>
+  <string name="running_help_foot_suggest7">Delajte manjše korake ko povečujete hitrost teka.</string>
   <string name="running_help_foot_suggest8">Povežite superge in poskrbite da stopate na prste.</string>
   <string name="running_help_foot_suggest9">"Vključite Bluetooth in povežite superge pred pričetkom teka.
-Imejte Bluetooth Vključen dokler tečete."</string>
+Imejte Bluetooth vključen dokler tečete."</string>
   <string name="running_help_pace_freq">Tempo</string>
   <string name="running_help_pace_freq_illustra">Tempo je število korakov ki jih napravite v minuti teka.</string>
   <string name="running_help_pace_freq_label">"Kaj je tempo?"</string>
   <string name="running_help_pace_freq_suggest1">Doseganje hitrosti</string>
   <string name="running_help_pace_freq_suggest2">Tekači običajno podaljšajo svoj korak da povečajo hitrost. Toda na ta način lahko pride do poškodb mišic. Lahko poskusite povečati svoj tempo da povečate hitrost.</string>
   <string name="running_help_pace_freq_suggest3">Maratonci običajno naredijo 180 korakov v minuti. Priporočamo vam da uporabite to vrednost kot cilj vašega tempa.</string>
-  <string name="running_help_pace_freq_suggest4">Povežite Mi Band, preverite ali je vaš tempo odkriven.</string>
+  <string name="running_help_pace_freq_suggest4">Povežite Mi Band, preverite ali je vaš tempo najden.</string>
   <string name="running_help_pace_freq_suggest5">"Vključite Bluetooth in povežite Mi bend pred začetkom teka.
-Imejte Bluetooth vkjlučen dokler tečete."</string>
+Imejte Bluetooth vključen dokler tečete."</string>
   <string name="running_help_pace_freq_target">Cilj tempa</string>
   <string name="running_help_pre_foot">Stopanje na prste</string>
   <string name="running_help_pre_mid_foot">Stopanje na prednji/srednji del stopala</string>
   <string name="running_help_pros_cons">Za in proti</string>
-  <string name="running_help_slow_run">Pri lahkem teku večina ljudi stopa na sredino stopala ali peto. Ko se povečuje hitrost teka većina ljudi stopa na prednji del stopala. Na primer večina šprinterjev stopa na prste pri teku.</string>
-  <string name="running_help_slow_run_suggest">Stopanje na sredino stopala ali peto močno vpljiva na kolena. Stopanje na prste zahteva močnejše nožne mišice in Ahilovo tetivo</string>
+  <string name="running_help_slow_run">Pri lahkem teku večina ljudi stopa na sredino stopala ali peto. Ko se povečuje hitrost teka večina ljudi stopa na prednji del stopala. Na primer večina šprinterjev stopa na prste pri teku.</string>
+  <string name="running_help_slow_run_suggest">Stopanje na sredino stopala ali peto močno vpliva na kolena. Stopanje na prste zahteva močnejše nožne mišice in Ahilovo tetivo</string>
   <string name="running_helper">Asistent</string>
   <string name="running_history">Zgodovina</string>
   <string name="running_history_child_date_format">%1$d</string>
@@ -934,10 +934,10 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="running_history_group_distance">%1$.2f km</string>
   <string name="running_history_group_distance_br">%1$.2f mi</string>
   <string name="running_history_group_time_format">MMMM, yyyy</string>
-  <string name="running_history_no_data">Ni podatka</string>
-  <string name="running_history_no_data_refresh">Ni podatka, pritisnite za osvežitev</string>
+  <string name="running_history_no_data">Ni podatkov</string>
+  <string name="running_history_no_data_refresh">Ni podatkov, pritisnite za osvežitev</string>
   <string name="running_history_no_data_refreshing">Osveževanje…</string>
-  <string name="running_history_no_more_data">Ni prejšnih zapisov</string>
+  <string name="running_history_no_more_data">Ni prejšnjih zapisov</string>
   <string name="running_history_title">Zgodovina</string>
   <string name="running_history_total_calorie">Porabljeno (Kal)</string>
   <string name="running_history_total_distance">Razdalja (km)</string>
@@ -950,7 +950,7 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="running_hr">Število utripov srca</string>
   <string name="running_hr_check">Izmerite število utripov srca</string>
   <string name="running_hr_disabled_tips">Vključite senzor števila utripov srca v Nastavitvah</string>
-  <string name="running_hr_unit_desc">Število utripov srca (BPM)</string>
+  <string name="running_hr_unit_desc">Število utripov srca (utr/min-BPM)</string>
   <string name="running_kg">" Kal"</string>
   <string name="running_kilometer">" km"</string>
   <string name="running_kilometers">" km"</string>
@@ -958,7 +958,7 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="running_label_hint">Vnesite ime</string>
   <string name="running_lable_avg_hr">Povprečno število utripov srca (BPM)</string>
   <string name="running_lable_mile_fastest">Najhitrejša milja</string>
-  <string name="running_lable_mile_slowest">Najhitrejša milja</string>
+  <string name="running_lable_mile_slowest">Najpočasnejša milja</string>
   <string name="running_lable_pace">Povprečje tempa (min)</string>
   <string name="running_long_press_to_pause">Zadrži za premor</string>
   <string name="running_main_avoid_use_indoor">Izogibajte se uporabi GPS-a v zaprtih prostorih</string>
@@ -972,7 +972,7 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="running_main_mileage_one">%1$skm</string>
   <string name="running_main_startup_subtitle1">Uporabite GPS skupaj s vašim Mi Bandom</string>
   <string name="running_main_startup_subtitle2">Napravite podatke vašeg teka še bolj točne</string>
-  <string name="running_main_startup_title1">Pojdite ven, pojdite tečt</string>
+  <string name="running_main_startup_title1">Pojdite ven, pojdite lavfat!</string>
   <string name="running_main_title">Tek</string>
   <string name="running_map_mode">Mapa</string>
   <string name="running_marathon_cost_time">Potrebno je %s da tečete maraton s tem tempom.</string>
@@ -993,12 +993,12 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="running_prepare_map">Priprava podatkov…</string>
   <string name="running_prompt_come_on">Nadaljujte tako!</string>
   <string name="running_prompt_great">Bravo!</string>
-  <string name="running_prompt_per_kilometer" formatted="false">"Tekli ste %skm. Čas: %s. Zadnji km: %s."</string>
+  <string name="running_prompt_per_kilometer" formatted="false">"Tekli ste %s km. Čas: %s. Zadnji km: %s."</string>
   <string name="running_real_time_mile_pace">Tempo (min/mi)</string>
   <string name="running_real_time_pace">Tempo (min/km)</string>
   <string name="running_resume">Nadaljuj</string>
   <string name="running_sec">%ds</string>
-  <string name="running_set_dist">Opozorilo Oddaljenosti</string>
+  <string name="running_set_dist">Opozorilo oddaljenosti</string>
   <string name="running_set_goal">Cilj</string>
   <string name="running_set_pace">Opozorilo tempa</string>
   <string name="running_set_pace_desc">Mi Band bo zavibriral če tečete počasneje</string>
@@ -1059,7 +1059,7 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="running_unit_weight">" kg"</string>
   <string name="running_unlogin_notice">Prijavite se v Mi Band, drugače bodo podatki o teku izgubljeni.</string>
   <string name="running_unsynchronous">Ni sinhr.</string>
-  <string name="running_volumn_notice">Priporočamo da nastavite nižjo glasnost medija, tako da boste lahko slišali glasovna navodila med tekom.</string>
+  <string name="running_volumn_notice">Priporočamo da nastavite nižjo glasnost medija tako da boste lahko slišali glasovna navodila med tekom.</string>
   <string name="running_watermark">Vodni žig</string>
   <string name="running_watermark_btn_confirm">Shrani</string>
   <string name="running_watermark_guide_tips">Premaknite vodni žig za prilagoditev</string>
@@ -1072,7 +1072,7 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="saving_success">Uspešno shranjeno</string>
   <string name="scan_label">Postavite QR kodo v okvir za skeniranje.</string>
   <string name="screen_lock_text_tip">Končano</string>
-  <string name="screen_unlock">Odkle. zaslona</string>
+  <string name="screen_unlock">Odklep. zaslona</string>
   <string name="sdcarderror">"SD kartica ni dostopna"</string>
   <string name="search_result_is_empty">"Ne najdem te osebe"</string>
   <string name="select_from_camera">Fotografija</string>
@@ -1087,7 +1087,7 @@ Imejte Bluetooth vkjlučen dokler tečete."</string>
   <string name="set_weight_goal">Nastavite željeno težo</string>
   <string name="setting_about">O</string>
   <string name="setting_help">Pomoč</string>
-  <string name="setting_length_british">Imperialne (feet, milja)</string>
+  <string name="setting_length_british">Imperialne (feet-čevelj, milja)</string>
   <string name="setting_length_metric">Metrične (m, km)</string>
   <string name="setting_unit">Enote</string>
   <string name="setting_unit_length">Nastavite enoto razdalje</string>
@@ -1098,7 +1098,7 @@ Ročno lahko spremenite enoto mere v Nastavitvah Tehtnice."</string>
   <string name="setting_weight_british">Imperialna (lbs)</string>
   <string name="setting_weight_metric">Metrična (kg)</string>
   <string name="setting_weight_shijin">Jin (jin=500g)</string>
-  <string name="seven">Ned</string>
+  <string name="seven">Sedem</string>
   <string name="share">Skupna raba</string>
   <string name="share_achieve_goal_equal">Cilj dosežen</string>
   <string name="share_content">Moji fitness podatki</string>
@@ -1232,21 +1232,21 @@ Prejšnji rekord: %5$s korakov (%4$s)"</string>
   <string name="sleep_light">Rahel spanec</string>
   <string name="sleep_light_time">Rahel spanec</string>
   <string name="sleep_notifi_tip">Seznanite Mi Band da uporabite obvestila bujenja</string>
-  <string name="sleep_notification">Obvestila Bujenja</string>
+  <string name="sleep_notification">Obvestila bujenja</string>
   <string name="sleep_notification_tip">Obvesti me o mojem spanju zjutraj</string>
-  <string name="sleep_notification_title">Vključi obvestila Bujenja</string>
+  <string name="sleep_notification_title">Vključi obvestila bujenja</string>
   <string name="sleep_statistics_title">Statistika spanja</string>
   <string name="sleep_subview_old_sleeplate">Po neprespani noči ne pozabite zaspati podnevi.</string>
   <string name="sleep_subview_young_sleeplate">Poskusite ne ostati budni ponoči.</string>
   <string name="sleep_title">Spanje</string>
-  <string name="sleep_week_all_time">Povp.  Spanje</string>
+  <string name="sleep_week_all_time">Povp. spanje</string>
   <string name="sleep_week_awake_duration">Povp. čas bujenja</string>
   <string name="sleep_week_awake_time">Povp. čas bujenja</string>
   <string name="sleep_week_deep_time">Povp. globokega spanja</string>
   <string name="sleep_week_go_sleep_time">Povp. zaspal ob</string>
   <string name="sleep_week_light_time">Povp. lahkega spanja</string>
   <string name="sm_alert">Dohodni SMS</string>
-  <string name="sm_alert_not_bound">Seznanite Mi Band za prejemanje obvestil SMS sporočil</string>
+  <string name="sm_alert_not_bound">Seznanite Mi Band za prejemanje obvestil SMS</string>
   <string name="smart_lock_low_version">Android verzija je prestara, posodobite na 5.0 ali novejšo</string>
   <string name="smart_play_google_fit">Google Fit</string>
   <string name="smart_play_qq">QQ</string>
@@ -1313,7 +1313,7 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="this_measure">Trenutni rezultat</string>
   <string name="this_month">Ta mesec</string>
   <string name="this_week">Ta teden</string>
-  <string name="three">Sre</string>
+  <string name="three">Tri</string>
   <string name="thursday">Četrtek</string>
   <string name="time_format_hour_min">%1$s h %2$s m</string>
   <string name="time_format_min">%sm</string>
@@ -1358,7 +1358,7 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="total_sleep_title">Spanje %3$s %1$d/%2$d</string>
   <string name="tuesday">Torek</string>
   <string name="turn_on">Vključi</string>
-  <string name="two">Tor</string>
+  <string name="two">Dve</string>
   <string name="unbind">Prekliči seznanitev</string>
   <string name="unbind_google_fit">Odstrani iz Google Fit</string>
   <string name="unbind_mili_tips">Mi Band bo po preklicu seznanitve prenehal delati</string>
@@ -1401,12 +1401,12 @@ Nadgradite na 4.4 ali novejši"</string>
   <string name="unlock_for_smartlock_start_setting">Pojdi v Nastavitve</string>
   <string name="unlock_for_smartlock_tip">Ta funkcija zahteva da je aplikacija Mi Fit odprta v ozadju</string>
   <string name="unlock_for_smartlock_tip_step1">1. Pojdite na Nastavitve - Varnost</string>
-  <string name="unlock_for_smartlock_tip_step2">2. Prilagodite Zakle. zaslona - Vzorec, PIN ali geslo</string>
+  <string name="unlock_for_smartlock_tip_step2">2. Prilagodite Zakl. zaslona - Vzorec, PIN ali geslo</string>
   <string name="unlock_for_smartlock_tip_step3">3.Pritisnite- SmartLock za odklepanje telefona z Mi Bandom</string>
   <string name="unlock_screen">Odklepanje zaslona</string>
-  <string name="unlock_screen_help_info0">Vaš telefon bo odklenjen ko je ta Mi Band blizu njega. Ko je Mi Band oddaljen, bo telefon ostal zaklenjen.</string>
-  <string name="unlock_screen_help_info1">"Če ne morete odkleniti vaš telefon ko je Mi Band v bližini, izklj/vklj. Bluetooth v Nastavitvah"</string>
-  <string name="unlock_screen_help_info2">Prekličite seznanitev Mi Band v aplikaciji, seznanite ga ponovno, in nastavite \"Odkleni z Bluetooth napravo\" ponovno.</string>
+  <string name="unlock_screen_help_info0">Vaš telefon bo odklenjen ko je ta Mi Band blizu njega. Ko je Mi Band oddaljen bo telefon ostal zaklenjen.</string>
+  <string name="unlock_screen_help_info1">"Če ne morete odkleniti vaš telefon ko je Mi Band v bližini izklj/vklj. Bluetooth v Nastavitvah"</string>
+  <string name="unlock_screen_help_info2">Prekličite seznanitev Mi Band v aplikaciji, seznanite ga ponovno in nastavite \"Odkleni z Bluetooth napravo\" ponovno.</string>
   <string name="unlock_screen_help_info3">Ponovno zaženite napravo in poskusite odkleniti telefon z Mi Bandom.</string>
   <string name="unlock_screen_help_title0">Ali je vaš Mi Band predaleč?</string>
   <string name="unlock_screen_help_title1">Ponovno zaženite Bluetooth</string>
@@ -1421,7 +1421,7 @@ Nastavitve -&gt; Varnost zaslona -&gt; Odkleni z Bluetooth napravo"</string>
   <string name="update_now">Posodobi</string>
   <string name="used">Uporabljeno</string>
   <string name="user_agreement">Pogoji uporabe storitve in Pravila o zasebnosti</string>
-  <string name="user_agreement_prefix">"Za uporabo tega proizvoda, se morate strinjati s Xiaomi
+  <string name="user_agreement_prefix">"Za uporabo tega proizvoda se morate strinjati s Xiaomi
 "</string>
   <string name="user_agreement_ux">Včlanite se v Program uporabniških izkušenj</string>
   <string name="user_plan">Včlanite se v Program uporabniških izkušenj</string>
@@ -1431,7 +1431,7 @@ Nastavitve -&gt; Varnost zaslona -&gt; Odkleni z Bluetooth napravo"</string>
   <string name="vibrate_notify_tips">Prikaži obvestila ko Mi Band zavibrira</string>
   <string name="wait">Samo trenutek…</string>
   <string name="wear_hand">Položaj Mi Banda</string>
-  <string name="web_activity_reload_tip">Pritisni za Osvežitev</string>
+  <string name="web_activity_reload_tip">Pritisni za osvežitev</string>
   <string name="wednesday">Sreda</string>
   <string name="weibo_uninstall_tips">Najprej namestite Sina Weibo</string>
   <string name="weibosdk_toast_auth_canceled">Račun odstranjen</string>
@@ -1457,10 +1457,10 @@ Nastavitve -&gt; Varnost zaslona -&gt; Odkleni z Bluetooth napravo"</string>
   <string name="weight_help_title_3">Ali je vaša tehtnica seznanjena z drugo napravo?</string>
   <string name="weight_help_title_4">Kako se ponovo povezati s tehtnico?</string>
   <string name="weight_instable_left_title">"Počakajte da LED lučka preneha utripati
-predno stopite z Mi Tehtnice."</string>
+preden stopite iz Mi Tehtnice."</string>
   <string name="weight_low_elec_title">Zamenjajte baterije Mi Tehtnice</string>
-  <string name="weight_measuring">Merenje…</string>
-  <string name="weight_overload_title">Masa je večja od obsega merenja</string>
+  <string name="weight_measuring">Merjenje…</string>
+  <string name="weight_overload_title">Masa je večja od obsega merjenja</string>
   <string name="weight_setting_fw_version">Firmware verzija</string>
   <string name="weight_setting_help">Preberite več</string>
   <string name="weight_setting_weight">Mi Tehtnica</string>
