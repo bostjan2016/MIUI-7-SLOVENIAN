@@ -24,7 +24,7 @@
   <string name="desc_fun_tan">tangens</string>
   <string name="desc_inv_off">prikaz inverznih funkcij</string>
   <string name="desc_inv_on">skritje inverznih funkcij</string>
-  <string name="desc_lparen">oklepaj</string>
+  <string name="desc_lparen">levi oklepaj</string>
   <string name="desc_mode_deg">način stopinj</string>
   <string name="desc_mode_rad">način radianov</string>
   <string name="desc_op_add">plus</string>
@@ -36,7 +36,7 @@
   <string name="desc_op_sqr">na kvadrat</string>
   <string name="desc_op_sqrt">kvadratni koren</string>
   <string name="desc_op_sub">minus</string>
-  <string name="desc_rparen">zaklepaj</string>
+  <string name="desc_rparen">desni oklepaj</string>
   <string name="desc_switch_deg">preklop na stopinje</string>
   <string name="desc_switch_rad">preklop na radiane</string>
   <string name="dismiss">Opusti</string>

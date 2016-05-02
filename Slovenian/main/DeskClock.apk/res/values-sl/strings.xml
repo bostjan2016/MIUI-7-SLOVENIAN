@@ -11,7 +11,7 @@
   <string name="alarm_klaxon_service_desc">Storitev predvajanja alarmov je nastavljena v aplikaciji Ura.</string>
   <string name="alarm_label_hint">Tekst Budilke</string>
   <string name="alarm_list_title">Budilka</string>
-  <string name="alarm_notify_snooze_label">%s dremež</string>
+  <string name="alarm_notify_snooze_label">%s dremeža</string>
   <string name="alarm_notify_text">Dremež ali prekini budilko.</string>
   <string name="alarm_repeat">Ponovi</string>
   <string name="alarm_screen">Zaslon in melodije Alarma</string>
@@ -45,7 +45,7 @@
   <string name="delete_alarm">Izbriši budilko</string>
   <string name="delete_alarm_confirm">Izbrišem izbran(e) budilko(e)?</string>
   <string name="delete_selected_timer_item">Izbrišem izbrano nalogo štoparice?</string>
-  <string name="delete_timer_item_title">Izbriši opravilo kronometra</string>
+  <string name="delete_timer_item_title">Izbriši opravilo</string>
   <string name="delete_timezone_title">Izbriši časovni pas</string>
   <string name="dialog_confirm_abort">Zavržem spremembe?</string>
   <string name="done">Končano</string>
@@ -108,7 +108,7 @@
   <string name="time">Čas</string>
   <string name="timer_alarm_alert_pad">%s</string>
   <string name="timer_alarm_cancel_pad">Dotaknite se zaslona za zaustavitev zvonca</string>
-  <string name="timer_alert_alert_silenced">Kronometer utišan po %d minutah.</string>
+  <string name="timer_alert_alert_silenced">Kronometer ustavljen po %d minutah.</string>
   <string name="timer_continue">Nadaljuj</string>
   <string name="timer_got_it">V redu</string>
   <string name="timer_item_duration_display">%1$d minut %2$d sekund</string>
@@ -127,9 +127,9 @@
   <string name="turn_off_this_repeat_alarm">Izključi ta ponavljajoči alarm</string>
   <string name="vibrate_pref_summary">Vibriraj med zvonjenjem</string>
   <string name="vibrate_when_ringing">Vibriraj med zvonenjem</string>
-  <string name="volume_button_setting_summary">Nastavi funkcijo tipk za glasnost med budilko</string>
+  <string name="volume_button_setting_summary">Nastavi funkcijo tipk za glasnost med bujenjem</string>
   <string name="volume_button_setting_title">Tipke za glasnost</string>
-  <string name="workday_alarm_clock">Budilka za delavnik</string>
+  <string name="workday_alarm_clock">Budilka ob delavnikih</string>
   <string name="worldclock_empty_text">Ni svetovnih ur</string>
   <string name="worldclock_title">Ura</string>
 </resources>

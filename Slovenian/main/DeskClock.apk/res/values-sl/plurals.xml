@@ -22,7 +22,7 @@
      </plurals>
      <plurals name="timer_message_hour">
         <item quantity="other">"%1$d ur "</item>
-        <item quantity="one">"%1$d urat "</item>
+        <item quantity="one">"%1$d ura "</item>
      </plurals>
      <plurals name="timer_message_minute">
         <item quantity="other">"%1$d min. "</item>

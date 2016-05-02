@@ -5,7 +5,7 @@
      <string name="DOWNLOAD_UNIT_KB">KB</string>
      <string name="DOWNLOAD_UNIT_MB">MB</string>
      <string name="DOWNLOAD_UNIT_TB">TB</string>
-     <string name="Only_the_wifi">Uporabi le Wi-Fi omrežje</string>
+     <string name="Only_the_wifi">Uporabi le WiFi omrežje</string>
      <string name="about">O aplikaciji</string>
      <string name="action_settings">Nastavitve</string>
      <string name="ad_mark">AD</string>
@@ -28,14 +28,14 @@
      <string name="bt_path_not_exit">"Ta pot ne obstaja"</string>
      <string name="bt_restart_dialog_message">Ponovno zaženem vse prenose v BT mapi?</string>
      <string name="bt_restart_dialog_title">Ponovno zaženi vse prenose</string>
-     <string name="bt_xunlei_open_info">Uporabim Xunlei Engine za takšne url?</string>
+     <string name="bt_xunlei_open_info">Uporabim Xunlei Engine za takšne povezave?</string>
      <string name="button_sort_by_date">Razvrsti po datumu</string>
      <string name="button_sort_by_size">Razvrsti po velikosti</string>
      <string name="cancel">Prekini</string>
      <string name="cancel_running_download">Prekliči</string>
      <string name="cancle">Prekliči</string>
      <string name="choose_open_time">Izberite kdaj bi radi začeli</string>
-     <string name="complete_time">Komčano:</string>
+     <string name="complete_time">Končano:</string>
      <string name="confirm">V redu</string>
      <string name="confirm_delete_downloads_message">%d prenosov bo izbrisanih</string>
      <string name="confirm_delete_the_download_item_message">Izbrišem te prenose?</string>
@@ -53,7 +53,7 @@
      <string name="determine">V redu</string>
      <string name="dialog_cannot_resume">Prenos prekinjen. Nadaljevanje ni mogoče.</string>
      <string name="dialog_confirm_delete_checkbox_message">Izbrišite tudi lokalne datoteke</string>
-     <string name="dialog_confirm_delete_downloads_message">Izbrišem %d opravil?</string>
+     <string name="dialog_confirm_delete_downloads_message">Izbrišem opravilo %d ?</string>
      <string name="dialog_confirm_delete_the_download_item_message">Izbriši ta opravila</string>
      <string name="dialog_failed_body">Želite ponovno prenesti datoteko kasneje ali jo izbrišem iz vrste?</string>
      <string name="dialog_file_already_exists">Ni mogoče prenesti. Datoteka že obstaja.</string>
@@ -64,10 +64,10 @@
      <string name="dialog_media_not_found">Ni mogoče prenesti. Zunanja naprava ni na voljo.</string>
      <string name="dialog_queued_body">Datoteka je v vrsti za prenos kasneje</string>
      <string name="dialog_title_not_available">Prenos ni uspel</string>
-     <string name="dialog_title_queued_body">Datoteka še ni na voljo</string>
+  <string name="dialog_title_queued_body">Datoteka nedostopna</string>
      <string name="disable">Izklop</string>
      <string name="display_expire_netiv1">Ta mesec</string>
-     <string name="do_not_support_url">"Ta vrsta url ni podprta</string>
+     <string name="do_not_support_url">"Ta vrsta povezave ni podprta</string>
      <string name="doc_filter">Dokumenti</string>
      <string name="download">Prenosi</string>
      <string name="download_auth">Pridobivanje avtorizacije…</string>
@@ -110,7 +110,7 @@
      <string name="download_title_sorted_by_size">Prenosi - razvrščeno po velikosti</string>
      <string name="download_wait_connect">Prenos čaka na povezavo</string>
      <string name="download_when_network_connected">Prenesi preko podatkovne povezave</string>
-     <string name="downloaded">Prenos končan dovršeno</string>
+     <string name="downloaded">Prenos končan</string>
      <string name="downloaded_empty">Prazno</string>
      <string name="downloading">Prenos…</string>
      <string name="downloading_empty">Prazno</string>
@@ -159,7 +159,7 @@
      <string name="install">Namesti</string>
      <string name="install_failed">"Ne morem namestiti %1$s"</string>
      <string name="installing">Nameščanje…</string>
-     <string name="insufficient_space">Ni dovolj prostora za shrambo</string>
+     <string name="insufficient_space">Ni dovolj prostora za shranjevanje</string>
      <string name="invalid_address">Naslov ki ste ga vnesli ni veljaven</string>
      <string name="jump_rank_hint">"Preglejte današnje prevzeme &gt;"</string>
      <string name="keep_queued_download">Ohrani</string>
@@ -212,21 +212,21 @@
      <string name="pref_download_settings_title">Omejitev velikosti prenosa</string>
      <string name="pref_download_storage_path">Naredi novo mapo za prenose</string>
      <string name="pref_sniff_shortcut">Naredi bližnjico</string>
-     <string name="pref_summary_any_bytes_popup">Vedno čakaj na Wi-Fi povezavo za prenos datotek</string>
+     <string name="pref_summary_any_bytes_popup">Vedno čakaj na WiFi povezavo za prenos datotek</string>
      <string name="pref_summary_enable_max_bytes_popup">Prikaži pojavno okno pri uporabi podatkovne povezave da prenesete vsebino.</string>
-     <string name="pref_summary_max_bytes_limit_format">Čakaj na Wi-Fi če je velikost preseže %s</string>
+     <string name="pref_summary_max_bytes_limit_format">Čakaj na WiFi če velikost preseže %s</string>
      <string name="pref_summary_no_limit_popup">Neomejeno</string>
      <string name="pref_title_enable_max_bytes_popup">Prikaži podatke o porabi</string>
      <string name="preferences_title">Nastavitve</string>
      <string name="privacy_tip_cancel">Prekliči</string>
-     <string name="privacy_tip_content">Uporabim Xunlei Accelerator za pospešitev prenosov? URL gostitelja za prenos bo naložen na strežnikih Xunlei. Vaši podatki Mi računa se bodo naložili zaradi preverbe če imate kakršne koli aktivne naročnine za to storitev.</string>
+     <string name="privacy_tip_content">Uporabim Xunlei Accelerator za pospešitev prenosov? Povezava gostitelja za prenos bo naložena na strežnike Xunlei. Vaši podatki Mi računa se bodo naložili zaradi preverbe če imate kakršne koli aktivne naročnine za to storitev.</string>
      <string name="privacy_tip_ok">V redu</string>
      <string name="privacy_tip_title">Uporabim Xunlei pospeševalnik?</string>
      <string name="quit_btn">Izhod</string>
      <string name="rank">Rang</string>
      <string name="rank_data_empty">Ni rangov</string>
      <string name="rank_guide_confirm">Preverite</string>
-     <string name="rank_guide_content">Vrstni red se ažurira vsakodnevno in prikazuje najpopularnejše aplikacije</string>
+     <string name="rank_guide_content">Vrstni red se posodablja vsakodnevno in prikazuje najpopularnejše aplikacije</string>
      <string name="rank_guide_title">Aplikacije nameščene od drugih ljudi</string>
      <string name="rebind_btn">Dodaj ponovno</string>
      <string name="recommend_downloading">Prenos…</string>
@@ -245,7 +245,7 @@
      <string name="retry_after_network_available">Povezave ni mogoče vzpostaviti. Preverite povezavo 
   in poskusite znova.</string>
      <string name="retry_download">Poskusi ponovno</string>
-     <string name="revert_default">Resetiraj</string>
+     <string name="revert_default">Vrni na privzeto</string>
      <string name="revert_download_path">Uporabitim privzeto lokacijo za prenose?</string>
      <string name="save_path">"Shrani prenose v: "</string>
      <string name="search_clear_history_btn">Izbriši zgodovino iskanja</string>
@@ -266,8 +266,8 @@
      <string name="search_hot_variety">Zabava</string>
      <string name="search_hotwords">Ključne besede</string>
      <string name="search_hotwords_switch">Zamenjaj</string>
-     <string name="search_input_empty_toast">Preišči ali vnesi url</string>
-     <string name="search_input_hint">Preišči ali vnesi url</string>
+     <string name="search_input_empty_toast">Preišči ali vnesi povezavo</string>
+     <string name="search_input_hint">Preišči ali vnesi povezavo</string>
      <string name="search_nonetwork_prompt">Preverite povezavo in poskusite ponovno</string>
      <string name="search_nonetwork_refresh">Osveži</string>
      <string name="search_recommend_empty">Ni predmetov</string>
@@ -288,8 +288,8 @@
      <string name="sniff_associate_text">Dotaknite se ključne besede spodaj da boste našli več virov</string>
      <string name="sniff_bt_text">Torrent</string>
      <string name="sniff_btn_text">Vir</string>
-     <string name="sniff_cannot_use">"Ne morem izbrati link, dotaknite se povezave za preunos."</string>
-     <string name="sniff_connect_error_page_tips">"Ne morem odpreti url"</string>
+     <string name="sniff_cannot_use">"Ne morem izbrati povezave."</string>
+     <string name="sniff_connect_error_page_tips">"Ne morem odpreti povezave"</string>
      <string name="sniff_connect_error_refresh">Poskusi ponovno</string>
      <string name="sniff_download_task_already_exist">Ta prenos že obstaja</string>
      <string name="sniff_download_task_create_success">Prenos dodan</string>
@@ -327,10 +327,10 @@
      <string name="start_analysis">Preveri</string>
      <string name="start_download">Prenesi</string>
      <string name="start_xunlei_speedup_info">Prijavite se da pohitrite vaše prenose.</string>
-     <string name="starting_analysis">Pridobivanje detajlov…</string>
+     <string name="starting_analysis">Pridobivanje podrobnosti…</string>
      <string name="storage_internal">Notranja shramba</string>
      <string name="storage_sd_card">SD kartica</string>
-     <string name="storage_usb">USB shramba</string>
+     <string name="storage_usb">USB pomnilnik</string>
      <string name="subbt_downloading">Prenos…</string>
      <string name="subbt_fail">Ni uspelo</string>
      <string name="subbt_pause">Pavzirano</string>
@@ -362,7 +362,7 @@
      <string name="unit_en_billion">B</string>
      <string name="unit_en_million">M</string>
      <string name="unit_en_thounsand">K</string>
-     <string name="valid_in_this_month">velja samo ta mesec</string>
+     <string name="valid_in_this_month">Velja samo ta mesec</string>
      <string name="version">Verzija %s</string>
      <string name="vip_auto_speedup">Xunlei pospeševalnik prenosa je vključen</string>
      <string name="vip_expire_show_info">Poteklo je Xunlei članstvo."</string>
@@ -377,7 +377,7 @@
      <string name="xl_bind_account">Dodaj obstoječi Xunlei Račun </string>
      <string name="xl_extend">Več</string>
      <string name="xl_highway_autoopen">Kanal velike hitrosti</string>
-     <string name="xl_highway_autoopen_info">Vključi kanal velike hitrosti avtomatsko</string>
+     <string name="xl_highway_autoopen_info">Vključi kanal velike hitrosti samodejno</string>
      <string name="xl_highway_title">Kanal velike hitrosti:   </string>
      <string name="xl_month_vip_open">Mesečno članstvo (%1$s Mi Kreditov)</string>
      <string name="xl_month_vip_renew">Obnovite za 1 leto (%1$s Mi Kreditov)</string>
@@ -386,12 +386,12 @@
      <string name="xl_privilege_play_info">Streamajte nedokončane prenose na več naprav</string>
      <string name="xl_privilege_speedup">Pohitritev prenosev</string>
      <string name="xl_privilege_speedup_info">Kanal velike hitrosti in podpora za izvenmrežne prenose</string>
-     <string name="xl_privilege_storage">Online shramba</string>
+  <string name="xl_privilege_storage">Ogromen prostor za shranjevanje</string>
      <string name="xl_privilege_storage_info">"Ni dovolj prostora za vse vaše prenose"</string>
      <string name="xl_privilege_support">Več naprav</string>
      <string name="xl_privilege_title">Xunlei članstvo</string>
      <string name="xl_validate_title">Velja do:  </string>
-     <string name="xl_vip_annual">Letno: %1$s Mi Kreditov × 12 mesecov</string>
+     <string name="xl_vip_annual">Letno: %1$s Mi Kreditov × 12 mesecev</string>
      <string name="xl_vip_combo">Načrti</string>
      <string name="xl_vip_month">Mesečno: %1$s Mi Kreditov × 1 mesec</string>
      <string name="xl_vip_open">Kupi</string>
@@ -408,7 +408,7 @@
      <string name="xunlei_gaosu">Xunlei pospeševalnik prenosa</string>
      <string name="xunlei_member_annual_fee">Letno</string>
      <string name="xunlei_member_one_month">Mesečno</string>
-     <string name="xunlei_open_info">Uporabim Xunlei za odpiranje takih url?</string>
+     <string name="xunlei_open_info">Uporabim Xunlei za odpiranje takih povezav</string>
      <string name="xunlei_speed_service">Xunlei pospeševalnik prenosa</string>
      <string name="xunlei_switch">Xunlei prevzemnik</string>
 </resources>
