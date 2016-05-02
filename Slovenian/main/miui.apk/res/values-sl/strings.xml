@@ -33,7 +33,7 @@
   <string name="error_forbidden">Sinhronizacija je izključena zaradi problemov z vašim Mi Računom.</string>
   <string name="error_not_acceptable">Sinhronizacija je izključena</string>
   <string name="error_title">"Ne morem sinhronizirati"</string>
-  <string name="error_unauthorized">Sinhronizacija je izključena zbog prevelikega števila poskusov prijave.</string>
+  <string name="error_unauthorized">Sinhronizacija je izključena zaradi prevelikega števila poskusov prijave.</string>
   <string name="evening">PM</string>
   <string name="fmt_chinese_date"/>
   <string name="fmt_date">D</string>
@@ -260,7 +260,7 @@ pojdite na: %s."</string>
   <string name="user_manual">Navodila</string>
   <string name="web_sso_login_fail">Morate se ponovno prijaviti</string>
   <string name="web_sso_login_message">Prijava…</string>
-  <string name="website">Web stran</string>
+  <string name="website">Spletna stran</string>
   <string name="webview_reload">Poskusi ponovno</string>
   <string name="wednesday">Sreda</string>
   <string name="wednesday_short">Sre</string>
