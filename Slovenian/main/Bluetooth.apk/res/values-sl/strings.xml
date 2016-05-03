@@ -138,11 +138,13 @@
      <string name="pbap_session_key_dialog_header">Potrebna je šifra Bluetooth seje</string>
      <string name="pbap_session_key_dialog_title">Vpiši šifro seje za %1$s</string>
      <string name="permdesc_bluetoothAvrcpDataManager">Aplikaciji omogoča dostop do upravitelja za BluetoothAvrcpData in za uporabo za prikaz na UI.</string>
+	 <string name="permdesc_bluetoothShareManager">Aplikaciji omogoča dostop do upravitelja za Bluetooth deljenje in njegovo uporabo za prenos datotek.</string>
      <string name="permdesc_bluetoothdeljenjeManager">Aplikaciji omogoča dostop do Bluetooth deljenje upravitelja ter uporabo le-tega za prenos datotek.</string>
      <string name="permdesc_bluetoothWhitelist">Omogoča da aplikacija začasno dovoli Bluetooth napravi da pošilja datoteke brez uporabnikove potrditve.</string>
      <string name="permdesc_handoverStatus">Omogoča prejemanje informacij o stanju prenosov Bluetooth-a.</string>
      <string name="permlab_bluetoothAvrcpDataManager">Pristop avrcp metadata.</string>
      <string name="permlab_bluetoothMap">Pristop Bluetooth Message Access Profile ponudniku vsebine.</string>
+	 <string name="permlab_bluetoothShareManager">Odpri upravitelja za prenos.</string>
      <string name="permlab_bluetoothdeljenjeManager">Odpri upravitelja prenosov</string>
      <string name="permlab_bluetoothWhitelist">Seznam dovoljenih Bluetooth naprav.</string>
      <string name="permlab_handoverStatus">Sprejmi Bluetooth oddajanje prenosov.</string>

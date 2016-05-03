@@ -7,6 +7,7 @@
      <string name="Settings_title_garbage_cleanup">Nastavitve čiščenja</string>
      <string name="Settings_title_network_assistants">Nastavitve porabe podatkov</string>
      <string name="Settings_title_power_center">Nastavitve za baterijo</string>
+	 <string name="ac_enable_title">Vključite Zaklepanje aplikacij</string>
      <string name="access_control_need_password">"Uspešno dodano %s zaklepanj
 "</string>
      <string name="access_control_need_to_unlock">"Odklenite s prstnim odtisom 
@@ -52,6 +53,7 @@ ali vnesite geslo"</string>
      <string name="adjust_traffic_carrier_summary_two_day_before">Posodobljeno pred 2 dnevoma</string>
      <string name="adjust_traffic_carrier_summary_yesterday">Posodobljeno včeraj ob %s</string>
      <string name="adjust_traffic_data">Nastavite porabo podatkov</string>
+	 <string name="after_the_lock_screen">"Aplikacija se zaklepa skupaj z zaslonom, to lahko spremenite v nastavitvah zaklepanja aplikacij."</string>
      <string name="antivirus_choose_engine">%s</string>
      <string name="antivirus_choose_engine_dialog_title">Izberi opredelitve</string>
      <string name="antivirus_choose_engine_disable_toast">"Ne morem zamenjati opredelitev med skeniranjem"</string>
@@ -425,6 +427,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
      <string name="list_empty_text">Prazno</string>
      <string name="load_fail">"Ne morem naložiti"</string>
      <string name="local_ip_exception_summary">"Ne morem dobiti lokalni IP naslov. Da prijavite MIUI-ju to težavo pojdite v aplikacijo Prijava napak in pošljite poročilo s svoje naprave."</string>
+	 <string name="lock_mode_title">Nastavitve zaklepanja</string>
      <string name="lock_screen_traffic_guide_notification_summary">Izkoriščeno %s pri zakl. zaslonu</string>
      <string name="lock_screen_traffic_guide_notification_title">Pritisnite za upravljanje porab. podatkov</string>
      <string name="lock_screen_traffic_notify_body">Zakl. na %2$s; %1$s, izkoriš. %3$s pod.</string>
