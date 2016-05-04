@@ -814,9 +814,6 @@
      <string name="condition_provider_security_warning_title">Želite omogočiti uslugo %1$s?</string>
      <string name="config_charging_function_name">Polnjenje</string>
      <string name="config_list_label">Konfigurirana omrežja</string>
-     <string name="config_mass_storage_function_name">mass_storage</string>
-     <string name="config_mtp_function_name">mtp</string>
-     <string name="config_ptp_function_name">ptp</string>
      <string name="configure_apps">Nastavitev aplikacij</string>
      <string name="configure_input_method">Nastavitev načinov vnosa</string>
      <string name="confirm_action">V redu</string>

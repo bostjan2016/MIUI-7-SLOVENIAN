@@ -284,13 +284,13 @@
      <string name="resource_trial_fail_title">Ni uspelo vzpostaviti poskusne seje</string>
      <string name="resource_trial_hours">Preskusna doba : %1$d h</string>
      <string name="resource_trial_hours_minutes">(Preskusna doba :%1$dh %2$dm)</string>
-     <string name="resource_trial_minutes">(Preiskusno obdobje: %1$d m)</string>
-     <string name="resource_trial_time">(Preskusna doba: %1$d min.)</string>
+  <string name="resource_trial_minutes">(Preskusna doba : %1$d m)</string>
      <string name="resource_unknow_error">Prišlo je do neznane napake</string>
      <string name="resource_update">Posodobi</string>
      <string name="resource_user_know">V redu</string>
      <string name="resource_waiting_download">Čakam</string>
-     <string name="sdcard_not_mounted_dialog_message">Vstavite SD kartico</string>
+     <string name="sdcard_not_mounted_dialog_message">SD kartica ni dostopna, 
+  vstavite jo</string>
      <string name="sdcard_not_mounted_dialog_title">Odkrita ni nobena SD kartice</string>
      <string name="selected_resource_file_invalid">Ne morem uporabljati izbrano datoteko virov</string>
      <string name="settings">Nastavitve</string>
