@@ -122,8 +122,11 @@
      <string name="auto_upload_album_comfirm_to_share">Ta album se bo samodejno sinhr.</string>
      <string name="auto_upload_before_share_message">Za ta album je potrebno pred deljenjem napraviti var.kopijo na Mi Cloud </string>
      <string name="auto_upload_before_share_title">Nasvet</string>
+	 <string name="auto_upload_disable_tip">Samod. Var. kopija je onemogočena</string>
      <string name="auto_upload_guide_msssage">"Samodejno sinhr. svoje fotografije iz drugih aplikacij na Mi Cloud. To funkcijo lahko vključite/izključite v kateremkoli trenutku v Nastavitve - Sinh. z Mi Cloud - Sinh. Samodejno"</string>
-  <string name="auto_upload_guide_title">Sinhr. fotografij z Mi Cloudom</string>
+	 <string name="auto_upload_disable_toast_long_press_menu">Samod. Var. kopija je onemogočena, in dodana v "drugi album"</string>
+     <string name="auto_upload_guide_title">Sinhr. fotografij z Mi Cloudom</string>
+	 <string name="auto_upload_enable_toast_long_press_menu">Samod. Var. kopija je omogočena, nazaj na stran albuma za prikaz</string>
   <string name="auto_upload_disable_toast">"Var. kopija slik in videoposnetkov tega albuma ne bo izdelana samodejno"</string>
   <string name="auto_upload_enable_toast">Var. kopija slik in videoposnetkov tega albuma bo izdelana samodejno</string>
      <string name="auto_upload_title">Sinhr. samodejno</string>
@@ -143,7 +146,7 @@
      <string name="baby_album_sharers_page_title">Podelite z družino</string>
      <string name="baby_birthday">Rojstni dan</string>
      <string name="baby_lock_wallpaper">Slika za zakl. zaslon</string>
-     <string name="baby_lock_wallpaper_cancelled">Vnjeno na privzeto ozadje zakl. zaslona</string>
+     <string name="baby_lock_wallpaper_cancelled">Vrnjeno na privzeto ozadje zakl. zaslona</string>
      <string name="baby_lock_wallpaper_save_settings_msg">Uporabim trenutne nastavitve?</string>
      <string name="baby_lock_wallpaper_title">"Uporabi fotografijo otroka kot ozadje zakl. zaslona"</string>
      <string name="baby_name_cannot_empty">Vnesite ime</string>
@@ -154,7 +157,7 @@
      <string name="baby_sexy">Spol</string>
      <string name="baby_suffix">Otrok</string>
      <string name="backup_automatically_summary">Izdelaj Var. kopijo fotografij in videoposnetekov na vseh napravah na Mi Cloud. Lahko varno preglejujete, sortirate, urejate in delite fotografije in videoposneteke na vseh napravah.</string>
-     <string name="backup_automatically_title">Izdelaj in sinhtoniziraj samodejno</string>
+     <string name="backup_automatically_title">Izdelaj in sinhroniziraj samodejno</string>
      <string name="backup_only_in_wifi">Uporabljaj samo WiFi za izdelavo Var. kopije fotografij in videoposnetkov</string>
      <string name="backup_only_in_wifi_summary">Nikoli ne uporabi prenosa podatkov za izdelavo Var. kopije fotografij in videoposnetkov</string>
      <string name="begin_share">Končana izdelava otroškega albuma \"%s\", delite ga sedaj</string>
@@ -302,7 +305,7 @@
      <string name="delete_from_all_devices">iz vseh naprav</string>
      <string name="delete_from_devices">Iz vseh naprav ki so samodejno sinhronizirane</string>
      <string name="delete_from_devices_album">Iz vseh naprav ki so sinhr. ta  album</string>
-     <string name="delete_from_homepage_album">Iz albumov, ki su prikazani na začetni strani</string>
+     <string name="delete_from_homepage_album">Iz albumov ki so prikazani na začetni strani</string>
      <string name="delete_from_web">Spletni albumi</string>
      <string name="delete_in_album">Ko izbrišete fotografijo ali videoposnetek v albumu bo izbrisan tudi iz:</string>
      <string name="delete_in_home_page">Ko izbrišete fotografijo ali videoposnetek na začetni strani bo izbrisan tudi iz:</string>
@@ -673,11 +676,12 @@ naprave"</string>
      <string name="operation_unforce_top">Odstrani z vrha</string>
      <string name="operation_unhide">Prikaži</string>
   <string name="orientation_lock_tip">Rotacija zaklenjena</string>
-  <string name="orientation_unlock_tip">Avtom. rotacija vključena</string>
-  <string name="operation_unset_as_screensaver">Odpovej Čuvaja zaslona</string>
+  <string name="orientation_unlock_tip">Samod. rotacija vključena</string>
+  <string name="operation_unset_as_screensaver">Odpovej Ohranjevalnik zaslona</string>
   <string name="orientation">Usmerjanje</string>
      <string name="original">Original</string>
      <string name="original_scale">Original</string>
+	 <string name="other_album">Ostali albumi</string>
      <string name="other_category">Dodatne nastavitve</string>
      <string name="other_settings">Dodatne nastavitve</string>
      <string name="owner_album_subtitle">Deljeno z %1$s uporabniki</string>

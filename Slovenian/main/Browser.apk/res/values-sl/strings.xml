@@ -194,6 +194,7 @@ lepega zgodilo"</string>
 zasebnost​"</string>
      <string name="data_traffic_prompt_change">Uporaba podatkovne povezave za gledanje videov bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
      <string name="data_traffic_prompt_message">Uporaba podatkovne povezave za iskanje po spletu bo zvišala njeno porabo. Če prekoračite limit svojega operaterja vam lahko to dodatno zaračuna.</string>
+	 <string name="data_traffic_prompt_message_short">Uporaba mobilnih podatkov za stream videoposnetkov lahko povzroči prekoračitev mesečne omejitve.</string>
      <string name="data_traffic_prompt_title">Opozorilo porabe podatkov</string>
      <string name="date_picker_dialog_clear">Počisti</string>
      <string name="date_picker_dialog_other_button_label">Ostalo</string>
@@ -762,6 +763,9 @@ Zapustim to stran?"</string>
      <string name="video_downloaded_group">Prenešeno</string>
      <string name="video_downloading_group">Prenos…</string>
      <string name="video_edit">Uredi</string>
+	 <string name="video_float_window">PopUp</string>
+     <string name="video_float_window_playing">Predvajanje videoposnetka</string>
+     <string name="video_float_window_text">PopUp</string>
      <string name="video_fragment_name_collections">Priljubljeno</string>
      <string name="video_fragment_name_download">Izvenmrežno</string>
      <string name="video_fragment_name_historys">Zgodovina gledanja</string>

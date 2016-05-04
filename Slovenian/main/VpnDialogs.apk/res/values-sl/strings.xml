@@ -8,6 +8,6 @@
   <string name="duration">Trajanje:</string>
   <string name="legacy_title">Povezava z navideznim zasebnim omrežjem je vzpostavljena</string>
   <string name="prompt">Zahteva za povezavo</string>
-  <string name="session">Seja:</string>
-  <string name="warning">Aplikacija %s želi nastaviti povezavo VPN, ki omogoča nadzor omrežnega prometa. To sprejmite samo, če zaupate viru. Ko je povezava VPN aktivna, se na vrhu zaslona prikaže ikona &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt;.</string>
+  <string name="session">Seja</string>
+  <string name="warning">Aplikacija %s želi nastaviti povezavo VPN, ki omogoča nadzor omrežnega prometa. To sprejmite samo če zaupate viru. Ko je povezava VPN aktivna, se na vrhu zaslona prikaže ikona &lt;br /&gt; &lt;br /&gt; &lt;img src=vpn_icon /&gt;.</string>
 </resources>
