@@ -36,7 +36,6 @@
   <string name="choose_gprs_mode">Izberite podatkovno povezavo</string>
      <string name="close">close application</string>
   <string name="color_picker_select">-&gt;</string>
-     <string name="config_mm_package_name">com.aspire.mm</string>
   <string name="contact_widget_loading">Nalagam…</string>
   <string name="criticallowmessage">Sprostite nekaj prostora, drugače nekatere aplikacije in funkcije naprave ne bodo delovale pravilno.</string>
   <string name="criticallowtitle">Ni prostora</string>
