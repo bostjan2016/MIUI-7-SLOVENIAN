@@ -46,8 +46,6 @@
      <string name="cu_3gwap_name">沃3G手机上网</string>
      <string name="data_conn_only">Data connection only</string>
   <string name="day_concat">", "</string>
-     <string name="day_month_year_wday">%s %s %s, %s</string>
-     <string name="day_year_month_wday">%s %s %s, %s</string>
   <string name="default_label">Alarm</string>
   <string name="default_sim_setting_prompt">Privzete nastavitve so zdaj:</string>
   <string name="default_wallpaper_name">Privzeto</string>
@@ -178,9 +176,6 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="missed_call">%d zgrešen klic</string>
      <string name="missed_call_display">未接來電：</string>
   <string name="missed_calls">Zgrešeni klici: %d</string>
-     <string name="missed_message_display">未讀簡訊：</string>
-     <string name="month_day_year_wday">%s %s, %s, %s</string>
-     <string name="month_year_day_wday">%s %s %s, %s</string>
   <string name="msensor_toast_text">Motnje kompasa. Premikajte napravo v obliki številke 8 za ponovno kalibracijo.</string>
   <string name="music_library">Knjižnica</string>
   <string name="music_no_artist">Neznani izvajalec</string>
@@ -303,12 +298,6 @@ Poizkusite ponovno čez %d sekund."</string>
   <string name="wap_push_setting_noti_text">Pritisnite za izbiro</string>
   <string name="wap_push_setting_noti_ticker">Želite sprejeti ali ne želite sprejeti storitev samodejnega pošiljanja?</string>
   <string name="wap_push_setting_noti_title">Sprejmi ali zavrni storitev samodejnega pošiljanja?</string>
-     <string name="wday_day_month_year">%s, %s %s %s</string>
-     <string name="wday_day_year_month">%s, %s %s %s</string>
-     <string name="wday_month_day_year">%s, %s %s, %s</string>
-     <string name="wday_month_year_day">%s, %s %s %s</string>
-     <string name="wday_year_day_month">%s, %s %s %s</string>
-     <string name="wday_year_month_day">%s, %s %s %s</string>
   <string name="wifi_display_bt_hdmi_off_wfd_on">HDMI se bo izključil ko vključite Wifi. Želite nadaljevati?</string>
   <string name="wifi_display_change_resolution_reminder">Sprememba ločljivosti bo smodejno ponovno povezala Wifi.</string>
   <string name="wifi_display_connection_is_not_steady">Trenutna povezava Wifi ni stabilna.</string>
@@ -327,6 +316,4 @@ Poizkusite ponovno čez %d sekund."</string>
      <string name="wifi_tether_configure_ssid_default_for_cmcc">MTK Athens15</string>
   <string name="wifi_wps_failed_overlap">Poteka druga  WPS seja. Ponovno poizkusite čez nekaj minut.</string>
      <string name="wikiPediaName">wikipedia</string>
-     <string name="year_day_month_wday">%s %s %s, %s</string>
-     <string name="year_month_day_wday">%s %s %s, %s</string>
 </resources>
