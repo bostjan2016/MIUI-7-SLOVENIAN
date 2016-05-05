@@ -18,7 +18,7 @@
      <string name="AD_TITLE_NON_COUNT">Reklame niso zaznane</string>
      <string name="AD_Unistall">Odstrani</string>
      <string name="Call_ADRESS">Seznam blokad - lokalni</string>
-     <string name="Call_BLACKLIST">Seznam blokad klicev</string>
+Seznam blokiranih klicev     <string name="Call_BLACKLIST">Seznam blokad klicev</string>
      <string name="Call_DEFAULT">Pametni seznam blokad</string>
      <string name="Call_PREFIX">Seznam blokad - predštevilka</string>
      <string name="Call_PRIVATE_CALL">Zasebni klici</string>
@@ -27,13 +27,13 @@
      <string name="PAST_BLOCK">Predhodno blokiran</string>
      <string name="Phonepass">Dovoli klice</string>
      <string name="SMS_ADRESS">Seznam blokad - lokalni</string>
-     <string name="SMS_BLACKLIST">Seznam blokad sporočil</string>
+Seznam blokiranih sporočil     <string name="SMS_BLACKLIST">Seznam blokad sporočil</string>
      <string name="SMS_DEFAULT">Pametni seznam blokad</string>
      <string name="SMS_KEYWORDS">Seznam blokad ključnih besed</string>
      <string name="SMS_PREFIX">Seznam blokad - predštevilke</string>
      <string name="SMS_SERVICE">Seznam blokad - storitve</string>
      <string name="SMSpass">Dovoli sporočila</string>
-     <string name="STRANGER_BLOCK">Seznam blokad - neznane številke</string>
+Seznam blokiranih neznanih številk     <string name="STRANGER_BLOCK">Seznam blokad - neznane številke</string>
      <string name="action_source_sms_title">Blokirani SMS</string>
   <string name="ad_block_hint">Blokirano: %d</string>
      <string name="ad_install_monitor">Preglejte aplikacije za reklame</string>
