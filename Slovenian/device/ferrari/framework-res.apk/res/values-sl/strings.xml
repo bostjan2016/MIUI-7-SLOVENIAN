@@ -965,7 +965,7 @@ Znova poskusite čez %d s."</string>
   <string name="permgroupdesc_microphone">Snemanje zvoka</string>
   <string name="permgroupdesc_network">Dostop do različnih funkcij omrežja.</string>
   <string name="permgroupdesc_personalInfo">Neposreden dostop do podatkov o vas, shranjenih v vizitki.</string>
-  <string name="permgroupdesc_phone">Opravljanje in upravljanje telefonskih klicev</string>
+  <string name="permgroupdesc_phoneCalls">Opravljanje in upravljanje telefonskih klicev.</string>
   <string name="permgroupdesc_screenlock">Možnost vplivanja na obnašanje zaklenjenega zaslona na napravi.</string>
   <string name="permgroupdesc_socialInfo">Neposreden dostop do podatkov o stikih in družbenih povezav.</string>
   <string name="permgroupdesc_statusBar">Spreminjanje nastavitev vrstice stanja naprave.</string>
