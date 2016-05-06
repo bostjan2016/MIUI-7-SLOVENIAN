@@ -8,7 +8,7 @@
      <string name="clear_shortcuts">Počisti bližnjice</string>
      <string name="clear_shortcuts_agree">Počisti bližnjice</string>
      <string name="clear_shortcuts_disagree">Ne počisti bližnjic</string>
-     <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika, uporabite nastavitve brskalnika.</string>
+     <string name="clear_shortcuts_prompt">Ali želite izbrisati vse bližnjice do nedavno izbranih predlogov iskanja? Če želite izbrisati zgodovino brskalnika uporabite nastavitve brskalnika.</string>
      <string name="clear_shortcuts_summary">Počisti bližnjice do nedavno izbranih predlogov iskanja</string>
      <string name="connect_and_retry">Povežite se na splet in poskusite ponovno</string>
      <string name="corpus_description_apps">Nameščene aplikacije</string>
@@ -16,14 +16,14 @@
      <string name="corpus_hint_apps">Išči aplikacije</string>
      <string name="corpus_label_apps">Aplikacije</string>
      <string name="corpus_label_global">Vse</string>
-     <string name="corpus_label_web">Internet</string>
+     <string name="corpus_label_web">Splet</string>
      <string name="corpus_selection_heading">Iskanje</string>
-     <string name="cta_declaration">"Ta funkcija potrebuje povezavo z internetom, dostop do lokacije vaše naprave, ter pregled zgodovine klicev in stikov za normalno delovanje."</string>
+     <string name="cta_declaration">"Ta funkcija potrebuje povezavo s spletom, dostop do lokacije vaše naprave ter pregled zgodovine klicev in stikov za normalno delovanje."</string>
      <string name="cta_declaration_ignore">"Ne prikaži ponovno"</string>
      <string name="cta_declaration_negative_text">Izhod</string>
      <string name="cta_declaration_positive_text">Dovoli</string>
      <string name="cta_declaration_title">Pogoji dajanja uslug</string>
-     <string name="default_hint">Išči aplikacije, glasbo, videozapise, knjige…</string>
+     <string name="default_hint">Išči aplikacije, glasbo, videoposnetke, knjige…</string>
      <string name="default_search_domain">.google.com</string>
      <string name="device_settings_category_title">Počisti bližnjice</string>
      <string name="google_app_label">Google iskanje</string>
@@ -43,8 +43,8 @@
      <string name="remove_from_history">Ali želite odstraniti to postavko iz zgodovine iskanja?</string>
      <string name="remove_from_history_failed">Ne morem odstraniti postavke iz zgodovine.</string>
      <string name="search_history">Zgodovina</string>
-     <string name="search_in_app_store">Iskanje aplikacij market</string>
-     <string name="search_in_web">Iskanje internet</string>
+     <string name="search_in_app_store">Iskanje aplikacij v trgovini</string>
+     <string name="search_in_web">Iskanje na spletu</string>
      <string name="search_settings">Nastavitve iskanja</string>
      <string name="search_sources">Iskani predmeti</string>
      <string name="search_sources_summary">Izberi kaj iskati v telefonu</string>
