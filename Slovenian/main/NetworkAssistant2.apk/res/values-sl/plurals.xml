@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="hints_traffic_enable_title">
-        <item quantity="other">Ne spremljaj uporabo podatakov za toliko (%d) aplikacij</item>
-        <item quantity="one">Ne spremljaj uporabo podatakov za %d aplikacijo</item>
+        <item quantity="other">Ne spremljaj uporabe podatakov za toliko (%d) aplikacij</item>
+        <item quantity="one">Ne spremljaj uporabe podatakov za %d aplikacijo</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">Spremljaj uporabo podatakov za toliko (%d) aplikacij</item>
@@ -21,8 +21,8 @@
         <item quantity="one">%d aplikacija uporablja prihranek podatkov</item>
     </plurals>
     <plurals name="hints_traffic_saving_disable_title">
-     	<item quantity="other">Toliko aplikacij (%d) ne uporablja prihranek podatkov</item>
-        <item quantity="one">%d aplikacija ne uporablja prihranek podatkov</item>
+     	<item quantity="other">Toliko aplikacij (%d) ne uporablja prihranka podatkov</item>
+        <item quantity="one">%d aplikacija ne uporablja prihranka podatkov</item>
     </plurals>
     <plurals name="hints_install_apps_interval">
         <item quantity="other">Uporabljeno pred (%d) dni</item>
@@ -37,8 +37,8 @@
         <item quantity="one">%d aplikacija lahko uporablja mobilne podatke</item>
     </plurals>
     <plurals name="hints_roaming_disable_title">
-        <item quantity="other">"Toliko aplikacij (%d) ne more uporabljati mobilne podatke"</item>
-        <item quantity="one">"%d aplikacija ne more uporabljati mobilne podatke"</item>
+        <item quantity="other">"Toliko aplikacij (%d) ne more uporabljati mobilnih podatkov"</item>
+        <item quantity="one">"%d aplikacija ne more uporabljati mobilnih podatkov"</item>
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">Najdeno (%d) aplikacij</item>
