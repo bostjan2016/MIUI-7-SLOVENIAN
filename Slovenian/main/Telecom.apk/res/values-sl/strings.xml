@@ -51,7 +51,7 @@
   <string name="test_account_3_short_description">Pogovarjajte se z uporabniki omrežja</string>
   <string name="unknown">Neznano</string>
   <string name="userCallActivityLabel">Telefon</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Če želite opravljati videoklice, onemogočite način TTY.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Če želite opravljati videoklice onemogočite način TTY.</string>
   <string name="voice_dial_out">Glasovni klic</string>
   <string name="voice_report_incoming_call">Klicanje</string>
   <string name="voice_report_unknown_num">Neznana številka</string>

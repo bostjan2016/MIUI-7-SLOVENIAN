@@ -13,7 +13,7 @@
   <string name="button_last">Začetek</string>
   <string name="button_next">Naprej</string>
   <string name="button_pre">Nazaj</string>
-  <string name="can_not_find_explorer">"Ne morem najti Datoteke aplikacije"</string>
+  <string name="can_not_find_explorer">"Ne morem najti aplikacije Raziskovalec"</string>
   <string name="can_not_send_this_file">"Ne morem poslati teh datotek"</string>
   <string name="cancel">Prekliči</string>
   <string name="cancel_receive">Prekliči prejem</string>
@@ -95,7 +95,7 @@
   <string name="noti_receiving">%1$s:Prejemam %2$d/%3$d datotek</string>
   <string name="noti_sending">%1$s:Pošiljam%2$d/%3$d datotek</string>
   <string name="noti_wait_receive">Čakam na pošiljatelja...</string>
-  <string name="noti_wait_send">Čakam za prejem: Poskrbite, da je pošiljatelj omogočil povezavo in lahko pošilja datoteke</string>
+  <string name="noti_wait_send">Čakam za prejem: Poskrbite da bo pošiljatelj omogočil povezavo in lahko pošilja datoteke</string>
   <string name="notify_after_download">Obvesti po prenosu</string>
   <string name="notify_after_restore">Obvesti po kon. obnovitvi</string>
   <string name="ok">Potrdi</string>
@@ -142,9 +142,9 @@
   <string name="save_to_kuaipan">Shrani na MiDrive</string>
   <string name="scan_2d_code">Skeniraj 2D kodo</string>
   <string name="scan_file">Skeniraj datoteko</string>
-  <string name="scan_tip">Prepričajte se, da je prejemnik omogočil povezavo
+  <string name="scan_tip">Prepričajte se da bo prejemnik omogočil povezavo
      in lahko prejme datoteke.</string>
-  <string name="scan_title">Prosimo, da se osredotoči na kodo 2D</string>
+  <string name="scan_title">Prosimo da se osredotoči na kodo 2D</string>
   <string name="scanning">Skeniram...</string>
   <string name="sdcard_invalid">SD kartica je nedostopna</string>
   <string name="sdcard_unavailable">SD kartica ni na voljo</string>
@@ -152,8 +152,8 @@
   <string name="select_file_to_share">Izberi datoteko za skupno rabo</string>
   <string name="send">Pošlji</string>
   <string name="send_2d_code">Pošlji z 2D kodo</string>
-  <string name="send_cancel_tip">Prenos je še vedno v teku. Ustavite prenos in iztopite?</string>
-  <string name="send_cancel_tip2">Prenos preklican: pošlji %1$d / %2$d datoteko(s)</string>
+  <string name="send_cancel_tip">Prenos je še vedno v teku. Ustavim prenos in iztopim?</string>
+  <string name="send_cancel_tip2">Prenos preklican: pošlji %1$d / %2$d datotek/o</string>
   <string name="send_file_to_friends_by_net">Skupna raba datotek s prijatelji MiShare</string>
   <string name="send_files">Pošiljanje %1$d files</string>
   <string name="send_finish">Datoteka poslana!</string>
@@ -211,14 +211,14 @@
   <string name="wait_login">Prijava…</string>
   <string name="wait_net">Čakam omrežno povezavo…</string>
   <string name="wait_sdcard">Čakam SD kartico</string>
-  <string name="wait_wifi">Čakam Wi-Fi povezavo</string>
-  <string name="wait_wifi_to_download">Čakam na Wi-Fi povezavo</string>
-  <string name="wait_wifi_to_upload">Čakam na Wi-Fi povezavo</string>
+  <string name="wait_wifi">Čakam WiFi povezavo</string>
+  <string name="wait_wifi_to_download">Čakam na WiFi povezavo</string>
+  <string name="wait_wifi_to_upload">Čakam na WiFi povezavo</string>
   <string name="waiting_receive">Čakam na pošiljatelja...</string>
   <string name="waitting">Čakam…</string>
   <string name="wanna_receive">Prejemanje</string>
-  <string name="welcome_tip1">Prenašaj datotek hitro brez uporabe vaših mobilnih podatkov.
-      Wi-Fi Ap se bo odprl med prejmanjem</string>
-  <string name="welcome_tip2">Delite fotografije, glasbo, imenik, in še veliko več!</string>
+  <string name="welcome_tip1">Prenašaj datoteke hitro brez uporabe vaših mobilnih podatkov.
+      WiFi Ap se bo odprl med prejmanjem</string>
+  <string name="welcome_tip2">Delite fotografije, glasbo, imenik in še veliko več!</string>
   <string name="you_can">V redu</string>
 </resources>
