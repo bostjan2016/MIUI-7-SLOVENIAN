@@ -166,7 +166,7 @@ samodejno najprej porabljeni"</string>
   <string name="msg_order_hint_1_1">Po pritisku Potrdi nakup se bo vaš telefon</string>
   <string name="msg_order_hint_1_2">Samodejno povezal na operaterja.</string>
   <string name="msg_picker_hint_1_1">1.</string>
-  <string name="msg_picker_hint_1_2">Doplačilo preko SMS-a je dražje: 2 RMB (0,24€) = 1 Mi Kredit/string>
+  <string name="msg_picker_hint_1_2">Doplačilo preko SMS-a je dražje: 2 RMB (0,24€) = 1 Mi Kredit</string>
   <string name="msg_picker_hint_2_1">2.</string>
   <string name="msg_picker_hint_2_2">Za vsako doplačilo preko SMS-a operater zaračuna %1$s RMB nadomestila</string>
   <string name="msg_picker_hint_3_1">3.</string>
