@@ -27,6 +27,7 @@ ali vnesite geslo"</string>
      <string name="activity_title_network_speed_detail">Povezanost</string>
      <string name="activity_title_networkassistants">Poraba podatkov</string>
      <string name="activity_title_notification_bar_manager">Obvestila</string>
+  <string name="activity_title_other_permission_manager">Ostala dovoljenja</string>
      <string name="activity_title_perm_manager">Dovoljenja</string>
      <string name="activity_title_permission_manager">Dovoljenja</string>
      <string name="activity_title_permissions_manager">Dovoljenja</string>

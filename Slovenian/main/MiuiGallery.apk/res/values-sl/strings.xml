@@ -123,9 +123,9 @@
      <string name="auto_upload_before_share_message">Za ta album je potrebno pred deljenjem napraviti var.kopijo na Mi Cloud </string>
      <string name="auto_upload_before_share_title">Nasvet</string>
 	 <string name="auto_upload_disable_tip">Samod. Var. kopija je onemogočena</string>
-     <string name="auto_upload_guide_msssage">"Samodejno sinhr. svoje fotografije iz drugih aplikacij na Mi Cloud. To funkcijo lahko vključite/izključite v kateremkoli trenutku v Nastavitve - Sinh. z Mi Cloud - Sinh. Samodejno"</string>
 	 <string name="auto_upload_disable_toast_long_press_menu">Samod. Var. kopija je onemogočena, in dodana v "drugi album"</string>
      <string name="auto_upload_guide_title">Sinhr. fotografij z Mi Cloudom</string>
+  <string name="auto_upload_guide_msssage">"Samodejno sinhr. svoje fotografije iz drugih aplikacij na Mi Cloud. To lahko vključite/izključite kadarkoli v Nastavitve - Sinh. z Mi Cloud - Sinh. samodejno"</string>
 	 <string name="auto_upload_enable_toast_long_press_menu">Samod. Var. kopija je omogočena, nazaj na stran albuma za prikaz</string>
   <string name="auto_upload_disable_toast">"Var. kopija slik in videoposnetkov tega albuma ne bo izdelana samodejno"</string>
   <string name="auto_upload_enable_toast">Var. kopija slik in videoposnetkov tega albuma bo izdelana samodejno</string>
@@ -574,6 +574,7 @@
      <string name="message_no_delete_access">"Nimate dovoljenja za izbris %s"</string>
      <string name="messagelist_sender_self">Jaz</string>
      <string name="micloud_introduce">Samodejno izdelaj Var. kopijo fotografij in videoposnetkov (potreben Mi Račun)</string>
+  <string name="more_album_hint">,itd</string>
      <string name="miliao">Mi Talk</string>
      <string name="miliao_folder_display_name">Mi Talk</string>
      <string name="miliao_painting_folder_display_name">Mi Talk barvanje</string>
@@ -597,6 +598,7 @@
      <string name="mtxx">MTXX</string>
      <string name="multiface_crop_help">Tapni obraz za začetek</string>
      <string name="must_pick_file">Izberi sliko</string>
+  <string name="name_split">,</string>
      <string name="name_wrong">"To ni %s"</string>
      <string name="need_to_log_in_xiaomi_account">Prijavite se da samodejno naredite Var. kopijo fotografij in videoposnetkov na Mi Cloud</string>
      <string name="need_to_turn_on_network">"Nimate spletne povezave."</string>
@@ -794,6 +796,7 @@ naprave"</string>
      <string name="rise">Toplo</string>
      <string name="rotate">Rotiraj</string>
      <string name="rotate_tooltip">Povleci fotografijo za rotacijo</string>
+  <string name="runtime_permission_ungranted">Aplikacija Galerija zaprta ker nima dovoljenja</string>
      <string name="same_name_album_exist_and_toast">"Album s istim imenom že obstaja. Namesto tega je izdelan '%s."</string>
      <string name="same_name_album_exists_alert">Fotografije bodo dodane v obstoječi album z istim imenom</string>
      <string name="saturation">Nasičenost</string>

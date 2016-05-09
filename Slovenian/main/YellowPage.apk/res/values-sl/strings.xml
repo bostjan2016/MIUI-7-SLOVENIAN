@@ -327,6 +327,7 @@
      <string name="payment_unknown_status_summary">Preverite omrežno povezavo in poskusite znova.</string>
      <string name="payment_unknown_status_title">Potrditev statusa plačila ni bila mogoča</string>
      <string name="phone_event_setting_notice_text">"Z uporabo te funkcije se strinjate z našimi %1$s in %2$s".</string>
+  <string name="phone_event_setting_notice_text_with_contacts_permission">"Z uporabo te funkcije se strinjate z našimi %1$s i %2$s. Za povrnitev namizja telefona potrebujemo dostop do vaših stikov."</string>
   <string name="phone_info_divider">" ｜ "</string>
      <string name="photo_count">%d skupno</string>
   <string name="pull_to_refresh_pull_label">Povleci za osvežitev…</string>

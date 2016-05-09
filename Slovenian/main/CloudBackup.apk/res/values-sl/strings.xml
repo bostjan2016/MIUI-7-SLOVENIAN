@@ -9,8 +9,10 @@
      <string name="backing_up_to_micloud">Varnostno kopiram...</string>
      <string name="backup_fail">"Ne morem izdelati var. kopije"</string>
      <string name="backup_finished_notification_content">Shranjene so aplikacije zač.zaslona, sistemske nastavitve itd.</string>
+  <string name="backup_now">Napravi var. kopijo zdaj</string>
      <string name="backup_size">Velikost: %s</string>
      <string name="backup_success">Varnostna kopija uspešno napravljena</string>
+  <string name="backup_successfully">Var. kopija uspešno napravljena</string>
   <string name="backup_to_cloud">Var. kopija aplikacij</string>
      <string name="button_cancel">Prekliči</string>
      <string name="button_delete">Izbriši</string>
@@ -29,12 +31,12 @@
      <string name="cloud_app_restore_error">"Ne morem obnoviti"</string>
      <string name="cloud_app_restore_success">Aplikacije obnovljene</string>
      <string name="cloud_app_restore_wifi_prompt">Za obnovitev vaših aplikacij in uporabniških podatkov se povežite na WiFi omrežje.</string>
-     <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
+  <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
   <string name="cloud_back_up_detail_discription">"Te postavke bodo shranjene na vaš Mi Cloud kadar boste povezani na WiFi: 
-*\u0009\u0009\u0009\u0009Aplikacije, začetni zaslon in slike za ozadje
-*\u0009\u0009\u0009\u0009Nastavitve alarma, ure in časa 
-*\u0009\u0009\u0009\u0009Nastavitve obvestil
-*\u0009\u0009\u0009\u0009MIUI in nastavitve sistema 
+*\u0009\u0009\u0009Aplikacije, izgled zač. zaslona in slike za ozadje
+*\u0009\u0009\u0009Nastavitve alarma, ur in časa 
+*\u0009\u0009\u0009Nastavitve obvestil
+*\u0009\u0009\u0009MIUI in nastavitve sistema 
 Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</string>
      <string name="cloud_back_up_frequence_choice_title">Razpored var. kopije</string>
      <string name="cloud_back_up_frequence_long">Vsakih 7 dni</string>
@@ -104,6 +106,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>
      <string name="restore_from_this_device">Obnovi z uporabo te var. kopije</string>
      <string name="restore_home_screen_apps">Obnovi iz var. kopije na Mi Cloudu</string>
+  <string name="restore_task_unfinished">Obnavljanje aplikacij, poskusite kasneje/string>
      <string name="restoreing_file_tile">Obnavljanje datotek (%d)</string>
      <string name="retry">Poskusi ponovno</string>
      <string name="self_phone">Ta telefon</string>
