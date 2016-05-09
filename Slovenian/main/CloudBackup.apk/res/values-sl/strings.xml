@@ -106,7 +106,7 @@ Opomba: Podatki za nameščene aplikacije ne bodo shranjeni na Mi Cloud."</strin
      <string name="restore_from_cloud">Obnovi iz Mi Clouda</string>
      <string name="restore_from_this_device">Obnovi z uporabo te var. kopije</string>
      <string name="restore_home_screen_apps">Obnovi iz var. kopije na Mi Cloudu</string>
-  <string name="restore_task_unfinished">Obnavljanje aplikacij, poskusite kasneje/string>
+  <string name="restore_task_unfinished">Obnavljanje aplikacij, poskusite kasneje</string>
      <string name="restoreing_file_tile">Obnavljanje datotek (%d)</string>
      <string name="retry">Poskusi ponovno</string>
      <string name="self_phone">Ta telefon</string>
