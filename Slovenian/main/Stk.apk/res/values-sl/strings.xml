@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="alphabet">Pisave</string>
-     <string name="app_name">Orodja za SIM</string>
-     <string name="app_name2">Orodja za SIM2</string>
-     <string name="app_name3">Orodja za SIM3</string>
+  <string name="alphabet">Abeceda</string>
+  <string name="app_name">SIM Orodje</string>
+  <string name="app_name2">SIM Orodje2</string>
+  <string name="app_name3">SIM Orodje3</string>
      <string name="button_cancel">Prekliči</string>
      <string name="button_no">Ne</string>
      <string name="button_ok">V redu</string>

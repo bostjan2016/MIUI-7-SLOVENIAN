@@ -25,7 +25,7 @@
   <string name="notification_missedCall_message">Sporočilo</string>
   <string name="notification_missedCallsMsg">%s neodgovorjenih klicev</string>
   <string name="notification_missedCallsTitle">Neodgovorjeni klici</string>
-  <string name="outgoing_call_error_no_phone_number_supplied">Če želite opraviti klic, vnesite veljavno številko.</string>
+  <string name="outgoing_call_error_no_phone_number_supplied">Če želite opraviti klic vnesite veljavno številko.</string>
   <string name="outgoing_call_not_allowed">Ta uporabnik nima dovoljenja za klicanje razen klicev v sili</string>
   <string name="outgoing_call_not_allowed_no_permission">Ta aplikacija lahko opravlja odhodne klice brez dovoljenja za telefon.</string>
   <string name="outgoing_call_not_allowed_user_restriction">Lastnik naprave dovoljuje samo opravljanje klicev v sili</string>

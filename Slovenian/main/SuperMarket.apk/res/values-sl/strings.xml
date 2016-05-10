@@ -23,7 +23,7 @@
   <string name="app_comments_title">Komentarji: %1$s</string>
   <string name="app_label">Upravitelj prenosov</string>
   <string name="app_name">Mi Market</string>
-  <string name="auto_restart_under_wifi">WiFi bo avtomatsko prenesel datoteko</string>
+  <string name="auto_restart_under_wifi">WiFi bo samodejno prenesel datoteko</string>
   <string name="bad_authentication">Preverba avtentičnosti ni uspela, napačno up. ime ali geslo</string>
   <string name="bad_comments">Negativni</string>
   <string name="basic_info">Osnovne informacije</string>
@@ -62,7 +62,7 @@
   <string name="comment_upload_hint">Vaš komentar bo prikazan po kratkem pregledu.</string>
   <string name="comment_upload_login_cancel">Prekliči</string>
   <string name="comment_upload_login_ok">Prijava uspešna</string>
-  <string name="comment_upload_need_login">Prijaviti se zdaj za dodajanje komentarja?</string>
+  <string name="comment_upload_need_login">Se boste prijavili zdaj za dodajanje komentarja?</string>
   <string name="comment_upload_not_logined">Prijavite se</string>
   <string name="comment_upload_success">Vaš komentar je uspešno poslan! Prikazan bo po kratkem pregledu.</string>
   <string name="comment_version_name">%1$s</string>
@@ -131,10 +131,10 @@
   <string name="error_user_name">Uporabniško ime ni veljavno</string>
   <string name="expand_full_text">Razširi vse</string>
   <string name="expand_full_text_comment">Razširi▼</string>
-  <string name="failed_to_send_activate_email">Pošiljanje e-maila aktivacije ni uspelo.</string>
+  <string name="failed_to_send_activate_email">Pošiljanje e-pošte aktivacije ni uspelo.</string>
   <string name="favorite_account_need_activitied">Vaš račun še ni aktiviran, ga aktiviram zdaj?</string>
-  <string name="favorite_account_need_login">Prijaviti se in označiti to aplikacijo?</string>
-  <string name="favorite_cancel_acount_need_login">Prijaviti se in odznačiti to aplikacijo?</string>
+  <string name="favorite_account_need_login">Vas prijavim in označim to aplikacijo?</string>
+  <string name="favorite_cancel_acount_need_login">Vas prijavim in odznačim to aplikacijo?</string>
   <string name="favorite_cancel_no_network">"Ne morem se povezati na omrežje."</string>
   <string name="favorite_delete_fail">Odznačevanje aplikacije ni uspelo</string>
   <string name="favorite_delete_success">Aplikacija odznačena</string>
@@ -198,7 +198,7 @@
   <string name="megabytes_unit">%1$sMB</string>
   <string name="menu_account">Moj račun</string>
   <string name="menu_clear_update_history">Izbriši zgodovino posodobitev</string>
-  <string name="menu_detail">Prikaži detajle</string>
+  <string name="menu_detail">Prikaži podrobnosti</string>
   <string name="menu_download_manager">Prenosi</string>
   <string name="menu_ignore">Ignoriraj</string>
   <string name="menu_login">Prijava</string>
@@ -244,10 +244,10 @@ sledite povezavi v aktivacijskem sporočilu"</string>
   <string name="new_app_tag">Novo</string>
   <string name="next">Dalje</string>
   <string name="no_average_score">N/A</string>
-  <string name="no_change_log">Ni detajlov posodobitve</string>
+  <string name="no_change_log">Ni podrobnosti posodobitve</string>
   <string name="no_comment">Ni komentarjev</string>
   <string name="no_data">Zahteva ni uspela. Poskusite ponovno kasneje.</string>
-  <string name="no_description">Ni detajlov</string>
+  <string name="no_description">Ni podrobnosti</string>
   <string name="no_download_history">"Niste prenesli še ničesar"</string>
   <string name="no_download_task">Ni prenosov</string>
   <string name="no_favorites">"Niste označili nobene aplikacije"</string>
@@ -404,7 +404,7 @@ Dotaknite se %s za začetek prenoda ko boste povezani z WiFi."</string>
   <string name="wrong_captcha">Vnešena koda ni pravilna</string>
   <string name="wrong_vcode">Vnešena koda ni pravilna</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
-  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico ali če je shramba vključena.</string>
+  <string name="xiaomi_external_storage_unavailable">Shramba ni dostopna, preverite SD kartico ali če je pomnilnik vključen.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
   <string name="xiaomi_megabytes_unit">%1$sMB</string>
   <string name="xiaomi_update_dialog_message">"Nova verzija %1$s
