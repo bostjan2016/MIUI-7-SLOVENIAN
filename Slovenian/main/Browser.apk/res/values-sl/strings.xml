@@ -89,6 +89,8 @@
      <string name="block_ads_message">Želite blokirati sporočila s te spletne strani?</string>
      <string name="block_ads_title">Vsebina lahko vsebuje oglase</string>
      <string name="bookmark_add_to">Dodaj</string>
+	 <string name="bookmark_btn_select_all">Izberi vse</string>
+     <string name="bookmark_btn_select_none">Prekliči vse</string>
      <string name="bookmark_cannot_save_url">Povezave ni mogoče dodati med zaznamke.</string>
      <string name="bookmark_folder_needs_title">Vpiši ime mape</string>
      <string name="bookmark_group_lable">Skupina</string>
@@ -202,6 +204,7 @@ zasebnost​"</string>
      <string name="date_picker_dialog_title">Nastavi datum</string>
      <string name="date_time_picker_dialog_title">Nastavi datum in uro</string>
      <string name="delete">Izbriši</string>
+	 <string name="delete_bookmark">Izbriši</string>
      <string name="delete_bookmark_group_warning">Odstranim %s? Vsi zaznamki v tej skupini bodo izbrisani.</string>
      <string name="delete_bookmark_warning">Odstranim zaznamek %s?</string>
      <string name="delete_download">Izbriši</string>
