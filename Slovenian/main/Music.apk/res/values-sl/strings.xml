@@ -495,6 +495,10 @@
      <string name="pay_now">Plačaj zdaj</string>
      <string name="payment_fail">Plačilo ni uspelo</string>
      <string name="payment_success">Plačilo uspelo</string>
+	 <string name="permission_declaration_message">Dovolite dostop do pomnilnika v Varnost &gt; Dovoljenja &gt; Dovoljenja &gt; Shranjevanje &gt; Glasba da aplikacija Glasba dela normalno.</string>
+     <string name="permission_declaration_negative_text">Kasneje</string>
+     <string name="permission_declaration_positive_text">Pojdi v Varnost</string>
+     <string name="permission_declaration_title">Dovoli dostop</string>
      <string name="play_all_song">Predvajaj vse</string>
      <string name="play_next">Naslednja pesem</string>
      <string name="playback_failed_no_title_by_bad_file">Format te skladbe ni podprt ali datoteka ne obstaja.</string>

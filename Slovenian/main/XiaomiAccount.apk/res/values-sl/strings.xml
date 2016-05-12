@@ -328,6 +328,7 @@
      <string name="passport_error_verify_code">Koda ki ste jo vnesli je napačna</string>
      <string name="passport_failed_to_send_activate_email">Ne morem poslati aktivacijski e-mail</string>
 	 <string name="passport_find_device_activate_account">Aktiviraj račun</string>
+  <string name="passport_find_device_display_id">Št. odklepov: %s</string>
      <string name="passport_find_password_on_web_msg">Obišči account.mi.com za ponastavitev gesla.</string>
      <string name="passport_forget_password">Pozabljeno geslo</string>
      <string name="passport_forget_password_no_underline">Pozabljeno geslo</string>
