@@ -324,11 +324,11 @@
      <string name="description_image_button_two">dva</string>
      <string name="description_image_button_zero">nič</string>
      <string name="description_voicemail_button">govorna pošta</string>
-     <string name="dial">Kliči</string>
+     <string name="dial">Klicanje</string>
      <string name="dial_emergency_empty_error">Številka ki ste jo vnesli ni registrirana kot številka v sili. Pokličite številko za klic v sili.</string>
      <string name="dial_emergency_error">Klicanje ni mogoče. %s ni številka za klic v sili.</string>
      <string name="dial_pad_autocomplete">Samodejno dopolnjevanje</string>
-     <string name="dial_related_setting_catory">Kliči</string>
+     <string name="dial_related_setting_catory">Klicanje</string>
      <string name="dialerKeyboardHintText">Za klicanje uporabite tipkovnico</string>
      <string name="dialog_activate_livetalk">Potrdi</string>
      <string name="dialog_call_ordinary_telephone">Uporabi SIM kartico</string>
@@ -531,7 +531,6 @@
      <string name="important_attention">Pozor</string>
   <string name="importingSimContacts">Uvoz SIM stikov</string>
      <string name="ims_accounts_title">IMS račun</string>
-     <string name="ims_call_type_control">ImsCallTypeCapabilityControl</string>
   <string name="ims_edit_title">Detajli IMS računa</string>
      <string name="ims_menu_discard">Zavrzi</string>
      <string name="ims_menu_save">Shrani</string>
@@ -539,7 +538,6 @@
   <string name="ims_service_capability_title">Možnosti IMS usluge</string>
      <string name="ims_set_wifi_calling_preference_failed">Neuspešno nastavljanje nastavitev WiFi klica</string>
      <string name="ims_settings">IMS Nastavitve</string>
-     <string name="ims_vt_call_quality">VtCallQuality</string>
      <string name="ims_vt_call_quality_high">Visoka</string>
      <string name="ims_vt_call_quality_low">Nizka</string>
      <string name="ims_vt_call_quality_set_failed">Nastavljanje video kvalitete ni uspelo</string>
@@ -777,7 +775,7 @@ za uporabo top-up package"</string>
      <string name="msim_mode_progress_deactivating_message">Izklop</string>
      <string name="msim_not_set_summary">Ni nastavljeno</string>
      <string name="msim_pref_title_data">Splet</string>
-     <string name="msim_pref_title_voice">Kliči</string>
+     <string name="msim_pref_title_voice">Klicanje</string>
      <string name="msim_select_default_time_left">(%d s)</string>
      <string name="msim_set_icc_card_error">Napaka ICC kartice</string>
      <string name="msim_set_sub_not_supported_phone_in_call">Ni mogoče nastaviti med klicem</string>

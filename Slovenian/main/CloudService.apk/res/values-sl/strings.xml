@@ -129,10 +129,10 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="micloud_battery_low_notification_message">Priključite polnilec za sinhr.</string>
      <string name="micloud_battery_low_notification_title">Slaba baterija</string>
      <string name="micloud_buy_member">Račun</string>
-     <string name="micloud_check_sim_notify_text">Izgleda da ste zamenjali SIM kartico. Vpišite se 
+     <string name="micloud_check_sim_notify_text">Kaže da ste zamenjali SIM kartico. Vpišite se 
   v Mi račun za aktivacijo Mi Cloud-a.</string>
      <string name="micloud_check_sim_notify_title">Reaktiviraj Mi račun</string>
-     <string name="micloud_check_sim_title">Izgleda da ste zamenjali SIM kartico.  Vpišite se 
+     <string name="micloud_check_sim_title">Kaže da ste zamenjali SIM kartico.  Vpišite se 
   v Mi račun za aktivacijo Mi Cloud-a.</string>
      <string name="micloud_confusion_account_hint">"Spremembe na tej napravi bodo sinhronizirane na vseh vaših napravah. Da zaščitite svoj račun priporočamo da izključite sinhronizacijo na drugih napravah kadar jih ne uporabljate."</string>
      <string name="micloud_confusion_account_name">"Račun: "</string>
@@ -308,7 +308,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="micloud_storage_expires_soon_title">Prostor na Mi Cloud kmalu poteče</string>
      <string name="micloud_storage_expires_very_soon_title">Prostor na Mi Cloud kmalu poteče</string>
   <string name="micloud_storage_full">Mi Cloud je poln</string>
-     <string name="micloud_storage_usage" formatted="false">Uporabljeno %s/Vsega prostora %s</string>
+     <string name="micloud_storage_usage" formatted="false">Uporabljeno %s/vsega prostora %s</string>
      <string name="micloud_sync_alert_dialog_message">Sinhronizirajte vaše fotografije, stike, beležke in več na vseh vaših napravah.</string>
      <string name="micloud_sync_alert_dialog_negative">Prekini</string>
      <string name="micloud_sync_alert_dialog_positive">V redu</string>
@@ -404,7 +404,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="sync_dspt_entrance_provision_confirm_close">"Ne uporabi"</string>
      <string name="sync_dspt_entrance_provision_confirm_content">"MIUI aplikacijam je Mi Cloud potreben za izdelavo var. kopije fotografij, stikov, beležk in ostalega. Mi Cloud je brezplačen in pripravljen v trenutku."</string>
      <string name="sync_dspt_entrance_provision_confirm_open">Uporabi Mi Cloud</string>
-     <string name="sync_dspt_entrance_provision_confirm_title">"Ne morete uporabiti Mi Cloud?"</string>
+     <string name="sync_dspt_entrance_provision_confirm_title">"Ne boste uporabljali Mi Cloud-a?"</string>
   <string name="sync_dspt_entrance_provision_skip">Preskoči ta korak</string>
      <string name="sync_dspt_provision">Mi Cloud sinhronizira vaše slike, SMS sporočila, beležke in aplikacije in ostalo na vseh vaših Mi napravah. Do njih lahko dostopate preko brskalnika na</string>
      <string name="sync_dspt_provision2">i.mi.com</string>
