@@ -2309,7 +2309,7 @@ Na tej napravi je več uporabnikov.
      <string name="oldman_mode_entry_title">Lite način</string>
      <string name="oldman_mode_settings_caption">Nastavitve Lite načina</string>
      <string name="oldman_mode_summary">Uporabi poenostavljen domači zaslon in menije</string>
-     <string name="oldman_mode_summary_cta">Lite način potrebuje povezavo s spletom da lahko prebere vaše stike, sporočila in detajle o lokaciji za normalno delovanje.</string>
+     <string name="oldman_mode_summary_cta">Lite način potrebuje povezavo s spletom da lahko prebere vaše stike, sporočila in podrobnosti o lokaciji za normalno delovanje.</string>
      <string name="onekey_migrate">Prenos</string>
      <string name="online_resource_entry">Spletni viri</string>
      <string name="only_one_home_message">Nastavitve za začetno stran bodo skrite dokler ne namestite druge aplikacije za začetno stran.</string>
