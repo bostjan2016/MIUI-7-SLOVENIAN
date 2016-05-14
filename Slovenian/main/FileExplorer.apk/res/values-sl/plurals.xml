@@ -105,12 +105,12 @@
         <item quantity="many">Pred %1$d min.</item>
 	</plurals>
     <plurals name="hours_ago">
-        <item quantity="other">Pred %1$d sati</item>
-        <item quantity="zero">Pred %1$d sati</item>
-        <item quantity="one">Pred %1$d sat</item>
-        <item quantity="two">Pred %1$d sata</item>
-        <item quantity="few">Pred %1$d sati</item>
-        <item quantity="many">Pred %1$d sati</item>
+        <item quantity="other">Pred %1$d urami</item>
+        <item quantity="zero">Pred %1$d urami</item>
+        <item quantity="one">Pred %1$d uro</item>
+        <item quantity="two">Pred %1$d urama</item>
+        <item quantity="few">Pred %1$d urami</item>
+        <item quantity="many">Pred %1$d urami</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">Pred %1$d dnevi</item>
