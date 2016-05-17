@@ -43,9 +43,9 @@
 	 <string name="action_menu_text_share">Deli</string>
      <string name="action_menu_text_snapshot">Shrani stran</string>
      <string name="action_menu_text_video">Video</string>
-	 <string name="action_menu_toolbox">Toolbox</string>
-     <string name="action_menu_useful_page">Dodaj koristno</string>
-     <string name="action_menu_useful_page_added">Koristno dodano</string>
+	 <string name="action_menu_toolbox">Orodja</string>
+     <string name="action_menu_useful_page">Dodaj bližnjico</string>
+     <string name="action_menu_useful_page_added">Dodano na začetno stran</string>
      <string name="actionbar_share">Deli</string>
      <string name="actionbar_web_search">Spletno iskanje</string>
      <string name="adblock_notification">%d oglasov blokiranih</string>

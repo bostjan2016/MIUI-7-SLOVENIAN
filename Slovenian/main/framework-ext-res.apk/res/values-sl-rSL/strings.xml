@@ -71,7 +71,7 @@
   <string name="replace">Zamenjaj</string>
   <string name="resource_select">Izberi</string>
   <string name="screen_button_disabled_message">Navigacijske tipke so izključene. Da jih ponovno vključite se dotaknite tipk \"Domov\" in \"Vklop\" istočasno.</string>
-  <string name="screen_button_enabled_message">Navigacijske tipke so izključene.</string>
+  <string name="screen_button_enabled_message">Navigacijske tipke so vključene.</string>
   <string name="screen_button_notification_text">"Da jih vključite istočasno pritisnite tipki  \"Domov\" in \"Vklop\"."</string>
   <string name="screen_button_notification_title">Navigacijske tipke so izključene</string>
   <string name="screen_on_proximity_sensor_hint">"Za izklop te funkcije istočasno pritisnite tipki \"Nazaj\" in \"Glasnost +\"."</string>

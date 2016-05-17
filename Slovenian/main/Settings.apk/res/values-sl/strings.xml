@@ -2017,7 +2017,7 @@ Na tej napravi je več uporabnikov.
      <string name="mem_use_total">Skupaj</string>
      <string name="mem_use_zram_type">Zamenjava pomnilnika ZRam</string>
      <string name="memory">RAM</string>
-  <string name="memory_apps_usage">Aplikacije (podatki aplikacij &amp; medijska vsebina)</string>
+  <string name="memory_apps_usage">Aplikacije &amp; podatki aplikacije</string>
      <string name="memory_available">Na voljo</string>
      <string name="memory_available_read_only">Na voljo (samo za branje)</string>
      <string name="memory_avg_desc">Povprečno %1$s</string>
@@ -2113,7 +2113,8 @@ Na tej napravi je več uporabnikov.
   <string name="msd_driver_download_mac_url">Prenos datoteke na http://www.android.com/filetransfer/</string>
   <string name="msd_driver_download_xp">Za PC prenesite MiPhoneManager za odkrivanje zunanjega pomnilnika</string>
   <string name="msd_driver_download_xp_url">Prenos datoteke na http://zhushou.xiaomi.com/</string>
-     <string name="msd_help_summary">Ne morem se povezati z vašo napravo. Izberite vaš operacijski sistem:</string>
+     <string name="msd_help_summary">Ne morem se povezati z vašo napravo. 
+  Izberite vaš operacijski sistem:</string>
      <string name="msd_help_title">Pomoč</string>
      <string name="msd_install">Ponovno namestim gonilnik?</string>
      <string name="msd_install_download_zhushou">Prenesite sem Mi Phone Manager</string>
@@ -3433,12 +3434,12 @@ Kasneje lahko ponovno namestite aplikacije, a njihovi podatki s te naprave bodo 
 Vsi podatki v tem pomnilniku (^1) bodo izbrisani. Priporočamo da podatke prej varnostno kopirate. 
 
 "&lt;b&gt;Varnostno kopiranje fotografij in druge predstavnosti&lt;/b&gt;" 
-Premaknite predstavnostne datoteke v drug pomnilnik v tej napravi ali jih s kablom USB prenesite v ra&amp;#269;unalnik. 
+Premaknite predstavnostne datoteke v drug pomnilnik v tej napravi ali jih s kablom USB prenesite v računalnik. 
 
 "&lt;b&gt;Varnostno kopiranje aplikacij&lt;/b&gt;" 
-Vse aplikacije shranjene v tem pomnilniku (^1) bodo odstranjene in podatki aplikacij izbrisani. &amp;#268;e &amp;#382;elite ohraniti te aplikacije jih premaknite v drugo shrambo v tej napravi</string>
+Vse aplikacije shranjene pomnilniku ^1 bodo odstranjene in podatki aplikacij izbrisani. Če želite ohraniti te aplikacije jih premaknite v drugo shrambo v tej napravi</string>
   <string name="storage_internal_title">Notranji pomnilnik</string>
-     <string name="storage_internal_unmount_details">&lt;b&gt;Ko izvr&amp;#382;ete to shrambo (^1),&amp;#160;bodo aplikacije shranjene na njej prenehale delovati, predstavnostne datoteke shranjene na njej pa ne bodo na voljo, dokler je ne vstavite znova.&lt;/b&gt;"
+     <string name="storage_internal_unmount_details">&lt;b&gt;Ko izvržete napravo ^1 bodo aplikacije shranjene na njej prenehale delovati, predstavnostne datoteke shranjene na njej pa ne bodo na voljo, dokler je ne vstavite znova.&lt;/b&gt;"
 
 Pomnilnik ^1 je formatiran tako da deluje samo v tej napravi. V drugih ne bo delovala.</string>
      <string name="storage_label">Prostor za shranjevanje</string>
@@ -3948,7 +3949,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
      <string name="virtual_sim_description">Preverjena mednarodna storitev ostovanja</string>
   <string name="virtual_sim_global_category_title">Mi SIM</string>
   <string name="virtual_sim_global_description">SIM kartica ni potrebna za povezovanje z podatkovnim omrežjem</string>
-  <string name="virtual_sim_global_title">Usluga prometa podatkov</string>
+  <string name="virtual_sim_global_title">Usluga mobilnih podatkov</string>
      <string name="virtual_sim_search_title">Virtualna SIM</string>
      <string name="virtual_sim_title">Gostovanje omrežja podatakov</string>
      <string name="virus_scan">Iskanje virusov</string>
@@ -4185,7 +4186,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
      <string name="wifi_empty_list_wifi_off">Za prikaz razpoložljivih omrežij vklopite WiFi.</string>
      <string name="wifi_empty_list_wifi_on">Iskanje omrežij WiFi …</string>
      <string name="wifi_enable">WiFi</string>
-  <string name="wifi_enable_data_and_wifi_roam">Dovoli gostovanje podatkov in WiFi</string>
+  <string name="wifi_enable_data_and_wifi_roam">Preklop med podatki in WiFi</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Prestavi na podatkovno povezavo ko WiFi nima dostopa do spleta.</string>
      <string name="wifi_enable_watchdog_service_summary">Izogni se slabi povezavi</string>
      <string name="wifi_error">Napaka</string>
