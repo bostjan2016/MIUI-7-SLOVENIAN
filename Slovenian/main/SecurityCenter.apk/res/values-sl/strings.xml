@@ -642,6 +642,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="online_songs">Glasba</string>
      <string name="open_now">Dovoli aplikacijam uporabo mobilnih podatkov</string>
      <string name="operator_diagnostic">Diagnostika operaterja</string>
+  <string name="operator_mi_sim">Mi SIM</string>
      <string name="operator_name_cmcc">China Mobile</string>
      <string name="operator_name_telcom">China Telecom</string>
      <string name="operator_name_unicom">China Unicom</string>
@@ -894,6 +895,7 @@ Maks.: %1$s%2$s | %3$s izkoriščeno"</string>
      <string name="pref_leisure_no_overlay">Vključeno</string>
      <string name="pref_leisure_not_opened">Izključeno</string>
      <string name="pref_manual_adjust">Ročno nastavi statistiko porabe podatkov</string>
+  <string name="pref_mi_sim_settings">Mi SIM nastavitve</string>
      <string name="pref_month_begin_date">Datum ponastavitve porabe</string>
      <string name="pref_month_first_day">1</string>
      <string name="pref_more_traffic_settings">Dodatne nastavitve</string>
@@ -1367,6 +1369,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="usbsharenet_exception_title">Test povezave preko USB-ja</string>
      <string name="usbsharenet_pc_exception_summary">"Ne morem se povezati na splet preko deljene povezave. Preverite spletno povezavo vašega računalnika."</string>
      <string name="virus_list_header_title">Najdeno virusov (%d)</string>
+  <string name="warning_open_mi_sim">Vključi Mi SIM</string>
      <string name="wifi_exception_summary">Test dostopnih WiFi omrežij</string>
      <string name="wifi_exception_title">Test WiFi omrežja</string>
      <string name="wifi_network_blocked_notification_title">Ni povezave s spletom</string>

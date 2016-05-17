@@ -11,6 +11,7 @@
      <string name="activity_title_ignored_image">Ignorirano</string>
      <string name="activity_title_image_gallery">Izbriši duplikate</string>
      <string name="activity_title_large_file">Velike datoteke</string>
+  <string name="activity_title_main">Čistilec</string>
      <string name="activity_title_news">Novice</string>
      <string name="activity_title_privacy_cache">Predpomnilnik zasebnosti</string>
      <string name="activity_title_residual">Ostanki</string>

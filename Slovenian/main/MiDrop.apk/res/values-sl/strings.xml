@@ -59,6 +59,7 @@
   <string name="receiver_transfer_interrupt">"Prenos prekinjen, ne izklopite WiFi med prenosom"</string>
   <string name="receiver_video_file_current">Prejemanje %2$d​ od %1$s…</string>
   <string name="receiver_video_file_num">Prejemanje %2$d​ od %1$s…</string>
+  <string name="runtime_permission_ungranted">Ne morem uporabiti Mi Drop ker ni odobreno dovoljenje</string>
   <string name="send_file_time_format_m">m:s</string>
   <string name="send_file_time_format_s">s</string>
   <string name="sender_cancel">"Ne pošlji"</string>

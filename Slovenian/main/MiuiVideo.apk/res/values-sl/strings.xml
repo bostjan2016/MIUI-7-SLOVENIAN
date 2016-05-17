@@ -149,6 +149,7 @@
   <string name="empty_data">Prišlo je do napake</string>
      <string name="empty_keyword_hint">Polje ne sme biti prazno</string>
      <string name="empty_tv_exiting">Izhod ...</string>
+  <string name="enter_detail">Več informacij</string>
   <string name="episode_name_format">Ep. %1$s</string>
   <string name="episode_suffix">"Ep. %d "</string>
      <string name="error_empty_filter_title">Ni rezultatov</string>

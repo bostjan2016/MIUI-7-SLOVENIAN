@@ -288,6 +288,7 @@
      <string name="assisted_gps">Uporabljaj GPS s pomočjo</string>
      <string name="assisted_gps_disabled">Uporabi strežnik za pomoč pri uporabi sistema GPS (izključite da izboljšate delovanje sistema GPS)</string>
      <string name="assisted_gps_enabled">Uporabljaj strežnik za pomoč pri sistemu GPS (izključite da zmanjšate uporabo omrežja)</string>
+  <string name="attempt_other_network">Poskusi drugo omrežje</string>
      <string name="audio_list_loading">Nalaganje...</string>
      <string name="audio_profile_settings_title">Avdio profili</string>
      <string name="audio_record_proc_title">Zmanjšanje zunanjih zvokov</string>
@@ -1985,6 +1986,7 @@ Na tej napravi je več uporabnikov.
      <string name="master_clear_progress_title">Brisanje</string>
      <string name="master_clear_summary">Izbriše vse podatke na telefonu</string>
      <string name="master_clear_title">Povrnitev na tovarniške nastavitve</string>
+  <string name="max_cpu10_info">"10 jedrni "</string>
      <string name="max_cpu4_info">"4 jedrni "</string>
      <string name="max_cpu6_info">"6 jedrni "</string>
      <string name="max_cpu8_info">"8 jedrni "</string>
