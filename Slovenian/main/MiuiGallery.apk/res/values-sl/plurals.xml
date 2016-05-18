@@ -108,6 +108,10 @@
         <item quantity="other">Izbrišem %1$d videoposnetkov iz %2$d albuma ?</item>
         <item quantity="one">Izbrišem videoposnetek iz %2$d albuma ?</item>
      </plurals>
+	 <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Izbrano %d predmetov</item>
+        <item quantity="one">Izbran %d predmet</item>
+	</plurals>
      <plurals name="delete_media_msg_format">
         <item quantity="other">Izbrišem %1$d predmetov %2$s?</item>
         <item quantity="one">izbrišem %1$d predmet %2$s?</item>
@@ -119,6 +123,10 @@
      <plurals name="delete_video_msg_format">
         <item quantity="other">Izbrišem %1$d videoposnetkov %2$s?</item>
         <item quantity="one">Izbrišem videoposnetek %2$s?</item>
+     </plurals>
+	 <plurals name="download_error">
+        <item quantity="other">Napaka prenosa %1$d datotek</item>
+        <item quantity="one">Napaka prenosa %1$d datoteke</item>
      </plurals>
      <plurals name="how_many_pics">
         <item quantity="other">Št. slik: %1$d</item>

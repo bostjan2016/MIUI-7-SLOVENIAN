@@ -289,6 +289,10 @@
      <string name="crop_save_text_setas">Uporabi</string>
      <string name="crop_tooltip">Povleci oznake za obrezovanje</string>
      <string name="crossprocess">Premik barv</string>
+  <string name="custom_select_title_deselect_all">Prekliči izbrano</string>
+  <string name="custom_select_title_select_all">Izberi vse</string>
+  <string name="custom_select_title_select_item">Izberi postavke</string>
+  <string name="debugging_tip">Generiranje debug podatkov</string>
      <string name="cut">Obreži</string>
      <string name="damaged_file">Datoteka poškodovana</string>
      <string name="dcim_100media">Taobao TMall</string>
@@ -337,11 +341,15 @@
      <string name="done">Končano</string>
      <string name="doodle">Čačkarija</string>
      <string name="doodle_tooltip">Tapni za čečkanje</string>
-     <string name="download">Prenos</string>
-     <string name="download_fail">Prenos ni uspel</string>
-     <string name="download_fail_confirm_continue">"Ni bilo mogoče naložiti %s"</string>
-     <string name="download_refocus_data">Naloži preusmeritvene podatke</string>
+  <string name="download_fail">"Ne morem prenesti"</string>
+  <string name="download_fail_confirm_continue">"Ne morem prenesti %s"</string>
+  <string name="download_retry_message">Napaka prenosa, povežite se na omrežje in poskusite ponovno.</string>
+  <string name="download_retry_text">Poskusite ponovno</string>
+  <string name="download_retry_title">Napaka prenosa</string>
+  <string name="download">Prenašanje</string>
+  <string name="download_title">Priprava datotek</string>
      <string name="download_tip">Prenesi</string>
+  <string name="download_refocus_data">Prenesi z refokusiranjem podatkov</string>
      <string name="download_without_wifi_msg">"Uporaba mobilne podatkovne povezave za prenos fotografij bo povečala uporabo podatakov. Vaš operater vam to lahko zaračuna."</string>
      <string name="download_without_wifi_title">Opozorilo uporabe podatakov</string>
      <string name="duotone">Dvobarvno</string>
@@ -386,7 +394,8 @@
      <string name="exit_video_play">Izhod</string>
      <string name="expand_people">Prikaži več oseb</string>
      <string name="face_album_detecting_tip">Samo trenutek…</string>
-     <string name="face_album_empty">Prazno.</string>
+ <string name="face_album_empty">"Ni dovolj fotografij za prepoznavanje osebe.
+Napravite več fotografij vaših prijateljev!"</string>
      <string name="face_album_empty_syncing">Sinhr. podatkov.</string>
      <string name="face_album_empty_syncing_when_connect_wifi">Sinh. albume z osebami ko je povezano na WiFi</string>
      <string name="external_sd_card">SD kartica</string>
@@ -641,18 +650,19 @@ naprave"</string>
   <string name="open_sync_title">Sinhr. z Mi Cloud</string>
   <string name="operation_add_picture">Dodaj slike</string>
   <string name="operation_add_secret">Skrij.</string>
+  <string name="operation_add_secret_button">Skrij</string>
      <string name="operation_delete">Izbriši</string>
      <string name="operation_detail">Podrobnosti</string>
      <string name="operation_disable_auto_upload">Onemogoči samod. var. kopijo</string>
      <string name="operation_download">Prenesi fotografijo (%s)</string>
      <string name="operation_edit">Uredi</string>
      <string name="operation_enable_auto_upload">Omogoči samod. var. kopijo</string>
-  <string name="operation_add_secret_button">Skrij</string>
+  
      <string name="operation_delete_confirm_message_folder">"Celotna vsebina map bo izbrisana.
 "</string>
      <string name="operation_failed">Opravilo ni uspelo</string>
+  <string name="operation_force_top">Na vrh</string>
      <string name="operation_give_name">Ime</string>
-     <string name="operation_force_top">Na vrh</string>
      <string name="operation_hide">Skrij</string>
      <string name="operation_in_process">Obdelujem…</string>
      <string name="operation_not_show_in_photos_tab">"Ne prikazuj v zavihku Fotografije"</string>
@@ -907,6 +917,7 @@ naprave"</string>
      <string name="slideshow_repeat_mode">Ponovi</string>
      <string name="sports_camera">Športna Kamera</string>
      <string name="square">Kvadrat</string>
+  <string name="start_debug">Debug Galerije</string>
      <string name="start_slide_show">Začni diaprojekcijo</string>
      <string name="start_to_use_face_albumset">Razporedi po osebah</string>
      <string name="storage_all_volumes">Vse pomnilniške naprave</string>

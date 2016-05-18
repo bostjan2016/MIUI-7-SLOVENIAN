@@ -16,6 +16,7 @@
      <string name="account_dspt_provision">Uporabite svoj Mi račun da se prijavite v Mi Cloud, MIUI Trgovino Teme in druge storitve MI od koderkoli.</string>
      <string name="account_dspt_provision2">Preberite več</string>
      <string name="account_empty_user_name">Vnesite uporabniško ime za vaš Mi Račun</string>
+  <string name="account_error_all_space_user_name">"Ime ne sme biti prazno"</string>
      <string name="account_error_longer_user_name">"Ime ne sme biti daljše od 20 znakov"</string>
      <string name="account_error_shorter_user_name">Ime mora biti daljše od 2 znakov</string>
      <string name="account_error_user_birthday">Rojstni dan ni veljaven</string>
@@ -180,6 +181,7 @@
      <string name="data_keep_in_device">Ostani na tej napravi</string>
      <string name="data_wipe_from_device">Izbriši iz te naprave</string>
      <string name="delete_action">Izbriši</string>
+  <string name="delete_bank_card_failed">Ne morem odstraniti bančne kartice, poskusite ponovno</string>
      <string name="delete_device_btn">Odstrani</string>
      <string name="delete_device_failed">"Ne morem odstraniti naprave"</string>
      <string name="delete_device_notice">Ko je naprava odstranjena se bo izpisala iz vašega Mi račun samodejno. Ne boste mogli uporabljati te naprave za dostop do fotografij, sporočil ali druge vsebine shranjene na vašem računu.</string>
