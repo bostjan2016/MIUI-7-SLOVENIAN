@@ -361,7 +361,7 @@ Za več informacij se obrnite na svojega mobilnega operaterja"</string>
      <string name="hints_auto_start_warning_info">Če omejite samodejni zagon se lahko zgodi da nekatere aplikacije ne bodo mogle sprejemati obvestil.</string>
      <string name="hints_cleanning_text">Čiščenje...</string>
      <string name="hints_handle_item_text_risk">Tveganj: %d</string>
-     <string name="hints_handle_item_text_safe">Varen</string>
+     <string name="hints_handle_item_text_safe">Varno</string>
      <string name="hints_handle_item_text_virus">Virusov: %d</string>
      <string name="hints_input_roaming_daily_limit">Vnesite omejitev uporabe podatkov</string>
      <string name="hints_install_apps_new">Nikoli uporabljeno</string>
@@ -970,7 +970,7 @@ Prihranek podatkov dela samo kadar uporabljate 2G/3G omrežje vašega mobilnega 
      <string name="process_kernel_label">Android</string>
      <string name="process_mediaserver_label">Medijski strežnik</string>
      <string name="prompt_input_time_illegal">"Ne morem nastaviti na ta čas, zamenjajte ga in poskusite ponovno"</string>
-     <string name="protection_category_dangerous_title">Tveganja (%d)</string>
+     <string name="protection_category_dangerous_title">Tveganj (%d)</string>
      <string name="protection_category_recommend_title">Priporočene spremembe (%d)</string>
   <string name="protection_category_security_title">Očisti (%d)</string>
      <string name="protocol_exception_title">Diagnostika protokola omrežja</string>

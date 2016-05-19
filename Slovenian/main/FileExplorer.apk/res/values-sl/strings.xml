@@ -537,8 +537,8 @@
      <string name="rlv_last_refreshing_time">Posodobljeno %1$s</string>
      <string name="rlv_loading_more">Samo trenutek…</string>
      <string name="rlv_pull_to_refresh">Potegni za osveževanje</string>
-  <string name="rlv_refreshing">Osvežavanje…</string>
-     <string name="rlv_release_to_refresh">Izpusti za osvežavanje</string>
+  <string name="rlv_refreshing">Osveževanje…</string>
+     <string name="rlv_release_to_refresh">Izpusti za osveževanje</string>
      <string name="save_to_local">Prevzeto</string>
      <string name="sd_card_available">Na voljo: %1$s</string>
      <string name="sd_card_size">SD kartica: %1$s</string>
