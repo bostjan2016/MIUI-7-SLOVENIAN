@@ -35,7 +35,7 @@
      <string name="backup_success_confirm">Prikaži</string>
      <string name="backup_success_message">Shranjeno na %1$s</string>
      <string name="backup_success_title">Var. kopija napravljena</string>
-     <string name="backup_title">Napravim Var. kopije WeChat videoposnetkov?</string>
+     <string name="backup_title">Napravim Var. kopijo WeChat videoposnetkov?</string>
      <string name="big5_summary">Tradicionalno kitajsko Windows privzeto kodiranje</string>
      <string name="big5_title">BIG5</string>
      <string name="bind_account">Sinhroniziraj obstoječe račune</string>
@@ -76,7 +76,7 @@
      <string name="category_type_document">Dokumenti</string>
      <string name="category_type_meida">Mediji</string>
      <string name="category_type_other">Ostalo</string>
-     <string name="category_video">Video posnetki</string>
+     <string name="category_video">Videoposnetki</string>
      <string name="category_zip">Arhivi</string>
      <string name="change_sticker">Izberite drugo nalepko</string>
      <string name="choose_report_reason">Zakaj to prijavljate?</string>
@@ -145,7 +145,7 @@
      <string name="des_running_trans">%1$d datotek ni bilo prenešenih.</string>
      <string name="dialog_confirm">V redu</string>
      <string name="dialog_select_type">Izberi tip</string>
-     <string name="dialog_type_audio">Audio</string>
+     <string name="dialog_type_audio">Avdio</string>
      <string name="dialog_type_image">Slike</string>
   <string name="dialog_type_text">Tekst</string>
      <string name="dialog_type_video">Videi posnetki</string>
@@ -339,7 +339,7 @@
      <string name="my_bakup_other_desc" />
      <string name="my_bakup_pic">Slike</string>
      <string name="my_bakup_pic_desc" />
-     <string name="my_bakup_video">Video posnetki</string>
+     <string name="my_bakup_video">Videoposnetki</string>
      <string name="my_bakup_video_desc" />
      <string name="my_camera_album">Albumi</string>
      <string name="my_camera_album_desc" />
@@ -349,7 +349,7 @@
      <string name="my_music_desc" />
      <string name="my_photo">Slike</string>
      <string name="my_photo_desc" />
-     <string name="my_video">Video posnetki</string>
+     <string name="my_video">Videoposnetki</string>
      <string name="my_video_desc" />
      <string name="name_empty">Morate vnesti ime.</string>
      <string name="need_read_storage_permission">"Aplikacija Raziskovalec potrebuje dovoljenje za dostop do pomnilnika naprave"</string>
@@ -393,7 +393,7 @@
      <string name="notif_title">FTP strežnik deluje</string>
      <string name="notification_content_hint">Dotakni se za prikaz</string>
      <string name="notification_dialog_confirm">V redu</string>
-     <string name="notification_dialog_content">Avtomatsko obvesti in organiziraj kadar so datoteke dodane ali spremenjene v %1$s.</string>
+     <string name="notification_dialog_content">Samodejno obvesti in organiziraj kadar so datoteke dodane ali spremenjene v %1$s.</string>
      <string name="notification_dialog_title">Obvestila</string>
      <string name="notification_name_combine">zh_cn=%1$s&amp;zh_tw=%2$s&amp;=%3$s</string>
      <string name="notification_setting">Obvestila</string>
