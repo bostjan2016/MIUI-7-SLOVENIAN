@@ -482,6 +482,9 @@
      <string name="expand_recipient_details">Razširi podrobnosti prejemnikov</string>
      <string name="fail_get_email_message">Prejem sporočila ni uspel</string>
      <string name="failed">Slike ni bilo mogoče naložiti</string>
+  <string name="failed_read_phone_state_permission">"Nimate dovoljenja za dostop do stanja telefona"</string>
+  <string name="failed_read_write_calendar_permission">"Nimate dovoljenja za dostop do Koledarja"</string>
+  <string name="failed_read_write_contacts_permission">"Nimate dovoljenja za dostop do Stikov"</string>
      <string name="feedback">Pošlji povratne informacije</string>
      <string name="feedback_body">Sporočilo</string>
      <string name="feedback_sent">Hvala za vaše povratne informacije</string>
@@ -961,7 +964,8 @@
   <string name="report_phishing">Prijavite krajo identitete</string>
   <string name="report_spam">Prijavite neželjenu pošto</string>
      <string name="request_entity_large">Datoteka je prevelika</string>
-     <string name="require_manual_sync_message">Sinhroniziranje tega računa je izklopljeno med gostovanjem.</string>
+  <string name="request_permission_activity">Iskanje dovoljenja/string>
+     <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>
   <string name="respond_inline">Odgovori v tekstu</string>
      <string name="resume_draft">Uredi</string>
      <string name="retry">Poskusite znova</string>
@@ -999,7 +1003,9 @@
      <string name="send">Pošlji</string>
      <string name="send_att_title">Opozorilo</string>
      <string name="send_failed">Sporočilo ni bilo poslano</string>
-     <string name="sender_whitelist_cleared">Slike ne bodo avtomatsko prikazane.</string>
+  <string name="send_feed_back">Pošlji povratne informacije</string>
+  <string name="send_feed_back_keywords">E-pošta, povratne informacije, email klijent, stik E-mail;Pošlji povratne informacije</string>
+     <string name="sender_whitelist_cleared">Slike ne bodo samodejno prikazane.</string>
      <string name="senders_elided">..</string>
   <string name="senders_split_token">, </string>
      <string name="sending">Pošiljanje...</string>
@@ -1127,6 +1133,8 @@ Dotaknite se "&lt;b&gt;Sinhroniziraj zdaj&lt;/b&gt; da boste pošto sinhronizira
      <string name="widget_all_mail">Vsa pošta</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Ostalo</string>
+  <string name="wipe_account_fail_description">Dotaknite se za dovoljenje</string>
+  <string name="wipe_account_fail_title">"Ne morem izbrisati osebne podatke"</string>
      <string name="wrong_password">Geslo ki ste ga vnesli je napačno.</string>
      <string name="yes">Da</string>
   <string name="yidianzixun">yidianzixun</string>

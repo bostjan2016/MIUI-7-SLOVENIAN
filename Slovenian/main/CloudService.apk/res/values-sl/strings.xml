@@ -304,6 +304,9 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="micloud_notif_title_sync_with_off">Sinhr. z Mi Cloud</string>
      <string name="micloud_other_product_price">Primerjaj cene</string>
      <string name="micloud_proceed">Nadaljuj</string>
+  <string name="micloud_request_permission_confirm">Razumem</string>
+  <string name="micloud_request_permission_content">Mi Cloud potrebuje dovoljenje za sinhronizacijo podatkov. Dovolite Mi Cloudu dostop do Koledarja, Stikov, Mi Računa, statusa SIM kartice, zgodovine klicev in sporočil.</string>
+  <string name="micloud_request_permission_title">Mi Cloud potrebuje dovoljenje</string>
      <string name="micloud_sec_dspt">in deli stvari s prijatelji.</string>
      <string name="micloud_setting_antispam_summary">Izjeme in blokirane številke telefona.</string>
      <string name="micloud_setting_browser_summary">Oznake, zgodovina in kartice</string>
@@ -412,6 +415,7 @@ Ta funkcija šifrira in pošilja ID vaše naprave na Mi strežnike."</string>
      <string name="soundrecorder_sync_records">Sinhr. z Mi Cloud</string>
      <string name="start_micloud">Začni</string>
      <string name="storage">Pomnilnik</string>
+  <string name="sub_alert_notif_content">Vključite sinhr. z Mi Cloudom za shranjevanje vaših podatkov</string>
      <string name="sub_alert_notif_dspt_add">Predmetov čaka na sinhr.: %s</string>
      <string name="sub_alert_notif_dspt_no">Sinhronizirano</string>
      <string name="sub_alert_notif_title">Ne sinhroniziraj</string>

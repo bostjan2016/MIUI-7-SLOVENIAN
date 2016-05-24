@@ -3847,6 +3847,7 @@ Razmislite o uporabi hitrejšega pomnilnika ^1, če želite boljše delovanje.</
      <string name="use_nuplayer_summary">Uporabi NuPlayer namesto AwesomePlayerja</string>
      <string name="use_personalized_ad_service">Prilagojeni oglasi</string>
      <string name="use_system_language_to_select_input_method_subtypes">Uporabi sistemski jezik</string>
+  <string name="use_this_wlan">Ostani povezan</string>
      <string name="user_account_title">Račun za vsebino</string>
   <string name="user_add_max_count">Ne morete dodati več kot %1$d uporabnikov</string>
      <string name="user_add_on_lockscreen_menu">Dodajanje uporabnikov ko je naprava zaklenjena</string>
