@@ -964,7 +964,7 @@
   <string name="report_phishing">Prijavite krajo identitete</string>
   <string name="report_spam">Prijavite neželjenu pošto</string>
      <string name="request_entity_large">Datoteka je prevelika</string>
-  <string name="request_permission_activity">Iskanje dovoljenja/string>
+  <string name="request_permission_activity">Iskanje dovoljenja</string>
      <string name="require_manual_sync_message">Sinhronizacija za ta račun je izključena v gostovanju.</string>
   <string name="respond_inline">Odgovori v tekstu</string>
      <string name="resume_draft">Uredi</string>
