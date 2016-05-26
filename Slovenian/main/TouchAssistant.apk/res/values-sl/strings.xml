@@ -12,6 +12,8 @@
     <string name="hide_touch_assistant_intro">Skrij Asistenta z dotikom v nekaterih aplikacijah.</string>
     <string name="name_alipay_payment_code">Alipay hitro plačilo</string>
     <string name="name_alipay_scan">Skeniraj Alipay kodo</string>
+	<string name="name_long_press_power_key">Dolg pritisk na tipko za vklop</string>
+    <string name="name_memory_clean">Izbriši predpomnilnik</string>
     <string name="name_kill_processes">Čiščenje pomnilnika</string>
     <string name="name_music_next_song">Naslednja pesem</string>
     <string name="name_music_prev_song">Prejšnja pesem</string>
