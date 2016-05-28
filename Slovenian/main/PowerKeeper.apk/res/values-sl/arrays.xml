@@ -76,11 +76,11 @@
         <item>Bujenje</item>
      </string-array>
      <string-array name="power_checker_running_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WiFi skeniranje</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>Bujenje</item>
+        <item>Blokiranje globokega mirovanja</item>
+        <item>Blokiranje mirovanja</item>
+        <item>Iskanje WiFi-ja</item>
+        <item>Z uporabo GPS</item>
+        <item>Zasedenost CPU</item>
+        <item>Pogosto zbujanje naprave</item>
      </string-array>
 </resources>

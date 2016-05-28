@@ -117,7 +117,7 @@ Potrebna je Mainland China bančna kartica za nakup dodatnega prostora."</string
      <string name="license_host_unreachable">Povezave ni mogoče vzpostaviti. Da boste lahko videli podatke pojdite na %s.</string>
      <string name="loading">Nalagam...</string>
      <string name="loading_hint">Nalagam</string>
-  <string name="master_alert_notif_content">%d podatkov ni sinhronizirano.</string>
+  <string name="master_alert_notif_content">Ne morem sinhronizirati.</string>
   <string name="master_alert_notif_dspt_add">Za sinhr.: %s</string>
      <string name="master_alert_notif_dspt_no">Sinhronizirano</string>
      <string name="master_alert_notif_title">Zadnjič sinhronizirano pred %s dnevi</string>

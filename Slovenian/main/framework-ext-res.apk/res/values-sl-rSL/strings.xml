@@ -94,6 +94,7 @@
   <string name="status_bar_toggle_auto_brightness">Svetlost</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Svetlost</string>
+  <string name="status_bar_toggle_cast">Predvajaj</string>
   <string name="status_bar_toggle_data">Podatki</string>
   <string name="status_bar_toggle_divider">Več</string>
   <string name="status_bar_toggle_drive_mode">Avto</string>
