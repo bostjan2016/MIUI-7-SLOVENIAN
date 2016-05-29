@@ -22,7 +22,7 @@
      <string name="activity_title_similar_image_group">Izbriši duplikate</string>
      <string name="activity_title_tedious_image">Slučajne fotografije</string>
      <string name="activity_title_uninstall_apps">Aplikacije</string>
-     <string name="activity_title_video">Izbriši videozapise</string>
+     <string name="activity_title_video">Izbriši videoposnetke</string>
      <string name="activity_title_white_list">Izjeme</string>
      <string name="apk_status_damage">Poškodovano</string>
      <string name="apk_status_duplicate">Duplikati</string>
@@ -335,7 +335,7 @@
      <string name="summary_delete_apk">Trajno izbrišem izbrane aplikacije?</string>
      <string name="summary_delete_cache">Očistim predpomnilnik izbranih aplikacij?</string>
      <string name="summary_delete_large_file">Trajno izbrišem izbrane datoteke?</string>
-     <string name="summary_delete_video">&gt;Trajno izbrišem izbrane videozapise?</string>
+     <string name="summary_delete_video">&gt;Trajno izbrišem izbrane videoposnetke?</string>
      <string name="summary_optimizer">"Ta funkcija bere imena nepoznanih datotek za pododobitev Cheetah Mobile online baze podatkov in zahteva ID vaše naprave."</string>
      <string name="text_optimizer">Preberi imena map</string>
      <string name="there_is_no">Vse izgleda dobro, vrnite se kasneje</string>
